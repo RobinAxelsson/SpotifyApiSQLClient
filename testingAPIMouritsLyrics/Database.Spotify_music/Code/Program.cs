@@ -445,7 +445,7 @@ namespace musicAPI
             }
             filePath = GetUniqueFilePath(filePath);
             File.WriteAllText(filePath, response.Content);
-            FilePaths.Add(filePath);            
+            FilePaths.Add(filePath);
         }
         public static JObject PingSpotify(string pingUri = @"https://api.spotify.com/v1/me")
         {
@@ -454,7 +454,7 @@ namespace musicAPI
             string jSonResponse = String.Empty;
             string OAuth = string.Empty;
 
-            while(errorCode != null)
+            while (errorCode != null)
             {
                 var client = new RestClient { BaseUrl = new Uri(pingUri) };
                 var request = new RestRequest(Method.GET);
@@ -503,8 +503,8 @@ namespace musicAPI
             {
                 jObj = null;
             }
-            
-           
+
+
 
             Console.WriteLine();
             File.WriteAllText(@"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\Database.Spotify_music\hidden.csv", SpotifyAuth);
@@ -534,7 +534,7 @@ namespace musicAPI
             var request = new RestRequest(Method.GET);
             request.AddHeader("Authorization", SpotifyAuth);
             IRestResponse response = client.Execute(request);
-            if(SpotifyRequestLog(response, title, out string log) != null)
+            if (SpotifyRequestLog(response, title, out string log) != null)
             {
                 Console.WriteLine(log);
                 return null;
@@ -630,7 +630,7 @@ namespace musicAPI
                 {
                     continue;
                 }
-                
+
                 foreach (JObject track in tracks)
                 {
                     JsonReader jReader = track.CreateReader();
@@ -668,59 +668,59 @@ namespace musicAPI
         }
         public static List<string> GetSpotifyTypeIDsFromJSonFile(string filePath, SpotifyType spotifytype)
         {
-                var IDs = new List<string>();
+            var IDs = new List<string>();
 
-                string Json = File.ReadAllText(filePath);
-                JObject jObj = JObject.Parse(Json);
-                JsonReader jReader = jObj.CreateReader();
+            string Json = File.ReadAllText(filePath);
+            JObject jObj = JObject.Parse(Json);
+            JsonReader jReader = jObj.CreateReader();
 
-                switch (spotifytype)
-                {
-                    case SpotifyType.artists:
-                        while (jReader.Read())
+            switch (spotifytype)
+            {
+                case SpotifyType.artists:
+                    while (jReader.Read())
+                    {
+                        if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
                         {
-                            if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
+                            string uri = jObj.SelectToken(jReader.Path).ToString();
+                            var uriArray = uri.Split(':');
+                            if (uriArray[1] == "artist")
                             {
-                                string uri = jObj.SelectToken(jReader.Path).ToString();
-                                var uriArray = uri.Split(':');
-                                if (uriArray[1] == "artist")
-                                {
-                                    IDs.Add(uriArray[^1]);
-                                }
+                                IDs.Add(uriArray[^1]);
                             }
                         }
-                        break;
-                    case SpotifyType.albums:
-                        while (jReader.Read())
+                    }
+                    break;
+                case SpotifyType.albums:
+                    while (jReader.Read())
+                    {
+                        if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
                         {
-                            if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
+                            string uri = jObj.SelectToken(jReader.Path).ToString();
+                            var uriArray = uri.Split(':');
+                            if (uriArray[1] == "album")
                             {
-                                string uri = jObj.SelectToken(jReader.Path).ToString();
-                                var uriArray = uri.Split(':');
-                                if (uriArray[1] == "album")
-                                {
-                                    IDs.Add(uriArray[^1]);
-                                }
+                                IDs.Add(uriArray[^1]);
                             }
                         }
-                        break;
-                    case SpotifyType.tracks:
-                        while (jReader.Read())
+                    }
+                    break;
+                case SpotifyType.tracks:
+                    while (jReader.Read())
+                    {
+                        if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
                         {
-                            if (jReader != null && jReader.Path.Split('.')[^1] == "uri")
+                            string uri = jObj.SelectToken(jReader.Path).ToString();
+                            var uriArray = uri.Split(':');
+                            if (uriArray[1] == "track")
                             {
-                                string uri = jObj.SelectToken(jReader.Path).ToString();
-                                var uriArray = uri.Split(':');
-                                if (uriArray[1] == "track")
-                                {
-                                    IDs.Add(uriArray[^1]);
-                                }
+                                IDs.Add(uriArray[^1]);
                             }
                         }
-                        break;
-                    default:
-                        return null;
-                }
+                    }
+                    break;
+                default:
+                    return null;
+            }
             IDs = IDs.Distinct().ToList();
             return IDs;
         }
@@ -857,7 +857,7 @@ namespace musicAPI
             var localTrackIDs = GetSpotifyLocalTableIDs(DB_Term.Spotify_Track);
             var localAlbumIDs = GetSpotifyLocalTableIDs(DB_Term.Spotify_Album);
 
-            string report = $"JSon/Sql IDs {DateTime.Now.Date}:{_b}ArtistIDs: {countArtist}/{localArtistIDs.Count}{_b}TrackIDs: {countTrack}/{localTrackIDs.Count}{_b}AlbumIDs: {countAlbum}/{localAlbumIDs.Count}{_b}";       
+            string report = $"JSon/Sql IDs {DateTime.Now.Date}:{_b}ArtistIDs: {countArtist}/{localArtistIDs.Count}{_b}TrackIDs: {countTrack}/{localTrackIDs.Count}{_b}AlbumIDs: {countAlbum}/{localAlbumIDs.Count}{_b}";
 
             var newArtistIDs = artistString.Split(_b).ToList().Except(localArtistIDs).ToList();
             var newTrackIDs = trackString.Split(_b).ToList().Except(localTrackIDs).ToList();
@@ -886,11 +886,11 @@ namespace musicAPI
             string newToSqlArtistsPath = Path.Combine(outputDirectoryUri, "NewToSqlArtistIDs.csv");
             string newToSqlTracksPath = Path.Combine(outputDirectoryUri, "NewToSqlTrackIDs.csv");
             string newToSqlAlbumsPath = Path.Combine(outputDirectoryUri, "NewToSqlAlbumIDs.csv");
-            
+
             string localArtistsPath = Path.Combine(outputDirectoryUri, "SqlArtistIDs.csv");
             string localTracksPath = Path.Combine(outputDirectoryUri, "SqlTrackIDs.csv");
             string localAlbumsPath = Path.Combine(outputDirectoryUri, "SqlAlbumIDs.csv");
-            
+
             Console.WriteLine(report);
 
             File.WriteAllLines(newToSqlArtistsPath, newArtistIDs);
@@ -944,7 +944,7 @@ namespace musicAPI
 
             PingSpotify();
             SpotifyListRequest(@$"{title}.AlbumRequest", albumRequestDirectory, newAlbumIDs.ToArray(), SpotifyType.albums, out requestPaths);
-            
+
             var newTrackIDs = GetSpotifyTypeIDsFromJSonDirectory(albumRequestDirectory, inputDirectory + @"\Album-TrackIDs.csv", SpotifyType.tracks);
             newTrackIDs = newTrackIDs.Except(trackIDs).ToList();
 
@@ -1034,14 +1034,14 @@ namespace musicAPI
                 {
                     for (int i = 0; i < 2; i++)
                     {
-                    if (i == 0)
-                    {
-                        shift = "CAST(N'07:00:00' AS Time), CAST(N'16:00:00' AS Time)";
-                    }
-                    else
-                    {
-                        shift = "CAST(N'10:00:00' AS Time), CAST(N'19:00:00' AS Time)";
-                    }
+                        if (i == 0)
+                        {
+                            shift = "CAST(N'07:00:00' AS Time), CAST(N'16:00:00' AS Time)";
+                        }
+                        else
+                        {
+                            shift = "CAST(N'10:00:00' AS Time), CAST(N'19:00:00' AS Time)";
+                        }
                         shifts.Add($"INSERT[dbo].[Shift]([StoreID], [Day], [StartTime], [EndTime]) VALUES({StoreID}, {day}, {shift})");
                     }
                 }
@@ -1063,13 +1063,11 @@ namespace musicAPI
         static void Main(string[] args)
         {
             CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
-            
+
             FullSpotifySequence("37i9dQZF1DX186v583rmzp", "I love my 90s Hip-Hop");
             //var tuplePaths = SpotifyBounceRequest(@"5fATvNzsBQIzch7C6n22ss", "Svenska hiphoplåtar");
 
         }
-
-        
         public static void ManipulateTestJson(string filePath)
         {
             var jObject = JObject.Parse(File.ReadAllText(filePath));
@@ -1099,8 +1097,6 @@ namespace musicAPI
 
             DataConversion.JsonSerialize(jObject, filePath);
         }
-
-
         public static string SpotifyRequestLog(IRestResponse response, string title, out string log, bool AppendToTextFile = true, string filePath = @"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\Database.Spotify_music\Spotify.Request.LOG.txt")
         {
             var _b = Environment.NewLine;
@@ -1125,7 +1121,7 @@ namespace musicAPI
             }
             log += $"Response Uri: {response.ResponseUri.AbsoluteUri}" + _b + _b;
 
-            if(AppendToTextFile) File.AppendAllText(filePath, log);
+            if (AppendToTextFile) File.AppendAllText(filePath, log);
 
             if (response.IsSuccessful)
             {
@@ -1136,63 +1132,7 @@ namespace musicAPI
                 return errorCode;
             }
         }
-        public class Person
-        {
-            public string Name { get; set; }
-            public string LastName { get; set; }
-            private static List<string> Names = new List<string> { "anne", "anne", "carl", "Lisa", "carl", "Bengt", "Ivar", "Bertil", "Lisa" };
-            private static List<string> LastNames = new List<string> { "Lise", "Lise", "Adamsson", "Aronsson", "Bentsson", "Bengtsson", "Al", "Ek", "Kuk" };
-            public Person(string name, string lastName)
-            {
-                Name = name;
-                LastName = lastName;
-            }
-            public static List<Person> CreatePeople()
-            {
-                var people = new List<Person>();
-                for (int i = 0; i < Names.Count; i++)
-                {
-                    people.Add(new Person(Names[i], LastNames[i]));
-                }
-                return people;
-            }
-            public static void QueryTests()
-            {
-                var people = CreatePeople();
-                var people2 = CreatePeople();
-                var people3 = CreatePeople();
-                var list = new List<List<Person>> { people, people2, people3 };
-                var query = from crowd in list
-                            from peps in crowd
-                            orderby peps.LastName
-                            where peps.LastName.Length < 5 & peps.LastName.Length >2
-                            select peps;
-                            //group peps by $"{peps.Name} {peps.LastName}" into dist
-                            //select new Person(dist.Key.Split(' ')[0], dist.Key.Split(' ')[1]);
 
-                //query.ToList().ForEach(x => Console.WriteLine(x));
-                query.ToList().ForEach(x => Console.WriteLine(x.Name + " " + x.LastName));
-
-
-                //people = people.Distinct().ToList();
-                //var people2 = people.GroupBy(x => x.Name + " " + x.LastName).Select(x => x.First()).OrderBy(x => x.LastName).ToList();
-                //var people3 = people2.Take(3).ToList();
-                //people2 = people2.Except(people3).ToList();
-
-                //people.ForEach(x => Console.WriteLine(x.Name + " " + x.LastName));
-                //Console.WriteLine();
-                //people2.ForEach(x => Console.WriteLine(x.Name + " " + x.LastName));
-                //Console.WriteLine();
-                //people3.ForEach(x => Console.WriteLine(x.Name + " " + x.LastName));
-                //Console.WriteLine();
-                //var test = typeof(Person).GetProperties();
-                //foreach (var p in test)
-                //{
-                //    Console.WriteLine(p.Name);
-                //}
-                //Console.ReadLine();
-            }
-        }
         public enum SpotifyType
         {
             artists,
