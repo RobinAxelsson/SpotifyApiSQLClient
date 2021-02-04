@@ -1,0 +1,3781 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1kyDI05lYZzpa3jr7ZorlJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1kyDI05lYZzpa3jr7ZorlJ",
+      "id" : "1kyDI05lYZzpa3jr7ZorlJ",
+      "name" : "Ty Nitty",
+      "type" : "artist",
+      "uri" : "spotify:artist:1kyDI05lYZzpa3jr7ZorlJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Wf0eeUkR6rRAre6L7H7jW",
+      "id" : "5Wf0eeUkR6rRAre6L7H7jW",
+      "name" : "Gambino",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Wf0eeUkR6rRAre6L7H7jW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 209093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900419"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2AeVg9Nf6dAHweYkDowG1J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2AeVg9Nf6dAHweYkDowG1J",
+    "id" : "2AeVg9Nf6dAHweYkDowG1J",
+    "is_local" : false,
+    "name" : "Animal Instinct (feat. Ty Nitty & Gambino)",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9dfb2c079950824543175179bfbc3727dbd0af84?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2AeVg9Nf6dAHweYkDowG1J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 257506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4gXFUhyu4fzOgmV28BiJ9s"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4gXFUhyu4fzOgmV28BiJ9s",
+    "id" : "4gXFUhyu4fzOgmV28BiJ9s",
+    "is_local" : false,
+    "name" : "Drop A Gem On 'Em",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/62098412fb2a01ef29229075fb8bf2da655d7a5a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4gXFUhyu4fzOgmV28BiJ9s"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 215066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900421"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5VPuqbBhQwMoHxtsB2zNBS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5VPuqbBhQwMoHxtsB2zNBS",
+    "id" : "5VPuqbBhQwMoHxtsB2zNBS",
+    "is_local" : false,
+    "name" : "Bloodsport",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d72df4336fef16f307215356a38ad7af83f77828?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5VPuqbBhQwMoHxtsB2zNBS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 211573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04EXj02fD1HNyxnINHrolZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04EXj02fD1HNyxnINHrolZ",
+    "id" : "04EXj02fD1HNyxnINHrolZ",
+    "is_local" : false,
+    "name" : "Extortion (feat. Method Man)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d37d79ade9fea40db2404bcbc4e74d5636e7d653?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:04EXj02fD1HNyxnINHrolZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 224600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900437"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Rna4d5yCrp81qVEsMcLCB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Rna4d5yCrp81qVEsMcLCB",
+    "id" : "0Rna4d5yCrp81qVEsMcLCB",
+    "is_local" : false,
+    "name" : "More Trife Life",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6534ba31d3691b1b098160523f9a196f93ef65c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0Rna4d5yCrp81qVEsMcLCB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bwxkkA3AAwyymVwXjxz0F",
+      "id" : "4bwxkkA3AAwyymVwXjxz0F",
+      "name" : "Big Noyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bwxkkA3AAwyymVwXjxz0F"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 302933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900438"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/37Pu8DAHAtReIr4SAqqDxV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/37Pu8DAHAtReIr4SAqqDxV",
+    "id" : "37Pu8DAHAtReIr4SAqqDxV",
+    "is_local" : false,
+    "name" : "Man Down (feat. Big Noyd)",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/34aef1d9781837d447ab6a15b5b30aedd1daa05e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:37Pu8DAHAtReIr4SAqqDxV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4S4S9QYvfHKMUiZZcswlj5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4S4S9QYvfHKMUiZZcswlj5",
+      "id" : "4S4S9QYvfHKMUiZZcswlj5",
+      "name" : "General G",
+      "type" : "artist",
+      "uri" : "spotify:artist:4S4S9QYvfHKMUiZZcswlj5"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 291200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900439"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3m3YvonrenIZwq0Ao2j6X6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3m3YvonrenIZwq0Ao2j6X6",
+    "id" : "3m3YvonrenIZwq0Ao2j6X6",
+    "is_local" : false,
+    "name" : "Can't Get Enough Of It (feat. General G)",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed713fba0687e0bf2fb1283a35547a76409e877d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3m3YvonrenIZwq0Ao2j6X6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/74OjFwZ9aNEvkAoZbTGpRz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/74OjFwZ9aNEvkAoZbTGpRz",
+      "id" : "74OjFwZ9aNEvkAoZbTGpRz",
+      "name" : "Lex Diamonds",
+      "type" : "artist",
+      "uri" : "spotify:artist:74OjFwZ9aNEvkAoZbTGpRz"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 267306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4rNgi3S72MkzACBka4GBuP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4rNgi3S72MkzACBka4GBuP",
+    "id" : "4rNgi3S72MkzACBka4GBuP",
+    "is_local" : false,
+    "name" : "Nighttime Vultures (feat. Lex Diamonds)",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/18ad9f917c5882ed0459e701fa3107b97efe07bb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4rNgi3S72MkzACBka4GBuP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 316293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900441"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7AY6pRA83f75jEbP6YvUbJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7AY6pRA83f75jEbP6YvUbJ",
+    "id" : "7AY6pRA83f75jEbP6YvUbJ",
+    "is_local" : false,
+    "name" : "G.O.D., Pt. III",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2153ff629ed06909501c1fe79de3db5a803b0422?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7AY6pRA83f75jEbP6YvUbJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 235866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900442"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rml6qiRfF0wdnDKoosR3j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rml6qiRfF0wdnDKoosR3j",
+    "id" : "1rml6qiRfF0wdnDKoosR3j",
+    "is_local" : false,
+    "name" : "Get Dealt With",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a09f711a09eb3ec58ba2cc7f6255ca5cb1eefd4a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1rml6qiRfF0wdnDKoosR3j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900443"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RjU7UhRICmdFPKxCucLgq",
+    "id" : "1RjU7UhRICmdFPKxCucLgq",
+    "is_local" : false,
+    "name" : "Hell on Earth (Front Lines)",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cda3595c9e67e18934df13dc1f0c3e793f895038?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1RjU7UhRICmdFPKxCucLgq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bwxkkA3AAwyymVwXjxz0F",
+      "id" : "4bwxkkA3AAwyymVwXjxz0F",
+      "name" : "Big Noyd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bwxkkA3AAwyymVwXjxz0F"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900444"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6iZoxNIqQ9oPvMYuE8rhQj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6iZoxNIqQ9oPvMYuE8rhQj",
+    "id" : "6iZoxNIqQ9oPvMYuE8rhQj",
+    "is_local" : false,
+    "name" : "Give It Up Fast (feat. Nas & Big Noyd)",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4cb7156759f7e071aeb7f591d588584a98a75fcd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6iZoxNIqQ9oPvMYuE8rhQj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 250506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900445"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xHfOu46nMOfVxLyEb4DyR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xHfOu46nMOfVxLyEb4DyR",
+    "id" : "6xHfOu46nMOfVxLyEb4DyR",
+    "is_local" : false,
+    "name" : "Still Shinin'",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/41f887f97d0fca208e24c2925e9cc7c5f491057c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:6xHfOu46nMOfVxLyEb4DyR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+        "id" : "6O2zJ0tId7g07yzHtX0yap",
+        "name" : "Mobb Deep",
+        "type" : "artist",
+        "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6BWf3fxsgSDhES4Cm4oyy5",
+      "id" : "6BWf3fxsgSDhES4Cm4oyy5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aaade0aecd37f7c8311e11c7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aaade0aecd37f7c8311e11c7",
+        "width" : 64
+      } ],
+      "name" : "Hell On Earth",
+      "release_date" : "1996-11-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:6BWf3fxsgSDhES4Cm4oyy5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900446"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rkCDpUKvtVToCIwwPetBZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rkCDpUKvtVToCIwwPetBZ",
+    "id" : "1rkCDpUKvtVToCIwwPetBZ",
+    "is_local" : false,
+    "name" : "Apostle's Warning",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2cacda5899957b025252353e3e2ca4be785518ca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1rkCDpUKvtVToCIwwPetBZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 65666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000396"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4VsfbEqJlnEehamzqwkNSd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4VsfbEqJlnEehamzqwkNSd",
+    "id" : "4VsfbEqJlnEehamzqwkNSd",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a91f56f88de23344aa11f7828e7259616ae5c8cc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4VsfbEqJlnEehamzqwkNSd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hWr3AjjKOCVmWcwvuT4uM",
+      "id" : "2hWr3AjjKOCVmWcwvuT4uM",
+      "name" : "Angie Stone",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hWr3AjjKOCVmWcwvuT4uM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 298266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2iYM4CGkoTfsLw9MI5K1AC",
+    "id" : "2iYM4CGkoTfsLw9MI5K1AC",
+    "is_local" : false,
+    "name" : "Keep Your Worries",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/61f43b7b0ef4edb05ad6d4c5c049c6bd942a53d7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2iYM4CGkoTfsLw9MI5K1AC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KNqYrivNgVCHBssEUSu5B",
+      "id" : "5KNqYrivNgVCHBssEUSu5B",
+      "name" : "Donell Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KNqYrivNgVCHBssEUSu5B"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 286893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000397"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2bKj5rkfHyJwse2R9k6f6p"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2bKj5rkfHyJwse2R9k6f6p",
+    "id" : "2bKj5rkfHyJwse2R9k6f6p",
+    "is_local" : false,
+    "name" : "Hustlin' Daze",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8757e72c60bb178066a6003844105e16cf860e29?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2bKj5rkfHyJwse2R9k6f6p"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ylR3zwA0zaapAu94fktwa",
+      "id" : "4ylR3zwA0zaapAu94fktwa",
+      "name" : "Macy Gray",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ylR3zwA0zaapAu94fktwa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000280"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1aChz5EiVPmFTm6YETgrvM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1aChz5EiVPmFTm6YETgrvM",
+    "id" : "1aChz5EiVPmFTm6YETgrvM",
+    "is_local" : false,
+    "name" : "All I Said (feat. Macy Gray)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ccf4b18025067fed9451d08f8412082518efe038?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1aChz5EiVPmFTm6YETgrvM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jCbgl5Dmt3uOh8WRQfpPs",
+      "id" : "4jCbgl5Dmt3uOh8WRQfpPs",
+      "name" : "Bilal",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jCbgl5Dmt3uOh8WRQfpPs"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 280893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000281"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1eFuyVf8I77imXbGAtJfvF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1eFuyVf8I77imXbGAtJfvF",
+    "id" : "1eFuyVf8I77imXbGAtJfvF",
+    "is_local" : false,
+    "name" : "Certified feat. Bilal",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a6d445be42a7e26807d00d548b7d734cdab46edf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1eFuyVf8I77imXbGAtJfvF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+      "id" : "7IfculRW2WXyzNQ8djX8WX",
+      "name" : "Erykah Badu",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000400"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6zSe7ZKNjb6Zl5AP78y5QN",
+    "id" : "6zSe7ZKNjb6Zl5AP78y5QN",
+    "is_local" : false,
+    "name" : "Plenty",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b3d737d6e6dfc7ccf638b94816862ea23f554f9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6zSe7ZKNjb6Zl5AP78y5QN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 228000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI20000215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1O33k1KpiGW1hxc45zAeLi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1O33k1KpiGW1hxc45zAeLi",
+    "id" : "1O33k1KpiGW1hxc45zAeLi",
+    "is_local" : false,
+    "name" : "Lift Your Fist",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bf5f434c4bfdf6d4e3464d667df4d334a62e16f9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1O33k1KpiGW1hxc45zAeLi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 246240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000282"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DmGkf29AvcuAV7PyqfBEC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DmGkf29AvcuAV7PyqfBEC",
+    "id" : "2DmGkf29AvcuAV7PyqfBEC",
+    "is_local" : false,
+    "name" : "Guidance",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e412c58ea5a07c2e471aa9c299faf7893e1c3d83?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2DmGkf29AvcuAV7PyqfBEC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 51666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI20000403"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7wq2kQhhaFhgHIuNwOEvHr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7wq2kQhhaFhgHIuNwOEvHr",
+    "id" : "7wq2kQhhaFhgHIuNwOEvHr",
+    "is_local" : false,
+    "name" : "Interlude (Brooklyn Skit)",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a1feb4a64124217b1062ba8fcdf222ef8a0a759?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7wq2kQhhaFhgHIuNwOEvHr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0IF46mUS8NXjgHabxk2MCM",
+      "id" : "0IF46mUS8NXjgHabxk2MCM",
+      "name" : "Kelis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0IF46mUS8NXjgHabxk2MCM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 232426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI20000404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2WGsWEJgG4En1766rrg9Lf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2WGsWEJgG4En1766rrg9Lf",
+    "id" : "2WGsWEJgG4En1766rrg9Lf",
+    "is_local" : false,
+    "name" : "Supa Love",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37c68268774653e07f975f0d31f3243a5858187e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2WGsWEJgG4En1766rrg9Lf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JyWXPbkqI5ZJa3gwqVa0c",
+      "id" : "2JyWXPbkqI5ZJa3gwqVa0c",
+      "name" : "Craig David",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JyWXPbkqI5ZJa3gwqVa0c"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI20000405"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Pve1HHWkQEqqWfT2XBjya"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Pve1HHWkQEqqWfT2XBjya",
+    "id" : "6Pve1HHWkQEqqWfT2XBjya",
+    "is_local" : false,
+    "name" : "No More",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b464097c7f7c023ac7ebed54bfd9dd269b92b1ec?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6Pve1HHWkQEqqWfT2XBjya"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/30G8Jlp6mw5RTEEzMndIZL",
+      "id" : "30G8Jlp6mw5RTEEzMndIZL",
+      "name" : "Big Shug",
+      "type" : "artist",
+      "uri" : "spotify:artist:30G8Jlp6mw5RTEEzMndIZL"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000408"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wXRYSEEl76V4xlOfPtuj9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wXRYSEEl76V4xlOfPtuj9",
+    "id" : "1wXRYSEEl76V4xlOfPtuj9",
+    "is_local" : false,
+    "name" : "Where's My Ladies? (feat. Big Shug)",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c392867e5cbe5341fc556dd9c478c507b5a49887?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1wXRYSEEl76V4xlOfPtuj9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+      "id" : "3IKV7o6WPphDB7cCWXaG3E",
+      "name" : "Isaac Hayes",
+      "type" : "artist",
+      "uri" : "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 213466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000406"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ke7DyZkk4bIhIt55hQWdw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ke7DyZkk4bIhIt55hQWdw",
+    "id" : "1ke7DyZkk4bIhIt55hQWdw",
+    "is_local" : false,
+    "name" : "Night Vision (feat. Isaac Hayes)",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a3954a79cefba634c9dbc4d9967a20e9187837c9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1ke7DyZkk4bIhIt55hQWdw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55PeYSS1g71a1BZLeIr0Sd",
+      "id" : "55PeYSS1g71a1BZLeIr0Sd",
+      "name" : "Les Nubians",
+      "type" : "artist",
+      "uri" : "spotify:artist:55PeYSS1g71a1BZLeIr0Sd"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000410"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61P4VdcyqgibYH3RWUjav0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61P4VdcyqgibYH3RWUjav0",
+    "id" : "61P4VdcyqgibYH3RWUjav0",
+    "is_local" : false,
+    "name" : "Who's There? (feat. Les Nubians)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e7ee1532ffa046e1382dd4108e65b0cd585d76c2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:61P4VdcyqgibYH3RWUjav0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qPUDOVD0aYR2lmCilnscs",
+      "id" : "0qPUDOVD0aYR2lmCilnscs",
+      "name" : "Junior Reid",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qPUDOVD0aYR2lmCilnscs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5iZtFD0NNn12nDw89RPnSO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5iZtFD0NNn12nDw89RPnSO",
+      "id" : "5iZtFD0NNn12nDw89RPnSO",
+      "name" : "Prodigal Son",
+      "type" : "artist",
+      "uri" : "spotify:artist:5iZtFD0NNn12nDw89RPnSO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 320733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20000412"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Sry1Uw5kWqnRry1lFAjux"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Sry1Uw5kWqnRry1lFAjux",
+    "id" : "6Sry1Uw5kWqnRry1lFAjux",
+    "is_local" : false,
+    "name" : "Mashin' Up Da World (feat. Junior Reid & Prodigal Son)",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7dc48fc84c4aae4959861aaa41a9a531556b19cb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6Sry1Uw5kWqnRry1lFAjux"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+        "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+        "name" : "Guru's Jazzmatazz",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vcwoK9Ya3Ev7fuckDAfIl",
+      "id" : "0vcwoK9Ya3Ev7fuckDAfIl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27329f78a4b85ca5abc839b96e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0229f78a4b85ca5abc839b96e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485129f78a4b85ca5abc839b96e2",
+        "width" : 64
+      } ],
+      "name" : "Streetsoul",
+      "release_date" : "2000-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0vcwoK9Ya3Ev7fuckDAfIl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4BhiV5JTPRMplzEuBPK6Ie",
+      "id" : "4BhiV5JTPRMplzEuBPK6Ie",
+      "name" : "Guru's Jazzmatazz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4BhiV5JTPRMplzEuBPK6Ie"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+      "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+      "name" : "Herbie Hancock",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 254240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI20000283"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/38VVLSTWrWEBZ3SUXvmhw5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/38VVLSTWrWEBZ3SUXvmhw5",
+    "id" : "38VVLSTWrWEBZ3SUXvmhw5",
+    "is_local" : false,
+    "name" : "Timeless",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/01e2d081f51cb425e3a44c5347262f4d31af40ad?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:38VVLSTWrWEBZ3SUXvmhw5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 82200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB40580655"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6D6NpiAvRu9pGvm9HGdsVg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6D6NpiAvRu9pGvm9HGdsVg",
+    "id" : "6D6NpiAvRu9pGvm9HGdsVg",
+    "is_local" : false,
+    "name" : "No Way Out (Intro)",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/35151897f44ec819833b89ea4398daad97f39540?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6D6NpiAvRu9pGvm9HGdsVg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 296266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2B9aYvlGefTIgKLhM6ia8t",
+    "id" : "2B9aYvlGefTIgKLhM6ia8t",
+    "is_local" : false,
+    "name" : "Victory (feat. The Notorious B.I.G. & Busta Rhymes)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5c37fcfbca354044727001e5a359c538c0516725?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2B9aYvlGefTIgKLhM6ia8t"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 325933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580659"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1siDRjAa8MdxNoCHTiiQ7B"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1siDRjAa8MdxNoCHTiiQ7B",
+    "id" : "1siDRjAa8MdxNoCHTiiQ7B",
+    "is_local" : false,
+    "name" : "Been Around the World (feat. The Notorious B.I.G. & Mase)",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8803f9fcdf16dd5c4eb8bfe071c78848dba30e8c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1siDRjAa8MdxNoCHTiiQ7B"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 295293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580661"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hHhnpAQOV3Y7jZmB7fPOL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hHhnpAQOV3Y7jZmB7fPOL",
+    "id" : "0hHhnpAQOV3Y7jZmB7fPOL",
+    "is_local" : false,
+    "name" : "What You Gonna Do?",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ebc605647c7e3a851cec9af7a00da2af9ecdd3ea?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0hHhnpAQOV3Y7jZmB7fPOL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+      "id" : "5tth2a3v0sWwV1C7bApBdX",
+      "name" : "Lil' Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580663"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6OfhPvR04FaqUwDFyEV9Iy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6OfhPvR04FaqUwDFyEV9Iy",
+    "id" : "6OfhPvR04FaqUwDFyEV9Iy",
+    "is_local" : false,
+    "name" : "Don't Stop What You're Doing (feat. Lil' Kim)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f693e297e736b0839cb7e111a108f8f91ddc53a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6OfhPvR04FaqUwDFyEV9Iy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6I6t21SFbxZ7RbQgD5dN7U",
+      "id" : "6I6t21SFbxZ7RbQgD5dN7U",
+      "name" : "Carl Thomas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6I6t21SFbxZ7RbQgD5dN7U"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 179440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580665"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/67T4TDuBV0T9BPr3ZdKVvO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/67T4TDuBV0T9BPr3ZdKVvO",
+    "id" : "67T4TDuBV0T9BPr3ZdKVvO",
+    "is_local" : false,
+    "name" : "If I Should Die Tonight (Interlude) (feat. Carl Thomas)",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/99a6689d5e2c88af202e5440ad0392ae23d6329e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:67T4TDuBV0T9BPr3ZdKVvO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 366293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580667"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2IyZnAUcHXN0Im1au4GrRw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2IyZnAUcHXN0Im1au4GrRw",
+    "id" : "2IyZnAUcHXN0Im1au4GrRw",
+    "is_local" : false,
+    "name" : "Do You Know?",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e2d120c600f1ab8719670c4552650f55c5268ee9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2IyZnAUcHXN0Im1au4GrRw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 325733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580669"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1z1btB03Hw1gYwSLPlt67z",
+    "id" : "1z1btB03Hw1gYwSLPlt67z",
+    "is_local" : false,
+    "name" : "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7edd85aa68cf71123cd46fe67026705fe3f8fb23?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1z1btB03Hw1gYwSLPlt67z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1QPZhx0asYTBxD5RDqfU49",
+      "id" : "1QPZhx0asYTBxD5RDqfU49",
+      "name" : "Black Rob",
+      "type" : "artist",
+      "uri" : "spotify:artist:1QPZhx0asYTBxD5RDqfU49"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580671"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6cGsNSge4DwjqfAF3mdCRI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6cGsNSge4DwjqfAF3mdCRI",
+    "id" : "6cGsNSge4DwjqfAF3mdCRI",
+    "is_local" : false,
+    "name" : "I Love You Baby (feat. Black Rob)",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bd6a0a5f243e3dc52a42b930c43d556dbbcf1685?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6cGsNSge4DwjqfAF3mdCRI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+      "id" : "5tth2a3v0sWwV1C7bApBdX",
+      "name" : "Lil' Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580673"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3GMR3hyv8BccozoebVMve3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3GMR3hyv8BccozoebVMve3",
+    "id" : "3GMR3hyv8BccozoebVMve3",
+    "is_local" : false,
+    "name" : "It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad55e7deaca06bb4092b1073afac18b4be9a4776?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:3GMR3hyv8BccozoebVMve3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580675"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3eI247Tmsm9IBgpOFjTCU5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3eI247Tmsm9IBgpOFjTCU5",
+    "id" : "3eI247Tmsm9IBgpOFjTCU5",
+    "is_local" : false,
+    "name" : "Pain",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a02b6f70ea6e58959069856b5bfe4df1d6fcb0b2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3eI247Tmsm9IBgpOFjTCU5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7r8RF1tN2A4CiGEplkp1oP",
+      "id" : "7r8RF1tN2A4CiGEplkp1oP",
+      "name" : "Ginuwine",
+      "type" : "artist",
+      "uri" : "spotify:artist:7r8RF1tN2A4CiGEplkp1oP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vbY3hOaCAhC7VjucswgdS",
+      "id" : "6vbY3hOaCAhC7VjucswgdS",
+      "name" : "Twista",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vbY3hOaCAhC7VjucswgdS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6I6t21SFbxZ7RbQgD5dN7U",
+      "id" : "6I6t21SFbxZ7RbQgD5dN7U",
+      "name" : "Carl Thomas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6I6t21SFbxZ7RbQgD5dN7U"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580677"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1GrsaUtbZIx6n92ghY4IsF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1GrsaUtbZIx6n92ghY4IsF",
+    "id" : "1GrsaUtbZIx6n92ghY4IsF",
+    "is_local" : false,
+    "name" : "Is This the End? (feat. Ginuwine, Twista & Carl Thomas)",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/333749674ca307429711d3145700a9f44f45ecb8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1GrsaUtbZIx6n92ghY4IsF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580679"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1LE3Zfkk4BK64dJ2QvrTsW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1LE3Zfkk4BK64dJ2QvrTsW",
+    "id" : "1LE3Zfkk4BK64dJ2QvrTsW",
+    "is_local" : false,
+    "name" : "I Got the Power (feat. The Lox)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/953fec64f2673ee8a0c53364c45e0e9ff2116c0d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1LE3Zfkk4BK64dJ2QvrTsW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wvlC6NwleHt1iRD6d5X2C",
+      "id" : "1wvlC6NwleHt1iRD6d5X2C",
+      "name" : "Foxy Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wvlC6NwleHt1iRD6d5X2C"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 397266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580681"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jHktLmGSSazZG96u2Erre"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jHktLmGSSazZG96u2Erre",
+    "id" : "6jHktLmGSSazZG96u2Erre",
+    "is_local" : false,
+    "name" : "Friend (feat. Foxy Brown)",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef2e1ae969c5fca0f8e67ee24776cde2cbca1d1c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:6jHktLmGSSazZG96u2Erre"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580683"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gKFRJUUZmfW098SM4Qk2L"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gKFRJUUZmfW098SM4Qk2L",
+    "id" : "1gKFRJUUZmfW098SM4Qk2L",
+    "is_local" : false,
+    "name" : "Senorita",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2063858decb6396d628d4f46a18d9d0620186091?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1gKFRJUUZmfW098SM4Qk2L"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5NDMothbpdpq2xHqSjrrWn",
+      "id" : "5NDMothbpdpq2xHqSjrrWn",
+      "name" : "Faith Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:5NDMothbpdpq2xHqSjrrWn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7urq0VfqxEYEEiZUkebXT4",
+      "id" : "7urq0VfqxEYEEiZUkebXT4",
+      "name" : "112",
+      "type" : "artist",
+      "uri" : "spotify:artist:7urq0VfqxEYEEiZUkebXT4"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 344813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580685"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5fii2C2yImI0KvaAZZDKrC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5fii2C2yImI0KvaAZZDKrC",
+    "id" : "5fii2C2yImI0KvaAZZDKrC",
+    "is_local" : false,
+    "name" : "I'll Be Missing You (feat. Faith Evans & 112)",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/37ceb6d86511275a3be9fc5a4696d4c4ff2f363e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5fii2C2yImI0KvaAZZDKrC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4OGaOZUHLhSeiicZB909aL",
+      "id" : "4OGaOZUHLhSeiicZB909aL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736af4bd99c9a95bbc008c53c4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026af4bd99c9a95bbc008c53c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516af4bd99c9a95bbc008c53c4",
+        "width" : 64
+      } ],
+      "name" : "No Way Out",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4OGaOZUHLhSeiicZB909aL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB40580687"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1EM23A621Z0QyTlWKu7T1l",
+    "id" : "1EM23A621Z0QyTlWKu7T1l",
+    "is_local" : false,
+    "name" : "Can't Nobody Hold Me Down (feat. Mase)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a2fe440a415bb798c09d2c1de66f3e3743674323?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:1EM23A621Z0QyTlWKu7T1l"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+        "id" : "5spEJXLwD1sKUdC2bnOHPg",
+        "name" : "Bone Thugs-N-Harmony",
+        "type" : "artist",
+        "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r25XjxAmLMOhOWoV6X8N9",
+      "id" : "3r25XjxAmLMOhOWoV6X8N9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49f4677129d4b8b9d9f50ac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49f4677129d4b8b9d9f50ac",
+        "width" : 64
+      } ],
+      "name" : "E. 1999 Eternal",
+      "release_date" : "1995-07-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3r25XjxAmLMOhOWoV6X8N9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+      "id" : "5spEJXLwD1sKUdC2bnOHPg",
+      "name" : "Bone Thugs-N-Harmony",
+      "type" : "artist",
+      "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US23S9528101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3oM9eYF9LVUX4fPi1tsECG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3oM9eYF9LVUX4fPi1tsECG",
+    "id" : "3oM9eYF9LVUX4fPi1tsECG",
+    "is_local" : false,
+    "name" : "Da Introduction",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fa5cf90e074eea3091198e71a87f90d1ffaa2f6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3oM9eYF9LVUX4fPi1tsECG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+        "id" : "5spEJXLwD1sKUdC2bnOHPg",
+        "name" : "Bone Thugs-N-Harmony",
+        "type" : "artist",
+        "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r25XjxAmLMOhOWoV6X8N9",
+      "id" : "3r25XjxAmLMOhOWoV6X8N9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49f4677129d4b8b9d9f50ac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49f4677129d4b8b9d9f50ac",
+        "width" : 64
+      } ],
+      "name" : "E. 1999 Eternal",
+      "release_date" : "1995-07-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3r25XjxAmLMOhOWoV6X8N9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+      "id" : "5spEJXLwD1sKUdC2bnOHPg",
+      "name" : "Bone Thugs-N-Harmony",
+      "type" : "artist",
+      "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US23S9528102"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55RXcZ0Mpwt97vj2Angnn1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55RXcZ0Mpwt97vj2Angnn1",
+    "id" : "55RXcZ0Mpwt97vj2Angnn1",
+    "is_local" : false,
+    "name" : "East 1999",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d03c50bcbb5385e0e018075992a04fb36dac38c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:55RXcZ0Mpwt97vj2Angnn1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+        "id" : "5spEJXLwD1sKUdC2bnOHPg",
+        "name" : "Bone Thugs-N-Harmony",
+        "type" : "artist",
+        "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3r25XjxAmLMOhOWoV6X8N9",
+      "id" : "3r25XjxAmLMOhOWoV6X8N9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49f4677129d4b8b9d9f50ac",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49f4677129d4b8b9d9f50ac",
+        "width" : 64
+      } ],
+      "name" : "E. 1999 Eternal",
+      "release_date" : "1995-07-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3r25XjxAmLMOhOWoV6X8N9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5spEJXLwD1sKUdC2bnOHPg",
+      "id" : "5spEJXLwD1sKUdC2bnOHPg",
+      "name" : "Bone Thugs-N-Harmony",
+      "type" : "artist",
+      "uri" : "spotify:artist:5spEJXLwD1sKUdC2bnOHPg"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243920,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "US23S9528103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/14Klge4yTyUeFEn9yvBUjh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/14Klge4yTyUeFEn9yvBUjh",
+    "id" : "14Klge4yTyUeFEn9yvBUjh",
+    "is_local" : false,
+    "name" : "\"Eternal\"",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/016b25a5d2a2ad692d74b01afa2504dfc5a19b73?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:14Klge4yTyUeFEn9yvBUjh"
+  } ]
+}

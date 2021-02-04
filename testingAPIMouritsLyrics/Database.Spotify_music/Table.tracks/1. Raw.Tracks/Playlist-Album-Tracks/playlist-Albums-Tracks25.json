@@ -1,0 +1,1335 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vE6mttRTBXRe9rKghyr1l",
+      "id" : "0vE6mttRTBXRe9rKghyr1l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029bef45ee387f274ea3198c55",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519bef45ee387f274ea3198c55",
+        "width" : 64
+      } ],
+      "name" : "The Slim Shady LP",
+      "release_date" : "1999-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:0vE6mttRTBXRe9rKghyr1l"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DVipHzYsPlIoA0DW8Gmns",
+      "id" : "6DVipHzYsPlIoA0DW8Gmns",
+      "name" : "Royce Da 5'9\"",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DVipHzYsPlIoA0DW8Gmns"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19902074"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7kQ0miyexmevMwUDqTomIN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7kQ0miyexmevMwUDqTomIN",
+    "id" : "7kQ0miyexmevMwUDqTomIN",
+    "is_local" : false,
+    "name" : "Bad Meets Evil",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/370d3ab15bc4756e55b78d095cd0c497233b66ad?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:7kQ0miyexmevMwUDqTomIN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0vE6mttRTBXRe9rKghyr1l",
+      "id" : "0vE6mttRTBXRe9rKghyr1l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029bef45ee387f274ea3198c55",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519bef45ee387f274ea3198c55",
+        "width" : 64
+      } ],
+      "name" : "The Slim Shady LP",
+      "release_date" : "1999-02-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:0vE6mttRTBXRe9rKghyr1l"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 252706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19902075"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1F4lm7DxvpNvXfT3cGuJCb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1F4lm7DxvpNvXfT3cGuJCb",
+    "id" : "1F4lm7DxvpNvXfT3cGuJCb",
+    "is_local" : false,
+    "name" : "Still Don't Give A Fuck",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c388311248726d280df958af4019747be852a22b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:1F4lm7DxvpNvXfT3cGuJCb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 119533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2JzfZbmEisqNrY5IYeVGIg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2JzfZbmEisqNrY5IYeVGIg",
+    "id" : "2JzfZbmEisqNrY5IYeVGIg",
+    "is_local" : false,
+    "name" : "The Chronic - Intro",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/23b4e87549c5381ba83394ca06e68c9f07f06d99?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2JzfZbmEisqNrY5IYeVGIg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403557"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04fX3oTJm5Zucg3Uf9aix0",
+    "id" : "04fX3oTJm5Zucg3Uf9aix0",
+    "is_local" : false,
+    "name" : "Fuck Wit Dre Day (And Everybody's Celebratin')",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0e1332f0f7e512e97e463cd01910554edcba4111?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:04fX3oTJm5Zucg3Uf9aix0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05cqfWVtssCo3KVcqEAYG3",
+      "id" : "05cqfWVtssCo3KVcqEAYG3",
+      "name" : "Jewell",
+      "type" : "artist",
+      "uri" : "spotify:artist:05cqfWVtssCo3KVcqEAYG3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403558"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pjDKRg5WddCDSlG5PXcKy",
+    "id" : "1pjDKRg5WddCDSlG5PXcKy",
+    "is_local" : false,
+    "name" : "Let Me Ride",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e3174a6610cc4ff52a1fcade0109d06c031935b1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1pjDKRg5WddCDSlG5PXcKy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MQIo1YqabUyOjWBzRqPSA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MQIo1YqabUyOjWBzRqPSA",
+      "id" : "5MQIo1YqabUyOjWBzRqPSA",
+      "name" : "Daz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MQIo1YqabUyOjWBzRqPSA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3drEaBmm4UexsiDfz5AzXV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3drEaBmm4UexsiDfz5AzXV",
+      "id" : "3drEaBmm4UexsiDfz5AzXV",
+      "name" : "RBX",
+      "type" : "artist",
+      "uri" : "spotify:artist:3drEaBmm4UexsiDfz5AzXV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273080,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403559"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/31T4fGwUSnDvZzhZeFLAaD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/31T4fGwUSnDvZzhZeFLAaD",
+    "id" : "31T4fGwUSnDvZzhZeFLAaD",
+    "is_local" : false,
+    "name" : "The Day The Niggaz Took Over",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d49974ab7e30e5f3ebf15a3f28eb094bfe906ede?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:31T4fGwUSnDvZzhZeFLAaD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403560"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4YtoipFgf4k0AfD17ZfD5X",
+    "id" : "4YtoipFgf4k0AfD17ZfD5X",
+    "is_local" : false,
+    "name" : "Nuthin' But A \"G\" Thang",
+    "popularity" : 74,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f2a52b543998d039d8742c4739cb7c4c2e14a11a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4YtoipFgf4k0AfD17ZfD5X"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 306320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403561"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2L3H4mnx5bDMR695a0U0Hu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2L3H4mnx5bDMR695a0U0Hu",
+    "id" : "2L3H4mnx5bDMR695a0U0Hu",
+    "is_local" : false,
+    "name" : "Deeez Nuuuts",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b744d89db00e665db5b1ec02cafb9a5d7d7f25b4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2L3H4mnx5bDMR695a0U0Hu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5MQIo1YqabUyOjWBzRqPSA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5MQIo1YqabUyOjWBzRqPSA",
+      "id" : "5MQIo1YqabUyOjWBzRqPSA",
+      "name" : "Daz",
+      "type" : "artist",
+      "uri" : "spotify:artist:5MQIo1YqabUyOjWBzRqPSA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 329066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403562"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24Pwekj2yVugAIMAyoLfrJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24Pwekj2yVugAIMAyoLfrJ",
+    "id" : "24Pwekj2yVugAIMAyoLfrJ",
+    "is_local" : false,
+    "name" : "Lil' Ghetto Boy",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0d5257dfaae16ae2097d340990d9503976526d38?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:24Pwekj2yVugAIMAyoLfrJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 232373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403563"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DVR4Tx2HnNAKpRTCqrPjp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DVR4Tx2HnNAKpRTCqrPjp",
+    "id" : "3DVR4Tx2HnNAKpRTCqrPjp",
+    "is_local" : false,
+    "name" : "A Nigga Witta Gun",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f53cc5cba1ed33d5dea98bb2c9be49edf45e9d76?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3DVR4Tx2HnNAKpRTCqrPjp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 228946,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403564"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/200Z8XpLuLAPIr8H7Wo1Ej"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/200Z8XpLuLAPIr8H7Wo1Ej",
+    "id" : "200Z8XpLuLAPIr8H7Wo1Ej",
+    "is_local" : false,
+    "name" : "Rat-Tat-Tat-Tat",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ace385dd56cb94a14caa048bacfedea6b638e2f1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:200Z8XpLuLAPIr8H7Wo1Ej"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 173266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403565"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Udf2GCNQFcoDJepfq5Rwi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Udf2GCNQFcoDJepfq5Rwi",
+    "id" : "0Udf2GCNQFcoDJepfq5Rwi",
+    "is_local" : false,
+    "name" : "The $20 Sack Pyramid",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2c41d8b670c322250373683549b51918d1b16830?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0Udf2GCNQFcoDJepfq5Rwi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 244426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403566"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ORvF65hpTAoWY2ekP56ta"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ORvF65hpTAoWY2ekP56ta",
+    "id" : "2ORvF65hpTAoWY2ekP56ta",
+    "is_local" : false,
+    "name" : "Lyrical Gangbang",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b213a823fc11f7068e444c3ed13c1951cfefa25e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2ORvF65hpTAoWY2ekP56ta"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 164186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403567"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4xwYyO9owAs4o2ruN9nbS8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4xwYyO9owAs4o2ruN9nbS8",
+    "id" : "4xwYyO9owAs4o2ruN9nbS8",
+    "is_local" : false,
+    "name" : "High Powered",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/700f780580a774130513d17f87c19ed2d32b8e27?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:4xwYyO9owAs4o2ruN9nbS8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05cqfWVtssCo3KVcqEAYG3",
+      "id" : "05cqfWVtssCo3KVcqEAYG3",
+      "name" : "Jewell",
+      "type" : "artist",
+      "uri" : "spotify:artist:05cqfWVtssCo3KVcqEAYG3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TJVsWPUaJxBxWfVZQEt2x",
+      "id" : "5TJVsWPUaJxBxWfVZQEt2x",
+      "name" : "Rage",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TJVsWPUaJxBxWfVZQEt2x"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6sWvzvemzlq31GEACQdyoE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6sWvzvemzlq31GEACQdyoE",
+      "id" : "6sWvzvemzlq31GEACQdyoE",
+      "name" : "Kevin Lewis",
+      "type" : "artist",
+      "uri" : "spotify:artist:6sWvzvemzlq31GEACQdyoE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 64000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403568"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LxGbG31P2GBGMXMPfUb2Q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LxGbG31P2GBGMXMPfUb2Q",
+    "id" : "5LxGbG31P2GBGMXMPfUb2Q",
+    "is_local" : false,
+    "name" : "The Doctor's Office",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0e76a6ef69b9d52db8b0523cfc7ea74dbcfc3a67?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5LxGbG31P2GBGMXMPfUb2Q"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Cjv4IeE8gjeiXvwRjwSHb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Cjv4IeE8gjeiXvwRjwSHb",
+      "id" : "3Cjv4IeE8gjeiXvwRjwSHb",
+      "name" : "Bushwick Bill",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Cjv4IeE8gjeiXvwRjwSHb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 287120,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403569"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4zRnEeAA8w9VWZ2DKYPJ3b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4zRnEeAA8w9VWZ2DKYPJ3b",
+    "id" : "4zRnEeAA8w9VWZ2DKYPJ3b",
+    "is_local" : false,
+    "name" : "Stranded On Death Row",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d637211c27143a9f04443e4e07343276be5a1dcd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4zRnEeAA8w9VWZ2DKYPJ3b"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 276906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403570"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24osEZsCESWgs5WTzj0P98"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24osEZsCESWgs5WTzj0P98",
+    "id" : "24osEZsCESWgs5WTzj0P98",
+    "is_local" : false,
+    "name" : "The Roach - The Chronic Outro",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3737bb1160ac9a685173972e5e22d2435e17e8f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:24osEZsCESWgs5WTzj0P98"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+      "id" : "6vdFSyhPjL4dZFkgRtToXH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+        "width" : 64
+      } ],
+      "name" : "The Chronic",
+      "release_date" : "1992-12-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 288560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403571"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0JSCZdPOPR7d8Mfi09tIxU",
+    "id" : "0JSCZdPOPR7d8Mfi09tIxU",
+    "is_local" : false,
+    "name" : "Bitches Ain't Shit",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15155f5587c81b5ed1483454e985e2d8ea5342a0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0JSCZdPOPR7d8Mfi09tIxU"
+  } ]
+}

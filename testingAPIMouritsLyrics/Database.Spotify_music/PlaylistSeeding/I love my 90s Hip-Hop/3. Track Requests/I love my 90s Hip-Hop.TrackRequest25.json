@@ -1,0 +1,3790 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 130426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710041"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4vZQ6kpAd01WVlAWFJzFJD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4vZQ6kpAd01WVlAWFJzFJD",
+    "id" : "4vZQ6kpAd01WVlAWFJzFJD",
+    "is_local" : false,
+    "name" : "Come To Da Party",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed8d16b8aa277a3109f654319ba4ec6293549446?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4vZQ6kpAd01WVlAWFJzFJD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710042"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jLsxwOBcWGdMxVisJIhsL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jLsxwOBcWGdMxVisJIhsL",
+    "id" : "6jLsxwOBcWGdMxVisJIhsL",
+    "is_local" : false,
+    "name" : "Can't Stop, Won't Stop",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2c328a45fe259b5bf58b3ca165984cf8e24a09f1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6jLsxwOBcWGdMxVisJIhsL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 136533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710043"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3C1a2wHkSrZvD5Odc3mdmb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3C1a2wHkSrZvD5Odc3mdmb",
+    "id" : "3C1a2wHkSrZvD5Odc3mdmb",
+    "is_local" : false,
+    "name" : "Over Ya Head",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4125b472957558bc876e484681b7b9f4fad4eb29?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:3C1a2wHkSrZvD5Odc3mdmb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7gFMYqMVGWf2EXCrOdtORJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7gFMYqMVGWf2EXCrOdtORJ",
+    "id" : "7gFMYqMVGWf2EXCrOdtORJ",
+    "is_local" : false,
+    "name" : "Just To Prove A Point",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6a77fa24d19ef9ff1f624584827b26b75da22756?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:7gFMYqMVGWf2EXCrOdtORJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 107066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UelCxNywSTY6KhEdBXA0t"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UelCxNywSTY6KhEdBXA0t",
+    "id" : "1UelCxNywSTY6KhEdBXA0t",
+    "is_local" : false,
+    "name" : "4th Quarter -- Free Throws",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66542dabca90badd0fafcf20d488649e0e600a0b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:1UelCxNywSTY6KhEdBXA0t"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6g9rKb1kKlh0M0mS34kCSS",
+      "id" : "6g9rKb1kKlh0M0mS34kCSS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cb150b710d79a319f00dff64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cb150b710d79a319f00dff64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cb150b710d79a319f00dff64",
+        "width" : 64
+      } ],
+      "name" : "I Got Next",
+      "release_date" : "1997-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:6g9rKb1kKlh0M0mS34kCSS"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09A1kpyGbzYAPb8cEvee64",
+      "id" : "09A1kpyGbzYAPb8cEvee64",
+      "name" : "Stevie J",
+      "type" : "artist",
+      "uri" : "spotify:artist:09A1kpyGbzYAPb8cEvee64"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 303533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19710046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0codLUeIGymsXd0XPaf7rp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0codLUeIGymsXd0XPaf7rp",
+    "id" : "0codLUeIGymsXd0XPaf7rp",
+    "is_local" : false,
+    "name" : "Step Into A World (Rapture's Delight) - Remix",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/982f62693f3f61828e9fa8d6c557f831a2547b69?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:0codLUeIGymsXd0XPaf7rp"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 303893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4MncXoGSpckBoQEnDTUGyE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4MncXoGSpckBoQEnDTUGyE",
+    "id" : "4MncXoGSpckBoQEnDTUGyE",
+    "is_local" : false,
+    "name" : "Robbin' Hood (Cause It Ain't All Good)",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d59d8d26262a655e07c5b31b9eb419d9300b0c85?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4MncXoGSpckBoQEnDTUGyE"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/481xLo1eWj5B6muCJUebw9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/481xLo1eWj5B6muCJUebw9",
+      "id" : "481xLo1eWj5B6muCJUebw9",
+      "name" : "Laylaw",
+      "type" : "artist",
+      "uri" : "spotify:artist:481xLo1eWj5B6muCJUebw9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YZaPIH0nwZQPhp0GGlu2c"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YZaPIH0nwZQPhp0GGlu2c",
+      "id" : "0YZaPIH0nwZQPhp0GGlu2c",
+      "name" : "D'Maq",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YZaPIH0nwZQPhp0GGlu2c"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0VR2yYYtY5hqPKJPgEmMLF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0VR2yYYtY5hqPKJPgEmMLF",
+    "id" : "0VR2yYYtY5hqPKJPgEmMLF",
+    "is_local" : false,
+    "name" : "What Can I Do? - Westside Remix",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fcf80fa1d89dfa24c4ae76112c77f4a8979be447?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0VR2yYYtY5hqPKJPgEmMLF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 203560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0lHXPQi1S0499sVPzQbBxs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0lHXPQi1S0499sVPzQbBxs",
+    "id" : "0lHXPQi1S0499sVPzQbBxs",
+    "is_local" : false,
+    "name" : "24 Wit An L",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4eb9617e30855ca6d32f3f168b4622ded3294374?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0lHXPQi1S0499sVPzQbBxs"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450025"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mgArBKDzgcwyjjMiaZ4M1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mgArBKDzgcwyjjMiaZ4M1",
+    "id" : "0mgArBKDzgcwyjjMiaZ4M1",
+    "is_local" : false,
+    "name" : "You Know How We Do It - Remix",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3217e41324c1cded196778c66465773166872268?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0mgArBKDzgcwyjjMiaZ4M1"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450032"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4cFjDM9hpKHSgezSqkSwyy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4cFjDM9hpKHSgezSqkSwyy",
+    "id" : "4cFjDM9hpKHSgezSqkSwyy",
+    "is_local" : false,
+    "name" : "2 N The Morning",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9f7233608bdb041dbc9cbe5a64d6550847fe2155?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4cFjDM9hpKHSgezSqkSwyy"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0auu2itHTxEdAMRHvx7CyG",
+      "id" : "0auu2itHTxEdAMRHvx7CyG",
+      "name" : "Das EFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0auu2itHTxEdAMRHvx7CyG"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NGT0Td7H4Is1qrlDQJxma",
+    "id" : "3NGT0Td7H4Is1qrlDQJxma",
+    "is_local" : false,
+    "name" : "Check Yo Self - Remix",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3ea1297b45aabedd4bb0f0a855aa80eeb0e38bcc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3NGT0Td7H4Is1qrlDQJxma"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450033"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0N6spqqA4HlIu817IuaHTL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0N6spqqA4HlIu817IuaHTL",
+    "id" : "0N6spqqA4HlIu817IuaHTL",
+    "is_local" : false,
+    "name" : "You Don't Wanna Fuck Wit These",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dd19c92e2d67a022c6a64ca921c17e49aaee4085?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0N6spqqA4HlIu817IuaHTL"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 318173,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450026"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0BdzGT7GWW2YIWEtwQ723c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0BdzGT7GWW2YIWEtwQ723c",
+    "id" : "0BdzGT7GWW2YIWEtwQ723c",
+    "is_local" : false,
+    "name" : "Lil Ass Gee - Remix",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/686e71a595c7cd3cbb6cec798b98d1938a1cb1bf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0BdzGT7GWW2YIWEtwQ723c"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 284733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450034"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34QMTr3STR8zYYf2v9yaJ9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34QMTr3STR8zYYf2v9yaJ9",
+    "id" : "34QMTr3STR8zYYf2v9yaJ9",
+    "is_local" : false,
+    "name" : "My Skin Is My Sin",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1ad8a84c47cc3583728effbe9b0aa8100b6f0027?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:34QMTr3STR8zYYf2v9yaJ9"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 267893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0MkJmjfBR4JZg0LcadprWL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0MkJmjfBR4JZg0LcadprWL",
+    "id" : "0MkJmjfBR4JZg0LcadprWL",
+    "is_local" : false,
+    "name" : "It Was A Good Day - Remix",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ffdccc0deb7e7492016b98e89e67539196d83c2b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0MkJmjfBR4JZg0LcadprWL"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 248240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jHjSgnjFZb76vIyizixHu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jHjSgnjFZb76vIyizixHu",
+    "id" : "6jHjSgnjFZb76vIyizixHu",
+    "is_local" : false,
+    "name" : "U Ain't Gonna Take My Life",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9092ab26d471bfbd864e63fd41f04abc1a37b143?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6jHjSgnjFZb76vIyizixHu"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/05uoNDVVm2B78vIihwCI2b"
+      },
+      "href" : "https://api.spotify.com/v1/artists/05uoNDVVm2B78vIihwCI2b",
+      "id" : "05uoNDVVm2B78vIihwCI2b",
+      "name" : "Q D III",
+      "type" : "artist",
+      "uri" : "spotify:artist:05uoNDVVm2B78vIihwCI2b"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450035"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58b40azHfEll92nBvWd0E9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58b40azHfEll92nBvWd0E9",
+    "id" : "58b40azHfEll92nBvWd0E9",
+    "is_local" : false,
+    "name" : "When I Get To Heaven - Remix",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3feb4634f1ca818d2f1fb8540323daa7c8c8ba41?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:58b40azHfEll92nBvWd0E9"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WMLlQk7xLN9A40jipd3xo",
+      "id" : "5WMLlQk7xLN9A40jipd3xo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396c799b97ad8d8be2d315dd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296c799b97ad8d8be2d315dd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196c799b97ad8d8be2d315dd0",
+        "width" : 64
+      } ],
+      "name" : "Bootlegs And B-Sides",
+      "release_date" : "1994-11-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5WMLlQk7xLN9A40jipd3xo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dwtGOqUQMjsUqMsHQ4axf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dwtGOqUQMjsUqMsHQ4axf",
+      "id" : "5dwtGOqUQMjsUqMsHQ4axf",
+      "name" : "Glenn Aure",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dwtGOqUQMjsUqMsHQ4axf"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 291466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7x2xhfx2WvddKRtq9O3Agd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7x2xhfx2WvddKRtq9O3Agd",
+    "id" : "7x2xhfx2WvddKRtq9O3Agd",
+    "is_local" : false,
+    "name" : "D'voidofpopniggafiedmegamix",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9df70a2120a218d7eb887367ae27171d46798d72?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7x2xhfx2WvddKRtq9O3Agd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 81346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400034"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3m6QBXYn5sksXumScgG6Oa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3m6QBXYn5sksXumScgG6Oa",
+    "id" : "3m6QBXYn5sksXumScgG6Oa",
+    "is_local" : false,
+    "name" : "No Way Out (Intro) - 2014 Remaster",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/209ef9e8fecf053776cc9c3ba8be2410dcb2adb7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3m6QBXYn5sksXumScgG6Oa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400035"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1EctHhZDW0pygVVvsociEY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1EctHhZDW0pygVVvsociEY",
+    "id" : "1EctHhZDW0pygVVvsociEY",
+    "is_local" : false,
+    "name" : "Victory (feat. The Notorious B.I.G. & Busta Rhymes) - 2014 Remaster",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2f59eac9e20ba764dd1784a5699e0ea55bd98725?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1EctHhZDW0pygVVvsociEY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 315066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xsbBYgKasUkHM0IHUebzr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xsbBYgKasUkHM0IHUebzr",
+    "id" : "0xsbBYgKasUkHM0IHUebzr",
+    "is_local" : false,
+    "name" : "Been Around the World (feat. The Notorious B.I.G. & Mase) - 2014 Remaster",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1c0f4b527f18c4be3a841a251e050f666aa09c96?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0xsbBYgKasUkHM0IHUebzr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+      "id" : "5tth2a3v0sWwV1C7bApBdX",
+      "name" : "Lil' Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 306893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400038"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/10TQIFZHov6BZwKwgDEzxT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/10TQIFZHov6BZwKwgDEzxT",
+    "id" : "10TQIFZHov6BZwKwgDEzxT",
+    "is_local" : false,
+    "name" : "Don't Stop What You're Doing (feat. Lil' Kim) - 2014 Remaster",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6dce27db8c2f091f1cf898931d7ef7869a5d1f0d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:10TQIFZHov6BZwKwgDEzxT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6I6t21SFbxZ7RbQgD5dN7U",
+      "id" : "6I6t21SFbxZ7RbQgD5dN7U",
+      "name" : "Carl Thomas",
+      "type" : "artist",
+      "uri" : "spotify:artist:6I6t21SFbxZ7RbQgD5dN7U"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 177880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400039"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4q3mhvS9QaU2jzOZnngEZW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4q3mhvS9QaU2jzOZnngEZW",
+    "id" : "4q3mhvS9QaU2jzOZnngEZW",
+    "is_local" : false,
+    "name" : "If I Should Die Tonight (Interlude) [feat. Carl Thomas] - 2014 Remaster",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d24a847f2193f0aac4966124d7515a64821b34e7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4q3mhvS9QaU2jzOZnngEZW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 385240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75ijQcDywivrpJfYECvp9i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75ijQcDywivrpJfYECvp9i",
+    "id" : "75ijQcDywivrpJfYECvp9i",
+    "is_local" : false,
+    "name" : "Do You Know? - 2014 Remaster",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/03b0178566a3bfc4c79f37580223ffde8c56fdc4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:75ijQcDywivrpJfYECvp9i"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1QPZhx0asYTBxD5RDqfU49",
+      "id" : "1QPZhx0asYTBxD5RDqfU49",
+      "name" : "Black Rob",
+      "type" : "artist",
+      "uri" : "spotify:artist:1QPZhx0asYTBxD5RDqfU49"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400042"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ByzpE3PwqyGkSnqY5T2L7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ByzpE3PwqyGkSnqY5T2L7",
+    "id" : "5ByzpE3PwqyGkSnqY5T2L7",
+    "is_local" : false,
+    "name" : "I Love You Baby (feat. Black Rob)",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/50ac61c910c5c801e080623ee548ee7deeb2a06e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5ByzpE3PwqyGkSnqY5T2L7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+      "id" : "5tth2a3v0sWwV1C7bApBdX",
+      "name" : "Lil' Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 277826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400043"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3vARsYdtTbkeru9eo98I6G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3vARsYdtTbkeru9eo98I6G",
+    "id" : "3vARsYdtTbkeru9eo98I6G",
+    "is_local" : false,
+    "name" : "It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & the Lox) - Remix; 2014 Remaster",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5787400c3f126d7f5a95fbab3cb86342eef4f1f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3vARsYdtTbkeru9eo98I6G"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZcrNmdDDfCKCuUxJBRY49"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZcrNmdDDfCKCuUxJBRY49",
+    "id" : "1ZcrNmdDDfCKCuUxJBRY49",
+    "is_local" : false,
+    "name" : "Pain - 2014 Remaster",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa3c7b6444a882d7d3ebe63ff6fd705874e34019?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1ZcrNmdDDfCKCuUxJBRY49"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0u0ZjCQlB1agIVrtbwVYaV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0u0ZjCQlB1agIVrtbwVYaV",
+    "id" : "0u0ZjCQlB1agIVrtbwVYaV",
+    "is_local" : false,
+    "name" : "I Got the Power (feat. The Lox) - 2014 Remaster",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/57bd3938326c8bbe28519b5e208c41b101b27978?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0u0ZjCQlB1agIVrtbwVYaV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 271080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400048"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7IW8veZDukwP74MQgs3YcG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7IW8veZDukwP74MQgs3YcG",
+    "id" : "7IW8veZDukwP74MQgs3YcG",
+    "is_local" : false,
+    "name" : "Senorita - 2014 Remaster",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/32d3ea9c033c763e2bf2156c1f9e4ec139b18a6f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:7IW8veZDukwP74MQgs3YcG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7urq0VfqxEYEEiZUkebXT4",
+      "id" : "7urq0VfqxEYEEiZUkebXT4",
+      "name" : "112",
+      "type" : "artist",
+      "uri" : "spotify:artist:7urq0VfqxEYEEiZUkebXT4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5NDMothbpdpq2xHqSjrrWn",
+      "id" : "5NDMothbpdpq2xHqSjrrWn",
+      "name" : "Faith Evans",
+      "type" : "artist",
+      "uri" : "spotify:artist:5NDMothbpdpq2xHqSjrrWn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 306560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1yy2DlSDtEt90d54rPDPXz",
+    "id" : "1yy2DlSDtEt90d54rPDPXz",
+    "is_local" : false,
+    "name" : "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/af96792ff706c7b87a5f192b2d82b54317543a06?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1yy2DlSDtEt90d54rPDPXz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id" : "59wfkuBoNyhDMQGCljbUbA",
+        "name" : "Diddy",
+        "type" : "artist",
+        "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/33hEDxsIVGf7R6wRdZBQOw",
+      "id" : "33hEDxsIVGf7R6wRdZBQOw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023680b3a63917a1523b5a8ac9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513680b3a63917a1523b5a8ac9",
+        "width" : 64
+      } ],
+      "name" : "No Way Out (2014 Remaster)",
+      "release_date" : "1997",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:33hEDxsIVGf7R6wRdZBQOw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 307906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USBB41400050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3rqAaYZFQyDvovyaFgWie4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3rqAaYZFQyDvovyaFgWie4",
+    "id" : "3rqAaYZFQyDvovyaFgWie4",
+    "is_local" : false,
+    "name" : "Can't Nobody Hold Me Down (feat. Mase) - 2014 Remaster",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15cadf4123b68126fc07927a99861d84465e6ff2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:3rqAaYZFQyDvovyaFgWie4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 104133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502507"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6g1naQRMQAQliHZT5w7CbW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6g1naQRMQAQliHZT5w7CbW",
+    "id" : "6g1naQRMQAQliHZT5w7CbW",
+    "is_local" : false,
+    "name" : "Striving for Perfection",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4c66a30209d7be4f3ddf51a327bf3e03c8eb696c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6g1naQRMQAQliHZT5w7CbW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0G070wUUUBptmqGEKAAUVx",
+      "id" : "0G070wUUUBptmqGEKAAUVx",
+      "name" : "U-God",
+      "type" : "artist",
+      "uri" : "spotify:artist:0G070wUUUBptmqGEKAAUVx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502494"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6f9gbZYbAqHq2rK1ZjZruf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6f9gbZYbAqHq2rK1ZjZruf",
+    "id" : "6f9gbZYbAqHq2rK1ZjZruf",
+    "is_local" : false,
+    "name" : "Knuckleheadz (feat. Ghostface Killah & U-God)",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10f9f342e4e69ca51f82e2b5a57c226e6b3b05cc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6f9gbZYbAqHq2rK1ZjZruf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502495"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2q5rCHN0AciKiTZ864rNP4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2q5rCHN0AciKiTZ864rNP4",
+    "id" : "2q5rCHN0AciKiTZ864rNP4",
+    "is_local" : false,
+    "name" : "Knowledge God",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/995ecbac74054c43023e9849fdb02f9bd8ad044b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2q5rCHN0AciKiTZ864rNP4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 227106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1MHtFj66arQ3vD4ZNK1RYy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1MHtFj66arQ3vD4ZNK1RYy",
+    "id" : "1MHtFj66arQ3vD4ZNK1RYy",
+    "is_local" : false,
+    "name" : "Criminology (feat. Ghostface Killah)",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2f4281eba681e766c8d8e71af9e73d1401a51c0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1MHtFj66arQ3vD4ZNK1RYy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 282666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502496"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SL3GG9Bs7m1s9aqhjCeIa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SL3GG9Bs7m1s9aqhjCeIa",
+    "id" : "3SL3GG9Bs7m1s9aqhjCeIa",
+    "is_local" : false,
+    "name" : "Incarcerated Scarfaces",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b5c5341212f11230b9a47b90859367cd299814d5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3SL3GG9Bs7m1s9aqhjCeIa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60FWCT8KxqA3J5Ny7g6ZXT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60FWCT8KxqA3J5Ny7g6ZXT",
+      "id" : "60FWCT8KxqA3J5Ny7g6ZXT",
+      "name" : "Blue Raspberry",
+      "type" : "artist",
+      "uri" : "spotify:artist:60FWCT8KxqA3J5Ny7g6ZXT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 362760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502497"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6j4BQbCcDPvj70Gsi8z6vu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6j4BQbCcDPvj70Gsi8z6vu",
+    "id" : "6j4BQbCcDPvj70Gsi8z6vu",
+    "is_local" : false,
+    "name" : "Rainy Dayz (feat. Ghostface Killah & Blue Raspberry)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/286c3d9e65e11a81da1bd7df6760f8d0b41560ea?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6j4BQbCcDPvj70Gsi8z6vu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OBbOrkD4geIjOLrICN3wO",
+      "id" : "4OBbOrkD4geIjOLrICN3wO",
+      "name" : "Inspectah Deck",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OBbOrkD4geIjOLrICN3wO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aqGFEAHF3O0yMVci78BdR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aqGFEAHF3O0yMVci78BdR",
+      "id" : "7aqGFEAHF3O0yMVci78BdR",
+      "name" : "GZA (Genius)",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aqGFEAHF3O0yMVci78BdR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502498"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6eAIynPK19mHRypXB26o6X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6eAIynPK19mHRypXB26o6X",
+    "id" : "6eAIynPK19mHRypXB26o6X",
+    "is_local" : false,
+    "name" : "Guillotine (Swordz) (feat. Ghostface Killah, Inspectah Deck & GZA (Genius))",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c094a200697c01433fb1c13f55533ec400ec10f8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6eAIynPK19mHRypXB26o6X"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 338160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502499"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3CV7o0XDHvzOLJb8mw5RHY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3CV7o0XDHvzOLJb8mw5RHY",
+    "id" : "3CV7o0XDHvzOLJb8mw5RHY",
+    "is_local" : false,
+    "name" : "Can It Be All So Simple (Remix) (feat. Ghostface Killah)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb6f040539ac65b9828d4c1944c5319de9f7cc73?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3CV7o0XDHvzOLJb8mw5RHY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 98773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502508"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4VQgto1SexEZqljrZza5Gf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4VQgto1SexEZqljrZza5Gf",
+    "id" : "4VQgto1SexEZqljrZza5Gf",
+    "is_local" : false,
+    "name" : "Shark Niggas (Biters)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2ebda24d65450b2383e07402e7daad6cef90c9c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4VQgto1SexEZqljrZza5Gf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0t9k7cJ3QB6VEiHg5wBHBK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0t9k7cJ3QB6VEiHg5wBHBK",
+      "id" : "0t9k7cJ3QB6VEiHg5wBHBK",
+      "name" : "Raekwon feat. Ghostface Killah & Cappadonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:0t9k7cJ3QB6VEiHg5wBHBK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 218133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502500"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CS6VF70zr8j0lrSGNdXlu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CS6VF70zr8j0lrSGNdXlu",
+    "id" : "2CS6VF70zr8j0lrSGNdXlu",
+    "is_local" : false,
+    "name" : "Ice Water",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be3bb949462201938dd3de15afd38ac2e008c3b8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2CS6VF70zr8j0lrSGNdXlu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ME1RawvWt3qOJnYnxVqeh",
+      "id" : "0ME1RawvWt3qOJnYnxVqeh",
+      "name" : "Masta Killa",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ME1RawvWt3qOJnYnxVqeh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 320960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19501751"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0qldEqAtjaDY4Gfl4h8oS7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0qldEqAtjaDY4Gfl4h8oS7",
+    "id" : "0qldEqAtjaDY4Gfl4h8oS7",
+    "is_local" : false,
+    "name" : "Glaciers of Ice (feat. Ghostface Killah & Masta Killa)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e50a007ea291427a40adc9c7b192c7eed10fbf6f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0qldEqAtjaDY4Gfl4h8oS7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 211840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kHPOtD1fo3kWOgcs0oisd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kHPOtD1fo3kWOgcs0oisd",
+    "id" : "1kHPOtD1fo3kWOgcs0oisd",
+    "is_local" : false,
+    "name" : "Verbal Intercourse (feat. Ghostface Killah & Nas)",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/194c4d30aff02c532b35ace0f11ec18674e32144?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1kHPOtD1fo3kWOgcs0oisd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 158400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7yH4QEmh7eU7tODApxrHHd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7yH4QEmh7eU7tODApxrHHd",
+    "id" : "7yH4QEmh7eU7tODApxrHHd",
+    "is_local" : false,
+    "name" : "Wisdom Body (feat. Ghostface Killah)",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de220b3f7de46178715ce52c0a35d9e9fe8b7f66?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7yH4QEmh7eU7tODApxrHHd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 193400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/72RfIiWDCJqiZEC6ZNCSdB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/72RfIiWDCJqiZEC6ZNCSdB",
+    "id" : "72RfIiWDCJqiZEC6ZNCSdB",
+    "is_local" : false,
+    "name" : "Spot Rusherz",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d1033f6914c328661e095dd9596767a56e7307ac?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:72RfIiWDCJqiZEC6ZNCSdB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dS5xeDefwoUNasLUHnCjR",
+      "id" : "0dS5xeDefwoUNasLUHnCjR",
+      "name" : "Cappadonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dS5xeDefwoUNasLUHnCjR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502504"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6SI4JD7iyQ0rrudhCNtMv0",
+    "id" : "6SI4JD7iyQ0rrudhCNtMv0",
+    "is_local" : false,
+    "name" : "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ccdc7b9141911228e4f0794e90e95616739db7e0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6SI4JD7iyQ0rrudhCNtMv0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4iCwCMnqsNZ6atvRiADgtn",
+      "id" : "4iCwCMnqsNZ6atvRiADgtn",
+      "name" : "RZA",
+      "type" : "artist",
+      "uri" : "spotify:artist:4iCwCMnqsNZ6atvRiADgtn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ME1RawvWt3qOJnYnxVqeh",
+      "id" : "0ME1RawvWt3qOJnYnxVqeh",
+      "name" : "Masta Killa",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ME1RawvWt3qOJnYnxVqeh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 339506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502505"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5byHoShbSK7mxLGDQZli9J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5byHoShbSK7mxLGDQZli9J",
+    "id" : "5byHoShbSK7mxLGDQZli9J",
+    "is_local" : false,
+    "name" : "Wu-Gambinos (feat. Ghostface Killah, Method Man, RZA & Masta Killa) - Hidden Chambers Remix",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/18c8dbf1726e907c25ab3ac6f91918e9950e68d3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5byHoShbSK7mxLGDQZli9J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+      "id" : "6FD0unjzGQhX3b6eMccMJe",
+      "name" : "Ghostface Killah",
+      "type" : "artist",
+      "uri" : "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 296533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19401049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Ik0sIJPSV8aau7fDS9jJv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Ik0sIJPSV8aau7fDS9jJv",
+    "id" : "2Ik0sIJPSV8aau7fDS9jJv",
+    "is_local" : false,
+    "name" : "Heaven & Hell (feat. Ghostface Killah)",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4c671c952cc967547a8c0ebb43f758a4ec80cf4e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:2Ik0sIJPSV8aau7fDS9jJv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+        "id" : "2yQf6b8hxahZaT5dHlWaB1",
+        "name" : "Raekwon",
+        "type" : "artist",
+        "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7btiyhWzUfzxN3ijSiBpC8",
+      "id" : "7btiyhWzUfzxN3ijSiBpC8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0210f55f2af876cc662fc4ec12",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485110f55f2af876cc662fc4ec12",
+        "width" : 64
+      } ],
+      "name" : "Only Built 4 Cuban Linx...",
+      "release_date" : "1995",
+      "release_date_precision" : "year",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7btiyhWzUfzxN3ijSiBpC8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238480,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRC19502506"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6w5ZlJqegFx5E9xQqYLqCK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6w5ZlJqegFx5E9xQqYLqCK",
+    "id" : "6w5ZlJqegFx5E9xQqYLqCK",
+    "is_local" : false,
+    "name" : "North Star (Jewels)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fb39c75b8fd4f01524ac33d5b087f81465ddf0f3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:6w5ZlJqegFx5E9xQqYLqCK"
+  } ]
+}

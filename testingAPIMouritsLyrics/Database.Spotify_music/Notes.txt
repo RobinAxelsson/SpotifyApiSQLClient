@@ -1,0 +1,126 @@
+﻿Jay-Zstatic class Program
+    {
+        static void Main(string[] args)
+        { 
+            
+            uri.sqlConnection.Open();
+            SqlCommand command = new SqlCommand("SELECT * FROM Song", uri.sqlConnection);
+
+            SqlDataReader reader = command.ExecuteReader();
+            string connectValueTest = "";
+
+            while (reader.Read())
+            {
+                object firstColumnValue = reader[0];
+                int firstColumnValueWithType = Convert.ToInt32(reader[0]);
+                object namedColumnValue = reader["Title"];
+                string firstColumnName = reader.GetName(0);
+                connectValueTest += $"{firstColumnValue} {namedColumnValue}{Environment.NewLine}";
+                int numberOfColumns = reader.FieldCount;
+            }
+            File.AppendAllText(uri.tempLogUri.LocalPath, connectValueTest);
+
+            // I ett större program bör vi här stänga uppkopplingen samt de andra objekten när vi är klara med dem för att se till att de inte tar upp resurser i onödan. Detta kan göras med "using"-satsen, som i detta kodexempel: https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection
+        }
+
+
+        //private static void SQL()
+        //{
+        //    var sqlConnenction = new SqlConnection();
+        //    var webClient = new WebClient();
+        //    var manualResetEvent = new ManualResetEvent(false);
+        //    var fileStream = new FileStream();
+        //    var command = new SqlCommand("select * from Customers", sqlConnenction);
+        //    var reader = new SqlDataReader();
+        //    var adapter = new SqlDataAdapter();
+        //    command.ExecuteNonQuery();
+        //    SqlParameter param = new SqlParameter();
+        //    param.ParameterName = "@City";
+        //    param.Value = inputCity;
+        //    //var stream = new Stream(); abstract class
+        //    //querystring, connectionsstring
+        //}
+        //static void Main(string[] args)
+        //{
+        //    var client = new RestClient("https://genius.p.rapidapi.com/search?q=Eminem");
+        //    var request = new RestRequest(Method.GET);
+        //    request.AddHeader("x-rapidapi-key", "fa9c4d9f10msh93e08592d80e916p18170fjsn2d22508944bb");
+        //    request.AddHeader("x-rapidapi-host", "genius.p.rapidapi.com");
+        //    IRestResponse response = client.Execute(request);
+
+        //    Console.WriteLine($"{response.Content}\n{client.ToString()}");
+        //    Console.ReadLine();
+        //}
+        //public static void ArtistSongs()
+        //{
+        //    var client = new RestClient("https://genius.p.rapidapi.com/artists/16775/songs"); //ID = 16755 object.response.result.primary_artist.id (eminem is 45) api_path : /artists/45
+        //    var request = new RestRequest(Method.GET);
+        //    request.AddHeader("x-rapidapi-key", "fa9c4d9f10msh93e08592d80e916p18170fjsn2d22508944bb");
+        //    request.AddHeader("x-rapidapi-host", "genius.p.rapidapi.com");
+        //    IRestResponse response = client.Execute(request);
+        //}
+        //public static void Search()
+        //{
+        //    var client = new RestClient("https://genius.p.rapidapi.com/search?q=Kendrick%20Lamar"); //q=name%20name
+        //    var request = new RestRequest(Method.GET);
+        //    request.AddHeader("x-rapidapi-key", "fa9c4d9f10msh93e08592d80e916p18170fjsn2d22508944bb");
+        //    request.AddHeader("x-rapidapi-host", "genius.p.rapidapi.com");
+        //    IRestResponse response = client.Execute(request);
+        //}
+        //public static void Songs()
+        //{
+        //    var client = new RestClient("https://genius.p.rapidapi.com/songs/442856"); //ID 6 digits
+        //    var request = new RestRequest(Method.GET);
+        //    request.AddHeader("x-rapidapi-key", "fa9c4d9f10msh93e08592d80e916p18170fjsn2d22508944bb");
+        //    request.AddHeader("x-rapidapi-host", "genius.p.rapidapi.com");
+        //    IRestResponse response = client.Execute(request);
+        //}
+
+    }
+    public static class uri
+    {
+        public static Uri tempLogUri = new Uri(@"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\TempLog.txt");
+        public static Uri saveLogUri = new Uri(@"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\SaveLog.txt");
+        public static Uri jsonUri = new Uri(@"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\test.json");
+        public static Uri csvUri = new Uri(@"C:\Users\axels\source\repos\testingAPIMouritsLyrics\testingAPIMouritsLyrics\test.csv");
+        public static SqlConnection sqlConnection = new SqlConnection(@"Data Source=(local)\SQLExpress;Initial Catalog=Music;Integrated Security=SSPI");
+    }
+
+    [TestClass]
+    public static class Short
+    {
+      
+        [TestInitialize]
+        public static void TestInit()
+        {
+            CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
+        }
+
+        [TestMethod]
+        public static void ClearTemp()
+        {
+            File.WriteAllText(uri.tempLogUri.LocalPath, "");
+        }
+        [TestMethod]
+        public static void AppendToJsong(string append)
+        {
+            File.AppendAllText(uri.saveLogUri.LocalPath, append);
+            File.AppendAllText(uri.csvUri.LocalPath, append);
+        }
+        [TestMethod]
+        public static void AppendToTempLog(string append)
+        {
+            File.AppendAllText(uri.saveLogUri.LocalPath, append);
+            File.AppendAllText(uri.csvUri.LocalPath, append);
+        }
+        [TestMethod]
+        public static void TempToSaveLog()
+        {
+
+            string readAllText = File.ReadAllText(uri.tempLogUri.LocalPath);
+            readAllText += "åäö";
+            readAllText += Environment.NewLine;
+            File.AppendAllText(uri.saveLogUri.LocalPath, readAllText);
+            File.AppendAllText(uri.csvUri.LocalPath, readAllText);
+        }
+    }‱畎扭牥漠⁦桴⁥敢獡൴㈊删灡䜠摯਍″潇穤汩慬਍‴潌敳夠畯獲汥൦åäö

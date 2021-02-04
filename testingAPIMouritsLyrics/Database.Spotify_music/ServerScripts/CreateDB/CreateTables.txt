@@ -1,0 +1,37 @@
+CREATE TABLE [dbo].[Spotify_Album](
+	[ID] [nvarchar](50) NOT NULL,
+	[Name] [nvarchar](50) NOT NULL,
+	[Label] [nvarchar](50) NULL,
+	[Release_Date] [date] NULL,
+	[Popularity] [int] NULL,
+	[Image_Url] [nvarchar](100) NULL,
+ CONSTRAINT [PK_Spotify_Album] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+}
+CREATE TABLE [dbo].[Spotify_Artist](
+	[ID] [nvarchar](50) NOT NULL,
+	[Name] [nvarchar](50) NOT NULL,
+	[Followers] [int] NULL,
+	[Popularity] [int] NULL,
+	[Image_Url] [nvarchar](100) NULL,
+ CONSTRAINT [PK_Spotify_Artist] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+}
+CREATE TABLE [dbo].[Spotify_Track](
+	[ID] [nvarchar](50) NOT NULL,
+	[Name] [nvarchar](50) NOT NULL,
+	[Duration_ms] [int] NULL,
+	[Popularity] [int] NULL,
+	[Explicit_lyrics] [bit] NULL,
+ CONSTRAINT [PK_Spotify_Track] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+}

@@ -1,0 +1,115 @@
+{
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 6211733
+    },
+    "genres" : [ "australian pop", "dance pop", "edm", "pop", "pop dance", "pop rap", "post-teen pop", "tropical house", "uk pop" ],
+    "href" : "https://api.spotify.com/v1/artists/5CCwRZC6euC8Odo6y9X8jr",
+    "id" : "5CCwRZC6euC8Odo6y9X8jr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ccac2f7381ac773987322dd45922bd35a2886056",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/888d5bbc58e62ac6f98d4cf80d0e3441b51921e3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/827251e3e48c0a43119f472db1675772aa6164f0",
+      "width" : 160
+    } ],
+    "name" : "Rita Ora",
+    "popularity" : 77,
+    "type" : "artist",
+    "uri" : "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 13451282
+    },
+    "genres" : [ "dance pop", "pop", "pop dance", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+    "id" : "5YGY8feqx7naU7z4HrwZM6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/f040656afb8bc16cd44781dd39ea3d02184f5c0f",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/8d15c82eaf82ee38af11c2d755293ba6fb2ea036",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/8a303968e21579c92c2c1e9c811e0578c401423e",
+      "width" : 160
+    } ],
+    "name" : "Miley Cyrus",
+    "popularity" : 91,
+    "type" : "artist",
+    "uri" : "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6T3gZgGAQkMgWLUMr8HVsL"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3506
+    },
+    "genres" : [ "modern reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/6T3gZgGAQkMgWLUMr8HVsL",
+    "id" : "6T3gZgGAQkMgWLUMr8HVsL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/720022d39c29beb422c9081552fe6f0bb915007a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/972caab1ec7ce787f595bbbdd0549e57473d58d5",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/655f4966e472de6560b629134b5afc2bde473dff",
+      "width" : 160
+    } ],
+    "name" : "Blakkamoore",
+    "popularity" : 40,
+    "type" : "artist",
+    "uri" : "spotify:artist:6T3gZgGAQkMgWLUMr8HVsL"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 12721021
+    },
+    "genres" : [ "dance pop", "pop", "pop rap", "r&b", "rap" ],
+    "href" : "https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z",
+    "id" : "7bXgB6jMjp9ATFy66eO08Z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e153d6448b17ce97b2a79da70d64b89230c67053",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/899d51260d28f99ff2caa1ab52f4d5a66e9be950",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/e8dae22a104a324fff543bbe41f6be186c8b5fe1",
+      "width" : 160
+    } ],
+    "name" : "Chris Brown",
+    "popularity" : 89,
+    "type" : "artist",
+    "uri" : "spotify:artist:7bXgB6jMjp9ATFy66eO08Z"
+  } ]
+}

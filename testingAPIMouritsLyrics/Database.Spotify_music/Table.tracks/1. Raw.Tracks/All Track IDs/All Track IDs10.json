@@ -1,0 +1,543 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 314533,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501791"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3D2a29lN634NyexjFPY9rV"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3D2a29lN634NyexjFPY9rV",
+            "id": "3D2a29lN634NyexjFPY9rV",
+            "is_local": false,
+            "name": "The Line",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/cca2668b743e28e6640098abf7126db6523c8de5?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:3D2a29lN634NyexjFPY9rV"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 199373,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501793"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4XDQuvRrjGKuD1VzZsKY1a"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4XDQuvRrjGKuD1VzZsKY1a",
+            "id": "4XDQuvRrjGKuD1VzZsKY1a",
+            "is_local": false,
+            "name": "Balboa Park",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/351c140ff655faae67bde60b200bf1a4820a92d6?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:4XDQuvRrjGKuD1VzZsKY1a"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 210333,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501794"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5gw1ngV7cDILJHTujuvs6O"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5gw1ngV7cDILJHTujuvs6O",
+            "id": "5gw1ngV7cDILJHTujuvs6O",
+            "is_local": false,
+            "name": "Dry Lightning",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/c056c09e9f672a7ac3bf9bb916387da140807f5e?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:5gw1ngV7cDILJHTujuvs6O"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 345426,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501795"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Ms6R5cgFl2mvt3bnghtmk"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Ms6R5cgFl2mvt3bnghtmk",
+            "id": "0Ms6R5cgFl2mvt3bnghtmk",
+            "is_local": false,
+            "name": "The New Timer",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/47e8458dfd6a2a0598e922c63590045f21ab5543?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:0Ms6R5cgFl2mvt3bnghtmk"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 324733,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501796"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7lVyeemuCDArnL706efpTl"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7lVyeemuCDArnL706efpTl",
+            "id": "7lVyeemuCDArnL706efpTl",
+            "is_local": false,
+            "name": "Across the Border",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/14a296cb23c5dd577b06b6563e6dc19c8ef9df71?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:7lVyeemuCDArnL706efpTl"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 304440,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501799"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5SMqAcyULA666x9M51t2wm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5SMqAcyULA666x9M51t2wm",
+            "id": "5SMqAcyULA666x9M51t2wm",
+            "is_local": false,
+            "name": "Galveston Bay",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/f500cb76cf064e00ec52efb728afc5979d09627e?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:5SMqAcyULA666x9M51t2wm"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                        "id": "3eqjTLE0HfPfh78zjh6TqT",
+                        "name": "Bruce Springsteen",
+                        "type": "artist",
+                        "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                    }
+                ],
+                "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TmwoxCapHJLw5cdnQupAl",
+                "id": "5TmwoxCapHJLw5cdnQupAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273940e995c40e23e9fca1d167e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02940e995c40e23e9fca1d167e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851940e995c40e23e9fca1d167e",
+                        "width": 64
+                    }
+                ],
+                "name": "The Ghost Of Tom Joad",
+                "release_date": "1995-11-21",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5TmwoxCapHJLw5cdnQupAl"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+                    "id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "name": "Bruce Springsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+                }
+            ],
+            "available_markets": [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+            "disc_number": 1,
+            "duration_ms": 120106,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM19501800"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7wfgcuh43jsQCUsWReFzTR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7wfgcuh43jsQCUsWReFzTR",
+            "id": "7wfgcuh43jsQCUsWReFzTR",
+            "is_local": false,
+            "name": "My Best Was Never Good Enough",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ea77625d8170377e0e91ebe621b885ee3993585?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:7wfgcuh43jsQCUsWReFzTR"
+        }
+    ]
+}

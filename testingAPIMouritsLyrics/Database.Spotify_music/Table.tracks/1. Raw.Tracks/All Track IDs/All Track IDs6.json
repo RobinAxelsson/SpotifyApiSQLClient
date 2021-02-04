@@ -1,0 +1,3403 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 176573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805123"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GZKQm2bW1DSmUxvb7NXDC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GZKQm2bW1DSmUxvb7NXDC",
+    "id" : "0GZKQm2bW1DSmUxvb7NXDC",
+    "is_local" : false,
+    "name" : "What Love Can Do",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4cfa0a8be8104d5fa86c450583ffe2fe171e9534?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0GZKQm2bW1DSmUxvb7NXDC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805125"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4DpVLXMJpcCUGVd8hSM15Z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4DpVLXMJpcCUGVd8hSM15Z",
+    "id" : "4DpVLXMJpcCUGVd8hSM15Z",
+    "is_local" : false,
+    "name" : "This Life",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42dec035ebeb3ccdc283f7f67b52e154aa1cb1d6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4DpVLXMJpcCUGVd8hSM15Z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 180573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805126"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5L4XI3rAipDiTKdYOoS27G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5L4XI3rAipDiTKdYOoS27G",
+    "id" : "5L4XI3rAipDiTKdYOoS27G",
+    "is_local" : false,
+    "name" : "Good Eye",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/18c6488197cbbaa8f90b305a97da3397ca9005ef?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5L4XI3rAipDiTKdYOoS27G"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 133573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NtHU8jqIAERWScI9cJUIo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NtHU8jqIAERWScI9cJUIo",
+    "id" : "3NtHU8jqIAERWScI9cJUIo",
+    "is_local" : false,
+    "name" : "Tomorrow Never Knows",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ec58b050000da9e4165683ecbd123c4129eae24e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3NtHU8jqIAERWScI9cJUIo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45PwQHOUx6EQZ9pCbMC8lu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45PwQHOUx6EQZ9pCbMC8lu",
+    "id" : "45PwQHOUx6EQZ9pCbMC8lu",
+    "is_local" : false,
+    "name" : "Life Itself",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/865ffcd9aa355822141dd33faef4ba0a4015aede?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:45PwQHOUx6EQZ9pCbMC8lu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6GF7nsLEJ16bIEHuGBH7h5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6GF7nsLEJ16bIEHuGBH7h5",
+    "id" : "6GF7nsLEJ16bIEHuGBH7h5",
+    "is_local" : false,
+    "name" : "Kingdom Of Days",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/671fcefcef42c3dbba0047aaf0b53ae39d772833?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6GF7nsLEJ16bIEHuGBH7h5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 204333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805128"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KQ2eHNPNc9JWFn5NGdnn6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KQ2eHNPNc9JWFn5NGdnn6",
+    "id" : "7KQ2eHNPNc9JWFn5NGdnn6",
+    "is_local" : false,
+    "name" : "Surprise, Surprise",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5faed6ffdc231d56208dbd9be864fe05dc37d872?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:7KQ2eHNPNc9JWFn5NGdnn6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805132"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55BnUofUqupastRt9118pO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55BnUofUqupastRt9118pO",
+    "id" : "55BnUofUqupastRt9118pO",
+    "is_local" : false,
+    "name" : "The Last Carnival",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94f6afe43e0099af2836cea5e5ded3198afa267c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:55BnUofUqupastRt9118pO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5xJSVog0izeuIURO34C7Qa",
+      "id" : "5xJSVog0izeuIURO34C7Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346bc11a76fc87e5cf3ba8097",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246bc11a76fc87e5cf3ba8097",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146bc11a76fc87e5cf3ba8097",
+        "width" : 64
+      } ],
+      "name" : "Working On A Dream",
+      "release_date" : "2009-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5xJSVog0izeuIURO34C7Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230786,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10805133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6E6xVYnTszA6MerlIuiAoY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6E6xVYnTszA6MerlIuiAoY",
+    "id" : "6E6xVYnTszA6MerlIuiAoY",
+    "is_local" : false,
+    "name" : "The Wrestler",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10819e8a9f4c6fb375bf5181fda8b4f418857d3d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:6E6xVYnTszA6MerlIuiAoY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 199066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703853"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7zrHnJ87htwgS20PzFmgTr",
+    "id" : "7zrHnJ87htwgS20PzFmgTr",
+    "is_local" : false,
+    "name" : "Radio Nowhere",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ce5a932749114f5ae95acceecc580ec3b4d42540?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7zrHnJ87htwgS20PzFmgTr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703904"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/742xIz52S7SuO3l5iYZ7I5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/742xIz52S7SuO3l5iYZ7I5",
+    "id" : "742xIz52S7SuO3l5iYZ7I5",
+    "is_local" : false,
+    "name" : "You'll Be Comin' Down",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/62873f16e220bd46be1753129a75f692adb1ae4d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:742xIz52S7SuO3l5iYZ7I5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 235773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703905"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3EjU4PpZ6rvbUR70YlDEa6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3EjU4PpZ6rvbUR70YlDEa6",
+    "id" : "3EjU4PpZ6rvbUR70YlDEa6",
+    "is_local" : false,
+    "name" : "Livin' In the Future",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/231320dcf092b4c2fb24809ff918e37bc3cca5be?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3EjU4PpZ6rvbUR70YlDEa6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 198160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703906"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wLsq01yVaIFOFlmtVy1W0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wLsq01yVaIFOFlmtVy1W0",
+    "id" : "1wLsq01yVaIFOFlmtVy1W0",
+    "is_local" : false,
+    "name" : "Your Own Worst Enemy",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd8dd4df46b9f8d2bf07179be39efa6553da0e72?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1wLsq01yVaIFOFlmtVy1W0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 271053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703907"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EmUMk42Am4f3bpatZHuPH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EmUMk42Am4f3bpatZHuPH",
+    "id" : "5EmUMk42Am4f3bpatZHuPH",
+    "is_local" : false,
+    "name" : "Gypsy Biker",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b2457af861131daac2253be987962d3a36a2592d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5EmUMk42Am4f3bpatZHuPH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703908"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5kVSDFEAqgjKtcD6tRvRzY",
+    "id" : "5kVSDFEAqgjKtcD6tRvRzY",
+    "is_local" : false,
+    "name" : "Girls In Their Summer Clothes",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad5ef214b9d3bd203d93043fd2f54ed09a6eec5a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5kVSDFEAqgjKtcD6tRvRzY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 214226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703909"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ngqFjfI2npmPQYuQaBCNz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ngqFjfI2npmPQYuQaBCNz",
+    "id" : "2ngqFjfI2npmPQYuQaBCNz",
+    "is_local" : false,
+    "name" : "I'll Work for Your Love",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/97581195a5458168ead16372e9d60f6c67a21410?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2ngqFjfI2npmPQYuQaBCNz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 165080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703910"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54Gnnzf64nOe3p7uDv1HdK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54Gnnzf64nOe3p7uDv1HdK",
+    "id" : "54Gnnzf64nOe3p7uDv1HdK",
+    "is_local" : false,
+    "name" : "Magic",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d5628e13f62573ac4040637b1027a9347297302d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:54Gnnzf64nOe3p7uDv1HdK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 256533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703911"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0m9hl8ZhjYFqVKPVSN2Xhb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0m9hl8ZhjYFqVKPVSN2Xhb",
+    "id" : "0m9hl8ZhjYFqVKPVSN2Xhb",
+    "is_local" : false,
+    "name" : "Last to Die",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d1c63db492701ecd44cc9935e57acc277740e007?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0m9hl8ZhjYFqVKPVSN2Xhb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703912"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41RlTAAmlNhuhPx8rPZlDS",
+    "id" : "41RlTAAmlNhuhPx8rPZlDS",
+    "is_local" : false,
+    "name" : "Long Walk Home",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7bfd2a5a3f4280e4221df759addf05e7ab882548?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:41RlTAAmlNhuhPx8rPZlDS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 305600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703913"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0d5OjJpP79QvO24yisI7qq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0d5OjJpP79QvO24yisI7qq",
+    "id" : "0d5OjJpP79QvO24yisI7qq",
+    "is_local" : false,
+    "name" : "Devil's Arcade",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8107206b815e0143f94717d2f44272ab80c430b2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0d5OjJpP79QvO24yisI7qq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7A830iYFt7vb0n0aMLyj5Z",
+      "id" : "7A830iYFt7vb0n0aMLyj5Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a85cfc4a5af7b0d03c03f49",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a85cfc4a5af7b0d03c03f49",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a85cfc4a5af7b0d03c03f49",
+        "width" : 64
+      } ],
+      "name" : "Magic",
+      "release_date" : "2007-09-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7A830iYFt7vb0n0aMLyj5Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 251280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10703960"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Z0fC0YNVyikjF50WMRdgS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Z0fC0YNVyikjF50WMRdgS",
+    "id" : "0Z0fC0YNVyikjF50WMRdgS",
+    "is_local" : false,
+    "name" : "Terry's Song",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/659f975b3ff359709468db519fb72e02c2500c97?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0Z0fC0YNVyikjF50WMRdgS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 310186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701540"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22wv8V0iKkce2mmuublNUg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22wv8V0iKkce2mmuublNUg",
+    "id" : "22wv8V0iKkce2mmuublNUg",
+    "is_local" : false,
+    "name" : "Atlantic City - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa250d7e7b847d90c3d8454fbfe098bc215a2667?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:22wv8V0iKkce2mmuublNUg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 211120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701579"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3fGd114auQsTN0YLJNz2hF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3fGd114auQsTN0YLJNz2hF",
+    "id" : "3fGd114auQsTN0YLJNz2hF",
+    "is_local" : false,
+    "name" : "Old Dan Tucker - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d5d74291ab6cb25316ed13dfff209f119f39f9a0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3fGd114auQsTN0YLJNz2hF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 363026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701580"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6H58IiE3Pjg2V3CGTTYLFB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6H58IiE3Pjg2V3CGTTYLFB",
+    "id" : "6H58IiE3Pjg2V3CGTTYLFB",
+    "is_local" : false,
+    "name" : "Eyes on the Prize - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c3d673908d3bdef75b3352bbf03b0a6a68a674a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6H58IiE3Pjg2V3CGTTYLFB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 335080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701581"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3wN17W9zqsGOvKUTdwSUkt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3wN17W9zqsGOvKUTdwSUkt",
+    "id" : "3wN17W9zqsGOvKUTdwSUkt",
+    "is_local" : false,
+    "name" : "Jesse James - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a82dcfd76bb74ac1b0981669dbe0e96c3c6c227e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3wN17W9zqsGOvKUTdwSUkt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 354973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701582"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Fa2MRIkgvqdofibz62vhr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Fa2MRIkgvqdofibz62vhr",
+    "id" : "2Fa2MRIkgvqdofibz62vhr",
+    "is_local" : false,
+    "name" : "Further On (Up the Road) - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de058e0cafa62bae14da7b691756237e6b09c32b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2Fa2MRIkgvqdofibz62vhr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 417800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701583"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Lp5jMPth1OCBTuxrsBrgx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Lp5jMPth1OCBTuxrsBrgx",
+    "id" : "3Lp5jMPth1OCBTuxrsBrgx",
+    "is_local" : false,
+    "name" : "O Mary Don't You Weep - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c45d564f995deb30b19764317779f1bd4eb9de45?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3Lp5jMPth1OCBTuxrsBrgx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701584"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4nFXwqb0IEFTVSLMEbpPEx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4nFXwqb0IEFTVSLMEbpPEx",
+    "id" : "4nFXwqb0IEFTVSLMEbpPEx",
+    "is_local" : false,
+    "name" : "Erie Canal - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/770dfc01ae56996d20187be5ada65f01e161c487?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4nFXwqb0IEFTVSLMEbpPEx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 313266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701585"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2bm4wX1tNB6K2RfJcOeP60"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2bm4wX1tNB6K2RfJcOeP60",
+    "id" : "2bm4wX1tNB6K2RfJcOeP60",
+    "is_local" : false,
+    "name" : "If I Should Fall Behind - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e32e83a08340263c768680b2ee8be0a8452389c1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2bm4wX1tNB6K2RfJcOeP60"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 505800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701586"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30semTcfeCDyb14WpyOegh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30semTcfeCDyb14WpyOegh",
+    "id" : "30semTcfeCDyb14WpyOegh",
+    "is_local" : false,
+    "name" : "My Oklahoma Home - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7e9a7ba71d7c408bf41ac6b6dc4579fd941c45b4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:30semTcfeCDyb14WpyOegh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 347013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701587"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Fdb0opzMQ1lvXA8MCsX20"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Fdb0opzMQ1lvXA8MCsX20",
+    "id" : "7Fdb0opzMQ1lvXA8MCsX20",
+    "is_local" : false,
+    "name" : "Highway Patrolman - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a76161bcb9054e08ed2fb600cd84759ea18a2287?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:7Fdb0opzMQ1lvXA8MCsX20"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 303666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701588"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GeLv9V1yAzaHPSrE20AYD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GeLv9V1yAzaHPSrE20AYD",
+    "id" : "5GeLv9V1yAzaHPSrE20AYD",
+    "is_local" : false,
+    "name" : "Mrs. McGrath - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/09d1ebbb81cf23d8e58817be27982648d9b9da50?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5GeLv9V1yAzaHPSrE20AYD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 200213,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701589"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3gcj3ZkxQ8NIvIlMVbFqes"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3gcj3ZkxQ8NIvIlMVbFqes",
+    "id" : "3gcj3ZkxQ8NIvIlMVbFqes",
+    "is_local" : false,
+    "name" : "How Can a Poor Man Stand Such Times and Live - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/314c1b4b5f3c6b7217f2435cd8568fd4c4a8f65d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3gcj3ZkxQ8NIvIlMVbFqes"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 419520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701590"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2I3gCLPIFP8WcVtMHM4NXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2I3gCLPIFP8WcVtMHM4NXz",
+    "id" : "2I3gCLPIFP8WcVtMHM4NXz",
+    "is_local" : false,
+    "name" : "Jacob's Ladder - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bdb4e2ea7e0fdba5535a1169177852cea99e5167?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2I3gCLPIFP8WcVtMHM4NXz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 288120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701591"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6OC7KGUZWnfA76r9IbYsAy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6OC7KGUZWnfA76r9IbYsAy",
+    "id" : "6OC7KGUZWnfA76r9IbYsAy",
+    "is_local" : false,
+    "name" : "Long Time Comin' - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/536fa0ced45f73bb9b02848cda66b04bc6c2fc89?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6OC7KGUZWnfA76r9IbYsAy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 484813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701592"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3JaWTOUAO2r8A0l3VZqW1E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3JaWTOUAO2r8A0l3VZqW1E",
+    "id" : "3JaWTOUAO2r8A0l3VZqW1E",
+    "is_local" : false,
+    "name" : "Open All Night - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ebbb80956b539176c539ec0b37a047bf54364ee0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3JaWTOUAO2r8A0l3VZqW1E"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 359600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701593"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3o7A6UNGdIqI35ixRH9EM9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3o7A6UNGdIqI35ixRH9EM9",
+    "id" : "3o7A6UNGdIqI35ixRH9EM9",
+    "is_local" : false,
+    "name" : "Pay Me My Money Down - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b3fbe4fc0092a80c433c62ac504ec440a27ae6e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3o7A6UNGdIqI35ixRH9EM9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 271453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701594"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0PtK3muol2Hd5PHJFVVKi0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0PtK3muol2Hd5PHJFVVKi0",
+    "id" : "0PtK3muol2Hd5PHJFVVKi0",
+    "is_local" : false,
+    "name" : "Growin' Up - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb7896d28b27186f79c40cb3bb20a8394727c809?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0PtK3muol2Hd5PHJFVVKi0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 312893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701595"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1DqKQQxyoIXaOVC9ChbYZy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1DqKQQxyoIXaOVC9ChbYZy",
+    "id" : "1DqKQQxyoIXaOVC9ChbYZy",
+    "is_local" : false,
+    "name" : "When the Saints Go Marching In - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/972400d450cb4dd8ce0199b3fe60c1e328d8db78?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1DqKQQxyoIXaOVC9ChbYZy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 188146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701596"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63g7Z2JC9t4zUBykMvJcm9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63g7Z2JC9t4zUBykMvJcm9",
+    "id" : "63g7Z2JC9t4zUBykMvJcm9",
+    "is_local" : false,
+    "name" : "This Little Light of Mine - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9f4cd4413e5e9c77b4b0b5b784dfef01b73e48b8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:63g7Z2JC9t4zUBykMvJcm9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 257813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701597"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4E0hCWLiAHoxTeBXiJqeFj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4E0hCWLiAHoxTeBXiJqeFj",
+    "id" : "4E0hCWLiAHoxTeBXiJqeFj",
+    "is_local" : false,
+    "name" : "American Land - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e38de13c0614db7fc8dd8e076e7134ed4358a927?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4E0hCWLiAHoxTeBXiJqeFj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 281960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701598"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4cuHygiGZuEeaAMTh6q8H6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4cuHygiGZuEeaAMTh6q8H6",
+    "id" : "4cuHygiGZuEeaAMTh6q8H6",
+    "is_local" : false,
+    "name" : "Blinded By The Light - The Song - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c4ba96e170ef37c9616bfe299580e9f92f72bd74?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4cuHygiGZuEeaAMTh6q8H6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 279466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701599"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lGm0Lvm2a30SGElpHKeoG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lGm0Lvm2a30SGElpHKeoG",
+    "id" : "2lGm0Lvm2a30SGElpHKeoG",
+    "is_local" : false,
+    "name" : "Love of the Common People - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94a1a7350b7792e9051458a9677078f65ea2fa00?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:2lGm0Lvm2a30SGElpHKeoG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21zdv4QjuegVPhA9tro0HF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21zdv4QjuegVPhA9tro0HF",
+      "id" : "21zdv4QjuegVPhA9tro0HF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fdb0e0059536878e9830f3c6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fdb0e0059536878e9830f3c6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fdb0e0059536878e9830f3c6",
+        "width" : 64
+      } ],
+      "name" : "Live In Dublin",
+      "release_date" : "2007-06-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:21zdv4QjuegVPhA9tro0HF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/423tr6Ouot1yk7Z0q9h6PT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/423tr6Ouot1yk7Z0q9h6PT",
+      "id" : "423tr6Ouot1yk7Z0q9h6PT",
+      "name" : "Bruce Springsteen with the Sessions Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:423tr6Ouot1yk7Z0q9h6PT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 346293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10701600"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qR9xb6VuXZsAv1bd3oRgh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qR9xb6VuXZsAv1bd3oRgh",
+    "id" : "5qR9xb6VuXZsAv1bd3oRgh",
+    "is_local" : false,
+    "name" : "We Shall Overcome - Live at the Point Theatre, Dublin, Ireland - November 2006",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/215effb825414cc2c9c3254eb61987342f9972a5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5qR9xb6VuXZsAv1bd3oRgh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 350480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507119"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2tFykPvhvN1AdUkeQQLCuV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2tFykPvhvN1AdUkeQQLCuV",
+    "id" : "2tFykPvhvN1AdUkeQQLCuV",
+    "is_local" : false,
+    "name" : "Thunder Road - The Song - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c14217c3e8509b6ed4647cb34991c9206d0e7863?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2tFykPvhvN1AdUkeQQLCuV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lJ8AcD7hEnTBLz1sixHey"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lJ8AcD7hEnTBLz1sixHey",
+    "id" : "7lJ8AcD7hEnTBLz1sixHey",
+    "is_local" : false,
+    "name" : "Tenth Avenue Freeze-Out - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e3f1b98751fb43ab65697641b0f4a7b52ab1f622?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7lJ8AcD7hEnTBLz1sixHey"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 455906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507121"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0iknUVjF5tojBSTqC3pL0S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0iknUVjF5tojBSTqC3pL0S",
+    "id" : "0iknUVjF5tojBSTqC3pL0S",
+    "is_local" : false,
+    "name" : "Spirit In The Night - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a66ef111042f83b221400aa04c35b182810763e5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0iknUVjF5tojBSTqC3pL0S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 375400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507122"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ymKK4A0mInBFBKYJjRXTj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ymKK4A0mInBFBKYJjRXTj",
+    "id" : "5ymKK4A0mInBFBKYJjRXTj",
+    "is_local" : false,
+    "name" : "Lost In the Flood - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/989db08be25047c29aff6db87ccee077bf4367f5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5ymKK4A0mInBFBKYJjRXTj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 323026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507123"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dhsKLr6aJNpHTvsgRI2j5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dhsKLr6aJNpHTvsgRI2j5",
+    "id" : "0dhsKLr6aJNpHTvsgRI2j5",
+    "is_local" : false,
+    "name" : "She's the One - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f4a67e4deb6f5e5cc785c9d0fbcd81fd15de016a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0dhsKLr6aJNpHTvsgRI2j5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/29HIscCMZKDTvGBWOQgbyf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/29HIscCMZKDTvGBWOQgbyf",
+      "id" : "29HIscCMZKDTvGBWOQgbyf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273258492ee954d2af64289664c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02258492ee954d2af64289664c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851258492ee954d2af64289664c",
+        "width" : 64
+      } ],
+      "name" : "Hammersmith Odeon, London '75",
+      "release_date" : "2006-02-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:29HIscCMZKDTvGBWOQgbyf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 256853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10507124"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hdPw0RRNCFFnCuYxLS59D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hdPw0RRNCFFnCuYxLS59D",
+    "id" : "0hdPw0RRNCFFnCuYxLS59D",
+    "is_local" : false,
+    "name" : "Born to Run - Live at the Hammersmith Odeon, London, UK - November 1975",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/962debf52a82b258aa3a66435b52f724e1f885ac?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0hdPw0RRNCFFnCuYxLS59D"
+  } ]
+}

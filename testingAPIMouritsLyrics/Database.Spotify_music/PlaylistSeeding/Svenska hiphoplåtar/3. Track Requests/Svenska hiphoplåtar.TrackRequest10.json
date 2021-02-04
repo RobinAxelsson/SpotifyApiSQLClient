@@ -1,0 +1,3547 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2exk21BjKiNgytCPI2ktmS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2exk21BjKiNgytCPI2ktmS",
+    "id" : "2exk21BjKiNgytCPI2ktmS",
+    "is_local" : false,
+    "name" : "Mardröm",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2exk21BjKiNgytCPI2ktmS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 217800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903060"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dFwcO93uLSLuVAWgpabxp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dFwcO93uLSLuVAWgpabxp",
+    "id" : "1dFwcO93uLSLuVAWgpabxp",
+    "is_local" : false,
+    "name" : "Släpp mig fri",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1dFwcO93uLSLuVAWgpabxp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 230026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9819014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0IuQlK2qUTPhk9ARWeH673"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0IuQlK2qUTPhk9ARWeH673",
+    "id" : "0IuQlK2qUTPhk9ARWeH673",
+    "is_local" : false,
+    "name" : "Under ytan",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0IuQlK2qUTPhk9ARWeH673"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2eQzUF0CGHS2FISz94JTNT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2eQzUF0CGHS2FISz94JTNT",
+    "id" : "2eQzUF0CGHS2FISz94JTNT",
+    "is_local" : false,
+    "name" : "...Norr till Söder",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2eQzUF0CGHS2FISz94JTNT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 235306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4BiAkfMFZwNMl2yW44mz8o"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4BiAkfMFZwNMl2yW44mz8o",
+    "id" : "4BiAkfMFZwNMl2yW44mz8o",
+    "is_local" : false,
+    "name" : "Allt handlar om micken",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4BiAkfMFZwNMl2yW44mz8o"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 182973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1QgtebRsSLvQINk6xlcraN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1QgtebRsSLvQINk6xlcraN",
+    "id" : "1QgtebRsSLvQINk6xlcraN",
+    "is_local" : false,
+    "name" : "Om allt stod stilla",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1QgtebRsSLvQINk6xlcraN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 90333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6sov5B1n45rk9HyOh3e94D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6sov5B1n45rk9HyOh3e94D",
+    "id" : "6sov5B1n45rk9HyOh3e94D",
+    "is_local" : false,
+    "name" : "Ständigt kaos",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6sov5B1n45rk9HyOh3e94D"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 320933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5HqKGfgWYQfpB3YrMNsMtf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5HqKGfgWYQfpB3YrMNsMtf",
+    "id" : "5HqKGfgWYQfpB3YrMNsMtf",
+    "is_local" : false,
+    "name" : "Svek",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5HqKGfgWYQfpB3YrMNsMtf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 260773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3XJvs89bcXvjavb8OLEyhh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3XJvs89bcXvjavb8OLEyhh",
+    "id" : "3XJvs89bcXvjavb8OLEyhh",
+    "is_local" : false,
+    "name" : "Helt okej",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:3XJvs89bcXvjavb8OLEyhh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 206506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1KTj3BFnX30dzRYBniuw5l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1KTj3BFnX30dzRYBniuw5l",
+    "id" : "1KTj3BFnX30dzRYBniuw5l",
+    "is_local" : false,
+    "name" : "Först in, sist ut",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1KTj3BFnX30dzRYBniuw5l"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+        "id" : "60gzYweXIZf4AsXywpHJGt",
+        "name" : "Blues",
+        "type" : "artist",
+        "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SZFCtcAwANsiywoZ2jqhX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SZFCtcAwANsiywoZ2jqhX",
+      "id" : "0SZFCtcAwANsiywoZ2jqhX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737e8c84419d3edb6ada3bb213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027e8c84419d3edb6ada3bb213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517e8c84419d3edb6ada3bb213",
+        "width" : 64
+      } ],
+      "name" : "Samhällstjänst",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:0SZFCtcAwANsiywoZ2jqhX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/60gzYweXIZf4AsXywpHJGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/60gzYweXIZf4AsXywpHJGt",
+      "id" : "60gzYweXIZf4AsXywpHJGt",
+      "name" : "Blues",
+      "type" : "artist",
+      "uri" : "spotify:artist:60gzYweXIZf4AsXywpHJGt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 286666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBKA9903140"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jkeMqp1dw74INhDm4l4PB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jkeMqp1dw74INhDm4l4PB",
+    "id" : "3jkeMqp1dw74INhDm4l4PB",
+    "is_local" : false,
+    "name" : "Avslut",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3jkeMqp1dw74INhDm4l4PB"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jNoysaGwAvoqyPShTuc76"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jNoysaGwAvoqyPShTuc76",
+      "id" : "6jNoysaGwAvoqyPShTuc76",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27391df75efc90b77a9168c97d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0291df75efc90b77a9168c97d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485191df75efc90b77a9168c97d5",
+        "width" : 64
+      } ],
+      "name" : "Fakkin fin",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6jNoysaGwAvoqyPShTuc76"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 244120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71302253"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SsBAaAGsCUue4DyQXb4gC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SsBAaAGsCUue4DyQXb4gC",
+    "id" : "3SsBAaAGsCUue4DyQXb4gC",
+    "is_local" : false,
+    "name" : "Fakkin fin",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3SsBAaAGsCUue4DyQXb4gC"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jNoysaGwAvoqyPShTuc76"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jNoysaGwAvoqyPShTuc76",
+      "id" : "6jNoysaGwAvoqyPShTuc76",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27391df75efc90b77a9168c97d5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0291df75efc90b77a9168c97d5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485191df75efc90b77a9168c97d5",
+        "width" : 64
+      } ],
+      "name" : "Fakkin fin",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6jNoysaGwAvoqyPShTuc76"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 240146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71302254"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4sa5MmviK4zYSG67IW9byO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4sa5MmviK4zYSG67IW9byO",
+    "id" : "4sa5MmviK4zYSG67IW9byO",
+    "is_local" : false,
+    "name" : "Fakkin fin - Instrumental",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4sa5MmviK4zYSG67IW9byO"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Smvu7F18t3IfetPMq5fa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Smvu7F18t3IfetPMq5fa6",
+      "id" : "0Smvu7F18t3IfetPMq5fa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273236ad8689398a9f8488cdf1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02236ad8689398a9f8488cdf1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851236ad8689398a9f8488cdf1c",
+        "width" : 64
+      } ],
+      "name" : "Miljonprogrammerade",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0Smvu7F18t3IfetPMq5fa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 206666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100578"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6iVYk4pFpGexKFTs1Zuop3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6iVYk4pFpGexKFTs1Zuop3",
+    "id" : "6iVYk4pFpGexKFTs1Zuop3",
+    "is_local" : false,
+    "name" : "Jajajajaja",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c3af7bf5f730138784eba3a09ff04d5976b1524a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6iVYk4pFpGexKFTs1Zuop3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Smvu7F18t3IfetPMq5fa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Smvu7F18t3IfetPMq5fa6",
+      "id" : "0Smvu7F18t3IfetPMq5fa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273236ad8689398a9f8488cdf1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02236ad8689398a9f8488cdf1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851236ad8689398a9f8488cdf1c",
+        "width" : 64
+      } ],
+      "name" : "Miljonprogrammerade",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0Smvu7F18t3IfetPMq5fa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241760,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100579"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1tWIBkmNCILF95nPioXLr1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1tWIBkmNCILF95nPioXLr1",
+    "id" : "1tWIBkmNCILF95nPioXLr1",
+    "is_local" : false,
+    "name" : "Vatroru?",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/696d33fdda9a88f5de4c26aa2bdffef7e4fba89f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1tWIBkmNCILF95nPioXLr1"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Smvu7F18t3IfetPMq5fa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Smvu7F18t3IfetPMq5fa6",
+      "id" : "0Smvu7F18t3IfetPMq5fa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273236ad8689398a9f8488cdf1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02236ad8689398a9f8488cdf1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851236ad8689398a9f8488cdf1c",
+        "width" : 64
+      } ],
+      "name" : "Miljonprogrammerade",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0Smvu7F18t3IfetPMq5fa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100580"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3gWeNxlLT2vMk58BR64Yya"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3gWeNxlLT2vMk58BR64Yya",
+    "id" : "3gWeNxlLT2vMk58BR64Yya",
+    "is_local" : false,
+    "name" : "Tribulations",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d671cb7e75573d021db9261ae3bdc6e26b9acca8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3gWeNxlLT2vMk58BR64Yya"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Smvu7F18t3IfetPMq5fa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Smvu7F18t3IfetPMq5fa6",
+      "id" : "0Smvu7F18t3IfetPMq5fa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273236ad8689398a9f8488cdf1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02236ad8689398a9f8488cdf1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851236ad8689398a9f8488cdf1c",
+        "width" : 64
+      } ],
+      "name" : "Miljonprogrammerade",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0Smvu7F18t3IfetPMq5fa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0mSD97JUcoK5g6PNFDnUdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0mSD97JUcoK5g6PNFDnUdu",
+      "id" : "0mSD97JUcoK5g6PNFDnUdu",
+      "name" : "Amsie Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:0mSD97JUcoK5g6PNFDnUdu"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 227693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100581"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5UwRr3JaU8CSTYA0dxyoZg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5UwRr3JaU8CSTYA0dxyoZg",
+    "id" : "5UwRr3JaU8CSTYA0dxyoZg",
+    "is_local" : false,
+    "name" : "Evil",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/23919c95e566bac225329c29a90fb237cf2d67ad?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5UwRr3JaU8CSTYA0dxyoZg"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+        "id" : "5s77Nldm0GrOQkMIElogdo",
+        "name" : "Labyrint",
+        "type" : "artist",
+        "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0Smvu7F18t3IfetPMq5fa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0Smvu7F18t3IfetPMq5fa6",
+      "id" : "0Smvu7F18t3IfetPMq5fa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273236ad8689398a9f8488cdf1c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02236ad8689398a9f8488cdf1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851236ad8689398a9f8488cdf1c",
+        "width" : 64
+      } ],
+      "name" : "Miljonprogrammerade",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0Smvu7F18t3IfetPMq5fa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EE", "EG", "ES", "FI", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KZ", "LB", "LT", "LU", "LV", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100582"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0B1OPZVvleVcbK9vNm0jZo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0B1OPZVvleVcbK9vNm0jZo",
+    "id" : "0B1OPZVvleVcbK9vNm0jZo",
+    "is_local" : false,
+    "name" : "Miljonprogrammerade",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dd042a51e28fb532ad7519b6fdec6e55ef860215?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0B1OPZVvleVcbK9vNm0jZo"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+        "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+        "name" : "Dani M",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+      } ],
+      "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4nMAjfGIkpekF8vKQbxjzB",
+      "id" : "4nMAjfGIkpekF8vKQbxjzB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e016bbdff744a9a220fcc805",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e016bbdff744a9a220fcc805",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e016bbdff744a9a220fcc805",
+        "width" : 64
+      } ],
+      "name" : "Naiv",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4nMAjfGIkpekF8vKQbxjzB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+      "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+      "name" : "Dani M",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1U8lN2i4lHmZqDerkVNKWk",
+      "id" : "1U8lN2i4lHmZqDerkVNKWk",
+      "name" : "Jacco",
+      "type" : "artist",
+      "uri" : "spotify:artist:1U8lN2i4lHmZqDerkVNKWk"
+    } ],
+    "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 176186,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71300809"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qFctlq6LI01bQYQmqWaje"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qFctlq6LI01bQYQmqWaje",
+    "id" : "5qFctlq6LI01bQYQmqWaje",
+    "is_local" : false,
+    "name" : "Naiv",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/36b1834a80b5f95381e8d3961efd3d1c85bbac5c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5qFctlq6LI01bQYQmqWaje"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+        "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+        "name" : "Dani M",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+      } ],
+      "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4nMAjfGIkpekF8vKQbxjzB",
+      "id" : "4nMAjfGIkpekF8vKQbxjzB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e016bbdff744a9a220fcc805",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e016bbdff744a9a220fcc805",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e016bbdff744a9a220fcc805",
+        "width" : 64
+      } ],
+      "name" : "Naiv",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4nMAjfGIkpekF8vKQbxjzB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+      "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+      "name" : "Dani M",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1U8lN2i4lHmZqDerkVNKWk",
+      "id" : "1U8lN2i4lHmZqDerkVNKWk",
+      "name" : "Jacco",
+      "type" : "artist",
+      "uri" : "spotify:artist:1U8lN2i4lHmZqDerkVNKWk"
+    } ],
+    "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 201546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71300811"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3EnLuoFACK5HuFGcAgwxZI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3EnLuoFACK5HuFGcAgwxZI",
+    "id" : "3EnLuoFACK5HuFGcAgwxZI",
+    "is_local" : false,
+    "name" : "Sånt é livet",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7d9b7d87fd8d3a1eb08f12d2e7d930f203b9b80?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3EnLuoFACK5HuFGcAgwxZI"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+        "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+        "name" : "Dani M",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+      } ],
+      "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4nMAjfGIkpekF8vKQbxjzB",
+      "id" : "4nMAjfGIkpekF8vKQbxjzB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e016bbdff744a9a220fcc805",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e016bbdff744a9a220fcc805",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e016bbdff744a9a220fcc805",
+        "width" : 64
+      } ],
+      "name" : "Naiv",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4nMAjfGIkpekF8vKQbxjzB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+      "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+      "name" : "Dani M",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+    } ],
+    "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 177106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71300810"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RlK6e2AIZivjsV6HzNl4W"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RlK6e2AIZivjsV6HzNl4W",
+    "id" : "5RlK6e2AIZivjsV6HzNl4W",
+    "is_local" : false,
+    "name" : "Naiv - Instrumental",
+    "popularity" : 6,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a907dc127bfb23add5f0472bf7c45408107ef4c3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5RlK6e2AIZivjsV6HzNl4W"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+        "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+        "name" : "Dani M",
+        "type" : "artist",
+        "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+      } ],
+      "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4nMAjfGIkpekF8vKQbxjzB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4nMAjfGIkpekF8vKQbxjzB",
+      "id" : "4nMAjfGIkpekF8vKQbxjzB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e016bbdff744a9a220fcc805",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e016bbdff744a9a220fcc805",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e016bbdff744a9a220fcc805",
+        "width" : 64
+      } ],
+      "name" : "Naiv",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:4nMAjfGIkpekF8vKQbxjzB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5ILMkt5lW4KAyTXMNYWaGF",
+      "id" : "5ILMkt5lW4KAyTXMNYWaGF",
+      "name" : "Dani M",
+      "type" : "artist",
+      "uri" : "spotify:artist:5ILMkt5lW4KAyTXMNYWaGF"
+    } ],
+    "available_markets" : [ "BR", "BY", "ES", "HU", "IS", "JP", "MY", "NL", "NO", "PT", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 196320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71300812"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5temm2dfIeAtg8h2lZ6epA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5temm2dfIeAtg8h2lZ6epA",
+    "id" : "5temm2dfIeAtg8h2lZ6epA",
+    "is_local" : false,
+    "name" : "Sånt é livet - Instrumental",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/45800035e3bffa4308bfd3dcaf21b824405eb1e7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5temm2dfIeAtg8h2lZ6epA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kU4t7IQJCJTeXr5XZBDMS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kU4t7IQJCJTeXr5XZBDMS",
+      "id" : "4kU4t7IQJCJTeXr5XZBDMS",
+      "name" : "Fre",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kU4t7IQJCJTeXr5XZBDMS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08teTDZts19nrv4l0znQ2C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08teTDZts19nrv4l0znQ2C",
+      "id" : "08teTDZts19nrv4l0znQ2C",
+      "name" : "Mogge",
+      "type" : "artist",
+      "uri" : "spotify:artist:08teTDZts19nrv4l0znQ2C"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 254720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0XUYVczmu59bDlhlmXK7Sv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0XUYVczmu59bDlhlmXK7Sv",
+    "id" : "0XUYVczmu59bDlhlmXK7Sv",
+    "is_local" : false,
+    "name" : "På jakt efter lycka",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0XUYVczmu59bDlhlmXK7Sv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SmSFA4BoatF7pKyyDzqzb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0SmSFA4BoatF7pKyyDzqzb",
+      "id" : "0SmSFA4BoatF7pKyyDzqzb",
+      "name" : "Natty Silver",
+      "type" : "artist",
+      "uri" : "spotify:artist:0SmSFA4BoatF7pKyyDzqzb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1300601"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4aAHjx2alq4A3WSGHB2R2A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4aAHjx2alq4A3WSGHB2R2A",
+    "id" : "4aAHjx2alq4A3WSGHB2R2A",
+    "is_local" : false,
+    "name" : "Vår sida av stan",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4aAHjx2alq4A3WSGHB2R2A"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0UBceRa0HO3jpVYNpsbVHu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0UBceRa0HO3jpVYNpsbVHu",
+      "id" : "0UBceRa0HO3jpVYNpsbVHu",
+      "name" : "Amin",
+      "type" : "artist",
+      "uri" : "spotify:artist:0UBceRa0HO3jpVYNpsbVHu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/08teTDZts19nrv4l0znQ2C"
+      },
+      "href" : "https://api.spotify.com/v1/artists/08teTDZts19nrv4l0znQ2C",
+      "id" : "08teTDZts19nrv4l0znQ2C",
+      "name" : "Mogge",
+      "type" : "artist",
+      "uri" : "spotify:artist:08teTDZts19nrv4l0znQ2C"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 200213,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2DtemUyLG5lBqhhplLxB3M"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2DtemUyLG5lBqhhplLxB3M",
+    "id" : "2DtemUyLG5lBqhhplLxB3M",
+    "is_local" : false,
+    "name" : "Under press",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2DtemUyLG5lBqhhplLxB3M"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 189933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0s5Gn7EtFe5no7lzZLiaEN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0s5Gn7EtFe5no7lzZLiaEN",
+    "id" : "0s5Gn7EtFe5no7lzZLiaEN",
+    "is_local" : false,
+    "name" : "Någon annans fel",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0s5Gn7EtFe5no7lzZLiaEN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ioTLNHXeyWhLxp5QI36Qi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ioTLNHXeyWhLxp5QI36Qi",
+      "id" : "6ioTLNHXeyWhLxp5QI36Qi",
+      "name" : "Nebay Meles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ioTLNHXeyWhLxp5QI36Qi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/739zjStIc6EHrV5thshKkp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/739zjStIc6EHrV5thshKkp",
+      "id" : "739zjStIc6EHrV5thshKkp",
+      "name" : "ROSH",
+      "type" : "artist",
+      "uri" : "spotify:artist:739zjStIc6EHrV5thshKkp"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 231346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0FzoFbHTMtNebwelTOlEoj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0FzoFbHTMtNebwelTOlEoj",
+    "id" : "0FzoFbHTMtNebwelTOlEoj",
+    "is_local" : false,
+    "name" : "New Shit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0FzoFbHTMtNebwelTOlEoj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0e6pBjHAXI2dofZTOaf39N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0e6pBjHAXI2dofZTOaf39N",
+      "id" : "0e6pBjHAXI2dofZTOaf39N",
+      "name" : "Highwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0e6pBjHAXI2dofZTOaf39N"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0zKX6nlK1A4ZmztnFPOKGs",
+      "id" : "0zKX6nlK1A4ZmztnFPOKGs",
+      "name" : "Aleks",
+      "type" : "artist",
+      "uri" : "spotify:artist:0zKX6nlK1A4ZmztnFPOKGs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V4dYAavPYxUjwVjZm45RZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V4dYAavPYxUjwVjZm45RZ",
+      "id" : "5V4dYAavPYxUjwVjZm45RZ",
+      "name" : "Hoosam",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V4dYAavPYxUjwVjZm45RZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5dXfDMhDn7ahwmqlsCRNhG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5dXfDMhDn7ahwmqlsCRNhG",
+      "id" : "5dXfDMhDn7ahwmqlsCRNhG",
+      "name" : "Grillat",
+      "type" : "artist",
+      "uri" : "spotify:artist:5dXfDMhDn7ahwmqlsCRNhG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Fil0vLpgJFhL6xIcGCuU7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Fil0vLpgJFhL6xIcGCuU7",
+    "id" : "3Fil0vLpgJFhL6xIcGCuU7",
+    "is_local" : false,
+    "name" : "Levande legender",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3Fil0vLpgJFhL6xIcGCuU7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 182586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1SFabSJdInOnmS9kFEG3fm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1SFabSJdInOnmS9kFEG3fm",
+    "id" : "1SFabSJdInOnmS9kFEG3fm",
+    "is_local" : false,
+    "name" : "Ambition",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1SFabSJdInOnmS9kFEG3fm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 184440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6iXQnKuCfbVLjIG745TXYm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6iXQnKuCfbVLjIG745TXYm",
+    "id" : "6iXQnKuCfbVLjIG745TXYm",
+    "is_local" : false,
+    "name" : "Langa fram",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6iXQnKuCfbVLjIG745TXYm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 208266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400109"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6McZ8E4Ynivc55BbDCzaAJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6McZ8E4Ynivc55BbDCzaAJ",
+    "id" : "6McZ8E4Ynivc55BbDCzaAJ",
+    "is_local" : false,
+    "name" : "Länge leve vi",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6McZ8E4Ynivc55BbDCzaAJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0UBceRa0HO3jpVYNpsbVHu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0UBceRa0HO3jpVYNpsbVHu",
+      "id" : "0UBceRa0HO3jpVYNpsbVHu",
+      "name" : "Amin",
+      "type" : "artist",
+      "uri" : "spotify:artist:0UBceRa0HO3jpVYNpsbVHu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 219346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/73tp76eF0xyVz5rik5i60A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/73tp76eF0xyVz5rik5i60A",
+    "id" : "73tp76eF0xyVz5rik5i60A",
+    "is_local" : false,
+    "name" : "Mot alla odds",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:73tp76eF0xyVz5rik5i60A"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tcJ4gpIyT8KNyWJKhUvVc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tcJ4gpIyT8KNyWJKhUvVc",
+      "id" : "4tcJ4gpIyT8KNyWJKhUvVc",
+      "name" : "Michelle Zarate",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tcJ4gpIyT8KNyWJKhUvVc"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 233746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400111"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ecjZWEcQ96Z42kZFN0WPE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ecjZWEcQ96Z42kZFN0WPE",
+    "id" : "5ecjZWEcQ96Z42kZFN0WPE",
+    "is_local" : false,
+    "name" : "Svag",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5ecjZWEcQ96Z42kZFN0WPE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+        "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+        "name" : "Ison & Fille",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7c8E1CtPAjipYwxq1ktf6Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7c8E1CtPAjipYwxq1ktf6Z",
+      "id" : "7c8E1CtPAjipYwxq1ktf6Z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27309e9a0f7099d1c394cf777a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0209e9a0f7099d1c394cf777a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485109e9a0f7099d1c394cf777a2",
+        "width" : 64
+      } ],
+      "name" : "Länge leve vi",
+      "release_date" : "2014-02-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:7c8E1CtPAjipYwxq1ktf6Z"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1400112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/37g8PVLg5rpn3l1iiUbyr7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/37g8PVLg5rpn3l1iiUbyr7",
+    "id" : "37g8PVLg5rpn3l1iiUbyr7",
+    "is_local" : false,
+    "name" : "Genom allt",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:37g8PVLg5rpn3l1iiUbyr7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44YSqyZYMSDBJYRwUVOCPs",
+      "id" : "44YSqyZYMSDBJYRwUVOCPs",
+      "name" : "Jenny Berggren",
+      "type" : "artist",
+      "uri" : "spotify:artist:44YSqyZYMSDBJYRwUVOCPs"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 205920,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEY8J1500103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1FCh6IlWxt0nGz2M5f5c4j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1FCh6IlWxt0nGz2M5f5c4j",
+    "id" : "1FCh6IlWxt0nGz2M5f5c4j",
+    "is_local" : false,
+    "name" : "Push Play",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1FCh6IlWxt0nGz2M5f5c4j"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68QvqbdqwqqjW39YpUJHdG",
+      "id" : "68QvqbdqwqqjW39YpUJHdG",
+      "name" : "Lisa Nilsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:68QvqbdqwqqjW39YpUJHdG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 226028,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SELEI1500502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2qw4MroGRm2dodX0ZxmDdF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2qw4MroGRm2dodX0ZxmDdF",
+    "id" : "2qw4MroGRm2dodX0ZxmDdF",
+    "is_local" : false,
+    "name" : "Raised In Rain",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2qw4MroGRm2dodX0ZxmDdF"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 198599,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1500403"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4jR1zk7CwIt56ZT9JP2hRw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4jR1zk7CwIt56ZT9JP2hRw",
+    "id" : "4jR1zk7CwIt56ZT9JP2hRw",
+    "is_local" : false,
+    "name" : "Satellit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4jR1zk7CwIt56ZT9JP2hRw"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Gl6zw4YYJQ1CAgs7oEBPY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Gl6zw4YYJQ1CAgs7oEBPY",
+      "id" : "7Gl6zw4YYJQ1CAgs7oEBPY",
+      "name" : "Sven-Bertil Taube",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Gl6zw4YYJQ1CAgs7oEBPY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 230924,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71501218"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6MvQPTalv69cIpiD3IofpH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6MvQPTalv69cIpiD3IofpH",
+    "id" : "6MvQPTalv69cIpiD3IofpH",
+    "is_local" : false,
+    "name" : "Serendipity",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6MvQPTalv69cIpiD3IofpH"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YL0l5fnyHE9FEf1bwFGCc",
+      "id" : "2YL0l5fnyHE9FEf1bwFGCc",
+      "name" : "Kleerup",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YL0l5fnyHE9FEf1bwFGCc"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 226519,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEPQA1500730"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41yJccqMx7NC5wyWlhf12g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41yJccqMx7NC5wyWlhf12g",
+    "id" : "41yJccqMx7NC5wyWlhf12g",
+    "is_local" : false,
+    "name" : "Finders, Keepers",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:41yJccqMx7NC5wyWlhf12g"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/357R2puZTVBv4EtHp9s7KI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/357R2puZTVBv4EtHp9s7KI",
+      "id" : "357R2puZTVBv4EtHp9s7KI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a7c601a9ffaf87c96f674c58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a7c601a9ffaf87c96f674c58",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a7c601a9ffaf87c96f674c58",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Miriam Bryants dag",
+      "release_date" : "2015-11-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:357R2puZTVBv4EtHp9s7KI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nEiRzdQNmkUgoknNt9IRu",
+      "id" : "3nEiRzdQNmkUgoknNt9IRu",
+      "name" : "Niklas Strömstedt",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nEiRzdQNmkUgoknNt9IRu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 192133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEPQA1500698"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DGIgBEyZwU2YllZQMt5i7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DGIgBEyZwU2YllZQMt5i7",
+    "id" : "3DGIgBEyZwU2YllZQMt5i7",
+    "is_local" : false,
+    "name" : "Drake",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3DGIgBEyZwU2YllZQMt5i7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2zd9YxlsQvA5mkZ1NarYVQ",
+      "id" : "2zd9YxlsQvA5mkZ1NarYVQ",
+      "name" : "Miriam Bryant",
+      "type" : "artist",
+      "uri" : "spotify:artist:2zd9YxlsQvA5mkZ1NarYVQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 159087,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE3R51500118"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3SbfxTewupWyyhcjXZebGN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3SbfxTewupWyyhcjXZebGN",
+    "id" : "3SbfxTewupWyyhcjXZebGN",
+    "is_local" : false,
+    "name" : "One Last Time",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3SbfxTewupWyyhcjXZebGN"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YL0l5fnyHE9FEf1bwFGCc",
+      "id" : "2YL0l5fnyHE9FEf1bwFGCc",
+      "name" : "Kleerup",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YL0l5fnyHE9FEf1bwFGCc"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 219540,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEPQA1500728"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2jrS30RQ10Rf0EwFR4VuV7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2jrS30RQ10Rf0EwFR4VuV7",
+    "id" : "2jrS30RQ10Rf0EwFR4VuV7",
+    "is_local" : false,
+    "name" : "Imorgon är en annan dag",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2jrS30RQ10Rf0EwFR4VuV7"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68QvqbdqwqqjW39YpUJHdG",
+      "id" : "68QvqbdqwqqjW39YpUJHdG",
+      "name" : "Lisa Nilsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:68QvqbdqwqqjW39YpUJHdG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 225773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SELEI1500501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61zmMyqRnSdu9qrllYwE8i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61zmMyqRnSdu9qrllYwE8i",
+    "id" : "61zmMyqRnSdu9qrllYwE8i",
+    "is_local" : false,
+    "name" : "Vart du än går",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:61zmMyqRnSdu9qrllYwE8i"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7Gl6zw4YYJQ1CAgs7oEBPY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7Gl6zw4YYJQ1CAgs7oEBPY",
+      "id" : "7Gl6zw4YYJQ1CAgs7oEBPY",
+      "name" : "Sven-Bertil Taube",
+      "type" : "artist",
+      "uri" : "spotify:artist:7Gl6zw4YYJQ1CAgs7oEBPY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 140150,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71501216"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3XniIbEL7AoaR7eDvbwuiR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3XniIbEL7AoaR7eDvbwuiR",
+    "id" : "3XniIbEL7AoaR7eDvbwuiR",
+    "is_local" : false,
+    "name" : "Förlorad igen",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3XniIbEL7AoaR7eDvbwuiR"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/44YSqyZYMSDBJYRwUVOCPs",
+      "id" : "44YSqyZYMSDBJYRwUVOCPs",
+      "name" : "Jenny Berggren",
+      "type" : "artist",
+      "uri" : "spotify:artist:44YSqyZYMSDBJYRwUVOCPs"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 219529,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEY8J1500101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0jEPtc8a1JDXkgOT85SDfk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0jEPtc8a1JDXkgOT85SDfk",
+    "id" : "0jEPtc8a1JDXkgOT85SDfk",
+    "is_local" : false,
+    "name" : "Come",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0jEPtc8a1JDXkgOT85SDfk"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4KkmDWYd7jBFVQsQcfQhue"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4KkmDWYd7jBFVQsQcfQhue",
+      "id" : "4KkmDWYd7jBFVQsQcfQhue",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c0eaa02453853682651f47a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c0eaa02453853682651f47a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c0eaa02453853682651f47a",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Niklas Strömstedts dag",
+      "release_date" : "2015-10-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4KkmDWYd7jBFVQsQcfQhue"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 165333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1500401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/32L7jpMP8B1QUREqjZk2x4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/32L7jpMP8B1QUREqjZk2x4",
+    "id" : "32L7jpMP8B1QUREqjZk2x4",
+    "is_local" : false,
+    "name" : "Tänd ett ljus",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:32L7jpMP8B1QUREqjZk2x4"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QofDsi1lyJSMgHeYEliJv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QofDsi1lyJSMgHeYEliJv",
+      "id" : "5QofDsi1lyJSMgHeYEliJv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cdb6b7f6307bf7b67d915f71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cdb6b7f6307bf7b67d915f71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cdb6b7f6307bf7b67d915f71",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Jenny Berggrens dag",
+      "release_date" : "2015-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5QofDsi1lyJSMgHeYEliJv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nEiRzdQNmkUgoknNt9IRu",
+      "id" : "3nEiRzdQNmkUgoknNt9IRu",
+      "name" : "Niklas Strömstedt",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nEiRzdQNmkUgoknNt9IRu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 161626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEPQA1500703"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0avKTM1jfmzEIeYcQv1lCQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0avKTM1jfmzEIeYcQv1lCQ",
+    "id" : "0avKTM1jfmzEIeYcQv1lCQ",
+    "is_local" : false,
+    "name" : "Lyckolandet",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0avKTM1jfmzEIeYcQv1lCQ"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QofDsi1lyJSMgHeYEliJv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QofDsi1lyJSMgHeYEliJv",
+      "id" : "5QofDsi1lyJSMgHeYEliJv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cdb6b7f6307bf7b67d915f71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cdb6b7f6307bf7b67d915f71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cdb6b7f6307bf7b67d915f71",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Jenny Berggrens dag",
+      "release_date" : "2015-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5QofDsi1lyJSMgHeYEliJv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fhvwCr1HKEZgZYOrfsHyk",
+      "id" : "1fhvwCr1HKEZgZYOrfsHyk",
+      "name" : "Ison & Fille",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 186330,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXZC1500404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3OO52e61jfJPiz4z4FAc0L"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3OO52e61jfJPiz4z4FAc0L",
+    "id" : "3OO52e61jfJPiz4z4FAc0L",
+    "is_local" : false,
+    "name" : "Allt hon vill ha",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3OO52e61jfJPiz4z4FAc0L"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QofDsi1lyJSMgHeYEliJv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QofDsi1lyJSMgHeYEliJv",
+      "id" : "5QofDsi1lyJSMgHeYEliJv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cdb6b7f6307bf7b67d915f71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cdb6b7f6307bf7b67d915f71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cdb6b7f6307bf7b67d915f71",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Jenny Berggrens dag",
+      "release_date" : "2015-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5QofDsi1lyJSMgHeYEliJv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/68QvqbdqwqqjW39YpUJHdG",
+      "id" : "68QvqbdqwqqjW39YpUJHdG",
+      "name" : "Lisa Nilsson",
+      "type" : "artist",
+      "uri" : "spotify:artist:68QvqbdqwqqjW39YpUJHdG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252056,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SELEI1500506"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Ib7fdX3HYWckLJLBhbmZt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Ib7fdX3HYWckLJLBhbmZt",
+    "id" : "1Ib7fdX3HYWckLJLBhbmZt",
+    "is_local" : false,
+    "name" : "När kärleken tar slut",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1Ib7fdX3HYWckLJLBhbmZt"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5QofDsi1lyJSMgHeYEliJv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5QofDsi1lyJSMgHeYEliJv",
+      "id" : "5QofDsi1lyJSMgHeYEliJv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cdb6b7f6307bf7b67d915f71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cdb6b7f6307bf7b67d915f71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cdb6b7f6307bf7b67d915f71",
+        "width" : 64
+      } ],
+      "name" : "Så mycket bättre - Jenny Berggrens dag",
+      "release_date" : "2015-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:5QofDsi1lyJSMgHeYEliJv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2zd9YxlsQvA5mkZ1NarYVQ",
+      "id" : "2zd9YxlsQvA5mkZ1NarYVQ",
+      "name" : "Miriam Bryant",
+      "type" : "artist",
+      "uri" : "spotify:artist:2zd9YxlsQvA5mkZ1NarYVQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 169372,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE3R51500117"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lEr0KIATUxzZ6y4TgpAgy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lEr0KIATUxzZ6y4TgpAgy",
+    "id" : "4lEr0KIATUxzZ6y4TgpAgy",
+    "is_local" : false,
+    "name" : "Life Is A Flower",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4lEr0KIATUxzZ6y4TgpAgy"
+  } ]
+}

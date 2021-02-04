@@ -1,0 +1,3835 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+      "id" : "3np2OYRZAgI4e6lxeGmGr8",
+      "name" : "Hittman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MKz2ieT8BYrOWEs4OG8un"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MKz2ieT8BYrOWEs4OG8un",
+      "id" : "1MKz2ieT8BYrOWEs4OG8un",
+      "name" : "Ms. Roq",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MKz2ieT8BYrOWEs4OG8un"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6agfg4xMnwe2te96GmEUz4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6agfg4xMnwe2te96GmEUz4",
+      "id" : "6agfg4xMnwe2te96GmEUz4",
+      "name" : "Eddie Griffin",
+      "type" : "artist",
+      "uri" : "spotify:artist:6agfg4xMnwe2te96GmEUz4"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 92160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915083"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ncA0KNEe4cuoEe1ZsPwVX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ncA0KNEe4cuoEe1ZsPwVX",
+    "id" : "1ncA0KNEe4cuoEe1ZsPwVX",
+    "is_local" : false,
+    "name" : "Ed-Ucation",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1ncA0KNEe4cuoEe1ZsPwVX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+      "id" : "3np2OYRZAgI4e6lxeGmGr8",
+      "name" : "Hittman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1MKz2ieT8BYrOWEs4OG8un"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1MKz2ieT8BYrOWEs4OG8un",
+      "id" : "1MKz2ieT8BYrOWEs4OG8un",
+      "name" : "Ms. Roq",
+      "type" : "artist",
+      "uri" : "spotify:artist:1MKz2ieT8BYrOWEs4OG8un"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24PJqH46WhB0pUB7NlsFna",
+      "id" : "24PJqH46WhB0pUB7NlsFna",
+      "name" : "Knoc-Turn'al",
+      "type" : "artist",
+      "uri" : "spotify:artist:24PJqH46WhB0pUB7NlsFna"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19xtMz9MNZTPjXBzKPFcFD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19xtMz9MNZTPjXBzKPFcFD",
+      "id" : "19xtMz9MNZTPjXBzKPFcFD",
+      "name" : "Time Bomb",
+      "type" : "artist",
+      "uri" : "spotify:artist:19xtMz9MNZTPjXBzKPFcFD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6LnCMlaEK0IMkLmZsawkUm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6LnCMlaEK0IMkLmZsawkUm",
+      "id" : "6LnCMlaEK0IMkLmZsawkUm",
+      "name" : "Koka Kambon",
+      "type" : "artist",
+      "uri" : "spotify:artist:6LnCMlaEK0IMkLmZsawkUm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5q86w7iZXn16bGAAXbyRrD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5q86w7iZXn16bGAAXbyRrD",
+      "id" : "5q86w7iZXn16bGAAXbyRrD",
+      "name" : "Defari",
+      "type" : "artist",
+      "uri" : "spotify:artist:5q86w7iZXn16bGAAXbyRrD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fbyGOEjViyE97W58eGEgU",
+      "id" : "4fbyGOEjViyE97W58eGEgU",
+      "name" : "MC Ren",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fbyGOEjViyE97W58eGEgU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 265173,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915084"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0X4TIvfc0ZxvOeohACNMfc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0X4TIvfc0ZxvOeohACNMfc",
+    "id" : "0X4TIvfc0ZxvOeohACNMfc",
+    "is_local" : false,
+    "name" : "Some L.A. Niggaz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0X4TIvfc0ZxvOeohACNMfc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7k9nnnyyJm4CORBhWGoGNl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7k9nnnyyJm4CORBhWGoGNl",
+      "id" : "7k9nnnyyJm4CORBhWGoGNl",
+      "name" : "Jake Steed",
+      "type" : "artist",
+      "uri" : "spotify:artist:7k9nnnyyJm4CORBhWGoGNl"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 92800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915085"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LtBZCUZWoTHpmhcOOfSeJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LtBZCUZWoTHpmhcOOfSeJ",
+    "id" : "5LtBZCUZWoTHpmhcOOfSeJ",
+    "is_local" : false,
+    "name" : "Pause 4 Porno",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:5LtBZCUZWoTHpmhcOOfSeJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+      "id" : "3np2OYRZAgI4e6lxeGmGr8",
+      "name" : "Hittman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+      "id" : "6NyJIFHAePjHR1pFxwisqz",
+      "name" : "Kurupt",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 242666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915087"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6UeR9EXQ3JWOWiDX7ZnDhD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6UeR9EXQ3JWOWiDX7ZnDhD",
+    "id" : "6UeR9EXQ3JWOWiDX7ZnDhD",
+    "is_local" : false,
+    "name" : "Housewife",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:6UeR9EXQ3JWOWiDX7ZnDhD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+      "id" : "3np2OYRZAgI4e6lxeGmGr8",
+      "name" : "Hittman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 219960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915086"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7EV37bmY3qzHzf8PA3ueMv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7EV37bmY3qzHzf8PA3ueMv",
+    "id" : "7EV37bmY3qzHzf8PA3ueMv",
+    "is_local" : false,
+    "name" : "Ackrite",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:7EV37bmY3qzHzf8PA3ueMv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+      "id" : "3np2OYRZAgI4e6lxeGmGr8",
+      "name" : "Hittman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24PJqH46WhB0pUB7NlsFna",
+      "id" : "24PJqH46WhB0pUB7NlsFna",
+      "name" : "Knoc-Turn'al",
+      "type" : "artist",
+      "uri" : "spotify:artist:24PJqH46WhB0pUB7NlsFna"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19915088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GgmaSJiVylNjuRnzodXv5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GgmaSJiVylNjuRnzodXv5",
+    "id" : "5GgmaSJiVylNjuRnzodXv5",
+    "is_local" : false,
+    "name" : "Bang Bang",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:5GgmaSJiVylNjuRnzodXv5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+      "id" : "5csXMdS69VOvh8MjyfwkjB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+        "width" : 64
+      } ],
+      "name" : "2001 (Explicit Version)",
+      "release_date" : "1999-11-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1e6qS5wkNPTSaYfds8G150"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1e6qS5wkNPTSaYfds8G150",
+      "id" : "1e6qS5wkNPTSaYfds8G150",
+      "name" : "Thomas Chong",
+      "type" : "artist",
+      "uri" : "spotify:artist:1e6qS5wkNPTSaYfds8G150"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1XkoF8ryArs86LZvFOkbyr",
+      "id" : "1XkoF8ryArs86LZvFOkbyr",
+      "name" : "Mary J. Blige",
+      "type" : "artist",
+      "uri" : "spotify:artist:1XkoF8ryArs86LZvFOkbyr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0EOoSsmM3oV2aoGL3Od3E3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0EOoSsmM3oV2aoGL3Od3E3",
+      "id" : "0EOoSsmM3oV2aoGL3Od3E3",
+      "name" : "Rell",
+      "type" : "artist",
+      "uri" : "spotify:artist:0EOoSsmM3oV2aoGL3Od3E3"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 329333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19915089"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2z5USVhHM2qGcHlKYdagmf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2z5USVhHM2qGcHlKYdagmf",
+    "id" : "2z5USVhHM2qGcHlKYdagmf",
+    "is_local" : false,
+    "name" : "The Message/ Outro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:2z5USVhHM2qGcHlKYdagmf"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 56453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618653"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1k0deqWGk4cjnlvIQqT95f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1k0deqWGk4cjnlvIQqT95f",
+    "id" : "1k0deqWGk4cjnlvIQqT95f",
+    "is_local" : false,
+    "name" : "Shady Narcotics",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d55b4a44bc4e1f042b6f583c07834c86587ba7f1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1k0deqWGk4cjnlvIQqT95f"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0adMhStQvE8H1B0IS45CJX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0adMhStQvE8H1B0IS45CJX",
+      "id" : "0adMhStQvE8H1B0IS45CJX",
+      "name" : "Bobby Creekwater",
+      "type" : "artist",
+      "uri" : "spotify:artist:0adMhStQvE8H1B0IS45CJX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618664"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2z4bJAPjNYLTTX7Hlaci6H"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2z4bJAPjNYLTTX7Hlaci6H",
+    "id" : "2z4bJAPjNYLTTX7Hlaci6H",
+    "is_local" : false,
+    "name" : "We're Back",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1ad575ced621a73f7974ac76bd0797e6c2785204?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2z4bJAPjNYLTTX7Hlaci6H"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 145826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618652"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6us0BYGXFGychCrUbdA4AS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6us0BYGXFGychCrUbdA4AS",
+    "id" : "6us0BYGXFGychCrUbdA4AS",
+    "is_local" : false,
+    "name" : "Pistol Pistol (Remix)",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9cacaf689ecc5236ee95fec8b8b4c6cbedfa7bed?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6us0BYGXFGychCrUbdA4AS"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2TSvMFHlguDI495vujOAys"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2TSvMFHlguDI495vujOAys",
+      "id" : "2TSvMFHlguDI495vujOAys",
+      "name" : "Bizarre",
+      "type" : "artist",
+      "uri" : "spotify:artist:2TSvMFHlguDI495vujOAys"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/546HEvI7r0RIJn6QgrTLEm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/546HEvI7r0RIJn6QgrTLEm",
+      "id" : "546HEvI7r0RIJn6QgrTLEm",
+      "name" : "Kuniva",
+      "type" : "artist",
+      "uri" : "spotify:artist:546HEvI7r0RIJn6QgrTLEm"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 130613,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618650"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4d3yxvBzsI1e3NWzTqQuwC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4d3yxvBzsI1e3NWzTqQuwC",
+    "id" : "4d3yxvBzsI1e3NWzTqQuwC",
+    "is_local" : false,
+    "name" : "Murder",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a17b74216e93fccdd751f37039a8925de45881a5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4d3yxvBzsI1e3NWzTqQuwC"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 269466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618646"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UmMBMAIXfZRyjIFjgky82"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UmMBMAIXfZRyjIFjgky82",
+    "id" : "1UmMBMAIXfZRyjIFjgky82",
+    "is_local" : false,
+    "name" : "Everything Is Shady",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bdac52f6fd66ea5947a235d6dc64c345c29d3af1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1UmMBMAIXfZRyjIFjgky82"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 177906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618659"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4GJb5L1nvOZmuIJAmye9GT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4GJb5L1nvOZmuIJAmye9GT",
+    "id" : "4GJb5L1nvOZmuIJAmye9GT",
+    "is_local" : false,
+    "name" : "The Re-Up",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/92de093ea86291253a8d6729c8d5b7e059e89349?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4GJb5L1nvOZmuIJAmye9GT"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+      "id" : "3vDUJHQtqT3jFRZ2ECXDTi",
+      "name" : "Lloyd Banks",
+      "type" : "artist",
+      "uri" : "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 257906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70613171"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0nKZeSrqH9u31NLoTUsYBR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0nKZeSrqH9u31NLoTUsYBR",
+    "id" : "0nKZeSrqH9u31NLoTUsYBR",
+    "is_local" : false,
+    "name" : "You Don't Know",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/edbe2d0838f885b61552df9bbe58e05d73bf42d3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0nKZeSrqH9u31NLoTUsYBR"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 234453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618648"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2wjJrxQMrQ7thWQQ62NmV8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2wjJrxQMrQ7thWQQ62NmV8",
+    "id" : "2wjJrxQMrQ7thWQQ62NmV8",
+    "is_local" : false,
+    "name" : "Jimmy Crack Corn",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a196b4552d18063d1dd3ca7ad57b274f5ee46b2c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2wjJrxQMrQ7thWQQ62NmV8"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1W7G3vXPeISR3Oi9ggVfyE",
+      "id" : "1W7G3vXPeISR3Oi9ggVfyE",
+      "name" : "Proof",
+      "type" : "artist",
+      "uri" : "spotify:artist:1W7G3vXPeISR3Oi9ggVfyE"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 58280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618661"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5HtWfVzVYnjT9rfL3181cm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5HtWfVzVYnjT9rfL3181cm",
+    "id" : "5HtWfVzVYnjT9rfL3181cm",
+    "is_local" : false,
+    "name" : "Trapped",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f15bd3a54ed1967e7ec0f3df14bd1594359c4daa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5HtWfVzVYnjT9rfL3181cm"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1rKtdSLEWRyGiOF4knk8vU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1rKtdSLEWRyGiOF4knk8vU",
+      "id" : "1rKtdSLEWRyGiOF4knk8vU",
+      "name" : "Swifty McVay",
+      "type" : "artist",
+      "uri" : "spotify:artist:1rKtdSLEWRyGiOF4knk8vU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NhyK1Uoo8ScQOSl8x0jqI",
+      "id" : "4NhyK1Uoo8ScQOSl8x0jqI",
+      "name" : "Denaun",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NhyK1Uoo8ScQOSl8x0jqI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 168973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618665"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vNoLVrLNautj2exU3lUZV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vNoLVrLNautj2exU3lUZV",
+    "id" : "2vNoLVrLNautj2exU3lUZV",
+    "is_local" : false,
+    "name" : "Whatever You Want",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2bca74ef42bb257ef44b35e7e7858559fdb32c75?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2vNoLVrLNautj2exU3lUZV"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618658"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40V6e82rVZ0O7hmFtpelGZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40V6e82rVZ0O7hmFtpelGZ",
+    "id" : "40V6e82rVZ0O7hmFtpelGZ",
+    "is_local" : false,
+    "name" : "Talkin' All That",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/512aab3cc7549056869af01670a776d7c04be9bd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:40V6e82rVZ0O7hmFtpelGZ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 246760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618644"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xvmCQd1A2ju5zaDqn1ZmA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xvmCQd1A2ju5zaDqn1ZmA",
+    "id" : "0xvmCQd1A2ju5zaDqn1ZmA",
+    "is_local" : false,
+    "name" : "By My Side",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f1f988589be7ebcd78d5097a34c91d8db6ce086e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0xvmCQd1A2ju5zaDqn1ZmA"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 188186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618663"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/57JRnsTvwguDt0ULo0bdnZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/57JRnsTvwguDt0ULo0bdnZ",
+    "id" : "57JRnsTvwguDt0ULo0bdnZ",
+    "is_local" : false,
+    "name" : "We Ride For Shady",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbf4266daa566ab81dc5d825056e0c681983535e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:57JRnsTvwguDt0ULo0bdnZ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0adMhStQvE8H1B0IS45CJX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0adMhStQvE8H1B0IS45CJX",
+      "id" : "0adMhStQvE8H1B0IS45CJX",
+      "name" : "Bobby Creekwater",
+      "type" : "artist",
+      "uri" : "spotify:artist:0adMhStQvE8H1B0IS45CJX"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265013,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618660"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76QWmZ9lR65gGfe03jmmPP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76QWmZ9lR65gGfe03jmmPP",
+    "id" : "76QWmZ9lR65gGfe03jmmPP",
+    "is_local" : false,
+    "name" : "There He Is",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f63a6b85ade2006b1bfc07cc9265ac9383a4d00e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:76QWmZ9lR65gGfe03jmmPP"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 232920,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618662"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6TUZ8JMRhQneqFeOwQw2TX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6TUZ8JMRhQneqFeOwQw2TX",
+    "id" : "6TUZ8JMRhQneqFeOwQw2TX",
+    "is_local" : false,
+    "name" : "Tryin' Ta Win",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/572212afe875e9fef9cfeb16e6181df8d6d4babf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6TUZ8JMRhQneqFeOwQw2TX"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+      "id" : "0z4gvV4rjIZ9wHck67ucSV",
+      "name" : "Akon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0adMhStQvE8H1B0IS45CJX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0adMhStQvE8H1B0IS45CJX",
+      "id" : "0adMhStQvE8H1B0IS45CJX",
+      "name" : "Bobby Creekwater",
+      "type" : "artist",
+      "uri" : "spotify:artist:0adMhStQvE8H1B0IS45CJX"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 311893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3KQjHi3PoIYvyrZ8I663GY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3KQjHi3PoIYvyrZ8I663GY",
+    "id" : "3KQjHi3PoIYvyrZ8I663GY",
+    "is_local" : false,
+    "name" : "Smack That (Remix)",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/81bbb9219dc34703c9a5847e800c033756a6eb85?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:3KQjHi3PoIYvyrZ8I663GY"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 114546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618647"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5lkULyDWQM2eaJHEGzvfWH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5lkULyDWQM2eaJHEGzvfWH",
+    "id" : "5lkULyDWQM2eaJHEGzvfWH",
+    "is_local" : false,
+    "name" : "Public Enemy #1",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/294f354a6007b68a301d17874691ff8c6b63e850?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:5lkULyDWQM2eaJHEGzvfWH"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 199800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70615773"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6dgsGN3IdrjNvMuyxkEWUi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6dgsGN3IdrjNvMuyxkEWUi",
+    "id" : "6dgsGN3IdrjNvMuyxkEWUi",
+    "is_local" : false,
+    "name" : "Get Low",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9be1390398cbfe4977451eaf79204aa770e86654?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:6dgsGN3IdrjNvMuyxkEWUi"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 184040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618655"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/674S1HSR7FnseN4AZw4qp3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/674S1HSR7FnseN4AZw4qp3",
+    "id" : "674S1HSR7FnseN4AZw4qp3",
+    "is_local" : false,
+    "name" : "Ski Mask Way (Eminem Remix)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0efef0eadeaef4e0dce557479504a0e953be31e8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:674S1HSR7FnseN4AZw4qp3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+      "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+      "name" : "Nate Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0adMhStQvE8H1B0IS45CJX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0adMhStQvE8H1B0IS45CJX",
+      "id" : "0adMhStQvE8H1B0IS45CJX",
+      "name" : "Bobby Creekwater",
+      "type" : "artist",
+      "uri" : "spotify:artist:0adMhStQvE8H1B0IS45CJX"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 179560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618362"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/08ti9NvrGlNdcuEp0RbkVa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/08ti9NvrGlNdcuEp0RbkVa",
+    "id" : "08ti9NvrGlNdcuEp0RbkVa",
+    "is_local" : false,
+    "name" : "Shake That (Remix)",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/33ef826f1dcdc385eab3417c5e74999d048cd042?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:08ti9NvrGlNdcuEp0RbkVa"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/546HEvI7r0RIJn6QgrTLEm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/546HEvI7r0RIJn6QgrTLEm",
+      "id" : "546HEvI7r0RIJn6QgrTLEm",
+      "name" : "Kuniva",
+      "type" : "artist",
+      "uri" : "spotify:artist:546HEvI7r0RIJn6QgrTLEm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0adMhStQvE8H1B0IS45CJX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0adMhStQvE8H1B0IS45CJX",
+      "id" : "0adMhStQvE8H1B0IS45CJX",
+      "name" : "Bobby Creekwater",
+      "type" : "artist",
+      "uri" : "spotify:artist:0adMhStQvE8H1B0IS45CJX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+      "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+      "name" : "Ca$his",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618645"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jB47blwIhea8DovMFyLS3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jB47blwIhea8DovMFyLS3",
+    "id" : "1jB47blwIhea8DovMFyLS3",
+    "is_local" : false,
+    "name" : "Cry Now - Shady Remix",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/255fea7ab5f05f12fbafd8e4d58234bb593ffa87?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:1jB47blwIhea8DovMFyLS3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 258666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70618651"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Bdoo7LrNuTlOPYx6w7ORW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Bdoo7LrNuTlOPYx6w7ORW",
+    "id" : "5Bdoo7LrNuTlOPYx6w7ORW",
+    "is_local" : false,
+    "name" : "No Apologies",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4f2400c6350f7b1c53976fc5e32c4741badfd17e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:5Bdoo7LrNuTlOPYx6w7ORW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+        "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+        "name" : "Eminem",
+        "type" : "artist",
+        "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+      "id" : "2bBDybnvM234YGjNVcMQaK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+        "width" : 64
+      } ],
+      "name" : "Eminem Presents The Re-Up",
+      "release_date" : "2006-12-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Oesi698iJRUaBeT82zckf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Oesi698iJRUaBeT82zckf",
+      "id" : "6Oesi698iJRUaBeT82zckf",
+      "name" : "Stat Quo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Oesi698iJRUaBeT82zckf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 221466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70607215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RsiOrD2DI7n7tRAn2sjL1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RsiOrD2DI7n7tRAn2sjL1",
+    "id" : "5RsiOrD2DI7n7tRAn2sjL1",
+    "is_local" : false,
+    "name" : "Billion Bucks",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bf04a50a47e1b509f964529c4b3ec9047b9ae7e8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:5RsiOrD2DI7n7tRAn2sjL1"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhL2Vdao2v8SS8AptuhAr",
+      "id" : "3PhL2Vdao2v8SS8AptuhAr",
+      "name" : "James Horner",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhL2Vdao2v8SS8AptuhAr"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 87253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG11500841"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2VBMOiho6P9N3buhDzjLjF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2VBMOiho6P9N3buhDzjLjF",
+    "id" : "2VBMOiho6P9N3buhDzjLjF",
+    "is_local" : false,
+    "name" : "Cry For Love - Pt. 1",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bf55545be988f0ea576242a36a6ef52369f2ed68?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2VBMOiho6P9N3buhDzjLjF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+      "id" : "4yiQZ8tQPux8cPriYMWUFP",
+      "name" : "Gwen Stefani",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 296133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4uX7M3U4I1nsZ7SFM4XNCn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4uX7M3U4I1nsZ7SFM4XNCn",
+    "id" : "4uX7M3U4I1nsZ7SFM4XNCn",
+    "is_local" : false,
+    "name" : "Kings Never Die",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b37f5bce42bc731149ab6eaf9561e51d2b1ace1b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4uX7M3U4I1nsZ7SFM4XNCn"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/70eNABm9r2VXOGYW4r209H"
+      },
+      "href" : "https://api.spotify.com/v1/artists/70eNABm9r2VXOGYW4r209H",
+      "id" : "70eNABm9r2VXOGYW4r209H",
+      "name" : "Rob Bailey & The Hustle Standard",
+      "type" : "artist",
+      "uri" : "spotify:artist:70eNABm9r2VXOGYW4r209H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6fFfnKGVI6X3lkCr8Qw1g1",
+      "id" : "6fFfnKGVI6X3lkCr8Qw1g1",
+      "name" : "KXNG Crooked",
+      "type" : "artist",
+      "uri" : "spotify:artist:6fFfnKGVI6X3lkCr8Qw1g1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+      "id" : "6UBA15slIuadJ8h2lPRPos",
+      "name" : "Tech N9ne",
+      "type" : "artist",
+      "uri" : "spotify:artist:6UBA15slIuadJ8h2lPRPos"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509344"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2fWSwWmKRuyioqIzOzuQGo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2fWSwWmKRuyioqIzOzuQGo",
+    "id" : "2fWSwWmKRuyioqIzOzuQGo",
+    "is_local" : false,
+    "name" : "Beast - Southpaw Remix",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/edc2d9121725371f382e4da64ed2a7f55b13103b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2fWSwWmKRuyioqIzOzuQGo"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4NhyK1Uoo8ScQOSl8x0jqI",
+      "id" : "4NhyK1Uoo8ScQOSl8x0jqI",
+      "name" : "Denaun",
+      "type" : "artist",
+      "uri" : "spotify:artist:4NhyK1Uoo8ScQOSl8x0jqI"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 233093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509345"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1h0j3s1fkWJxbY0Xb0W6Xd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1h0j3s1fkWJxbY0Xb0W6Xd",
+    "id" : "1h0j3s1fkWJxbY0Xb0W6Xd",
+    "is_local" : false,
+    "name" : "This Corner",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/38aff61bebfffa9451af5fccfce05339392e767a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1h0j3s1fkWJxbY0Xb0W6Xd"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7BMccF0hQFBpP6417k1OtQ",
+      "id" : "7BMccF0hQFBpP6417k1OtQ",
+      "name" : "Action Bronson",
+      "type" : "artist",
+      "uri" : "spotify:artist:7BMccF0hQFBpP6417k1OtQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+      "id" : "2P5sC9cVZDToPxyomzF1UH",
+      "name" : "Joey Bada$$",
+      "type" : "artist",
+      "uri" : "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GEcMpeGIad5O23WxDRFMn",
+      "id" : "2GEcMpeGIad5O23WxDRFMn",
+      "name" : "Rico Love",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GEcMpeGIad5O23WxDRFMn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 252706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509170"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7z4pHlzlLee0GkIYOJKsEW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7z4pHlzlLee0GkIYOJKsEW",
+    "id" : "7z4pHlzlLee0GkIYOJKsEW",
+    "is_local" : false,
+    "name" : "What About The Rest Of Us",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad843de3c5e66ac6193e843f1ded895ba9485994?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7z4pHlzlLee0GkIYOJKsEW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77IURH5NC56Jn09QHi76is",
+      "id" : "77IURH5NC56Jn09QHi76is",
+      "name" : "Bad Meets Evil",
+      "type" : "artist",
+      "uri" : "spotify:artist:77IURH5NC56Jn09QHi76is"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 220880,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509171"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4EsJWjYmZ3mVDz2aElNDb6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4EsJWjYmZ3mVDz2aElNDb6",
+    "id" : "4EsJWjYmZ3mVDz2aElNDb6",
+    "is_local" : false,
+    "name" : "Raw",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a63938d655cefdad86419e2781e7eb8e7c778e0d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4EsJWjYmZ3mVDz2aElNDb6"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rVbcJv0JRfhWLA3mgM73r",
+      "id" : "5rVbcJv0JRfhWLA3mgM73r",
+      "name" : "Slaughterhouse",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rVbcJv0JRfhWLA3mgM73r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509343"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0cG6z63opd1xEcaKaC1CKw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0cG6z63opd1xEcaKaC1CKw",
+    "id" : "0cG6z63opd1xEcaKaC1CKw",
+    "is_local" : false,
+    "name" : "R.N.S.",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/898cabf49498e8a2d271a40e225eeff345ac9d17?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0cG6z63opd1xEcaKaC1CKw"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id" : "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name" : "The Weeknd",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 324133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71211686"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2zifWFGl1dZi68uQeVSRp0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2zifWFGl1dZi68uQeVSRp0",
+    "id" : "2zifWFGl1dZi68uQeVSRp0",
+    "is_local" : false,
+    "name" : "Wicked Games",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2zifWFGl1dZi68uQeVSRp0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77IURH5NC56Jn09QHi76is",
+      "id" : "77IURH5NC56Jn09QHi76is",
+      "name" : "Bad Meets Evil",
+      "type" : "artist",
+      "uri" : "spotify:artist:77IURH5NC56Jn09QHi76is"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 372680,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509173"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5J1wAUibWxgBp5oOrivcpQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5J1wAUibWxgBp5oOrivcpQ",
+    "id" : "5J1wAUibWxgBp5oOrivcpQ",
+    "is_local" : false,
+    "name" : "All I Think About",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7f525997220ff18ce86812c252846fb8b4bbfd37?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5J1wAUibWxgBp5oOrivcpQ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 196080,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71509174"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6814K8HVe6Kof32m54iFMf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6814K8HVe6Kof32m54iFMf",
+    "id" : "6814K8HVe6Kof32m54iFMf",
+    "is_local" : false,
+    "name" : "Drama Never Ends",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/abe729f4dbd059a44d4f68d10bf85befb53f022f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6814K8HVe6Kof32m54iFMf"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ypEjUTTCcPB0dgjQBQyf5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ypEjUTTCcPB0dgjQBQyf5",
+      "id" : "4ypEjUTTCcPB0dgjQBQyf5",
+      "name" : "PRhyme",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ypEjUTTCcPB0dgjQBQyf5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+      "id" : "4xRYI6VqpkE3UwrDrAZL8L",
+      "name" : "Logic",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 181280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUG11500870"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2BGWBlIaJfU2TSeXRF8TAr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2BGWBlIaJfU2TSeXRF8TAr",
+    "id" : "2BGWBlIaJfU2TSeXRF8TAr",
+    "is_local" : false,
+    "name" : "Mode",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0454429334a4e13ae207744d957ea5cb8c90197c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2BGWBlIaJfU2TSeXRF8TAr"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 367320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USBB49901029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6gTI0FNg59yo2q4VYOZ2w3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6gTI0FNg59yo2q4VYOZ2w3",
+    "id" : "6gTI0FNg59yo2q4VYOZ2w3",
+    "is_local" : false,
+    "name" : "Notorious Thugs",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6gTI0FNg59yo2q4VYOZ2w3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 282546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71507741"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4e5lEqydMatcEio6ef9Dpf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4e5lEqydMatcEio6ef9Dpf",
+    "id" : "4e5lEqydMatcEio6ef9Dpf",
+    "is_local" : false,
+    "name" : "Phenomenal",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7d6f454e71891aa2980ad3b1de3c896773597ed?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:4e5lEqydMatcEio6ef9Dpf"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+      "id" : "21CZUn61aoVz08xU4wwfru",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+        "width" : 64
+      } ],
+      "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+      "release_date" : "2015-07-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PhL2Vdao2v8SS8AptuhAr",
+      "id" : "3PhL2Vdao2v8SS8AptuhAr",
+      "name" : "James Horner",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PhL2Vdao2v8SS8AptuhAr"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 93520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUG11500871"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0J1lKQRsBEkpgPS9d3VamY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0J1lKQRsBEkpgPS9d3VamY",
+    "id" : "0J1lKQRsBEkpgPS9d3VamY",
+    "is_local" : false,
+    "name" : "Cry For Love - Pt. 2",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9bd45088aaaba3945de1771d10398b9410c1b36a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0J1lKQRsBEkpgPS9d3VamY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265366,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701438"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Zxdw0Hno7YDu0IzvY76Qo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Zxdw0Hno7YDu0IzvY76Qo",
+    "id" : "4Zxdw0Hno7YDu0IzvY76Qo",
+    "is_local" : false,
+    "name" : "Rent Money",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f4ea33a70af51695803d4e95b26e7e8459aa38d2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Zxdw0Hno7YDu0IzvY76Qo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 172225,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701439"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3yaq0WhtGS0Y6r7vDkw4lc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3yaq0WhtGS0Y6r7vDkw4lc",
+    "id" : "3yaq0WhtGS0Y6r7vDkw4lc",
+    "is_local" : false,
+    "name" : "Good Dope",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9e812ecc68437a216dcb671c1d8f4080d533ff5b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3yaq0WhtGS0Y6r7vDkw4lc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278429,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7iAiOtm19uRwipMm7TH6lw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7iAiOtm19uRwipMm7TH6lw",
+    "id" : "7iAiOtm19uRwipMm7TH6lw",
+    "is_local" : false,
+    "name" : "Zoom",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cb8fde6edc08e70a9650ca877a8c53b2ecf980fd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7iAiOtm19uRwipMm7TH6lw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225134,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701441"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/67dyMPOUsbZ9Yg06PnfAAh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/67dyMPOUsbZ9Yg06PnfAAh",
+    "id" : "67dyMPOUsbZ9Yg06PnfAAh",
+    "is_local" : false,
+    "name" : "Draco",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/341e410273ef8abbcb9aecfbd055e8b56242ffd5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:67dyMPOUsbZ9Yg06PnfAAh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230129,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701442"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5e0RPsQUTQu0A29wqD6bZR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5e0RPsQUTQu0A29wqD6bZR",
+    "id" : "5e0RPsQUTQu0A29wqD6bZR",
+    "is_local" : false,
+    "name" : "Super Trapper",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/35047b9985cbeea7692eff7e4a8be5b4ac53eeb2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5e0RPsQUTQu0A29wqD6bZR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+        "name" : "Future",
+        "type" : "artist",
+        "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      } ],
+      "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+      "id" : "4YtTX4GPvBvewbJvBfXCS2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+        "width" : 64
+      } ],
+      "name" : "FUTURE",
+      "release_date" : "2017-08-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+      "name" : "Future",
+      "type" : "artist",
+      "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    } ],
+    "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+    "disc_number" : 1,
+    "duration_ms" : 248747,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM11701443"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BzjpnOxxngXt1LZiVXhND"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BzjpnOxxngXt1LZiVXhND",
+    "id" : "7BzjpnOxxngXt1LZiVXhND",
+    "is_local" : false,
+    "name" : "POA",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c8cae49026c0772275dbc59da647486c10e227c4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7BzjpnOxxngXt1LZiVXhND"
+  } ]
+}

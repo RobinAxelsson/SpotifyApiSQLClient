@@ -1,0 +1,3547 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 254666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1PmtW9kcH0m2SWl3zJ64Ms"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1PmtW9kcH0m2SWl3zJ64Ms",
+    "id" : "1PmtW9kcH0m2SWl3zJ64Ms",
+    "is_local" : false,
+    "name" : "We All Rite Cha",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:1PmtW9kcH0m2SWl3zJ64Ms"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 205400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29800820"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1J9hnNcvSpiuBzY6gV1GK4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1J9hnNcvSpiuBzY6gV1GK4",
+    "id" : "1J9hnNcvSpiuBzY6gV1GK4",
+    "is_local" : false,
+    "name" : "Big Dogs",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:1J9hnNcvSpiuBzY6gV1GK4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 282506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905122"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AhVqri7WA3IJ51Iwo436E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AhVqri7WA3IJ51Iwo436E",
+    "id" : "1AhVqri7WA3IJ51Iwo436E",
+    "is_local" : false,
+    "name" : "How High (Remix)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:1AhVqri7WA3IJ51Iwo436E"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 140866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905294"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/61EMdKE8HxRvMJmqOyZ7qi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/61EMdKE8HxRvMJmqOyZ7qi",
+    "id" : "61EMdKE8HxRvMJmqOyZ7qi",
+    "is_local" : false,
+    "name" : "Hova Song - Album Version/Intro",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/44ba0a29d7a4a83ad809474c65bc7b7d61e833cd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:61EMdKE8HxRvMJmqOyZ7qi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905312"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76NzgCXGhwGFon40a8yHBv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76NzgCXGhwGFon40a8yHBv",
+    "id" : "76NzgCXGhwGFon40a8yHBv",
+    "is_local" : false,
+    "name" : "So Ghetto",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a62cd3e82a18830f1ecfc42db5ebff73da242ac?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:76NzgCXGhwGFon40a8yHBv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NzM38IkXdbQsQ4qW9CG7z",
+      "id" : "6NzM38IkXdbQsQ4qW9CG7z",
+      "name" : "Amil",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NzM38IkXdbQsQ4qW9CG7z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tCtGc5vt29zFZp6KXzN50",
+      "id" : "0tCtGc5vt29zFZp6KXzN50",
+      "name" : "Beanie Sigel",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tCtGc5vt29zFZp6KXzN50"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4EIzsbsVOzfLwyIvfsRQ8H"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4EIzsbsVOzfLwyIvfsRQ8H",
+    "id" : "4EIzsbsVOzfLwyIvfsRQ8H",
+    "is_local" : false,
+    "name" : "Do It Again (Put Ya Hands Up)",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f11e351aac39a40fa35a184afe04de321fde00a1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4EIzsbsVOzfLwyIvfsRQ8H"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905298"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5QJ66p6iq0Q81FFS6m8rRk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5QJ66p6iq0Q81FFS6m8rRk",
+    "id" : "5QJ66p6iq0Q81FFS6m8rRk",
+    "is_local" : false,
+    "name" : "Dope Man",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/08ff963f6970a8a839b0f1d88d8213b888c64f70?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5QJ66p6iq0Q81FFS6m8rRk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+      "id" : "4iHNK0tOyZPYnBU7nGAgpQ",
+      "name" : "Mariah Carey",
+      "type" : "artist",
+      "uri" : "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905316"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/74eqYps27z6op00sAe9Nqq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/74eqYps27z6op00sAe9Nqq",
+    "id" : "74eqYps27z6op00sAe9Nqq",
+    "is_local" : false,
+    "name" : "Things That U Do",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1bfcd4c775649ad03ded29b170cd9830bec8709d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:74eqYps27z6op00sAe9Nqq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 255466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29906314"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/03QlwMUdrHSxj5P5vZ0A4T"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/03QlwMUdrHSxj5P5vZ0A4T",
+    "id" : "03QlwMUdrHSxj5P5vZ0A4T",
+    "is_local" : false,
+    "name" : "It's Hot (Some Like It Hot)",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/afc577ff89b9a6db0dc953d294d640331a75738c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:03QlwMUdrHSxj5P5vZ0A4T"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0rG0AZBscc8S8q1ahIsasI",
+      "id" : "0rG0AZBscc8S8q1ahIsasI",
+      "name" : "JUVENILE",
+      "type" : "artist",
+      "uri" : "spotify:artist:0rG0AZBscc8S8q1ahIsasI"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905306"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dbeJjvOsZEnskAH5uDOZd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dbeJjvOsZEnskAH5uDOZd",
+    "id" : "1dbeJjvOsZEnskAH5uDOZd",
+    "is_local" : false,
+    "name" : "Snoopy Track",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ceedef0c306ea3dffc75d9537645205eaa2ac509?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1dbeJjvOsZEnskAH5uDOZd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NzM38IkXdbQsQ4qW9CG7z",
+      "id" : "6NzM38IkXdbQsQ4qW9CG7z",
+      "name" : "Amil",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NzM38IkXdbQsQ4qW9CG7z"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 254333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905304"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2dZufvUzNwLPeRVwjkmG4d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2dZufvUzNwLPeRVwjkmG4d",
+    "id" : "2dZufvUzNwLPeRVwjkmG4d",
+    "is_local" : false,
+    "name" : "S. Carter",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10a50b39f78873a8335df583fd31a2a34ccc1c59?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2dZufvUzNwLPeRVwjkmG4d"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jWzNq3sdzSpqn7BnzvIKn",
+      "id" : "4jWzNq3sdzSpqn7BnzvIKn",
+      "name" : "Memphis Bleek",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jWzNq3sdzSpqn7BnzvIKn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NzM38IkXdbQsQ4qW9CG7z",
+      "id" : "6NzM38IkXdbQsQ4qW9CG7z",
+      "name" : "Amil",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NzM38IkXdbQsQ4qW9CG7z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tCtGc5vt29zFZp6KXzN50",
+      "id" : "0tCtGc5vt29zFZp6KXzN50",
+      "name" : "Beanie Sigel",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tCtGc5vt29zFZp6KXzN50"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905318"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/72PMBDDNe6FiaEjEYEa0mi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/72PMBDDNe6FiaEjEYEa0mi",
+    "id" : "72PMBDDNe6FiaEjEYEa0mi",
+    "is_local" : false,
+    "name" : "Pop 4 Roc",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d1c99bc78995d4c56dcffb8f50fa8bf339b580b2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:72PMBDDNe6FiaEjEYEa0mi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 93640,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905920"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QzK15kwaAroAPCwcoTHMG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QzK15kwaAroAPCwcoTHMG",
+    "id" : "4QzK15kwaAroAPCwcoTHMG",
+    "is_local" : false,
+    "name" : "Hova Interlude",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/929aad8d8cb5a9e0d2c7562abb3c780d4c9cbced?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4QzK15kwaAroAPCwcoTHMG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ZhjJOJXXwnPS8PrXdmjLw",
+      "id" : "6ZhjJOJXXwnPS8PrXdmjLw",
+      "name" : "UGK",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZhjJOJXXwnPS8PrXdmjLw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905922"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7m97yKVzPpXV9Z4ezEziOD",
+    "id" : "7m97yKVzPpXV9Z4ezEziOD",
+    "is_local" : false,
+    "name" : "Big Pimpin'",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8b483ad16a702d5d573c78c6ddbae4b4eb4ba488?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:7m97yKVzPpXV9Z4ezEziOD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+      "id" : "5Y5TRrQiqgUO4S36tzjIRZ",
+      "name" : "Timbaland",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5PhUfEu7VYoIFgJQh1KprV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5PhUfEu7VYoIFgJQh1KprV",
+    "id" : "5PhUfEu7VYoIFgJQh1KprV",
+    "is_local" : false,
+    "name" : "Is That Yo Bitch",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0215f2a1cbb74fde00f4aebd53f23bd30d24ff0c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5PhUfEu7VYoIFgJQh1KprV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 402866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905292"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rkUnbH3Wqumnu41h75gPS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rkUnbH3Wqumnu41h75gPS",
+    "id" : "1rkUnbH3Wqumnu41h75gPS",
+    "is_local" : false,
+    "name" : "Come And Get Me",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/39d8fbbf4b884139296425b8efdad781a48b19b3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1rkUnbH3Wqumnu41h75gPS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29906310"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7dhlqqWbTQf8Fk3n0AAjNu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7dhlqqWbTQf8Fk3n0AAjNu",
+    "id" : "7dhlqqWbTQf8Fk3n0AAjNu",
+    "is_local" : false,
+    "name" : "Nymp",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f3ac83b1db76572e0033accb1a1931f3392bdeeb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:7dhlqqWbTQf8Fk3n0AAjNu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 77333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905324"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3WJu7jZotFRg3ePfxQQJyz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3WJu7jZotFRg3ePfxQQJyz",
+    "id" : "3WJu7jZotFRg3ePfxQQJyz",
+    "is_local" : false,
+    "name" : "Hova Song - Album Version/Outro",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3fd8489f92cc54a3cc5db3f50f1e22dd2d14d00b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3WJu7jZotFRg3ePfxQQJyz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+        "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+        "name" : "JAY-Z",
+        "type" : "artist",
+        "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rWJsuu7ukoZZhp7YYkjNZ",
+      "id" : "3rWJsuu7ukoZZhp7YYkjNZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02188099f301c32148ab07a557",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851188099f301c32148ab07a557",
+        "width" : 64
+      } ],
+      "name" : "Volume. 3... Life and Times of S. Carter",
+      "release_date" : "1999-12-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:3rWJsuu7ukoZZhp7YYkjNZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 861440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905300"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ACru9MPI6lgmRg7lbMPoK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ACru9MPI6lgmRg7lbMPoK",
+    "id" : "4ACru9MPI6lgmRg7lbMPoK",
+    "is_local" : false,
+    "name" : "Anything",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/902012e483e25b9aad6f0499a4b30180ead09d84?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:4ACru9MPI6lgmRg7lbMPoK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 278386,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403591"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ssX20QT5c3nA9wk78V1LQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ssX20QT5c3nA9wk78V1LQ",
+    "id" : "3ssX20QT5c3nA9wk78V1LQ",
+    "is_local" : false,
+    "name" : "Ambitionz Az A Ridah",
+    "popularity" : 8,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3ssX20QT5c3nA9wk78V1LQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 276813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403593"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7HFl64GKBtPTa5YoW7j4jL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7HFl64GKBtPTa5YoW7j4jL",
+    "id" : "7HFl64GKBtPTa5YoW7j4jL",
+    "is_local" : false,
+    "name" : "All About U",
+    "popularity" : 3,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7HFl64GKBtPTa5YoW7j4jL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 248693,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403600"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wCcCCocowxdDF0igFaFgh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wCcCCocowxdDF0igFaFgh",
+    "id" : "1wCcCCocowxdDF0igFaFgh",
+    "is_local" : false,
+    "name" : "Skandalouz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1wCcCCocowxdDF0igFaFgh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 312640,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AYFNoXF0xw5Shsg0lHvBn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AYFNoXF0xw5Shsg0lHvBn",
+    "id" : "3AYFNoXF0xw5Shsg0lHvBn",
+    "is_local" : false,
+    "name" : "Got My Mind Made Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3AYFNoXF0xw5Shsg0lHvBn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 287546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403604"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1eduDdsjMO7Or4EXnMf2iS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1eduDdsjMO7Or4EXnMf2iS",
+    "id" : "1eduDdsjMO7Or4EXnMf2iS",
+    "is_local" : false,
+    "name" : "How Do You Want It",
+    "popularity" : 3,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1eduDdsjMO7Or4EXnMf2iS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403609"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Ddu4AaN1VaZ1MTg1neCl7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Ddu4AaN1VaZ1MTg1neCl7",
+    "id" : "5Ddu4AaN1VaZ1MTg1neCl7",
+    "is_local" : false,
+    "name" : "2 Of Amerikaz Most Wanted",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5Ddu4AaN1VaZ1MTg1neCl7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 374800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403611"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7dJiDDo32YBDppIe3ZwiNP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7dJiDDo32YBDppIe3ZwiNP",
+    "id" : "7dJiDDo32YBDppIe3ZwiNP",
+    "is_local" : false,
+    "name" : "No More Pain",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7dJiDDo32YBDppIe3ZwiNP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 283373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403618"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4NrG279pDVphLmS1e2JVWp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4NrG279pDVphLmS1e2JVWp",
+    "id" : "4NrG279pDVphLmS1e2JVWp",
+    "is_local" : false,
+    "name" : "Heartz Of Men",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4NrG279pDVphLmS1e2JVWp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 301600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403620"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2bUojZta7GJTjGAqo064jo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2bUojZta7GJTjGAqo064jo",
+    "id" : "2bUojZta7GJTjGAqo064jo",
+    "is_local" : false,
+    "name" : "Life Goes On",
+    "popularity" : 2,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:2bUojZta7GJTjGAqo064jo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 296906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403622"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/13XHuE00ElL5thSxkaEXxK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/13XHuE00ElL5thSxkaEXxK",
+    "id" : "13XHuE00ElL5thSxkaEXxK",
+    "is_local" : false,
+    "name" : "Only God Can Judge Me",
+    "popularity" : 5,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:13XHuE00ElL5thSxkaEXxK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 329826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403688"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uvnwBGPHODpAvu3wwcNaV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uvnwBGPHODpAvu3wwcNaV",
+    "id" : "0uvnwBGPHODpAvu3wwcNaV",
+    "is_local" : false,
+    "name" : "Tradin War Stories",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0uvnwBGPHODpAvu3wwcNaV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 385880,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2pwTzYUTIiwF7Pn8ygXD91"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2pwTzYUTIiwF7Pn8ygXD91",
+    "id" : "2pwTzYUTIiwF7Pn8ygXD91",
+    "is_local" : false,
+    "name" : "California Love (remix)",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:2pwTzYUTIiwF7Pn8ygXD91"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 293666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403963"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ZDcLapel9chZ15ZNuOdD4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ZDcLapel9chZ15ZNuOdD4",
+    "id" : "0ZDcLapel9chZ15ZNuOdD4",
+    "is_local" : false,
+    "name" : "I Ain't Mad At Cha",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0ZDcLapel9chZ15ZNuOdD4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 309520,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404295"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1yOedcASHco5R4m4f4zHhQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1yOedcASHco5R4m4f4zHhQ",
+    "id" : "1yOedcASHco5R4m4f4zHhQ",
+    "is_local" : false,
+    "name" : "Whatz Ya Phone #",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1yOedcASHco5R4m4f4zHhQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 330760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404416"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/09EwNbGvUyu7BDEYG0cJro"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/09EwNbGvUyu7BDEYG0cJro",
+    "id" : "09EwNbGvUyu7BDEYG0cJro",
+    "is_local" : false,
+    "name" : "Can't C Me",
+    "popularity" : 2,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:09EwNbGvUyu7BDEYG0cJro"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 231653,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404417"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4L1aB9H3HGsVstHlOM6Yz6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4L1aB9H3HGsVstHlOM6Yz6",
+    "id" : "4L1aB9H3HGsVstHlOM6Yz6",
+    "is_local" : false,
+    "name" : "Shorty Wanna Be A Thug",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4L1aB9H3HGsVstHlOM6Yz6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 295413,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404418"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1aBXNJsLuOeo6ZIeNRkbRc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1aBXNJsLuOeo6ZIeNRkbRc",
+    "id" : "1aBXNJsLuOeo6ZIeNRkbRc",
+    "is_local" : false,
+    "name" : "Holla At Me",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1aBXNJsLuOeo6ZIeNRkbRc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 258466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404419"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/47lnB0fWXHnI5CBMx0OXB3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/47lnB0fWXHnI5CBMx0OXB3",
+    "id" : "47lnB0fWXHnI5CBMx0OXB3",
+    "is_local" : false,
+    "name" : "Wonda Why They Call U B____",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:47lnB0fWXHnI5CBMx0OXB3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 309586,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3PHGWTMoL4X0j2kSmwa5gw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3PHGWTMoL4X0j2kSmwa5gw",
+    "id" : "3PHGWTMoL4X0j2kSmwa5gw",
+    "is_local" : false,
+    "name" : "When We Ride",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3PHGWTMoL4X0j2kSmwa5gw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 307640,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404421"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mgTJ1tSbdPpD9pRgtqyq5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mgTJ1tSbdPpD9pRgtqyq5",
+    "id" : "0mgTJ1tSbdPpD9pRgtqyq5",
+    "is_local" : false,
+    "name" : "Thug Passion",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0mgTJ1tSbdPpD9pRgtqyq5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 314720,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/37zQVgP3aTLKNvluXLB5Ii"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/37zQVgP3aTLKNvluXLB5Ii",
+    "id" : "37zQVgP3aTLKNvluXLB5Ii",
+    "is_local" : false,
+    "name" : "Picture Me Rollin'",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:37zQVgP3aTLKNvluXLB5Ii"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 279066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404423"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6KNUrRgzrccGtJpGdP39GU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6KNUrRgzrccGtJpGdP39GU",
+    "id" : "6KNUrRgzrccGtJpGdP39GU",
+    "is_local" : false,
+    "name" : "Check Out Time",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6KNUrRgzrccGtJpGdP39GU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 253973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404424"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6EVKzzNM0ZhEvJTBk2SACX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6EVKzzNM0ZhEvJTBk2SACX",
+    "id" : "6EVKzzNM0ZhEvJTBk2SACX",
+    "is_local" : false,
+    "name" : "Ratha Be Ya N____",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6EVKzzNM0ZhEvJTBk2SACX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 307773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404425"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2xTft6GEZeTyWNpdX94rkf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2xTft6GEZeTyWNpdX94rkf",
+    "id" : "2xTft6GEZeTyWNpdX94rkf",
+    "is_local" : false,
+    "name" : "All Eyez On Me",
+    "popularity" : 36,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2xTft6GEZeTyWNpdX94rkf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 316400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cFe9hcxMmjsl0kENZs9gD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cFe9hcxMmjsl0kENZs9gD",
+    "id" : "3cFe9hcxMmjsl0kENZs9gD",
+    "is_local" : false,
+    "name" : "Run Tha Streetz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3cFe9hcxMmjsl0kENZs9gD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 268573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404427"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7AKYbayA2idDquYVASfu1F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7AKYbayA2idDquYVASfu1F",
+    "id" : "7AKYbayA2idDquYVASfu1F",
+    "is_local" : false,
+    "name" : "Ain't Hard 2 Find",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7AKYbayA2idDquYVASfu1F"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4CzT5ueFBRpbILw34HQYxi",
+      "id" : "4CzT5ueFBRpbILw34HQYxi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a786ad0992cfe0b2719729bf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a786ad0992cfe0b2719729bf",
+        "width" : 64
+      } ],
+      "name" : "All Eyez On Me",
+      "release_date" : "1996-02-13",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4CzT5ueFBRpbILw34HQYxi"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 239226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10404428"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0BUl2dAZtoyQnpQRQT3yiy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0BUl2dAZtoyQnpQRQT3yiy",
+    "id" : "0BUl2dAZtoyQnpQRQT3yiy",
+    "is_local" : false,
+    "name" : "Heaven Ain't Hard 2 Find",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0BUl2dAZtoyQnpQRQT3yiy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24ukVVKIZapjS6uDgF1qSn",
+      "id" : "24ukVVKIZapjS6uDgF1qSn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02796e9d830c2237253fd9b084",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851796e9d830c2237253fd9b084",
+        "width" : 64
+      } ],
+      "name" : "The 18th Letter / The Book Of Life",
+      "release_date" : "1996-11-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:24ukVVKIZapjS6uDgF1qSn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 12133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUR10001399"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QOM4vIhiM7HavtsNFE5Zv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QOM4vIhiM7HavtsNFE5Zv",
+    "id" : "0QOM4vIhiM7HavtsNFE5Zv",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0QOM4vIhiM7HavtsNFE5Zv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24ukVVKIZapjS6uDgF1qSn",
+      "id" : "24ukVVKIZapjS6uDgF1qSn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02796e9d830c2237253fd9b084",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851796e9d830c2237253fd9b084",
+        "width" : 64
+      } ],
+      "name" : "The 18th Letter / The Book Of Life",
+      "release_date" : "1996-11-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:24ukVVKIZapjS6uDgF1qSn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 180933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUR19700370"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63T3O3u70cICyNxJPh3CXn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63T3O3u70cICyNxJPh3CXn",
+    "id" : "63T3O3u70cICyNxJPh3CXn",
+    "is_local" : false,
+    "name" : "The 18th Letter (Always And Forever)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f6350eecc744ceecce92471b64a272ce560c800c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:63T3O3u70cICyNxJPh3CXn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24ukVVKIZapjS6uDgF1qSn",
+      "id" : "24ukVVKIZapjS6uDgF1qSn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02796e9d830c2237253fd9b084",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851796e9d830c2237253fd9b084",
+        "width" : 64
+      } ],
+      "name" : "The 18th Letter / The Book Of Life",
+      "release_date" : "1996-11-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:24ukVVKIZapjS6uDgF1qSn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 23600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUR19700383"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1phd829Yl07lnasuD2SPyj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1phd829Yl07lnasuD2SPyj",
+    "id" : "1phd829Yl07lnasuD2SPyj",
+    "is_local" : false,
+    "name" : "Skit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1phd829Yl07lnasuD2SPyj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/24ukVVKIZapjS6uDgF1qSn",
+      "id" : "24ukVVKIZapjS6uDgF1qSn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02796e9d830c2237253fd9b084",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851796e9d830c2237253fd9b084",
+        "width" : 64
+      } ],
+      "name" : "The 18th Letter / The Book Of Life",
+      "release_date" : "1996-11-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:24ukVVKIZapjS6uDgF1qSn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "LB", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUR19700126"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4sMH75ctV0RVSOHZqXJpHD",
+    "id" : "4sMH75ctV0RVSOHZqXJpHD",
+    "is_local" : false,
+    "name" : "It's Been A Long Time",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0dc1aeb05b0ee192b17c820870411cf368f936b8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4sMH75ctV0RVSOHZqXJpHD"
+  } ]
+}

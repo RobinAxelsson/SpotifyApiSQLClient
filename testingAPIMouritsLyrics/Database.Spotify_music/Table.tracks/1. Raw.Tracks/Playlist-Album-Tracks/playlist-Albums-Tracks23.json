@@ -1,0 +1,3673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 359400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211622"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ubl63ZbqP6Zc0RgA038m3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ubl63ZbqP6Zc0RgA038m3",
+    "id" : "4ubl63ZbqP6Zc0RgA038m3",
+    "is_local" : false,
+    "name" : "8 Mile - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4ubl63ZbqP6Zc0RgA038m3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 228893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211640"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7l3seNOkj6GqLgC3NVzenl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7l3seNOkj6GqLgC3NVzenl",
+    "id" : "7l3seNOkj6GqLgC3NVzenl",
+    "is_local" : false,
+    "name" : "Adrenaline Rush - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7l3seNOkj6GqLgC3NVzenl"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 255040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211626"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7olwwWzP1lLtOeDFpYKHtZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7olwwWzP1lLtOeDFpYKHtZ",
+    "id" : "7olwwWzP1lLtOeDFpYKHtZ",
+    "is_local" : false,
+    "name" : "Places To Go - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7olwwWzP1lLtOeDFpYKHtZ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Qi4Bb7a8C0a00NZcA77L0",
+      "id" : "5Qi4Bb7a8C0a00NZcA77L0",
+      "name" : "D12",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Qi4Bb7a8C0a00NZcA77L0"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 353760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211642"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5rBYDvC9AUf91xkjid34rd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5rBYDvC9AUf91xkjid34rd",
+    "id" : "5rBYDvC9AUf91xkjid34rd",
+    "is_local" : false,
+    "name" : "Rap Game - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5rBYDvC9AUf91xkjid34rd"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Jwr7hGoSNK3S3QBxh3T0z",
+      "id" : "2Jwr7hGoSNK3S3QBxh3T0z",
+      "name" : "Freeway",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Jwr7hGoSNK3S3QBxh3T0z"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 248173,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211641"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/48yW4aSFWk3NfyzwOj2704"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/48yW4aSFWk3NfyzwOj2704",
+    "id" : "48yW4aSFWk3NfyzwOj2704",
+    "is_local" : false,
+    "name" : "8 Miles And Runnin' - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:48yW4aSFWk3NfyzwOj2704"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 219133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211628"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3hrVY6Y0pHKwJjGfaFYe43"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3hrVY6Y0pHKwJjGfaFYe43",
+    "id" : "3hrVY6Y0pHKwJjGfaFYe43",
+    "is_local" : false,
+    "name" : "Spitshine - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3hrVY6Y0pHKwJjGfaFYe43"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ylR3zwA0zaapAu94fktwa",
+      "id" : "4ylR3zwA0zaapAu94fktwa",
+      "name" : "Macy Gray",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ylR3zwA0zaapAu94fktwa"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR10211630"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/620Zy1CtEv8afuFmflFzJ3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/620Zy1CtEv8afuFmflFzJ3",
+    "id" : "620Zy1CtEv8afuFmflFzJ3",
+    "is_local" : false,
+    "name" : "Time Of My Life - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:620Zy1CtEv8afuFmflFzJ3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 230426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211633"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hXKuAsaua1kfwP4WlW1fy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hXKuAsaua1kfwP4WlW1fy",
+    "id" : "5hXKuAsaua1kfwP4WlW1fy",
+    "is_local" : false,
+    "name" : "U Wanna Be Me - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5hXKuAsaua1kfwP4WlW1fy"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 218706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211631"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WKGI8jIQDBae40p6MkzRb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WKGI8jIQDBae40p6MkzRb",
+    "id" : "4WKGI8jIQDBae40p6MkzRb",
+    "is_local" : false,
+    "name" : "Wanksta - From \"8 Mile\" Soundtrack",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4WKGI8jIQDBae40p6MkzRb"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77lZwVn1U7L3e85XOdx7JQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77lZwVn1U7L3e85XOdx7JQ",
+      "id" : "77lZwVn1U7L3e85XOdx7JQ",
+      "name" : "Boomkat",
+      "type" : "artist",
+      "uri" : "spotify:artist:77lZwVn1U7L3e85XOdx7JQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 217933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDW10200486"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6P9NmdWQZDnELSB6eBtWjF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6P9NmdWQZDnELSB6eBtWjF",
+    "id" : "6P9NmdWQZDnELSB6eBtWjF",
+    "is_local" : false,
+    "name" : "Wastin' My Time",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6P9NmdWQZDnELSB6eBtWjF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 263493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211624"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0svQDWi681zuYlPxucCs01"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0svQDWi681zuYlPxucCs01",
+    "id" : "0svQDWi681zuYlPxucCs01",
+    "is_local" : false,
+    "name" : "R.A.K.I.M. - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0svQDWi681zuYlPxucCs01"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OqgHlGnIFHukth5CY1Ejj",
+      "id" : "4OqgHlGnIFHukth5CY1Ejj",
+      "name" : "Young Zee",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OqgHlGnIFHukth5CY1Ejj"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 285600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211629"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/78jXpckKsLzoGmCc1gWfPD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/78jXpckKsLzoGmCc1gWfPD",
+    "id" : "78jXpckKsLzoGmCc1gWfPD",
+    "is_local" : false,
+    "name" : "That's My Nigga Fo' Real - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:78jXpckKsLzoGmCc1gWfPD"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 175000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI20200312"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Jhz1Hy1ZerCwCdU5W7Yz0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Jhz1Hy1ZerCwCdU5W7Yz0",
+    "id" : "1Jhz1Hy1ZerCwCdU5W7Yz0",
+    "is_local" : false,
+    "name" : "Battle - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1Jhz1Hy1ZerCwCdU5W7Yz0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 190066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211627"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2b1kUfie7igxbXB70V8mMF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2b1kUfie7igxbXB70V8mMF",
+    "id" : "2b1kUfie7igxbXB70V8mMF",
+    "is_local" : false,
+    "name" : "Rabbit Run - Soundtrack Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:2b1kUfie7igxbXB70V8mMF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 300400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211418"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/29u1YXbR3iolosh4jykIWm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/29u1YXbR3iolosh4jykIWm",
+    "id" : "29u1YXbR3iolosh4jykIWm",
+    "is_local" : false,
+    "name" : "Rap Name",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:29u1YXbR3iolosh4jykIWm"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 303106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR10211058"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59FEfsaG5ni8dDy4aWI283"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59FEfsaG5ni8dDy4aWI283",
+    "id" : "59FEfsaG5ni8dDy4aWI283",
+    "is_local" : false,
+    "name" : "Stimulate - Non Album Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:59FEfsaG5ni8dDy4aWI283"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 86000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211643"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5YSBSyN6p6qJv7nsHtoZl2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5YSBSyN6p6qJv7nsHtoZl2",
+    "id" : "5YSBSyN6p6qJv7nsHtoZl2",
+    "is_local" : false,
+    "name" : "'Till I Collapse Freestyle",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5YSBSyN6p6qJv7nsHtoZl2"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YQ8iRgV0uGRdKjBA7Caio"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YQ8iRgV0uGRdKjBA7Caio",
+      "id" : "4YQ8iRgV0uGRdKjBA7Caio",
+      "name" : "Joe Beast",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YQ8iRgV0uGRdKjBA7Caio"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 215626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211664"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6rhZBECdmfFpeKQe5z77fC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6rhZBECdmfFpeKQe5z77fC",
+    "id" : "6rhZBECdmfFpeKQe5z77fC",
+    "is_local" : false,
+    "name" : "Gangsta",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6rhZBECdmfFpeKQe5z77fC"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QoOCN0DfsAQyCOMKS4eRd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6QoOCN0DfsAQyCOMKS4eRd",
+      "id" : "6QoOCN0DfsAQyCOMKS4eRd",
+      "name" : "Brooklyn",
+      "type" : "artist",
+      "uri" : "spotify:artist:6QoOCN0DfsAQyCOMKS4eRd"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 185466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10211666"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hymVataUCuRrCjQ9VetCU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hymVataUCuRrCjQ9VetCU",
+    "id" : "5hymVataUCuRrCjQ9VetCU",
+    "is_local" : false,
+    "name" : "The Weekend",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5hymVataUCuRrCjQ9VetCU"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+      "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+        "width" : 64
+      } ],
+      "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QLCHjXhvd17Rv5iEITQEb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QLCHjXhvd17Rv5iEITQEb",
+      "id" : "4QLCHjXhvd17Rv5iEITQEb",
+      "name" : "Shaunta",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QLCHjXhvd17Rv5iEITQEb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 2,
+    "duration_ms" : 207573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR10211665"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TQm9Xu0VLIgdhexEntNl9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TQm9Xu0VLIgdhexEntNl9",
+    "id" : "0TQm9Xu0VLIgdhexEntNl9",
+    "is_local" : false,
+    "name" : "California",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0TQm9Xu0VLIgdhexEntNl9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1giPduZUUFru23D2icr2A8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1giPduZUUFru23D2icr2A8",
+      "id" : "1giPduZUUFru23D2icr2A8",
+      "name" : "DJ Kay Slay",
+      "type" : "artist",
+      "uri" : "spotify:artist:1giPduZUUFru23D2icr2A8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 164866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200337"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vOmNcA0zL56Bb9oYmUQC6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vOmNcA0zL56Bb9oYmUQC6",
+    "id" : "2vOmNcA0zL56Bb9oYmUQC6",
+    "is_local" : false,
+    "name" : "Intro (Cam'ron/Come Home With Me)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2vOmNcA0zL56Bb9oYmUQC6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 366093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200335"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4iRF4ut2kocAo3Hex8ddWZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4iRF4ut2kocAo3Hex8ddWZ",
+    "id" : "4iRF4ut2kocAo3Hex8ddWZ",
+    "is_local" : false,
+    "name" : "Losing Weight Part 2",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4iRF4ut2kocAo3Hex8ddWZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 204706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200334"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3sgTiqsN5eNNGTBl1VsO44"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3sgTiqsN5eNNGTBl1VsO44",
+    "id" : "3sgTiqsN5eNNGTBl1VsO44",
+    "is_local" : false,
+    "name" : "Oh Boy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3sgTiqsN5eNNGTBl1VsO44"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Jz9kKRnCRLTodCH58MyB4",
+      "id" : "5Jz9kKRnCRLTodCH58MyB4",
+      "name" : "Daz Dillinger",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Jz9kKRnCRLTodCH58MyB4"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 191933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200336"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WnsCjsbGnSGXOfPIL4eNu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WnsCjsbGnSGXOfPIL4eNu",
+    "id" : "4WnsCjsbGnSGXOfPIL4eNu",
+    "is_local" : false,
+    "name" : "Live My Life (Leave Me Alone)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4WnsCjsbGnSGXOfPIL4eNu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5RNVaSXkAsve6d2bfZmB0F",
+      "id" : "5RNVaSXkAsve6d2bfZmB0F",
+      "name" : "Tiffany",
+      "type" : "artist",
+      "uri" : "spotify:artist:5RNVaSXkAsve6d2bfZmB0F"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 389333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ20200345"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lArSG78S4zYixg36rJeVE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lArSG78S4zYixg36rJeVE",
+    "id" : "4lArSG78S4zYixg36rJeVE",
+    "is_local" : false,
+    "name" : "Daydreaming - Album Version (Edited)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4lArSG78S4zYixg36rJeVE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ydcRbgt0yM9etADb1Ackp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ydcRbgt0yM9etADb1Ackp",
+      "id" : "7ydcRbgt0yM9etADb1Ackp",
+      "name" : "Jimmy Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ydcRbgt0yM9etADb1Ackp"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 301533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200346"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KzA5EK7hWD05NX7Cdncyn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KzA5EK7hWD05NX7Cdncyn",
+    "id" : "7KzA5EK7hWD05NX7Cdncyn",
+    "is_local" : false,
+    "name" : "Come Home With Me",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7KzA5EK7hWD05NX7Cdncyn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 309600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200330"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7oW0rVleNLx2sSDbe5lLLy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7oW0rVleNLx2sSDbe5lLLy",
+    "id" : "7oW0rVleNLx2sSDbe5lLLy",
+    "is_local" : false,
+    "name" : "Welcome To New York City",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7oW0rVleNLx2sSDbe5lLLy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EjZmcZTs67OVOG511gGn3",
+      "id" : "6EjZmcZTs67OVOG511gGn3",
+      "name" : "Freekey Zeekey",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EjZmcZTs67OVOG511gGn3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cStgiv1qH5z6GYrFsjuGj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6cStgiv1qH5z6GYrFsjuGj",
+      "id" : "6cStgiv1qH5z6GYrFsjuGj",
+      "name" : "Toya",
+      "type" : "artist",
+      "uri" : "spotify:artist:6cStgiv1qH5z6GYrFsjuGj"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 220960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ20200342"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3lwrebzX6n6v4zP5DOqBKc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3lwrebzX6n6v4zP5DOqBKc",
+    "id" : "3lwrebzX6n6v4zP5DOqBKc",
+    "is_local" : false,
+    "name" : "Hey Ma",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3lwrebzX6n6v4zP5DOqBKc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EjZmcZTs67OVOG511gGn3",
+      "id" : "6EjZmcZTs67OVOG511gGn3",
+      "name" : "Freekey Zeekey",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EjZmcZTs67OVOG511gGn3"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 340106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200333"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7hl0SOgHMs0ti7KhMofla5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7hl0SOgHMs0ti7KhMofla5",
+    "id" : "7hl0SOgHMs0ti7KhMofla5",
+    "is_local" : false,
+    "name" : "On Fire Tonight",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7hl0SOgHMs0ti7KhMofla5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZlMjCphI76sWiRzsM88RQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZlMjCphI76sWiRzsM88RQ",
+      "id" : "0ZlMjCphI76sWiRzsM88RQ",
+      "name" : "McGruff",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZlMjCphI76sWiRzsM88RQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EjZmcZTs67OVOG511gGn3",
+      "id" : "6EjZmcZTs67OVOG511gGn3",
+      "name" : "Freekey Zeekey",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EjZmcZTs67OVOG511gGn3"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 366200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200332"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SW6OG3oxC0mzXipO23XjR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SW6OG3oxC0mzXipO23XjR",
+    "id" : "4SW6OG3oxC0mzXipO23XjR",
+    "is_local" : false,
+    "name" : "Stop Calling",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4SW6OG3oxC0mzXipO23XjR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 249293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200338"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2e8BWw5EDpEWeoWI1X7tcz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2e8BWw5EDpEWeoWI1X7tcz",
+    "id" : "2e8BWw5EDpEWeoWI1X7tcz",
+    "is_local" : false,
+    "name" : "I Just Wanna",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2e8BWw5EDpEWeoWI1X7tcz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ydcRbgt0yM9etADb1Ackp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ydcRbgt0yM9etADb1Ackp",
+      "id" : "7ydcRbgt0yM9etADb1Ackp",
+      "name" : "Jimmy Jones",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ydcRbgt0yM9etADb1Ackp"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247060,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200343"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0PpwTWjOnN3cXlDKxgjqHm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0PpwTWjOnN3cXlDKxgjqHm",
+    "id" : "0PpwTWjOnN3cXlDKxgjqHm",
+    "is_local" : false,
+    "name" : "Dead Or Alive",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0PpwTWjOnN3cXlDKxgjqHm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jWzNq3sdzSpqn7BnzvIKn",
+      "id" : "4jWzNq3sdzSpqn7BnzvIKn",
+      "name" : "Memphis Bleek",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jWzNq3sdzSpqn7BnzvIKn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tCtGc5vt29zFZp6KXzN50",
+      "id" : "0tCtGc5vt29zFZp6KXzN50",
+      "name" : "Beanie Sigel",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tCtGc5vt29zFZp6KXzN50"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 264866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200331"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5WYATegtRvuEGAwYst44yV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5WYATegtRvuEGAwYst44yV",
+    "id" : "5WYATegtRvuEGAwYst44yV",
+    "is_local" : false,
+    "name" : "The Roc (Just Fire)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5WYATegtRvuEGAwYst44yV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 283626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200348"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0HzuwcUiuux4vLERJSLJZb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0HzuwcUiuux4vLERJSLJZb",
+    "id" : "0HzuwcUiuux4vLERJSLJZb",
+    "is_local" : false,
+    "name" : "Boy Boy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0HzuwcUiuux4vLERJSLJZb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+        "id" : "7iMvwE8qANp3aIfAGKEAwS",
+        "name" : "Cam’ron",
+        "type" : "artist",
+        "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+      "id" : "39944ACXhgHs7gjXa5HehY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+        "width" : 64
+      } ],
+      "name" : "Come Home With Me",
+      "release_date" : "2002-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+      "id" : "7iMvwE8qANp3aIfAGKEAwS",
+      "name" : "Cam’ron",
+      "type" : "artist",
+      "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 260106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20200349"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5pZ8PjzHFwuepw3RZ1OxV6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5pZ8PjzHFwuepw3RZ1OxV6",
+    "id" : "5pZ8PjzHFwuepw3RZ1OxV6",
+    "is_local" : false,
+    "name" : "Tomorrow",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5pZ8PjzHFwuepw3RZ1OxV6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 80946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM70829027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2wuAap1ohjRBrBmN5gpefs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2wuAap1ohjRBrBmN5gpefs",
+    "id" : "2wuAap1ohjRBrBmN5gpefs",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/258619a7de0ffa9589b8efce033987d13d7eb992?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2wuAap1ohjRBrBmN5gpefs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829281"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3J1dakO0u9ltBZVHjFUFdV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3J1dakO0u9ltBZVHjFUFdV",
+    "id" : "3J1dakO0u9ltBZVHjFUFdV",
+    "is_local" : false,
+    "name" : "LAX Files",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/508ec4f58b593803e9db077f24ce3554ddcca438?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3J1dakO0u9ltBZVHjFUFdV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 218520,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829283"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58HksprqJ9wSRX1344BfX1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58HksprqJ9wSRX1344BfX1",
+    "id" : "58HksprqJ9wSRX1344BfX1",
+    "is_local" : false,
+    "name" : "State Of Emergency",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94a0d4bd913183bea6babf6b7fc5cb66a71ad9fb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:58HksprqJ9wSRX1344BfX1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2yQf6b8hxahZaT5dHlWaB1",
+      "id" : "2yQf6b8hxahZaT5dHlWaB1",
+      "name" : "Raekwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:2yQf6b8hxahZaT5dHlWaB1"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829285"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1aMYCC8yQlp0mtAkA7GiCu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1aMYCC8yQlp0mtAkA7GiCu",
+    "id" : "1aMYCC8yQlp0mtAkA7GiCu",
+    "is_local" : false,
+    "name" : "Bulletproof Diaries",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8c49f9f1054028fb4e00c5a7da5d2b6ec84247ae?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1aMYCC8yQlp0mtAkA7GiCu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 320893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70826440"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4GXH9A6fzuE0MNtqtzjhLg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4GXH9A6fzuE0MNtqtzjhLg",
+    "id" : "4GXH9A6fzuE0MNtqtzjhLg",
+    "is_local" : false,
+    "name" : "My Life",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/092bea686ac523c2eea409122378b4300ef3ba3a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4GXH9A6fzuE0MNtqtzjhLg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 313013,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829287"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6osPu33P36J9pVRhsp4rPt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6osPu33P36J9pVRhsp4rPt",
+    "id" : "6osPu33P36J9pVRhsp4rPt",
+    "is_local" : false,
+    "name" : "Money",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b136ef2bd52d06cfb1fea85dd1a07067021ca0e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6osPu33P36J9pVRhsp4rPt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jCbgl5Dmt3uOh8WRQfpPs",
+      "id" : "4jCbgl5Dmt3uOh8WRQfpPs",
+      "name" : "Bilal",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jCbgl5Dmt3uOh8WRQfpPs"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273173,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829289"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49TrrciRvL6X0VSP4Q3HhA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49TrrciRvL6X0VSP4Q3HhA",
+    "id" : "49TrrciRvL6X0VSP4Q3HhA",
+    "is_local" : false,
+    "name" : "Cali Sunshine",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19bcca06b1911207c551bbac8dfb290851213334?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:49TrrciRvL6X0VSP4Q3HhA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+      "id" : "3ipn9JLAPI5GUEo4y4jcoi",
+      "name" : "Ludacris",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 244746,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829291"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Sh9HdzdNkqEbMIkr7NZDG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Sh9HdzdNkqEbMIkr7NZDG",
+    "id" : "6Sh9HdzdNkqEbMIkr7NZDG",
+    "is_local" : false,
+    "name" : "Ya Heard",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/45066a5db090092a2ca5a5892e0ac151913ecfc9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6Sh9HdzdNkqEbMIkr7NZDG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 110906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829293"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/24aNFJCUnwf3MOrtFsRnv8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/24aNFJCUnwf3MOrtFsRnv8",
+    "id" : "24aNFJCUnwf3MOrtFsRnv8",
+    "is_local" : false,
+    "name" : "Hard Liquor (Interlude)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/85ca7005e59ab79021c40e9ab3ec8ea34c59b9ff?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:24aNFJCUnwf3MOrtFsRnv8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 272266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829295"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1lJOTEK9JyBkEDUKlB3Hib"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1lJOTEK9JyBkEDUKlB3Hib",
+    "id" : "1lJOTEK9JyBkEDUKlB3Hib",
+    "is_local" : false,
+    "name" : "House Of Pain",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d277c689982e3d3a05a7e77081008788a29a2a1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1lJOTEK9JyBkEDUKlB3Hib"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21E3waRsmPlU7jZsS13rcj",
+      "id" : "21E3waRsmPlU7jZsS13rcj",
+      "name" : "Ne-Yo",
+      "type" : "artist",
+      "uri" : "spotify:artist:21E3waRsmPlU7jZsS13rcj"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829297"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qu8348LOJfWWzCN1iIia9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qu8348LOJfWWzCN1iIia9",
+    "id" : "5qu8348LOJfWWzCN1iIia9",
+    "is_local" : false,
+    "name" : "Gentleman's Affair",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d0f8e2df3ebfaaf065587916447903e703ede01d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5qu8348LOJfWWzCN1iIia9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YJMzGjAm245zwJooY7PEj",
+      "id" : "3YJMzGjAm245zwJooY7PEj",
+      "name" : "Chrisette Michele",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YJMzGjAm245zwJooY7PEj"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279146,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829299"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2BlhH9VgA53W1mj4w0BgRr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2BlhH9VgA53W1mj4w0BgRr",
+    "id" : "2BlhH9VgA53W1mj4w0BgRr",
+    "is_local" : false,
+    "name" : "Let Us Live",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2dd0974f22d361ac57b62c8dc5282d36d6d244bd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:2BlhH9VgA53W1mj4w0BgRr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59NO6KX7wQCG7jGdtH1NtL",
+      "id" : "59NO6KX7wQCG7jGdtH1NtL",
+      "name" : "Raheem DeVaughn",
+      "type" : "artist",
+      "uri" : "spotify:artist:59NO6KX7wQCG7jGdtH1NtL"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239880,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0kVWw8BpAZNLpPjhEiWLvh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0kVWw8BpAZNLpPjhEiWLvh",
+    "id" : "0kVWw8BpAZNLpPjhEiWLvh",
+    "is_local" : false,
+    "name" : "Touchdown",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/db599319c04a97a86d98f36be83b53a268db5aab?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0kVWw8BpAZNLpPjhEiWLvh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+      "id" : "2GHclqNVjqGuiE5mA7BEoc",
+      "name" : "Common",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 268093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4fkYAFMYzZjRpZS5VUSrWX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4fkYAFMYzZjRpZS5VUSrWX",
+    "id" : "4fkYAFMYzZjRpZS5VUSrWX",
+    "is_local" : false,
+    "name" : "Angel",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/62e0259dc27b281cb809d37b0e21453718f3fa63?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4fkYAFMYzZjRpZS5VUSrWX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+        "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+        "name" : "The Game",
+        "type" : "artist",
+        "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+      },
+      "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+      "id" : "48rauXjHSxEebiGmpYkl85",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+        "width" : 64
+      } ],
+      "name" : "LAX",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+      "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+      "name" : "The Game",
+      "type" : "artist",
+      "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7eBboOKTqCLqE6LA2WuMYm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7eBboOKTqCLqE6LA2WuMYm",
+      "id" : "7eBboOKTqCLqE6LA2WuMYm",
+      "name" : "LaToya Williams",
+      "type" : "artist",
+      "uri" : "spotify:artist:7eBboOKTqCLqE6LA2WuMYm"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 280266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70829305"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/498f6QSiGMp39XW5PB4ARc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/498f6QSiGMp39XW5PB4ARc",
+    "id" : "498f6QSiGMp39XW5PB4ARc",
+    "is_local" : false,
+    "name" : "Never Can Say Goodbye",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1e95a7f3c6c4a81835113b73b6759994a0786ee0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:498f6QSiGMp39XW5PB4ARc"
+  } ]
+}

@@ -1,0 +1,129 @@
+﻿
+---------------------------
+**********ALBUM***********
+--------------------------
+
+DECLARE @json NVARCHAR(MAX);
+SET @json = {...}
+INSERT INTO Spotify_Album (ID, [Name], [Label], Release_Date, Popularity, Image_Url, Open_Spotify_Url)
+SELECT ID, [Name], [Label], Release_Date, Popularity, Image_Url, Open_Spotify_Url
+FROM OPENJSON(@json, '$.albums')
+WITH(
+ID NVARCHAR(50) '$.ID',
+[Name] NVARCHAR(50) '$.Name',
+[Label] NVARCHAR(50) '$.Label',
+Release_Date date '$.Release_Date',
+Popularity int '$.Popularity',
+Image_Url nvarchar(100) '$.Image_Url',
+Open_Spotify_Url nvarchar(100) '$.Open_Spotify_Url'
+);
+
+
+https://www.codeproject.com/Articles/1087995/Inserting-JSON-Text-into-SQL-Server-Table
+
+--------------------------
+*********TRACK**********
+------------------------
+INSERT INTO Spotify_Track(ID, [Name], [Duration_ms], Popularity, Explicit_lyrics, Open_Spotify_Url)
+SELECT ID, [Name], [Duration_ms], Popularity, Explicit_lyrics, Open_Spotify_Url
+FROM OPENJSON(@json, '$.tracks')
+WITH(
+ID NVARCHAR(50) '$.ID',
+[Name] NVARCHAR(50) '$.Name',
+[Duration_ms] int '$.Duration_ms',
+Popularity int '$.Popularity',
+Explicit_lyrics bit '$.Explicit_lyrics',
+Open_Spotify_Url nvarchar(100) '$.Open_Spotify_Url'
+);
+
+--------------------------
+*********ARTIST**********
+------------------------
+
+INSERT INTO Spotify_Artist(ID, [Name], Followers, Popularity, Image_Url, Open_Spotify_Url)
+SELECT ID, [Name], Followers, Popularity, Image_Url, Open_Spotify_Url
+FROM OPENJSON(@json, '$.artists')
+WITH(
+ID NVARCHAR(50) '$.ID',
+[Name] NVARCHAR(50) '$.Name',
+[Followers] int '$.Followers',
+Popularity int '$.Popularity',
+Image_Url NVARCHAR(100) '$.Image_Url',
+Open_Spotify_Url nvarchar(100) '$.Open_Spotify_Url'
+);
+
+-------------------------
+***Artist-Track-Join****
+------------------------
+INSERT INTO [Artist-Track](ArtistID, TrackID)
+SELECT ArtistID, TrackID
+FROM OPENJSON(@json, '$.track_artist_joins')
+WITH(
+ArtistID NVARCHAR(50) '$.artist_id',
+TrackID NVARCHAR(50) '$.track_id'
+);
+
+-------------------------
+***Track-Album-Join****
+------------------------
+
+INSERT INTO [Track-Album](TrackID, AlbumID)
+SELECT TrackID, AlbumID
+FROM OPENJSON(@json, '$.track_album_joins')
+WITH(
+TrackID NVARCHAR(50) '$.track_id',
+AlbumID NVARCHAR(50) '$.album_id'
+);
+
+
+-----------------
+*****ERROR*******
+-----------------
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Artist-Track_Spotify_Artist". The conflict occurred in database "Spotify_music", table "dbo.Spotify_Artist", column 'ID'.
+
+------------------
+Cleaning trial - ID-ID
+------------------
+/****** Script for SelectTopNRows command from SSMS  ******/
+WITH cte AS (
+    SELECT 
+        TrackID,
+		AlbumID,
+        ROW_NUMBER() OVER (
+            PARTITION BY 
+                TrackID, 
+                AlbumID
+            ORDER BY 
+                TrackID, 
+                AlbumID
+        ) row_num
+     FROM 
+        [Spotify_music].[dbo].[Track-Album-Join]
+)
+DELETE FROM cte
+WHERE row_num > 1;
+
+---------------
+************
+------------
+/****** Script for SelectTopNRows command from SSMS  ******/
+WITH cte AS (
+    SELECT 
+        TrackID,
+		ArtistID,
+        ROW_NUMBER() OVER (
+            PARTITION BY 
+                TrackID, 
+                ArtistID
+            ORDER BY 
+                TrackID, 
+                ArtistID
+        ) row_num
+     FROM 
+        [Spotify_music].[dbo].[Artist-Track-Join]
+)
+DELETE FROM cte
+WHERE row_num > 1;
+---------------
+************
+------------

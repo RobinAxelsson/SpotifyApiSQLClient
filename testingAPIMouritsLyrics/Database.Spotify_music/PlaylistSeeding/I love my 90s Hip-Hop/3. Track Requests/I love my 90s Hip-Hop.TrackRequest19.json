@@ -1,0 +1,3655 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 195000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700798"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6i6o04DsrAVtKahEQj17Nr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6i6o04DsrAVtKahEQj17Nr",
+    "id" : "6i6o04DsrAVtKahEQj17Nr",
+    "is_local" : false,
+    "name" : "Intro/Court/Clef/Intro (feat. Refugee All Stars) - Skit/Interlude",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1605b4060c0e0b1616654d76e38b9d79b72c09e4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6i6o04DsrAVtKahEQj17Nr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700799"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5y5aFlTMuKQCzhGsGdATap"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5y5aFlTMuKQCzhGsGdATap",
+    "id" : "5y5aFlTMuKQCzhGsGdATap",
+    "is_local" : false,
+    "name" : "Apocalypse (feat. Refugee All Stars)",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/946d3878de9670ec6ab4a610b0ca466c02e3f099?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5y5aFlTMuKQCzhGsGdATap"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700800"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6g5ov3aSDUvvDkQKIcmZQI",
+    "id" : "6g5ov3aSDUvvDkQKIcmZQI",
+    "is_local" : false,
+    "name" : "Guantanamera (feat. Refugee All Stars)",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/05555fbda6af9885cb381766ac018f833cd41b03?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6g5ov3aSDUvvDkQKIcmZQI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 39706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700801"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5oK0kR7fg5dFQI2m341mKs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5oK0kR7fg5dFQI2m341mKs",
+    "id" : "5oK0kR7fg5dFQI2m341mKs",
+    "is_local" : false,
+    "name" : "Pablo Diablo (feat. Refugee All Stars) - Interlude",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c645ee0e5c93ba9bd2d100eebfebac3ce1d2d6d4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5oK0kR7fg5dFQI2m341mKs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/56B28jIqy4GQonVFXCUEaY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/56B28jIqy4GQonVFXCUEaY",
+    "id" : "56B28jIqy4GQonVFXCUEaY",
+    "is_local" : false,
+    "name" : "Bubblegoose (feat. Refugee All Stars)",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3b49d3fa913798252b0d5efdc9c96b41ca913b8f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:56B28jIqy4GQonVFXCUEaY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 29906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700803"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/27CXzhwuX5093YgGCdmbSF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/27CXzhwuX5093YgGCdmbSF",
+    "id" : "27CXzhwuX5093YgGCdmbSF",
+    "is_local" : false,
+    "name" : "Prelude To \"To All the Girls\" (feat. Refugee All Stars) - Interlude",
+    "popularity" : 3,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:27CXzhwuX5093YgGCdmbSF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 258426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700804"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1fZYdK10mj7dGpdnSr6pSr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1fZYdK10mj7dGpdnSr6pSr",
+    "id" : "1fZYdK10mj7dGpdnSr6pSr",
+    "is_local" : false,
+    "name" : "To All the Girls (feat. Refugee All Stars)",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7241f443157c0a8d443dcd92ba7e646673c2b154?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1fZYdK10mj7dGpdnSr6pSr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 73373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700805"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1JWECk5LtI6aZLZK6qg9lX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1JWECk5LtI6aZLZK6qg9lX",
+    "id" : "1JWECk5LtI6aZLZK6qg9lX",
+    "is_local" : false,
+    "name" : "Down Lo Ho (feat. Refugee All Stars) - Interlude",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fc3ecfc23f39873a1098437f699fe68a0890c54a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1JWECk5LtI6aZLZK6qg9lX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 276466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700806"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1pdskdCwpfW0qw0swquHhn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1pdskdCwpfW0qw0swquHhn",
+    "id" : "1pdskdCwpfW0qw0swquHhn",
+    "is_local" : false,
+    "name" : "Anything Can Happen",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a50554daa25717e7b8ebb1f7671c7c024737704?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1pdskdCwpfW0qw0swquHhn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 207466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700807"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0jOXmNowR2j1hVpZMqnz9P"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0jOXmNowR2j1hVpZMqnz9P",
+    "id" : "0jOXmNowR2j1hVpZMqnz9P",
+    "is_local" : false,
+    "name" : "Gone Till November",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/406769b65e9e82125441a4e5a8acf0184f8ff03e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0jOXmNowR2j1hVpZMqnz9P"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 45666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700808"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kC4eMTC3V2MVH5FQ6V7Vq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kC4eMTC3V2MVH5FQ6V7Vq",
+    "id" : "1kC4eMTC3V2MVH5FQ6V7Vq",
+    "is_local" : false,
+    "name" : "Words of Wisdom (feat. Refugee All Stars) - Interlude",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/42e4426df402400cfe490c04b560755d0ef012f6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1kC4eMTC3V2MVH5FQ6V7Vq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700809"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/59uHHp4yGjizFJmRufnVFg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/59uHHp4yGjizFJmRufnVFg",
+    "id" : "59uHHp4yGjizFJmRufnVFg",
+    "is_local" : false,
+    "name" : "Year of the Dragon (feat. Refugee All Stars)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f400061b4222545eeb7d9331f0fa57f965f6aca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:59uHHp4yGjizFJmRufnVFg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700810"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49CzHdhNiYKBGZeQ9eFjhA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49CzHdhNiYKBGZeQ9eFjhA",
+    "id" : "49CzHdhNiYKBGZeQ9eFjhA",
+    "is_local" : false,
+    "name" : "Sang Fézi (feat. Refugee All Stars)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f497c07ae2bb93e854e9928c8a343144091940d8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:49CzHdhNiYKBGZeQ9eFjhA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 105573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700811"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/287SewuLuBpI0ZLUWBkU97"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/287SewuLuBpI0ZLUWBkU97",
+    "id" : "287SewuLuBpI0ZLUWBkU97",
+    "is_local" : false,
+    "name" : "Fresh Interlude (feat. Refugee All Stars)",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/214457b6ff7c9ecf2d21e59282fbb751bdd0b87e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:287SewuLuBpI0ZLUWBkU97"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700812"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5mxtS6mlZn4JLPy8LprOyv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5mxtS6mlZn4JLPy8LprOyv",
+    "id" : "5mxtS6mlZn4JLPy8LprOyv",
+    "is_local" : false,
+    "name" : "Mona Lisa (feat. Refugee All Stars)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa857bb794b61216e58dbfcea9e9ea0aa7eba7bd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5mxtS6mlZn4JLPy8LprOyv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700813"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1hhORW0W79gDIuXi7kGVNC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1hhORW0W79gDIuXi7kGVNC",
+    "id" : "1hhORW0W79gDIuXi7kGVNC",
+    "is_local" : false,
+    "name" : "Street Jeopardy (feat. Refugee All Stars)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/95c99ab345081f31dccc0e1efb1c0b28054a64f9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1hhORW0W79gDIuXi7kGVNC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 32866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700814"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DPZbgCRlnIPkPm3MtwuZ2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DPZbgCRlnIPkPm3MtwuZ2",
+    "id" : "3DPZbgCRlnIPkPm3MtwuZ2",
+    "is_local" : false,
+    "name" : "Killer M.C. (feat. Refugee All Stars) - Interlude",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/565c58c66a477fb4e7b0f8dd4859d1a2ff408b2e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:3DPZbgCRlnIPkPm3MtwuZ2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700815"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4wwRROf47MXBX5u5Knwixx",
+    "id" : "4wwRROf47MXBX5u5Knwixx",
+    "is_local" : false,
+    "name" : "We Trying to Stay Alive (feat. Refugee All Stars)",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5efb272200a12ce9c49f9311e7376ce0601164ba?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:4wwRROf47MXBX5u5Knwixx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700816"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Sb3v0UnGwr5t57zKSbgmp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Sb3v0UnGwr5t57zKSbgmp",
+    "id" : "4Sb3v0UnGwr5t57zKSbgmp",
+    "is_local" : false,
+    "name" : "Gunpowder (feat. Refugee All Stars)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b8f9a47157bc01007c0ea040f6909437bae1dab8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:4Sb3v0UnGwr5t57zKSbgmp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 95706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700817"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wioFiBYclaztQUpA5Ceeo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wioFiBYclaztQUpA5Ceeo",
+    "id" : "5wioFiBYclaztQUpA5Ceeo",
+    "is_local" : false,
+    "name" : "Closing Arguments (feat. Refugee All Stars) - Interlude/Skit",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/96c4c0ca0f695567a9a053270a4465fcc24fa6ed?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:5wioFiBYclaztQUpA5Ceeo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 24426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700818"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0U1vIdo92T61T4ncm9lRVQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0U1vIdo92T61T4ncm9lRVQ",
+    "id" : "0U1vIdo92T61T4ncm9lRVQ",
+    "is_local" : false,
+    "name" : "Enter the Carnival (feat. Refugee All Stars) - Interlude",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:0U1vIdo92T61T4ncm9lRVQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700819"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5jO08gdAryJGK1i0WjrDgC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5jO08gdAryJGK1i0WjrDgC",
+    "id" : "5jO08gdAryJGK1i0WjrDgC",
+    "is_local" : false,
+    "name" : "Jaspora (feat. Refugee All Stars)",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/32e0ebf779bdde366ee82ac23dd2cd021730df7c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:5jO08gdAryJGK1i0WjrDgC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 324026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700820"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4oxn5AUl1DYXWgpAjKM0rK",
+    "id" : "4oxn5AUl1DYXWgpAjKM0rK",
+    "is_local" : false,
+    "name" : "Yelé (feat. Refugee All Stars)",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/699f0f194a5f9773371e2f6232c719957b0faae2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:4oxn5AUl1DYXWgpAjKM0rK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0JMmTZJ26G0QekIeSpcplU",
+      "id" : "0JMmTZJ26G0QekIeSpcplU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020e14aa8361fbf8b5648fc3b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510e14aa8361fbf8b5648fc3b7",
+        "width" : 64
+      } ],
+      "name" : "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "release_date" : "1997-06-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:0JMmTZJ26G0QekIeSpcplU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0KLVlDcMeFn8H7sapLZsSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0KLVlDcMeFn8H7sapLZsSV",
+      "id" : "0KLVlDcMeFn8H7sapLZsSV",
+      "name" : "Refugee All Stars",
+      "type" : "artist",
+      "uri" : "spotify:artist:0KLVlDcMeFn8H7sapLZsSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 306440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM19700821"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QlyUIwlunVTVbIGK33AXP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QlyUIwlunVTVbIGK33AXP",
+    "id" : "0QlyUIwlunVTVbIGK33AXP",
+    "is_local" : false,
+    "name" : "Carnival (feat. Refugee All Stars)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/951f555d83dd0743425304c5608b00352e22d2e3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:0QlyUIwlunVTVbIGK33AXP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 51560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF29300118"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1C4FzrUYsOPlor1ZRxy22A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1C4FzrUYsOPlor1ZRxy22A",
+    "id" : "1C4FzrUYsOPlor1ZRxy22A",
+    "is_local" : false,
+    "name" : "Peaches (Intro)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/05a1ea9dedabd2064b914d682410abead55455fa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1C4FzrUYsOPlor1ZRxy22A"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 160173,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF29300119"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6gEejYQZRMeMODb5rxwdK8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6gEejYQZRMeMODb5rxwdK8",
+    "id" : "6gEejYQZRMeMODb5rxwdK8",
+    "is_local" : false,
+    "name" : "Myintrotoletuknow",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c50915e00a63c6ff43595462baff997c96d2619c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6gEejYQZRMeMODb5rxwdK8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 338933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF29300120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5TQEggGtsutzhOsYFfCAtE",
+    "id" : "5TQEggGtsutzhOsYFfCAtE",
+    "is_local" : false,
+    "name" : "Ain't No Thang",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6914d63bd3e7767725d61d82dc64cbbb525ebecc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5TQEggGtsutzhOsYFfCAtE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 57760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000387"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1YAEISjOBC3Lliyqdb9jwR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1YAEISjOBC3Lliyqdb9jwR",
+    "id" : "1YAEISjOBC3Lliyqdb9jwR",
+    "is_local" : false,
+    "name" : "Welcome to Atlanta (Interlude)",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/13e13b97b749c229ebe1625a9502f1f9d361eacd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1YAEISjOBC3Lliyqdb9jwR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 317506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000388"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2pMAmZdHfQHyqJCXJbfhK3",
+    "id" : "2pMAmZdHfQHyqJCXJbfhK3",
+    "is_local" : false,
+    "name" : "Southernplayalisticadillacmuzik",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/48c368b0acbafee7fe69815302e8f044b7453404?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2pMAmZdHfQHyqJCXJbfhK3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3F2Y683ovlWT53WKCeq0oj",
+      "id" : "3F2Y683ovlWT53WKCeq0oj",
+      "name" : "Goodie Mob",
+      "type" : "artist",
+      "uri" : "spotify:artist:3F2Y683ovlWT53WKCeq0oj"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 366400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000389"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3HbreCF19wV7JsqoFRM4SH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3HbreCF19wV7JsqoFRM4SH",
+    "id" : "3HbreCF19wV7JsqoFRM4SH",
+    "is_local" : false,
+    "name" : "Call of da Wild (feat. Goodie Mob)",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5910150a3595c81b0b204e9a5b4d5923447d1ca2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3HbreCF19wV7JsqoFRM4SH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF29300117"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RXEb6UTxJ05RffnAWfUOE",
+    "id" : "1RXEb6UTxJ05RffnAWfUOE",
+    "is_local" : false,
+    "name" : "Player's Ball",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a7a35bb531821772d7ec292b95831d9e6905f96d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1RXEb6UTxJ05RffnAWfUOE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000390"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3VKctHo2Rk1Y74KnxVFT7U"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3VKctHo2Rk1Y74KnxVFT7U",
+    "id" : "3VKctHo2Rk1Y74KnxVFT7U",
+    "is_local" : false,
+    "name" : "Claimin' True",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e80f99cc7356ea5f45d247504b31df07b8d5da58?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3VKctHo2Rk1Y74KnxVFT7U"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 25440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000395"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0AsBszMGRZN73oPn92qRbF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0AsBszMGRZN73oPn92qRbF",
+    "id" : "0AsBszMGRZN73oPn92qRbF",
+    "is_local" : false,
+    "name" : "Club Donkey Ass (Interlude)",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bcec60436df67f12cc469bec8cef6a9387360e4d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0AsBszMGRZN73oPn92qRbF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 390533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLF20000393"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ryUbYQzdRRw0iJ2P5Or55"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ryUbYQzdRRw0iJ2P5Or55",
+    "id" : "5ryUbYQzdRRw0iJ2P5Or55",
+    "is_local" : false,
+    "name" : "Funky Ride",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a4eab1c6b42f79550d7f24553c341f6d2ed132c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5ryUbYQzdRRw0iJ2P5Or55"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 74800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000396"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KrJVqg1wdHZrVCuevD6yq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KrJVqg1wdHZrVCuevD6yq",
+    "id" : "0KrJVqg1wdHZrVCuevD6yq",
+    "is_local" : false,
+    "name" : "Flim Flam (Interlude)",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/baca0cab5b326a9f549f2c7c175dfab439ed5cc9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0KrJVqg1wdHZrVCuevD6yq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3F2Y683ovlWT53WKCeq0oj",
+      "id" : "3F2Y683ovlWT53WKCeq0oj",
+      "name" : "Goodie Mob",
+      "type" : "artist",
+      "uri" : "spotify:artist:3F2Y683ovlWT53WKCeq0oj"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 447026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000340"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6XadDzmDVhtEQ1Itt5t8h8",
+    "id" : "6XadDzmDVhtEQ1Itt5t8h8",
+    "is_local" : false,
+    "name" : "Git Up, Git Out (feat. Goodie Mob)",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bc9868889f382ae0a5b56980f4db8c36ea40e18d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6XadDzmDVhtEQ1Itt5t8h8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 76000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000391"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4YFaSkSRaQ3lTde01gUSKq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4YFaSkSRaQ3lTde01gUSKq",
+    "id" : "4YFaSkSRaQ3lTde01gUSKq",
+    "is_local" : false,
+    "name" : "True Dat (Interlude)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66e468f3e9e977bc3a9d11a6d24fb22d5fefec26?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:4YFaSkSRaQ3lTde01gUSKq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000392"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3T790QTg0ebUUk5tCRbtbN",
+    "id" : "3T790QTg0ebUUk5tCRbtbN",
+    "is_local" : false,
+    "name" : "Crumblin' Erb",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8e7ff6d4aaafa543db69eca74dc210c7e5a4236a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:3T790QTg0ebUUk5tCRbtbN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000394"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2B7hM098uEDiLJqTsUY4Ba",
+    "id" : "2B7hM098uEDiLJqTsUY4Ba",
+    "is_local" : false,
+    "name" : "Hootie Hoo",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5327d98f17d8ad35dc97a6a9449be55bf76247d2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:2B7hM098uEDiLJqTsUY4Ba"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 331293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLF20000397"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0bZX6Nd5yHTFJnaJMq4iiU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0bZX6Nd5yHTFJnaJMq4iiU",
+    "id" : "0bZX6Nd5yHTFJnaJMq4iiU",
+    "is_local" : false,
+    "name" : "D.E.E.P.",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5ea7256b3bec2f9f8e1365721fb4b3b0827c3b92?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0bZX6Nd5yHTFJnaJMq4iiU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+        "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+        "name" : "Outkast",
+        "type" : "artist",
+        "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3l5AwLKqQ42VJbc5lTuP8G",
+      "id" : "3l5AwLKqQ42VJbc5lTuP8G",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa769e35e297a20f214d0c64",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa769e35e297a20f214d0c64",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa769e35e297a20f214d0c64",
+        "width" : 64
+      } ],
+      "name" : "Southernplayalisticadillacmuzik",
+      "release_date" : "1994-04-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3l5AwLKqQ42VJbc5lTuP8G"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id" : "1G9G7WwrXka3Z1r7aIDjI7",
+      "name" : "Outkast",
+      "type" : "artist",
+      "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 139920,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USLF20000398"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/07VQlRoaqWDJ9ySZhHw0Ec"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/07VQlRoaqWDJ9ySZhHw0Ec",
+    "id" : "07VQlRoaqWDJ9ySZhHw0Ec",
+    "is_local" : false,
+    "name" : "Player's Ball (Reprise)",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e61604099725d2ddcf0bd433a3a449619b1060ae?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:07VQlRoaqWDJ9ySZhHw0Ec"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 99200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402723"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZwfLPG0QcFkhE0jKPDhZU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZwfLPG0QcFkhE0jKPDhZU",
+    "id" : "1ZwfLPG0QcFkhE0jKPDhZU",
+    "is_local" : false,
+    "name" : "Life After Death - 2014 Remaster",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/55013626856da08ba3d6b2fdf49ddfa059b8f0a2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ZwfLPG0QcFkhE0jKPDhZU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 266733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402724"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11s9e5nZrTXzdDTguBFtou"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11s9e5nZrTXzdDTguBFtou",
+    "id" : "11s9e5nZrTXzdDTguBFtou",
+    "is_local" : false,
+    "name" : "Somebody's Gotta Die - 2014 Remaster",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/57f9ee182397d5dee3708ed0e6b5751069e7e230?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:11s9e5nZrTXzdDTguBFtou"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402725"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KwZNVEaqikRSBSpyhXK2j",
+    "id" : "7KwZNVEaqikRSBSpyhXK2j",
+    "is_local" : false,
+    "name" : "Hypnotize - 2014 Remaster",
+    "popularity" : 77,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d4552da84ff1f275ebaec056eb714fba1fed6fbd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7KwZNVEaqikRSBSpyhXK2j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 286186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402726"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ed6evAMZvewGh4UI9KkVU",
+    "id" : "0ed6evAMZvewGh4UI9KkVU",
+    "is_local" : false,
+    "name" : "Kick in the Door - 2014 Remaster",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa19afd7817117f898f72b4a2225ec5542ba6111?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0ed6evAMZvewGh4UI9KkVU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2mxe0TnaNL039ysAj51xPQ",
+      "id" : "2mxe0TnaNL039ysAj51xPQ",
+      "name" : "R. Kelly",
+      "type" : "artist",
+      "uri" : "spotify:artist:2mxe0TnaNL039ysAj51xPQ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 345466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402727"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ry9AyQVzzK2iDt6vMY2ku"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ry9AyQVzzK2iDt6vMY2ku",
+    "id" : "1ry9AyQVzzK2iDt6vMY2ku",
+    "is_local" : false,
+    "name" : "Fuck You Tonight (feat. R. Kelly) - 2014 Remaster",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e0d207cf15c875182bb0927685769e9df022df33?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1ry9AyQVzzK2iDt6vMY2ku"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402728"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0iIZ1fqdUIfcE8CIndhlDD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0iIZ1fqdUIfcE8CIndhlDD",
+    "id" : "0iIZ1fqdUIfcE8CIndhlDD",
+    "is_local" : false,
+    "name" : "Last Day (feat. The Lox) - 2014 Remaster",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/299075ddb38a2ca3e8bd533e310d6d022ff59860?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0iIZ1fqdUIfcE8CIndhlDD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EIgKOrzyOQRB3l43EfymN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1EIgKOrzyOQRB3l43EfymN",
+      "id" : "1EIgKOrzyOQRB3l43EfymN",
+      "name" : "Angela Winbush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1EIgKOrzyOQRB3l43EfymN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 311533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402729"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Uvwc7D5rhphlzfBDnpYpU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Uvwc7D5rhphlzfBDnpYpU",
+    "id" : "2Uvwc7D5rhphlzfBDnpYpU",
+    "is_local" : false,
+    "name" : "I Love The Dough (feat. Jay-Z & Angela Winbush) - 2014 Remaster",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d35fc4bf82ce57137d94adbb98aaf81649c8e362?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2Uvwc7D5rhphlzfBDnpYpU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 315360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402730"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0S736hkRjkdmuvbZuvx1sh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0S736hkRjkdmuvbZuvx1sh",
+    "id" : "0S736hkRjkdmuvbZuvx1sh",
+    "is_local" : false,
+    "name" : "What's Beef? - 2014 Remaster",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f28a26c60dd9810bd4cfaef7b6c01d9d6494734a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0S736hkRjkdmuvbZuvx1sh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 48133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402731"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DzmXojNacImcQ2uIM1wQS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DzmXojNacImcQ2uIM1wQS",
+    "id" : "3DzmXojNacImcQ2uIM1wQS",
+    "is_local" : false,
+    "name" : "B.I.G. (Interlude) - 2014 Remaster",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1929d46b6027abe93d98e03c6334dbe37ab2fba5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3DzmXojNacImcQ2uIM1wQS"
+  } ]
+}

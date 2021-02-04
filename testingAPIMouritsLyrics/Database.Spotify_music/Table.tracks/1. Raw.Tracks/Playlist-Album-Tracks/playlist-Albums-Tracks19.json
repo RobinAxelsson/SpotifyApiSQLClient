@@ -1,0 +1,3448 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 228960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5wA9dDBE9VAqQo2SoTuXEi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5wA9dDBE9VAqQo2SoTuXEi",
+    "id" : "5wA9dDBE9VAqQo2SoTuXEi",
+    "is_local" : false,
+    "name" : "Kitty Kat",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5wA9dDBE9VAqQo2SoTuXEi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+      "id" : "4pr7J7wzgObkE3DD3Izi7q",
+      "name" : "Young Buck",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 210346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816152"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2RW9JEP1ReftuisqpjfXUy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2RW9JEP1ReftuisqpjfXUy",
+    "id" : "2RW9JEP1ReftuisqpjfXUy",
+    "is_local" : false,
+    "name" : "Party Ain't Over",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2RW9JEP1ReftuisqpjfXUy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0eezS9KmhdjGN436RdTIXu",
+      "id" : "0eezS9KmhdjGN436RdTIXu",
+      "name" : "Mavado",
+      "type" : "artist",
+      "uri" : "spotify:artist:0eezS9KmhdjGN436RdTIXu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 186013,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816148"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NtXzYaqgAlowooGa7VHpc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NtXzYaqgAlowooGa7VHpc",
+    "id" : "5NtXzYaqgAlowooGa7VHpc",
+    "is_local" : false,
+    "name" : "Let It Go",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5NtXzYaqgAlowooGa7VHpc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 227853,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816144"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51K7nvR0HFUc2CdNdF6q5f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51K7nvR0HFUc2CdNdF6q5f",
+    "id" : "51K7nvR0HFUc2CdNdF6q5f",
+    "is_local" : false,
+    "name" : "Get Down",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:51K7nvR0HFUc2CdNdF6q5f"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 274693,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70817727"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0mTwIyAQhkba8HHLxgHbXB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0mTwIyAQhkba8HHLxgHbXB",
+    "id" : "0mTwIyAQhkba8HHLxgHbXB",
+    "is_local" : false,
+    "name" : "I Don't Want To Talk About It",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0mTwIyAQhkba8HHLxgHbXB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 218506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816200"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1oQayOrQYBGZmkwzwRMH86"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1oQayOrQYBGZmkwzwRMH86",
+    "id" : "1oQayOrQYBGZmkwzwRMH86",
+    "is_local" : false,
+    "name" : "Ready Or Not",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1oQayOrQYBGZmkwzwRMH86"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+      "id" : "6UKTBg325wt2gMHF1STZdv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+        "width" : 64
+      } ],
+      "name" : "T.O.S. (Terminate On Sight)",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 254053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70816198"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Nk45y2iKB4FOLUXvZghbs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Nk45y2iKB4FOLUXvZghbs",
+    "id" : "6Nk45y2iKB4FOLUXvZghbs",
+    "is_local" : false,
+    "name" : "Money Make The World Go Around",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:6Nk45y2iKB4FOLUXvZghbs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 209333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312413"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2xtb12bOyKggTLe8NA2ZhO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2xtb12bOyKggTLe8NA2ZhO",
+    "id" : "2xtb12bOyKggTLe8NA2ZhO",
+    "is_local" : false,
+    "name" : "G-Unit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2xtb12bOyKggTLe8NA2ZhO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 240800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/64E7c7HdsIbbDWDSGxNJVF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/64E7c7HdsIbbDWDSGxNJVF",
+    "id" : "64E7c7HdsIbbDWDSGxNJVF",
+    "is_local" : false,
+    "name" : "Poppin' Them Thangs",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:64E7c7HdsIbbDWDSGxNJVF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 224626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tUbj3ICyYMUhE4gKpJDBS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tUbj3ICyYMUhE4gKpJDBS",
+    "id" : "6tUbj3ICyYMUhE4gKpJDBS",
+    "is_local" : false,
+    "name" : "My Buddy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6tUbj3ICyYMUhE4gKpJDBS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 145213,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312435"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4UdJ5lwB0HVEWr8aFkLEYn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4UdJ5lwB0HVEWr8aFkLEYn",
+    "id" : "4UdJ5lwB0HVEWr8aFkLEYn",
+    "is_local" : false,
+    "name" : "I'm So Hood",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4UdJ5lwB0HVEWr8aFkLEYn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 232226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312276"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/14EovNWdYSuO0AhluGEtPS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/14EovNWdYSuO0AhluGEtPS",
+    "id" : "14EovNWdYSuO0AhluGEtPS",
+    "is_local" : false,
+    "name" : "Stunt 101",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:14EovNWdYSuO0AhluGEtPS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zTOe1BtyTkwNvYZOxXktX",
+      "id" : "3zTOe1BtyTkwNvYZOxXktX",
+      "name" : "Joe",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zTOe1BtyTkwNvYZOxXktX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 265026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312429"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GIPZkQBksu1g38J5pavzu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GIPZkQBksu1g38J5pavzu",
+    "id" : "0GIPZkQBksu1g38J5pavzu",
+    "is_local" : false,
+    "name" : "Wanna Get To Know You",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0GIPZkQBksu1g38J5pavzu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 254133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312415"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ZMvqqHDuNE9T5B8kDFYqf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ZMvqqHDuNE9T5B8kDFYqf",
+    "id" : "2ZMvqqHDuNE9T5B8kDFYqf",
+    "is_local" : false,
+    "name" : "Groupie Love",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2ZMvqqHDuNE9T5B8kDFYqf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 233013,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312405"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2tynki7sSGGbL0KhtDyawg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2tynki7sSGGbL0KhtDyawg",
+    "id" : "2tynki7sSGGbL0KhtDyawg",
+    "is_local" : false,
+    "name" : "Betta Ask Somebody",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2tynki7sSGGbL0KhtDyawg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261413,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312409"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6kfFgtKMn3shC8ZONHk1bz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6kfFgtKMn3shC8ZONHk1bz",
+    "id" : "6kfFgtKMn3shC8ZONHk1bz",
+    "is_local" : false,
+    "name" : "Footprints",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6kfFgtKMn3shC8ZONHk1bz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 235253,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312407"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ovpCdCC2kmF5SL9kZF6PP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ovpCdCC2kmF5SL9kZF6PP",
+    "id" : "5ovpCdCC2kmF5SL9kZF6PP",
+    "is_local" : false,
+    "name" : "Eye For Eye",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5ovpCdCC2kmF5SL9kZF6PP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 218000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5N4Af1jTg4qS0HTPqPEsCs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5N4Af1jTg4qS0HTPqPEsCs",
+    "id" : "5N4Af1jTg4qS0HTPqPEsCs",
+    "is_local" : false,
+    "name" : "Smile",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5N4Af1jTg4qS0HTPqPEsCs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312431"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5JKYEemDgVAeLG6XdSUi94"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5JKYEemDgVAeLG6XdSUi94",
+    "id" : "5JKYEemDgVAeLG6XdSUi94",
+    "is_local" : false,
+    "name" : "Baby You Got",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5JKYEemDgVAeLG6XdSUi94"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 180626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312424"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01HCxML9FEN3NEsVfSiCa0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01HCxML9FEN3NEsVfSiCa0",
+    "id" : "01HCxML9FEN3NEsVfSiCa0",
+    "is_local" : false,
+    "name" : "Salute U",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:01HCxML9FEN3NEsVfSiCa0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 158906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312403"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cPHnZ1E6awQ6wJnrstigS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cPHnZ1E6awQ6wJnrstigS",
+    "id" : "5cPHnZ1E6awQ6wJnrstigS",
+    "is_local" : false,
+    "name" : "Beg For Mercy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5cPHnZ1E6awQ6wJnrstigS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 287026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0aEatINRKEsZl7ZffJR8yK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0aEatINRKEsZl7ZffJR8yK",
+    "id" : "0aEatINRKEsZl7ZffJR8yK",
+    "is_local" : false,
+    "name" : "G'D Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:0aEatINRKEsZl7ZffJR8yK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312418"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vIJtEOjUSUNAWCrGiZtZN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vIJtEOjUSUNAWCrGiZtZN",
+    "id" : "1vIJtEOjUSUNAWCrGiZtZN",
+    "is_local" : false,
+    "name" : "Lay You Down",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1vIJtEOjUSUNAWCrGiZtZN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312434"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0c60ZUndpIEGtXAkpXVUFw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0c60ZUndpIEGtXAkpXVUFw",
+    "id" : "0c60ZUndpIEGtXAkpXVUFw",
+    "is_local" : false,
+    "name" : "Gangsta Shit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0c60ZUndpIEGtXAkpXVUFw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312433"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/42zux89Yev5YvBxDE9Jr7X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/42zux89Yev5YvBxDE9Jr7X",
+    "id" : "42zux89Yev5YvBxDE9Jr7X",
+    "is_local" : false,
+    "name" : "I Smell Pussy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:42zux89Yev5YvBxDE9Jr7X"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+        "id" : "6evKD5JWJON3qPBJtUEmtY",
+        "name" : "G-Unit",
+        "type" : "artist",
+        "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+      "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+        "width" : 64
+      } ],
+      "name" : "Beg For Mercy",
+      "release_date" : "2003-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+      "id" : "6evKD5JWJON3qPBJtUEmtY",
+      "name" : "G-Unit",
+      "type" : "artist",
+      "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 97653,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10312480"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0kntLHZ5xlkNLN6CWPetOK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0kntLHZ5xlkNLN6CWPetOK",
+    "id" : "0kntLHZ5xlkNLN6CWPetOK",
+    "is_local" : false,
+    "name" : "Collapse - G-Unit Freestyle",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:0kntLHZ5xlkNLN6CWPetOK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 37360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605144"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5uxpHk3380EKRa8DmVf7Lg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5uxpHk3380EKRa8DmVf7Lg",
+    "id" : "5uxpHk3380EKRa8DmVf7Lg",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5uxpHk3380EKRa8DmVf7Lg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 171946,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4oAYMBtCOx2lW0PyesIhbE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4oAYMBtCOx2lW0PyesIhbE",
+    "id" : "4oAYMBtCOx2lW0PyesIhbE",
+    "is_local" : false,
+    "name" : "Wake Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4oAYMBtCOx2lW0PyesIhbE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 244400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605132"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7EMkXFNRpe7MgmLFfPLmm2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7EMkXFNRpe7MgmLFfPLmm2",
+    "id" : "7EMkXFNRpe7MgmLFfPLmm2",
+    "is_local" : false,
+    "name" : "Violent",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7EMkXFNRpe7MgmLFfPLmm2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70502659"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3OST2sHlxG2auX7LPziOlj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3OST2sHlxG2auX7LPziOlj",
+    "id" : "3OST2sHlxG2auX7LPziOlj",
+    "is_local" : false,
+    "name" : "Wanna Know",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3OST2sHlxG2auX7LPziOlj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 174493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Jcolpl3tRnfBOSJxGJmtH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Jcolpl3tRnfBOSJxGJmtH",
+    "id" : "6Jcolpl3tRnfBOSJxGJmtH",
+    "is_local" : false,
+    "name" : "Lay Down",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6Jcolpl3tRnfBOSJxGJmtH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+      "id" : "0z4gvV4rjIZ9wHck67ucSV",
+      "name" : "Akon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 241253,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70601285"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NSDTpp3B5rX8GgGFIagFz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NSDTpp3B5rX8GgGFIagFz",
+    "id" : "5NSDTpp3B5rX8GgGFIagFz",
+    "is_local" : false,
+    "name" : "Snitch",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5NSDTpp3B5rX8GgGFIagFz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 239440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70602569"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/491uk8yWnpaCQShUONqnLX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/491uk8yWnpaCQShUONqnLX",
+    "id" : "491uk8yWnpaCQShUONqnLX",
+    "is_local" : false,
+    "name" : "Cry Now",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:491uk8yWnpaCQShUONqnLX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 173866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605134"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6yQ0a6EEy8LkscZrWdeQLv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6yQ0a6EEy8LkscZrWdeQLv",
+    "id" : "6yQ0a6EEy8LkscZrWdeQLv",
+    "is_local" : false,
+    "name" : "Ballad Of Obie Trice",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6yQ0a6EEy8LkscZrWdeQLv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/42zM1Af1Wgt8ftcda1sJxW",
+      "id" : "42zM1Af1Wgt8ftcda1sJxW",
+      "name" : "Brick & Lace",
+      "type" : "artist",
+      "uri" : "spotify:artist:42zM1Af1Wgt8ftcda1sJxW"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 218106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70604956"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ES3zLV50Yn0ct49nYLrt2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ES3zLV50Yn0ct49nYLrt2",
+    "id" : "7ES3zLV50Yn0ct49nYLrt2",
+    "is_local" : false,
+    "name" : "Jamaican Girl",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7ES3zLV50Yn0ct49nYLrt2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 201320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605135"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AxWzsNMHtFcxkj6xPRAvO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AxWzsNMHtFcxkj6xPRAvO",
+    "id" : "3AxWzsNMHtFcxkj6xPRAvO",
+    "is_local" : false,
+    "name" : "Kill Me A Mutha",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:3AxWzsNMHtFcxkj6xPRAvO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 150746,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605136"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54zSS71o87z2Cwadd0Js2z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54zSS71o87z2Cwadd0Js2z",
+    "id" : "54zSS71o87z2Cwadd0Js2z",
+    "is_local" : false,
+    "name" : "Out Of State",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:54zSS71o87z2Cwadd0Js2z"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 255613,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605137"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5jTyZJ3xNi8WfT23gKLOba"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5jTyZJ3xNi8WfT23gKLOba",
+    "id" : "5jTyZJ3xNi8WfT23gKLOba",
+    "is_local" : false,
+    "name" : "All Of My Life",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5jTyZJ3xNi8WfT23gKLOba"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 260986,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605138"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6SfkX7EK2EoFTrar7g4H7g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6SfkX7EK2EoFTrar7g4H7g",
+    "id" : "6SfkX7EK2EoFTrar7g4H7g",
+    "is_local" : false,
+    "name" : "Ghetto",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:6SfkX7EK2EoFTrar7g4H7g"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 229533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6qlQtljtJC9CaYk9tubebP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6qlQtljtJC9CaYk9tubebP",
+    "id" : "6qlQtljtJC9CaYk9tubebP",
+    "is_local" : false,
+    "name" : "There They Go",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:6qlQtljtJC9CaYk9tubebP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 249053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605140"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ToUAQmrFSJ7w7BqEOcNQS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ToUAQmrFSJ7w7BqEOcNQS",
+    "id" : "6ToUAQmrFSJ7w7BqEOcNQS",
+    "is_local" : false,
+    "name" : "Mama",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6ToUAQmrFSJ7w7BqEOcNQS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 198053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605141"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1bBConLQqgfJXOLVPrhxQu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1bBConLQqgfJXOLVPrhxQu",
+    "id" : "1bBConLQqgfJXOLVPrhxQu",
+    "is_local" : false,
+    "name" : "24's",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1bBConLQqgfJXOLVPrhxQu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RdaFIYs7b1tJge336FjeU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RdaFIYs7b1tJge336FjeU",
+    "id" : "4RdaFIYs7b1tJge336FjeU",
+    "is_local" : false,
+    "name" : "Everywhere I Go",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:4RdaFIYs7b1tJge336FjeU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+        "id" : "2XnnxQzxFZG8qEPjakokPM",
+        "name" : "Obie Trice",
+        "type" : "artist",
+        "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+      "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+        "width" : 64
+      } ],
+      "name" : "Second Rounds On Me",
+      "release_date" : "2006-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+      "id" : "2XnnxQzxFZG8qEPjakokPM",
+      "name" : "Obie Trice",
+      "type" : "artist",
+      "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 235666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70605143"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Eh1peNcUOwPGTW0wsH7y6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Eh1peNcUOwPGTW0wsH7y6",
+    "id" : "1Eh1peNcUOwPGTW0wsH7y6",
+    "is_local" : false,
+    "name" : "Obie Story",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:1Eh1peNcUOwPGTW0wsH7y6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 220560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2qbcjCQVpFOL8Qs6RROfCN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2qbcjCQVpFOL8Qs6RROfCN",
+    "id" : "2qbcjCQVpFOL8Qs6RROfCN",
+    "is_local" : false,
+    "name" : "The Boomin' System",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2qbcjCQVpFOL8Qs6RROfCN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tZAvhrqkVhwFgptDHz5Wr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tZAvhrqkVhwFgptDHz5Wr",
+    "id" : "6tZAvhrqkVhwFgptDHz5Wr",
+    "is_local" : false,
+    "name" : "Around The Way Girl",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6tZAvhrqkVhwFgptDHz5Wr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 276893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2mm1nUoTm5RhlLK8r0PWi5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2mm1nUoTm5RhlLK8r0PWi5",
+    "id" : "2mm1nUoTm5RhlLK8r0PWi5",
+    "is_local" : false,
+    "name" : "Eat Em Up L Chill",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2mm1nUoTm5RhlLK8r0PWi5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/087KS3d17XTK0PiC86jAxF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/087KS3d17XTK0PiC86jAxF",
+    "id" : "087KS3d17XTK0PiC86jAxF",
+    "is_local" : false,
+    "name" : "Mr. Good Bar",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:087KS3d17XTK0PiC86jAxF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 232933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4cFbQpw40HZmQmVFixqBCj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4cFbQpw40HZmQmVFixqBCj",
+    "id" : "4cFbQpw40HZmQmVFixqBCj",
+    "is_local" : false,
+    "name" : "Murdergram",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4cFbQpw40HZmQmVFixqBCj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+        "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+        "name" : "LL Cool J",
+        "type" : "artist",
+        "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+      "id" : "45cv1LtilzQpJtV1YDQqAp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+        "width" : 64
+      } ],
+      "name" : "Mama Said Knock You Out (Deluxe Edition)",
+      "release_date" : "1990-08-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 28,
+      "type" : "album",
+      "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 305586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ29000006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4xsp0a2PP4ItCecDu0acJW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4xsp0a2PP4ItCecDu0acJW",
+    "id" : "4xsp0a2PP4ItCecDu0acJW",
+    "is_local" : false,
+    "name" : "Cheesy Rat Blues",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4xsp0a2PP4ItCecDu0acJW"
+  } ]
+}

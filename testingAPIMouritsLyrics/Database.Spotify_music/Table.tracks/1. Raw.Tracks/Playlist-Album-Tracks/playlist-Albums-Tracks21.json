@@ -1,0 +1,3646 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 39573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905374"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6kq3gXbiRcTYda3OF4PfLO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6kq3gXbiRcTYda3OF4PfLO",
+    "id" : "6kq3gXbiRcTYda3OF4PfLO",
+    "is_local" : false,
+    "name" : "A Lot To Learn - Skit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6kq3gXbiRcTYda3OF4PfLO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 232933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905350"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GVcTHW9AUigE3UIisgru3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GVcTHW9AUigE3UIisgru3",
+    "id" : "5GVcTHW9AUigE3UIisgru3",
+    "is_local" : false,
+    "name" : "Here We Go Again",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5GVcTHW9AUigE3UIisgru3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 268866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905352"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2AaknMNIfzMqZGvbcDsJHZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2AaknMNIfzMqZGvbcDsJHZ",
+    "id" : "2AaknMNIfzMqZGvbcDsJHZ",
+    "is_local" : false,
+    "name" : "Party Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2AaknMNIfzMqZGvbcDsJHZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 213626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905354"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ZyYPmP0qmTUpcxnHGyAaD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ZyYPmP0qmTUpcxnHGyAaD",
+    "id" : "3ZyYPmP0qmTUpcxnHGyAaD",
+    "is_local" : false,
+    "name" : "Make A Move",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3ZyYPmP0qmTUpcxnHGyAaD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6x9QLdzo6eBZxJ1bHsDkjg",
+      "id" : "6x9QLdzo6eBZxJ1bHsDkjg",
+      "name" : "Sisqo",
+      "type" : "artist",
+      "uri" : "spotify:artist:6x9QLdzo6eBZxJ1bHsDkjg"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905368"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TYTo5bv0ZxPRmmJ8ThvGi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TYTo5bv0ZxPRmmJ8ThvGi",
+    "id" : "4TYTo5bv0ZxPRmmJ8ThvGi",
+    "is_local" : false,
+    "name" : "What These Bitches Want",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4TYTo5bv0ZxPRmmJ8ThvGi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 232333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905330"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/31B5X9fgkpcHxT9D4pRvTp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/31B5X9fgkpcHxT9D4pRvTp",
+    "id" : "31B5X9fgkpcHxT9D4pRvTp",
+    "is_local" : false,
+    "name" : "What's My Name",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:31B5X9fgkpcHxT9D4pRvTp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905356"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0D61r16GdIfmMlUY9bBHcM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0D61r16GdIfmMlUY9bBHcM",
+    "id" : "0D61r16GdIfmMlUY9bBHcM",
+    "is_local" : false,
+    "name" : "More 2 A Song",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0D61r16GdIfmMlUY9bBHcM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 228333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905360"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44x1cJYwM1xNAcWCID6KLd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44x1cJYwM1xNAcWCID6KLd",
+    "id" : "44x1cJYwM1xNAcWCID6KLd",
+    "is_local" : false,
+    "name" : "Don't You Ever",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:44x1cJYwM1xNAcWCID6KLd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 35200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905376"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KOO6sEhFTjhUytAUQmYOK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KOO6sEhFTjhUytAUQmYOK",
+    "id" : "7KOO6sEhFTjhUytAUQmYOK",
+    "is_local" : false,
+    "name" : "The Shakedown - Skit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7KOO6sEhFTjhUytAUQmYOK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NsAJcAM18AExiMWKLKzuH",
+      "id" : "2NsAJcAM18AExiMWKLKzuH",
+      "name" : "Drag-On",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NsAJcAM18AExiMWKLKzuH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905358"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/36i4NxtqeulRpTSwmeyxJJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/36i4NxtqeulRpTSwmeyxJJ",
+    "id" : "36i4NxtqeulRpTSwmeyxJJ",
+    "is_local" : false,
+    "name" : "D-X-L (Hard White)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:36i4NxtqeulRpTSwmeyxJJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 240226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905362"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5OhjuwG0a2O73mavwSUYwJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5OhjuwG0a2O73mavwSUYwJ",
+    "id" : "5OhjuwG0a2O73mavwSUYwJ",
+    "is_local" : false,
+    "name" : "Comin' For Ya",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5OhjuwG0a2O73mavwSUYwJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 119800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905364"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4YL6WFOurx33vRJGF3X7VG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4YL6WFOurx33vRJGF3X7VG",
+    "id" : "4YL6WFOurx33vRJGF3X7VG",
+    "is_local" : false,
+    "name" : "Prayer III",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:4YL6WFOurx33vRJGF3X7VG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2odPWHs3I7YDxhi7GX0mBR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2odPWHs3I7YDxhi7GX0mBR",
+      "id" : "2odPWHs3I7YDxhi7GX0mBR",
+      "name" : "Regina Bell",
+      "type" : "artist",
+      "uri" : "spotify:artist:2odPWHs3I7YDxhi7GX0mBR"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 305093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905366"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zvyZ7lRxWLzVTv8MuA5IX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zvyZ7lRxWLzVTv8MuA5IX",
+    "id" : "0zvyZ7lRxWLzVTv8MuA5IX",
+    "is_local" : false,
+    "name" : "Angel (Featuring Regina Bell)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0zvyZ7lRxWLzVTv8MuA5IX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+      "id" : "7sGZLiJP6WszkshzArMxW6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+        "width" : 64
+      } ],
+      "name" : "...And Then There Was X",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bjXCZq42vKKBtCaS4UeT8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0bjXCZq42vKKBtCaS4UeT8",
+      "id" : "0bjXCZq42vKKBtCaS4UeT8",
+      "name" : "Dyme",
+      "type" : "artist",
+      "uri" : "spotify:artist:0bjXCZq42vKKBtCaS4UeT8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 233360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905370"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ngdU6BDI1xzI9jLsiE2Hx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ngdU6BDI1xzI9jLsiE2Hx",
+    "id" : "3ngdU6BDI1xzI9jLsiE2Hx",
+    "is_local" : false,
+    "name" : "Good Girls, Bad Guys",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:3ngdU6BDI1xzI9jLsiE2Hx"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+        "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+        "name" : "Dr. Dre",
+        "type" : "artist",
+        "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+      } ],
+      "available_markets" : [ "AE", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7r3ZRX5UIxKteuTMu7vL7B",
+      "id" : "7r3ZRX5UIxKteuTMu7vL7B",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad58fd0c7759cd9547aaaa03",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad58fd0c7759cd9547aaaa03",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad58fd0c7759cd9547aaaa03",
+        "width" : 64
+      } ],
+      "name" : "Kush",
+      "release_date" : "2010-11-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7r3ZRX5UIxKteuTMu7vL7B"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+      "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+      "name" : "Dr. Dre",
+      "type" : "artist",
+      "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+      "id" : "0z4gvV4rjIZ9wHck67ucSV",
+      "name" : "Akon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 235120,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71028121"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1U8Ho1nOzKXYDvfigOuHG4",
+    "id" : "1U8Ho1nOzKXYDvfigOuHG4",
+    "is_local" : false,
+    "name" : "Kush - Main",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/339258b777223de2c35796293640ac126a9d2abd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1U8Ho1nOzKXYDvfigOuHG4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 193546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10300033"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6kWtGIigvarufdqF4v28H9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6kWtGIigvarufdqF4v28H9",
+    "id" : "6kWtGIigvarufdqF4v28H9",
+    "is_local" : false,
+    "name" : "In Da Club",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6kWtGIigvarufdqF4v28H9"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+      "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+      "name" : "Nate Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 224026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10300002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1KAb0T18iEA35FxnUNuO4m"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1KAb0T18iEA35FxnUNuO4m",
+    "id" : "1KAb0T18iEA35FxnUNuO4m",
+    "is_local" : false,
+    "name" : "21 Questions",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1KAb0T18iEA35FxnUNuO4m"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 249466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10300020"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZDMSO0RNwq0Rg2sXJQoZQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZDMSO0RNwq0Rg2sXJQoZQ",
+    "id" : "1ZDMSO0RNwq0Rg2sXJQoZQ",
+    "is_local" : false,
+    "name" : "P.I.M.P.",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1ZDMSO0RNwq0Rg2sXJQoZQ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 213680,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10401085"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MzLi4EopILqoDTZuLtIzW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MzLi4EopILqoDTZuLtIzW",
+    "id" : "2MzLi4EopILqoDTZuLtIzW",
+    "is_local" : false,
+    "name" : "Disco Inferno",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:2MzLi4EopILqoDTZuLtIzW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5YBSzuCs7WaFKNr7Bky0Uf",
+      "id" : "5YBSzuCs7WaFKNr7Bky0Uf",
+      "name" : "Olivia",
+      "type" : "artist",
+      "uri" : "spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 207106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10500072"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01B52wyR3WYTOBpjufaBRF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01B52wyR3WYTOBpjufaBRF",
+    "id" : "01B52wyR3WYTOBpjufaBRF",
+    "is_local" : false,
+    "name" : "Candy Shop",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:01B52wyR3WYTOBpjufaBRF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 237706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR10500279"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Gb5hk2lzUC5irT0Wglagq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Gb5hk2lzUC5irT0Wglagq",
+    "id" : "6Gb5hk2lzUC5irT0Wglagq",
+    "is_local" : false,
+    "name" : "Just A Lil Bit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6Gb5hk2lzUC5irT0Wglagq"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+      "id" : "6O2zJ0tId7g07yzHtX0yap",
+      "name" : "Mobb Deep",
+      "type" : "artist",
+      "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70501168"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2E2g6up6nOvnchNehqjvB7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2E2g6up6nOvnchNehqjvB7",
+    "id" : "2E2g6up6nOvnchNehqjvB7",
+    "is_local" : false,
+    "name" : "Outta Control - Remix",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2E2g6up6nOvnchNehqjvB7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 237346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70504263"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Ylw0KdG20gjVqvyutg8f0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Ylw0KdG20gjVqvyutg8f0",
+    "id" : "2Ylw0KdG20gjVqvyutg8f0",
+    "is_local" : false,
+    "name" : "Hustler's Ambition",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2Ylw0KdG20gjVqvyutg8f0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5YBSzuCs7WaFKNr7Bky0Uf",
+      "id" : "5YBSzuCs7WaFKNr7Bky0Uf",
+      "name" : "Olivia",
+      "type" : "artist",
+      "uri" : "spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM70600496"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/654ILdq9xBf1lgtBgHjIrZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/654ILdq9xBf1lgtBgHjIrZ",
+    "id" : "654ILdq9xBf1lgtBgHjIrZ",
+    "is_local" : false,
+    "name" : "Best Friend - Remix",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:654ILdq9xBf1lgtBgHjIrZ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 190293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70504267"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1N9JazWqQEGOtcDfL0IAaK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1N9JazWqQEGOtcDfL0IAaK",
+    "id" : "1N9JazWqQEGOtcDfL0IAaK",
+    "is_local" : false,
+    "name" : "Window Shopper",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1N9JazWqQEGOtcDfL0IAaK"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+      "id" : "31TPClRtHm23RisEBtV3X7",
+      "name" : "Justin Timberlake",
+      "type" : "artist",
+      "uri" : "spotify:artist:31TPClRtHm23RisEBtV3X7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+      "id" : "5Y5TRrQiqgUO4S36tzjIRZ",
+      "name" : "Timbaland",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70735445"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45WpfbfLKgASFbox90uMuD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45WpfbfLKgASFbox90uMuD",
+    "id" : "45WpfbfLKgASFbox90uMuD",
+    "is_local" : false,
+    "name" : "Ayo Technology",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:45WpfbfLKgASFbox90uMuD"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 223733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70742700"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2w0OJa9pV38bUNhEgDX4mm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2w0OJa9pV38bUNhEgDX4mm",
+    "id" : "2w0OJa9pV38bUNhEgDX4mm",
+    "is_local" : false,
+    "name" : "I Get Money",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:2w0OJa9pV38bUNhEgDX4mm"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 190706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70730616"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0652rBjKL49PWT0WUjZy39"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0652rBjKL49PWT0WUjZy39",
+    "id" : "0652rBjKL49PWT0WUjZy39",
+    "is_local" : false,
+    "name" : "Straight To The Bank",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0652rBjKL49PWT0WUjZy39"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+      "id" : "0z4gvV4rjIZ9wHck67ucSV",
+      "name" : "Akon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 223706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70735426"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/25fokMhvHtbpiEEUoRHqbD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/25fokMhvHtbpiEEUoRHqbD",
+    "id" : "25fokMhvHtbpiEEUoRHqbD",
+    "is_local" : false,
+    "name" : "I'll Still Kill",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:25fokMhvHtbpiEEUoRHqbD"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 193613,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70840464"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1hUCZFuDxQ31yjDxY8FHUr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1hUCZFuDxQ31yjDxY8FHUr",
+    "id" : "1hUCZFuDxQ31yjDxY8FHUr",
+    "is_local" : false,
+    "name" : "Get Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1hUCZFuDxQ31yjDxY8FHUr"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 200106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70951286"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ug0XcX2Gy3erUWOaNlKRx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ug0XcX2Gy3erUWOaNlKRx",
+    "id" : "5ug0XcX2Gy3erUWOaNlKRx",
+    "is_local" : false,
+    "name" : "I Get It In",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5ug0XcX2Gy3erUWOaNlKRx"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 213373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70980435"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0RNSRQg44R2zRT5D64h7NF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0RNSRQg44R2zRT5D64h7NF",
+    "id" : "0RNSRQg44R2zRT5D64h7NF",
+    "is_local" : false,
+    "name" : "Baby By Me",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0RNSRQg44R2zRT5D64h7NF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+        "id" : "3q7HBObVc0L8jNeTe5Gofh",
+        "name" : "50 Cent",
+        "type" : "artist",
+        "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+      "id" : "1ExH71fC9bKxWPM9wFzoTK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+        "width" : 64
+      } ],
+      "name" : "Best Of 50 Cent",
+      "release_date" : "2017-03-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+      "id" : "3q7HBObVc0L8jNeTe5Gofh",
+      "name" : "50 Cent",
+      "type" : "artist",
+      "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Z9xidOHeSY1fdkS5Ioldz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Z9xidOHeSY1fdkS5Ioldz",
+      "id" : "6Z9xidOHeSY1fdkS5Ioldz",
+      "name" : "The Madd Rapper",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Z9xidOHeSY1fdkS5Ioldz"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 264320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71701112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3o5T2dIGUUiWJBTDTwZpKz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3o5T2dIGUUiWJBTDTwZpKz",
+    "id" : "3o5T2dIGUUiWJBTDTwZpKz",
+    "is_local" : false,
+    "name" : "How To Rob",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:3o5T2dIGUUiWJBTDTwZpKz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 199426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800464"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6CRrwIg9Npe2WQ0Xmrc4Tp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6CRrwIg9Npe2WQ0Xmrc4Tp",
+    "id" : "6CRrwIg9Npe2WQ0Xmrc4Tp",
+    "is_local" : false,
+    "name" : "3 Peat",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5a9a35dcbc349236807339d541a257249c5496ca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6CRrwIg9Npe2WQ0Xmrc4Tp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY-Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 316266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800466"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/71XCHbCxGNvTjZqupUf0h1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/71XCHbCxGNvTjZqupUf0h1",
+    "id" : "71XCHbCxGNvTjZqupUf0h1",
+    "is_local" : false,
+    "name" : "Mr. Carter",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9cbcf0276e5f2a85776b4bc285b227f6c373af95?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:71XCHbCxGNvTjZqupUf0h1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 221840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800553"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3uqinR4FCjLv28bkrTdNX5",
+    "id" : "3uqinR4FCjLv28bkrTdNX5",
+    "is_local" : false,
+    "name" : "A Milli",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8b5de460cde665730584e63dc05acde857363f29?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3uqinR4FCjLv28bkrTdNX5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+      "id" : "3aQeKQSyrW4qWr35idm0cy",
+      "name" : "T-Pain",
+      "type" : "artist",
+      "uri" : "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 244626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800468"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/04QTusNVhoUHOx7L9jHRHZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/04QTusNVhoUHOx7L9jHRHZ",
+    "id" : "04QTusNVhoUHOx7L9jHRHZ",
+    "is_local" : false,
+    "name" : "Got Money",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6a1207a37005c17ec14dbd0e67a4bfe091915f29?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:04QTusNVhoUHOx7L9jHRHZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3aVoqlJOYx31lH1gibGDt3",
+      "id" : "3aVoqlJOYx31lH1gibGDt3",
+      "name" : "Babyface",
+      "type" : "artist",
+      "uri" : "spotify:artist:3aVoqlJOYx31lH1gibGDt3"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800509"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RAanjdCy7GKo8ijZlDq6O"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RAanjdCy7GKo8ijZlDq6O",
+    "id" : "4RAanjdCy7GKo8ijZlDq6O",
+    "is_local" : false,
+    "name" : "Comfortable",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/666d6256211fb432b58a79caa3007a828ee94930?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4RAanjdCy7GKo8ijZlDq6O"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800511"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2nxhcDALb0SGjAxaP6E7Cf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2nxhcDALb0SGjAxaP6E7Cf",
+    "id" : "2nxhcDALb0SGjAxaP6E7Cf",
+    "is_local" : false,
+    "name" : "Dr. Carter",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8f9ac49d7b3e72bd5ce0cfb14e66c3e4567a33de?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2nxhcDALb0SGjAxaP6E7Cf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800513"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0EoupG72eDyo96mXj4G9NE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0EoupG72eDyo96mXj4G9NE",
+    "id" : "0EoupG72eDyo96mXj4G9NE",
+    "is_local" : false,
+    "name" : "Phone Home",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd6797aa4394089c86da50aae2ab5cac4ee08e9c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0EoupG72eDyo96mXj4G9NE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+      "id" : "0ZrpamOxcZybMHGg1AYtHP",
+      "name" : "Robin Thicke",
+      "type" : "artist",
+      "uri" : "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 319400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800515"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6q2E39lHDt7ImGt8fRlb8p"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6q2E39lHDt7ImGt8fRlb8p",
+    "id" : "6q2E39lHDt7ImGt8fRlb8p",
+    "is_local" : false,
+    "name" : "Tie My Hands",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/22ba6cebc04c6ca9b413fa040fee8d9452155b1e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6q2E39lHDt7ImGt8fRlb8p"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4HgF4KnohByNElYid7iCNb",
+      "id" : "4HgF4KnohByNElYid7iCNb",
+      "name" : "Bobby V.",
+      "type" : "artist",
+      "uri" : "spotify:artist:4HgF4KnohByNElYid7iCNb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2zJoKYyLmhvsq3ORbXE7xF",
+      "id" : "2zJoKYyLmhvsq3ORbXE7xF",
+      "name" : "Kidd Kidd",
+      "type" : "artist",
+      "uri" : "spotify:artist:2zJoKYyLmhvsq3ORbXE7xF"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 286906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800559"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7gihksIHhs6nw5tYlI6UEq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7gihksIHhs6nw5tYlI6UEq",
+    "id" : "7gihksIHhs6nw5tYlI6UEq",
+    "is_local" : false,
+    "name" : "Mrs. Officer",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7449fccc2aa4231dd96e9dc08ce8493c9308fef7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7gihksIHhs6nw5tYlI6UEq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800561"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Az6jpQiP5m8U3yA6bLSGb",
+    "id" : "6Az6jpQiP5m8U3yA6bLSGb",
+    "is_local" : false,
+    "name" : "Let The Beat Build",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/656d74fae3c46a9093de36a97f16206fe3794cea?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6Az6jpQiP5m8U3yA6bLSGb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0iMyTiwVr2BuvYTLKN3PkQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0iMyTiwVr2BuvYTLKN3PkQ",
+      "id" : "0iMyTiwVr2BuvYTLKN3PkQ",
+      "name" : "D-Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:0iMyTiwVr2BuvYTLKN3PkQ"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 269533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800517"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/77AFbmhuNcN1iilrlay6oA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/77AFbmhuNcN1iilrlay6oA",
+    "id" : "77AFbmhuNcN1iilrlay6oA",
+    "is_local" : false,
+    "name" : "Shoot Me Down",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/53214ce45a8200c4fc3c345e6d79ebf2b7344bb0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:77AFbmhuNcN1iilrlay6oA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3pbi8H08p95NUZ7m6ybxUV",
+      "id" : "3pbi8H08p95NUZ7m6ybxUV",
+      "name" : "Static Major",
+      "type" : "artist",
+      "uri" : "spotify:artist:3pbi8H08p95NUZ7m6ybxUV"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 299333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5jnxxpX2834SB6LJ0S73Uz",
+    "id" : "5jnxxpX2834SB6LJ0S73Uz",
+    "is_local" : false,
+    "name" : "Lollipop",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2466a5db727e949f580e0cbec6a01619b4aea822?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5jnxxpX2834SB6LJ0S73Uz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1382YT9VvGN6Pxu5PabehZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1382YT9VvGN6Pxu5PabehZ",
+      "id" : "1382YT9VvGN6Pxu5PabehZ",
+      "name" : "Brisco",
+      "type" : "artist",
+      "uri" : "spotify:artist:1382YT9VvGN6Pxu5PabehZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800519"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WwMVr2CJqQRZg6hYjIklZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WwMVr2CJqQRZg6hYjIklZ",
+    "id" : "4WwMVr2CJqQRZg6hYjIklZ",
+    "is_local" : false,
+    "name" : "La La",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a4426022733594396f88c17690b14b92527a74a9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:4WwMVr2CJqQRZg6hYjIklZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 313800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800890"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3M8ME24tZW2tTiOP2Ae9a1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3M8ME24tZW2tTiOP2Ae9a1",
+    "id" : "3M8ME24tZW2tTiOP2Ae9a1",
+    "is_local" : false,
+    "name" : "Pussy Monster",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/541c294b1601e2ee4308e44b537b2e0e51cc7856?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:3M8ME24tZW2tTiOP2Ae9a1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+      "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+      "name" : "Juelz Santana",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0YWxKQj2Go9CGHCp77UOyy",
+      "id" : "0YWxKQj2Go9CGHCp77UOyy",
+      "name" : "Fabolous",
+      "type" : "artist",
+      "uri" : "spotify:artist:0YWxKQj2Go9CGHCp77UOyy"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 327266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800521"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Hex8qJdKqXjRPKmmje2Hz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Hex8qJdKqXjRPKmmje2Hz",
+    "id" : "4Hex8qJdKqXjRPKmmje2Hz",
+    "is_local" : false,
+    "name" : "You Ain't Got Nuthin",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/97b02f264ec14d91c7a7fe998317391d0c4ff660?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:4Hex8qJdKqXjRPKmmje2Hz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 592000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800523"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1mncfOKAZ9HAfvSQzz0SNz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1mncfOKAZ9HAfvSQzz0SNz",
+    "id" : "1mncfOKAZ9HAfvSQzz0SNz",
+    "is_local" : false,
+    "name" : "DontGetIt",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1027b2ac688781b73fbe79769e6190f3339871c0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1mncfOKAZ9HAfvSQzz0SNz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+        "id" : "55Aa2cqylxrFIXC767Z865",
+        "name" : "Lil Wayne",
+        "type" : "artist",
+        "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+      "id" : "1Do3y8IAcbYOToYQJnGwSO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+        "width" : 64
+      } ],
+      "name" : "Tha Carter III",
+      "release_date" : "2008-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 23,
+      "type" : "album",
+      "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+      },
+      "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+      "id" : "55Aa2cqylxrFIXC767Z865",
+      "name" : "Lil Wayne",
+      "type" : "artist",
+      "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 223306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCM50800525"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5iKrRedwPO8IvXaJTbXr8F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5iKrRedwPO8IvXaJTbXr8F",
+    "id" : "5iKrRedwPO8IvXaJTbXr8F",
+    "is_local" : false,
+    "name" : "Action",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/626783291486f98a2fbd6ca74bc0263393829df0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5iKrRedwPO8IvXaJTbXr8F"
+  } ]
+}

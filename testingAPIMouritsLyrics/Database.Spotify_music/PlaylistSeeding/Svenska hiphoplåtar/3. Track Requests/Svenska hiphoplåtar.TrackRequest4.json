@@ -1,0 +1,3592 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5XYHAPoVT1x2w1A0fI8QKQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5XYHAPoVT1x2w1A0fI8QKQ",
+      "id" : "5XYHAPoVT1x2w1A0fI8QKQ",
+      "name" : "Safe house staff",
+      "type" : "artist",
+      "uri" : "spotify:artist:5XYHAPoVT1x2w1A0fI8QKQ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 195626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003407"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ky5BfVWOURVyXEPNsjQTY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ky5BfVWOURVyXEPNsjQTY",
+    "id" : "1ky5BfVWOURVyXEPNsjQTY",
+    "is_local" : false,
+    "name" : "Namnet på bandet",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a3d72a28cd8da6d1704e0aedc2d63e0ed5aa5a18?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1ky5BfVWOURVyXEPNsjQTY"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Pcez7u1H2Po6e2LmMdF3f",
+      "id" : "5Pcez7u1H2Po6e2LmMdF3f",
+      "name" : "Allyawan",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Pcez7u1H2Po6e2LmMdF3f"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 207453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003408"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3wZYnTX2Kmj5O1HuPkoXo8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3wZYnTX2Kmj5O1HuPkoXo8",
+    "id" : "3wZYnTX2Kmj5O1HuPkoXo8",
+    "is_local" : false,
+    "name" : "Lost Your Mind",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/52ad1c3b4ead79eeba9cc486c10d51ff305d53f3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3wZYnTX2Kmj5O1HuPkoXo8"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5XO1C9V6yRYCV2hMNpoYo8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5XO1C9V6yRYCV2hMNpoYo8",
+      "id" : "5XO1C9V6yRYCV2hMNpoYo8",
+      "name" : "Organism 12",
+      "type" : "artist",
+      "uri" : "spotify:artist:5XO1C9V6yRYCV2hMNpoYo8"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 344746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003409"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1EQd81hm2X18OmH5mfFsK9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1EQd81hm2X18OmH5mfFsK9",
+    "id" : "1EQd81hm2X18OmH5mfFsK9",
+    "is_local" : false,
+    "name" : "Låt Mig Andas Ut",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fa8e802a54aabdcf2e1b6a9f8022d81a124b16eb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1EQd81hm2X18OmH5mfFsK9"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Pykeh8xwnubA1viQotcN1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4Pykeh8xwnubA1viQotcN1",
+      "id" : "4Pykeh8xwnubA1viQotcN1",
+      "name" : "Jerre",
+      "type" : "artist",
+      "uri" : "spotify:artist:4Pykeh8xwnubA1viQotcN1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6QomYh1UqbyeEZFCnvmT99"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6QomYh1UqbyeEZFCnvmT99",
+      "id" : "6QomYh1UqbyeEZFCnvmT99",
+      "name" : "Mofeta",
+      "type" : "artist",
+      "uri" : "spotify:artist:6QomYh1UqbyeEZFCnvmT99"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 216946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003410"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6AE1owrD2hc80gkGfLyRsx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6AE1owrD2hc80gkGfLyRsx",
+    "id" : "6AE1owrD2hc80gkGfLyRsx",
+    "is_local" : false,
+    "name" : "Din Morsa",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3043dcea510c3df4ec031537ea33485f544d9929?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6AE1owrD2hc80gkGfLyRsx"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3XNYAscVt30VsW8dJiWQsl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3XNYAscVt30VsW8dJiWQsl",
+      "id" : "3XNYAscVt30VsW8dJiWQsl",
+      "name" : "Mange Schmidt",
+      "type" : "artist",
+      "uri" : "spotify:artist:3XNYAscVt30VsW8dJiWQsl"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7chIKoAOrwrue2jI9frANH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7chIKoAOrwrue2jI9frANH",
+    "id" : "7chIKoAOrwrue2jI9frANH",
+    "is_local" : false,
+    "name" : "Avundsjuka typer",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fca38019bcb677d65fe029176025bf6db9f16e37?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7chIKoAOrwrue2jI9frANH"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3io0EreSuC8AUj98QpFnOk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3io0EreSuC8AUj98QpFnOk",
+      "id" : "3io0EreSuC8AUj98QpFnOk",
+      "name" : "Advance Patrol",
+      "type" : "artist",
+      "uri" : "spotify:artist:3io0EreSuC8AUj98QpFnOk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 201773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003412"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dlXSDRk2H2kz1Jy3hKpC6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dlXSDRk2H2kz1Jy3hKpC6",
+    "id" : "1dlXSDRk2H2kz1Jy3hKpC6",
+    "is_local" : false,
+    "name" : "Studsa huvet",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d999d5376ca7223674aa2a64fb0058740db20a3f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1dlXSDRk2H2kz1Jy3hKpC6"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0e6pBjHAXI2dofZTOaf39N"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0e6pBjHAXI2dofZTOaf39N",
+      "id" : "0e6pBjHAXI2dofZTOaf39N",
+      "name" : "Highwon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0e6pBjHAXI2dofZTOaf39N"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 287986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003413"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5xbAx92zmFyV2fLdDtv9p3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5xbAx92zmFyV2fLdDtv9p3",
+    "id" : "5xbAx92zmFyV2fLdDtv9p3",
+    "is_local" : false,
+    "name" : "Från Hjärtat",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8190d560d6c185ad1aed32bf713ee99fcadc92d3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5xbAx92zmFyV2fLdDtv9p3"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3kklzjWziqW7RX5jQjsRnb",
+      "id" : "3kklzjWziqW7RX5jQjsRnb",
+      "name" : "Kartellen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3kklzjWziqW7RX5jQjsRnb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003414"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0d9z9yUg05wyr3s5prNXrg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0d9z9yUg05wyr3s5prNXrg",
+    "id" : "0d9z9yUg05wyr3s5prNXrg",
+    "is_local" : false,
+    "name" : "Så vi gör",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/944b12078e5ede4bfca2fc85cff757f7329f09a3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:0d9z9yUg05wyr3s5prNXrg"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 197880,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003415"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6AX5KJfvpLLlz1sNPcM9W7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6AX5KJfvpLLlz1sNPcM9W7",
+    "id" : "6AX5KJfvpLLlz1sNPcM9W7",
+    "is_local" : false,
+    "name" : "A-kasseblues Revisited",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2beafd3d3e8cf277f3356886ede1f519c750a2cb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:6AX5KJfvpLLlz1sNPcM9W7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0PwLAFedFpxos2G2tlZ2ES"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0PwLAFedFpxos2G2tlZ2ES",
+      "id" : "0PwLAFedFpxos2G2tlZ2ES",
+      "name" : "Mohammed Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:0PwLAFedFpxos2G2tlZ2ES"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/35d3Aul9hFSE78GafjvzSc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/35d3Aul9hFSE78GafjvzSc",
+      "id" : "35d3Aul9hFSE78GafjvzSc",
+      "name" : "Carlito",
+      "type" : "artist",
+      "uri" : "spotify:artist:35d3Aul9hFSE78GafjvzSc"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 233840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003416"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/20bvl456uy7213A7o91fr7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/20bvl456uy7213A7o91fr7",
+    "id" : "20bvl456uy7213A7o91fr7",
+    "is_local" : false,
+    "name" : "Stänger Av Den (feat. Carlito)",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bed4536a81687af44eb72b2fac734f5904017480?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:20bvl456uy7213A7o91fr7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6nDcZd5c9z3OS5hWvCsWBf",
+      "id" : "6nDcZd5c9z3OS5hWvCsWBf",
+      "name" : "Maskinen",
+      "type" : "artist",
+      "uri" : "spotify:artist:6nDcZd5c9z3OS5hWvCsWBf"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 399400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0901405"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2sTSvUSY84jDkIU1n3O8Gw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2sTSvUSY84jDkIU1n3O8Gw",
+    "id" : "2sTSvUSY84jDkIU1n3O8Gw",
+    "is_local" : false,
+    "name" : "Gatan Upp",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9c97e6bb43a88f6bf7300fc0235330b3cdf56ec8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:2sTSvUSY84jDkIU1n3O8Gw"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3HbP7OfT7PCV0BrR0ReUkC",
+      "id" : "3HbP7OfT7PCV0BrR0ReUkC",
+      "name" : "Medina",
+      "type" : "artist",
+      "uri" : "spotify:artist:3HbP7OfT7PCV0BrR0ReUkC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003417"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1bwTzEAezW18cw6m6kYPoa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1bwTzEAezW18cw6m6kYPoa",
+    "id" : "1bwTzEAezW18cw6m6kYPoa",
+    "is_local" : false,
+    "name" : "Varning För mig",
+    "popularity" : 6,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a64059f514f7797d50897b606cb8d13101c22421?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:1bwTzEAezW18cw6m6kYPoa"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5s77Nldm0GrOQkMIElogdo",
+      "id" : "5s77Nldm0GrOQkMIElogdo",
+      "name" : "Labyrint",
+      "type" : "artist",
+      "uri" : "spotify:artist:5s77Nldm0GrOQkMIElogdo"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 215893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003418"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ZdhylKMQC5uEMfo2MCwjF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ZdhylKMQC5uEMfo2MCwjF",
+    "id" : "2ZdhylKMQC5uEMfo2MCwjF",
+    "is_local" : false,
+    "name" : "Trakterna",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/876d9cc41ba0dab07effb9c065854bde41b16fc5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:2ZdhylKMQC5uEMfo2MCwjF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6oVl1muvHp8VLrJ5lv6lBh",
+      "id" : "6oVl1muvHp8VLrJ5lv6lBh",
+      "name" : "Prop Dylan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6oVl1muvHp8VLrJ5lv6lBh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 251866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003419"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Dcx60oHNBCUsAKH9jzWuy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Dcx60oHNBCUsAKH9jzWuy",
+    "id" : "5Dcx60oHNBCUsAKH9jzWuy",
+    "is_local" : false,
+    "name" : "Trueschool",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0fc529f12554864a1edd36b5d33011d28e6e6b78?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:5Dcx60oHNBCUsAKH9jzWuy"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7cMOzoyWBhix28Bsb5qi4l"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7cMOzoyWBhix28Bsb5qi4l",
+      "id" : "7cMOzoyWBhix28Bsb5qi4l",
+      "name" : "Max Peezay",
+      "type" : "artist",
+      "uri" : "spotify:artist:7cMOzoyWBhix28Bsb5qi4l"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 193560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWMI0900114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2HV3ejVSgCCKSBtWhCumXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2HV3ejVSgCCKSBtWhCumXz",
+    "id" : "2HV3ejVSgCCKSBtWhCumXz",
+    "is_local" : false,
+    "name" : "Jag vet vad som e fel",
+    "popularity" : 5,
+    "preview_url" : "https://p.scdn.co/mp3-preview/85d2d2a8fd646581d2894bc106ab60ed796b654c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:2HV3ejVSgCCKSBtWhCumXz"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QQR4NgTcLLdUcAxw41ajl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QQR4NgTcLLdUcAxw41ajl",
+      "id" : "4QQR4NgTcLLdUcAxw41ajl",
+      "name" : "Cleo",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QQR4NgTcLLdUcAxw41ajl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4R6MMD8hT469xdMQp2VKwI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4R6MMD8hT469xdMQp2VKwI",
+      "id" : "4R6MMD8hT469xdMQp2VKwI",
+      "name" : "Izzy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4R6MMD8hT469xdMQp2VKwI"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 161493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003420"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MXHFrIdkznZTAceW0OKFI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MXHFrIdkznZTAceW0OKFI",
+    "id" : "2MXHFrIdkznZTAceW0OKFI",
+    "is_local" : false,
+    "name" : "Don't Call Yourself A King (feat. Izzy)",
+    "popularity" : 3,
+    "preview_url" : "https://p.scdn.co/mp3-preview/502ca4d0fb39c5535a4511b997281ffa01d3b958?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:2MXHFrIdkznZTAceW0OKFI"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6M834FSqNvE0CI418DZtPR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6M834FSqNvE0CI418DZtPR",
+      "id" : "6M834FSqNvE0CI418DZtPR",
+      "name" : "Stockholmssyndromet",
+      "type" : "artist",
+      "uri" : "spotify:artist:6M834FSqNvE0CI418DZtPR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003421"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5RuAih87toSgTXeZ4RAGVF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5RuAih87toSgTXeZ4RAGVF",
+    "id" : "5RuAih87toSgTXeZ4RAGVF",
+    "is_local" : false,
+    "name" : "Schmutz",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fdf990730de8fd1e8cf8f396b27983e03a7c5727?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:5RuAih87toSgTXeZ4RAGVF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2EBLZoR071bKhHfe4TNKPi",
+      "id" : "2EBLZoR071bKhHfe4TNKPi",
+      "name" : "Nimo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2EBLZoR071bKhHfe4TNKPi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zJlp9X6E6IpfUrIzwrg7S",
+      "id" : "4zJlp9X6E6IpfUrIzwrg7S",
+      "name" : "Näääk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zJlp9X6E6IpfUrIzwrg7S"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 199306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Nsyhqw9n932pzRw4n0x9f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Nsyhqw9n932pzRw4n0x9f",
+    "id" : "2Nsyhqw9n932pzRw4n0x9f",
+    "is_local" : false,
+    "name" : "Vare Värt De!",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8abcdf82021816129d5a19ecc1f7f868597d28b9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 25,
+    "type" : "track",
+    "uri" : "spotify:track:2Nsyhqw9n932pzRw4n0x9f"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4dq4bHaTzqLMpRwGJFuuxy",
+      "id" : "4dq4bHaTzqLMpRwGJFuuxy",
+      "name" : "Trainspotters",
+      "type" : "artist",
+      "uri" : "spotify:artist:4dq4bHaTzqLMpRwGJFuuxy"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 204293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVGT1003423"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4H0lhfSl9rq5P7qSXJ0TYc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4H0lhfSl9rq5P7qSXJ0TYc",
+    "id" : "4H0lhfSl9rq5P7qSXJ0TYc",
+    "is_local" : false,
+    "name" : "Fan First",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbfafac83ae7031d884277211764bc29c5a21d05?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 26,
+    "type" : "track",
+    "uri" : "spotify:track:4H0lhfSl9rq5P7qSXJ0TYc"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/22r32tk5aFnlrpfz83iywY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/22r32tk5aFnlrpfz83iywY",
+      "id" : "22r32tk5aFnlrpfz83iywY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737ba076122064ed8b45db82fb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027ba076122064ed8b45db82fb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517ba076122064ed8b45db82fb",
+        "width" : 64
+      } ],
+      "name" : "This Is Swedish Hip Hop Evolution",
+      "release_date" : "2010-09-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:22r32tk5aFnlrpfz83iywY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BN5MQEXZmBVI46M9ulkjk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BN5MQEXZmBVI46M9ulkjk",
+      "id" : "6BN5MQEXZmBVI46M9ulkjk",
+      "name" : "St. John's Dance",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BN5MQEXZmBVI46M9ulkjk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 212066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEYWK1000101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2HOsiQSMyzzrvLKFL9Siah"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2HOsiQSMyzzrvLKFL9Siah",
+    "id" : "2HOsiQSMyzzrvLKFL9Siah",
+    "is_local" : false,
+    "name" : "The Plot",
+    "popularity" : 6,
+    "preview_url" : "https://p.scdn.co/mp3-preview/afe581401821d7a52892b0b5d691feee055337b5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 27,
+    "type" : "track",
+    "uri" : "spotify:track:2HOsiQSMyzzrvLKFL9Siah"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+        "id" : "0aV6DOiouImYTqrR5YlIqx",
+        "name" : "Alpis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ozrVAQD1rKWluNrEMyGa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ozrVAQD1rKWluNrEMyGa6",
+      "id" : "2ozrVAQD1rKWluNrEMyGa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273624153f1aaddf4f4c4ac2f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02624153f1aaddf4f4c4ac2f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851624153f1aaddf4f4c4ac2f90",
+        "width" : 64
+      } ],
+      "name" : "Med öppna ögon EP",
+      "release_date" : "2012-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2ozrVAQD1rKWluNrEMyGa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+      "id" : "0aV6DOiouImYTqrR5YlIqx",
+      "name" : "Alpis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 199499,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "SEYOK1217956"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ufKW1xEF9oV4PM85rXpK0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ufKW1xEF9oV4PM85rXpK0",
+    "id" : "1ufKW1xEF9oV4PM85rXpK0",
+    "is_local" : false,
+    "name" : "Om du vill mej nåt",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b23742a57b754cc282074d1fca042c0205541432?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ufKW1xEF9oV4PM85rXpK0"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+        "id" : "0aV6DOiouImYTqrR5YlIqx",
+        "name" : "Alpis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ozrVAQD1rKWluNrEMyGa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ozrVAQD1rKWluNrEMyGa6",
+      "id" : "2ozrVAQD1rKWluNrEMyGa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273624153f1aaddf4f4c4ac2f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02624153f1aaddf4f4c4ac2f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851624153f1aaddf4f4c4ac2f90",
+        "width" : 64
+      } ],
+      "name" : "Med öppna ögon EP",
+      "release_date" : "2012-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2ozrVAQD1rKWluNrEMyGa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+      "id" : "0aV6DOiouImYTqrR5YlIqx",
+      "name" : "Alpis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Z1nKfR8WO3qdRBlIF2cY4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Z1nKfR8WO3qdRBlIF2cY4",
+      "id" : "0Z1nKfR8WO3qdRBlIF2cY4",
+      "name" : "SödraSidan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Z1nKfR8WO3qdRBlIF2cY4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5wEObiJLxVs3p5YF9sMoiB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5wEObiJLxVs3p5YF9sMoiB",
+      "id" : "5wEObiJLxVs3p5YF9sMoiB",
+      "name" : "Nano",
+      "type" : "artist",
+      "uri" : "spotify:artist:5wEObiJLxVs3p5YF9sMoiB"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 235859,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEYOK1217957"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4BdbjztweUIZKqtypDDKh3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4BdbjztweUIZKqtypDDKh3",
+    "id" : "4BdbjztweUIZKqtypDDKh3",
+    "is_local" : false,
+    "name" : "Bort härifrån (feat. SödraSidan & Nano)",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ba12ddc12deef145c92661de8f8c3b74e78d9cb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4BdbjztweUIZKqtypDDKh3"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+        "id" : "0aV6DOiouImYTqrR5YlIqx",
+        "name" : "Alpis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ozrVAQD1rKWluNrEMyGa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ozrVAQD1rKWluNrEMyGa6",
+      "id" : "2ozrVAQD1rKWluNrEMyGa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273624153f1aaddf4f4c4ac2f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02624153f1aaddf4f4c4ac2f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851624153f1aaddf4f4c4ac2f90",
+        "width" : 64
+      } ],
+      "name" : "Med öppna ögon EP",
+      "release_date" : "2012-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2ozrVAQD1rKWluNrEMyGa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+      "id" : "0aV6DOiouImYTqrR5YlIqx",
+      "name" : "Alpis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4zJlp9X6E6IpfUrIzwrg7S",
+      "id" : "4zJlp9X6E6IpfUrIzwrg7S",
+      "name" : "Näääk",
+      "type" : "artist",
+      "uri" : "spotify:artist:4zJlp9X6E6IpfUrIzwrg7S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7d6veWmR4DP2QwtkGvyjGF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7d6veWmR4DP2QwtkGvyjGF",
+      "id" : "7d6veWmR4DP2QwtkGvyjGF",
+      "name" : "Stockholm Highgrades",
+      "type" : "artist",
+      "uri" : "spotify:artist:7d6veWmR4DP2QwtkGvyjGF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/07yhT28qK3TutyRxpIfc5a"
+      },
+      "href" : "https://api.spotify.com/v1/artists/07yhT28qK3TutyRxpIfc5a",
+      "id" : "07yhT28qK3TutyRxpIfc5a",
+      "name" : "Bam Bam",
+      "type" : "artist",
+      "uri" : "spotify:artist:07yhT28qK3TutyRxpIfc5a"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 267778,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "SEYOK1217958"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2RaQuEcvtmKSHg0geSuMZU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2RaQuEcvtmKSHg0geSuMZU",
+    "id" : "2RaQuEcvtmKSHg0geSuMZU",
+    "is_local" : false,
+    "name" : "Där vi bor (feat. Näääk, Stockholm Highgrades & Bam Bam)",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa031abc21a5899f3752ee2bd6ee40b54d5bef95?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2RaQuEcvtmKSHg0geSuMZU"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+        "id" : "0aV6DOiouImYTqrR5YlIqx",
+        "name" : "Alpis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ozrVAQD1rKWluNrEMyGa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ozrVAQD1rKWluNrEMyGa6",
+      "id" : "2ozrVAQD1rKWluNrEMyGa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273624153f1aaddf4f4c4ac2f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02624153f1aaddf4f4c4ac2f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851624153f1aaddf4f4c4ac2f90",
+        "width" : 64
+      } ],
+      "name" : "Med öppna ögon EP",
+      "release_date" : "2012-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2ozrVAQD1rKWluNrEMyGa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+      "id" : "0aV6DOiouImYTqrR5YlIqx",
+      "name" : "Alpis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2EBLZoR071bKhHfe4TNKPi",
+      "id" : "2EBLZoR071bKhHfe4TNKPi",
+      "name" : "Nimo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2EBLZoR071bKhHfe4TNKPi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/45T54RaTstYQkVtxSkh9UO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/45T54RaTstYQkVtxSkh9UO",
+      "id" : "45T54RaTstYQkVtxSkh9UO",
+      "name" : "Sam-E of Medina",
+      "type" : "artist",
+      "uri" : "spotify:artist:45T54RaTstYQkVtxSkh9UO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 224278,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "SEYOK1217959"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3VMji9LIl8ATX4PtiFM8as"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3VMji9LIl8ATX4PtiFM8as",
+    "id" : "3VMji9LIl8ATX4PtiFM8as",
+    "is_local" : false,
+    "name" : "Kort stund (feat. Nimo & Sam-e of Medina)",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/acb33a8a227813a1c6e19545adb2c9da8f0efcf7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3VMji9LIl8ATX4PtiFM8as"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+        "id" : "0aV6DOiouImYTqrR5YlIqx",
+        "name" : "Alpis",
+        "type" : "artist",
+        "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ozrVAQD1rKWluNrEMyGa6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ozrVAQD1rKWluNrEMyGa6",
+      "id" : "2ozrVAQD1rKWluNrEMyGa6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273624153f1aaddf4f4c4ac2f90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02624153f1aaddf4f4c4ac2f90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851624153f1aaddf4f4c4ac2f90",
+        "width" : 64
+      } ],
+      "name" : "Med öppna ögon EP",
+      "release_date" : "2012-09-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:2ozrVAQD1rKWluNrEMyGa6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0aV6DOiouImYTqrR5YlIqx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0aV6DOiouImYTqrR5YlIqx",
+      "id" : "0aV6DOiouImYTqrR5YlIqx",
+      "name" : "Alpis",
+      "type" : "artist",
+      "uri" : "spotify:artist:0aV6DOiouImYTqrR5YlIqx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 182165,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "SEYOK1217960"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ndYFfmsoQTrWMvuJGlTTj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ndYFfmsoQTrWMvuJGlTTj",
+    "id" : "2ndYFfmsoQTrWMvuJGlTTj",
+    "is_local" : false,
+    "name" : "Trottoarbarn",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/39b1130c8abd871b54378e7bdbe0843658d0e505?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2ndYFfmsoQTrWMvuJGlTTj"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7sdGwvaDsSjfVFHMuVoHv5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7sdGwvaDsSjfVFHMuVoHv5",
+        "id" : "7sdGwvaDsSjfVFHMuVoHv5",
+        "name" : "Critical",
+        "type" : "artist",
+        "uri" : "spotify:artist:7sdGwvaDsSjfVFHMuVoHv5"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5XLKB4mt6zHGezzv5idwm0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5XLKB4mt6zHGezzv5idwm0",
+      "id" : "5XLKB4mt6zHGezzv5idwm0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27380399b5b47836827872a9f3f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0280399b5b47836827872a9f3f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485180399b5b47836827872a9f3f",
+        "width" : 64
+      } ],
+      "name" : "Alla har en gräns feat. Sebbe Staxx (Kartellen)",
+      "release_date" : "2012-12-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5XLKB4mt6zHGezzv5idwm0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7sdGwvaDsSjfVFHMuVoHv5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7sdGwvaDsSjfVFHMuVoHv5",
+      "id" : "7sdGwvaDsSjfVFHMuVoHv5",
+      "name" : "Critical",
+      "type" : "artist",
+      "uri" : "spotify:artist:7sdGwvaDsSjfVFHMuVoHv5"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 201541,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEYOK1224482"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0jvdZcGACnyQicbe6f5GFi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0jvdZcGACnyQicbe6f5GFi",
+    "id" : "0jvdZcGACnyQicbe6f5GFi",
+    "is_local" : false,
+    "name" : "Alla har en gräns",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0jvdZcGACnyQicbe6f5GFi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 196280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7idW3diqSLJYFcKOCR0gZS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7idW3diqSLJYFcKOCR0gZS",
+    "id" : "7idW3diqSLJYFcKOCR0gZS",
+    "is_local" : false,
+    "name" : "Vad dom än säger",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2f89a8eee267c37b5184fa8e2eaf37469c9a03a2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7idW3diqSLJYFcKOCR0gZS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 251320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6wBouVe5CAuKRw5y0OLBst"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6wBouVe5CAuKRw5y0OLBst",
+    "id" : "6wBouVe5CAuKRw5y0OLBst",
+    "is_local" : false,
+    "name" : "Na Na Nah!",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e0cce25152496734155a1e3d2662df0e34f25078?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6wBouVe5CAuKRw5y0OLBst"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 222106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6iyldlFo6NtdAVUrp0au41"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6iyldlFo6NtdAVUrp0au41",
+    "id" : "6iyldlFo6NtdAVUrp0au41",
+    "is_local" : false,
+    "name" : "Sammy Davis Jr.",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7f6631ef2dbc6d955ca47f49fbfb4a415fd69990?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6iyldlFo6NtdAVUrp0au41"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 220586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5k0b0SeeZcgMdSj94rKIVt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5k0b0SeeZcgMdSj94rKIVt",
+    "id" : "5k0b0SeeZcgMdSj94rKIVt",
+    "is_local" : false,
+    "name" : "I andrahand",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3cfd6694c6794ed7eed34fa7ec4c99f11a6c3d00?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5k0b0SeeZcgMdSj94rKIVt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/76mnTBTOVPM0WWgaBDAApl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/76mnTBTOVPM0WWgaBDAApl",
+      "id" : "76mnTBTOVPM0WWgaBDAApl",
+      "name" : "Olle Nyman",
+      "type" : "artist",
+      "uri" : "spotify:artist:76mnTBTOVPM0WWgaBDAApl"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 318266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0vA93KyWlMQdDPyk4FQ6DF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0vA93KyWlMQdDPyk4FQ6DF",
+    "id" : "0vA93KyWlMQdDPyk4FQ6DF",
+    "is_local" : false,
+    "name" : "På drift, Norrbotten",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/aa2f74c67a06dd8427c581ab1c25a733ce3298d6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0vA93KyWlMQdDPyk4FQ6DF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 225586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100206"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1YeHeim83YEENjgBjFsRq0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1YeHeim83YEENjgBjFsRq0",
+    "id" : "1YeHeim83YEENjgBjFsRq0",
+    "is_local" : false,
+    "name" : "Marching Band?",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c6b8a151c238fa61f2c3c4052aaed525f2c67ac?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1YeHeim83YEENjgBjFsRq0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 92373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEUM71100274"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51VbwDgiE4iXch4H9Z3sgp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51VbwDgiE4iXch4H9Z3sgp",
+    "id" : "51VbwDgiE4iXch4H9Z3sgp",
+    "is_local" : false,
+    "name" : "One Take, Take One",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/162f5dd5d9616e15873c86c9800de1419da1f16c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:51VbwDgiE4iXch4H9Z3sgp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 93853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7J4kxZ9OnYh69efPUfNNeX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7J4kxZ9OnYh69efPUfNNeX",
+    "id" : "7J4kxZ9OnYh69efPUfNNeX",
+    "is_local" : false,
+    "name" : "40 Bars",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f57544874ffbfbaca27be2ffd863bef62240182?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7J4kxZ9OnYh69efPUfNNeX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 222960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100209"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ciYRclkeO35DGfJDG8hIt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ciYRclkeO35DGfJDG8hIt",
+    "id" : "5ciYRclkeO35DGfJDG8hIt",
+    "is_local" : false,
+    "name" : "Kulturarbetarblues",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5aac3fba5b895e9596f955c049460c48f00deec1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5ciYRclkeO35DGfJDG8hIt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 224346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2l5cJzElNgJfng7o5f2EF9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2l5cJzElNgJfng7o5f2EF9",
+    "id" : "2l5cJzElNgJfng7o5f2EF9",
+    "is_local" : false,
+    "name" : "Skjut mig i huvet",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/59d4e444448a0ef7fa5b551956891dec4715e6d1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2l5cJzElNgJfng7o5f2EF9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3jKd96grbdWoh56whvFnX2",
+      "id" : "3jKd96grbdWoh56whvFnX2",
+      "name" : "Zacke",
+      "type" : "artist",
+      "uri" : "spotify:artist:3jKd96grbdWoh56whvFnX2"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 286053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100211"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RAIFEZ7HeTv7D1zoGdRtL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RAIFEZ7HeTv7D1zoGdRtL",
+    "id" : "4RAIFEZ7HeTv7D1zoGdRtL",
+    "is_local" : false,
+    "name" : "Huvudvärken",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9e870e19eac541189faf7e86f94075bcd7371cb5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4RAIFEZ7HeTv7D1zoGdRtL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ "DK", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1sMN9cbiUTe4bFaHXF78Jn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1sMN9cbiUTe4bFaHXF78Jn",
+      "id" : "1sMN9cbiUTe4bFaHXF78Jn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b77604a7243483b78e8c8845",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b77604a7243483b78e8c8845",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b77604a7243483b78e8c8845",
+        "width" : 64
+      } ],
+      "name" : "Ut ur min skalle",
+      "release_date" : "2011-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:1sMN9cbiUTe4bFaHXF78Jn"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tbXwhqy3WAFqanusCLvEU",
+      "id" : "6tbXwhqy3WAFqanusCLvEU",
+      "name" : "Promoe",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tbXwhqy3WAFqanusCLvEU"
+    } ],
+    "available_markets" : [ "DK", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 205426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE1100212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1neVZfRjEctmphQJYoERug"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1neVZfRjEctmphQJYoERug",
+    "id" : "1neVZfRjEctmphQJYoERug",
+    "is_local" : false,
+    "name" : "Balaclavaboogie",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c34e71253c5c9a4090f48501ca8ce0f7ea79e731?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1neVZfRjEctmphQJYoERug"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 174306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cwJHSwsaZR0EubTHD3nMH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cwJHSwsaZR0EubTHD3nMH",
+    "id" : "3cwJHSwsaZR0EubTHD3nMH",
+    "is_local" : false,
+    "name" : "Generellt",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7fd64e5bf600c28e3ab3ca97d7d7d8236a57a27d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3cwJHSwsaZR0EubTHD3nMH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 246386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0400401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6I1kZgg3bGrPKxhZOltbRW",
+    "id" : "6I1kZgg3bGrPKxhZOltbRW",
+    "is_local" : false,
+    "name" : "Alla vill till himmelen men ingen vill dö",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/953b586d3f7a93756b2709ca9ddb790d8dd53d43?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6I1kZgg3bGrPKxhZOltbRW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 264813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500102"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1OWicUsv1NpvlwlhVHHAb4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1OWicUsv1NpvlwlhVHHAb4",
+    "id" : "1OWicUsv1NpvlwlhVHHAb4",
+    "is_local" : false,
+    "name" : "Plotten tjocknar",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4c64c463db2b712a7b3888fed64ba307d4855b6d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1OWicUsv1NpvlwlhVHHAb4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 269600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0bWG8P2az3reNZxSQW3fSv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0bWG8P2az3reNZxSQW3fSv",
+    "id" : "0bWG8P2az3reNZxSQW3fSv",
+    "is_local" : false,
+    "name" : "Kärlekens bandvagn",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a87711d0873a07f6bc49999aaffcbae65a9caf5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0bWG8P2az3reNZxSQW3fSv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tbXwhqy3WAFqanusCLvEU",
+      "id" : "6tbXwhqy3WAFqanusCLvEU",
+      "name" : "Promoe",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tbXwhqy3WAFqanusCLvEU"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 291506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5vUtuxFM6DxpxoVgYmRhFp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5vUtuxFM6DxpxoVgYmRhFp",
+    "id" : "5vUtuxFM6DxpxoVgYmRhFp",
+    "is_local" : false,
+    "name" : "Fruktansvärld",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2263b1be097883ccc75eb139e9c500dafb83bfb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5vUtuxFM6DxpxoVgYmRhFp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 108453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0E0nG9vXgwCUa9QW8g3Y24"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0E0nG9vXgwCUa9QW8g3Y24",
+    "id" : "0E0nG9vXgwCUa9QW8g3Y24",
+    "is_local" : false,
+    "name" : "Sömnlös i Skåne",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dbc56ba9fc866acb37683ed9eb4e269624873510?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0E0nG9vXgwCUa9QW8g3Y24"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 298800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3qcZWWolMcVfMMd1tPvEtp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3qcZWWolMcVfMMd1tPvEtp",
+    "id" : "3qcZWWolMcVfMMd1tPvEtp",
+    "is_local" : false,
+    "name" : "I väntan på vadå",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2507d32d76d6e3bdce6bd6cbd6ad424116d5e54f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3qcZWWolMcVfMMd1tPvEtp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 238066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7M0EK42aIlCMRZSHq0oXjz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7M0EK42aIlCMRZSHq0oXjz",
+    "id" : "7M0EK42aIlCMRZSHq0oXjz",
+    "is_local" : false,
+    "name" : "Nu",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10adb6280f4ad6de9681e494d58332e86bbcf5c6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7M0EK42aIlCMRZSHq0oXjz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+      "id" : "2s7biycbXw8gmviNBeoCx9",
+      "name" : "Chords",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KL0TZJ71UaqS71vlBzC7p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KL0TZJ71UaqS71vlBzC7p",
+      "id" : "1KL0TZJ71UaqS71vlBzC7p",
+      "name" : "Supreme",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KL0TZJ71UaqS71vlBzC7p"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 315453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3xvycm0knXlTUj6MmQ3lqs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3xvycm0knXlTUj6MmQ3lqs",
+    "id" : "3xvycm0knXlTUj6MmQ3lqs",
+    "is_local" : false,
+    "name" : "Det löser sej",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/73ffb1533e058085b13924b6dcf3ebc557e8455b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3xvycm0knXlTUj6MmQ3lqs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/717V1zN08wjY5HQsTFQSH0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/717V1zN08wjY5HQsTFQSH0",
+      "id" : "717V1zN08wjY5HQsTFQSH0",
+      "name" : "Svante Lodén",
+      "type" : "artist",
+      "uri" : "spotify:artist:717V1zN08wjY5HQsTFQSH0"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 258586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500109"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2f6FxzfjlPHyo3gUg0ipBx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2f6FxzfjlPHyo3gUg0ipBx",
+    "id" : "2f6FxzfjlPHyo3gUg0ipBx",
+    "is_local" : false,
+    "name" : "Skjuter du, skjuter jag",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8126ace40a5c252b4a9388927f30eae25694c106?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2f6FxzfjlPHyo3gUg0ipBx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 330280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6DfJJg8KJCJx4DrvA0pOmm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6DfJJg8KJCJx4DrvA0pOmm",
+    "id" : "6DfJJg8KJCJx4DrvA0pOmm",
+    "is_local" : false,
+    "name" : "Stirra ner",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8c189eff743a642eb986f444f42c30039027e76f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6DfJJg8KJCJx4DrvA0pOmm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+      "id" : "2s7biycbXw8gmviNBeoCx9",
+      "name" : "Chords",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 255360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500111"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6jWvuMus6aZ3S3WxpIkp2m"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6jWvuMus6aZ3S3WxpIkp2m",
+    "id" : "6jWvuMus6aZ3S3WxpIkp2m",
+    "is_local" : false,
+    "name" : "Åk dit",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/193fa5540f7a366b3aabaf0d0a0c9f848cb6e3d5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6jWvuMus6aZ3S3WxpIkp2m"
+  } ]
+}

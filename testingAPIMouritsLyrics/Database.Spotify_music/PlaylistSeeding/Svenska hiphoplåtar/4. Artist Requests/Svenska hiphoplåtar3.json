@@ -1,0 +1,715 @@
+{
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5ICm42Qd6Mxunp1xyBGUp0"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7878
+    },
+    "genres" : [ "swedish hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/5ICm42Qd6Mxunp1xyBGUp0",
+    "id" : "5ICm42Qd6Mxunp1xyBGUp0",
+    "images" : [ {
+      "height" : 667,
+      "url" : "https://i.scdn.co/image/04b02bd1336d1685a89af566065060ddfc6c7f0a",
+      "width" : 1000
+    }, {
+      "height" : 427,
+      "url" : "https://i.scdn.co/image/a7f31a4a2b92fe23b9ac6d6b9087b468589ac6c0",
+      "width" : 640
+    }, {
+      "height" : 133,
+      "url" : "https://i.scdn.co/image/0a232ed839546cdeaa04dcbc1bbf18cd4ca6ece8",
+      "width" : 200
+    }, {
+      "height" : 43,
+      "url" : "https://i.scdn.co/image/da6b5c0e5506c6badfeef758f6b02cfc527b32d3",
+      "width" : 64
+    } ],
+    "name" : "Adam Tensta",
+    "popularity" : 33,
+    "type" : "artist",
+    "uri" : "spotify:artist:5ICm42Qd6Mxunp1xyBGUp0"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0vrkcb4ObECdtDOgzD5BBi"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 430
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/0vrkcb4ObECdtDOgzD5BBi",
+    "id" : "0vrkcb4ObECdtDOgzD5BBi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273cf63b48b36743c894b73c81e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02cf63b48b36743c894b73c81e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851cf63b48b36743c894b73c81e",
+      "width" : 64
+    } ],
+    "name" : "Kedjan",
+    "popularity" : 8,
+    "type" : "artist",
+    "uri" : "spotify:artist:0vrkcb4ObECdtDOgzD5BBi"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 34982
+    },
+    "genres" : [ "dancehall", "modern reggae", "swedish dancehall", "swedish reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/2TF8gIfNvlOCCEgAoOUz2L",
+    "id" : "2TF8gIfNvlOCCEgAoOUz2L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/79779dbd7fe5c29a775c2148afc0434109914dca",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/5f2956fc6efdce63c64cdb89ee5871789cd4dd25",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/52aade485120523a4099b1d32face246b8b608c3",
+      "width" : 160
+    } ],
+    "name" : "Million Stylez",
+    "popularity" : 49,
+    "type" : "artist",
+    "uri" : "spotify:artist:2TF8gIfNvlOCCEgAoOUz2L"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xEkTJqTsYdjbnj0MJeu3j"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 510
+    },
+    "genres" : [ "swedish folk pop" ],
+    "href" : "https://api.spotify.com/v1/artists/6xEkTJqTsYdjbnj0MJeu3j",
+    "id" : "6xEkTJqTsYdjbnj0MJeu3j",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f81db2039551f79580802fb598f777a0bccc6b8",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/58ab1d9a672c03928452902ed06118d77410151b",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/71d4e2d13e700e092da9b198e7a49a1eebb71c6f",
+      "width" : 160
+    } ],
+    "name" : "LouLou Lamotte",
+    "popularity" : 30,
+    "type" : "artist",
+    "uri" : "spotify:artist:6xEkTJqTsYdjbnj0MJeu3j"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 87792
+    },
+    "genres" : [ "dancehall", "french reggae", "lovers rock", "modern reggae", "reggae", "roots reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/1QfjByidqUrsRhcT3fpWTU",
+    "id" : "1QfjByidqUrsRhcT3fpWTU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc087bede727b91cbbcedb6bcb5952d26df398f9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/75d94dbd641a4ffec8ee7ce133870a3d4b171b64",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/9de4b35640159cb7010e75183d3c6b3375c26cd6",
+      "width" : 160
+    } ],
+    "name" : "Lutan Fyah",
+    "popularity" : 50,
+    "type" : "artist",
+    "uri" : "spotify:artist:1QfjByidqUrsRhcT3fpWTU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 13188
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/48Z0MG7G6UQeWYibHpXgQe",
+    "id" : "48Z0MG7G6UQeWYibHpXgQe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4e0145ae55192100eb841ba9a9d73e495920dcf4",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/0a8423bc42068b9caa3a27a43f4fff66d2bdb97a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/cc4477c4a261677ae10998c2dfdb30916ac9e7ab",
+      "width" : 160
+    } ],
+    "name" : "Nano",
+    "popularity" : 39,
+    "type" : "artist",
+    "uri" : "spotify:artist:48Z0MG7G6UQeWYibHpXgQe"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 9591
+    },
+    "genres" : [ "swedish indie pop" ],
+    "href" : "https://api.spotify.com/v1/artists/1Z8YLeRzSedy0jT5D08pVU",
+    "id" : "1Z8YLeRzSedy0jT5D08pVU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9c6b34c95961c40104cb63e84589284473222c1d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ad11a4275abb82f1fa9a9c6ff39b713db6cec590",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/316a675efeec40cd850bc0c0a9377d78db533188",
+      "width" : 160
+    } ],
+    "name" : "Marit Bergman",
+    "popularity" : 31,
+    "type" : "artist",
+    "uri" : "spotify:artist:1Z8YLeRzSedy0jT5D08pVU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5aXPX8tI80r3ExJfhRqA34"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 282
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/5aXPX8tI80r3ExJfhRqA34",
+    "id" : "5aXPX8tI80r3ExJfhRqA34",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273ab3f2fc1ab014fe1fe85f59c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02ab3f2fc1ab014fe1fe85f59c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851ab3f2fc1ab014fe1fe85f59c",
+      "width" : 64
+    } ],
+    "name" : "Samia",
+    "popularity" : 19,
+    "type" : "artist",
+    "uri" : "spotify:artist:5aXPX8tI80r3ExJfhRqA34"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5V3DSDbV7sIE7WhsU14R0l"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 55
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/5V3DSDbV7sIE7WhsU14R0l",
+    "id" : "5V3DSDbV7sIE7WhsU14R0l",
+    "images" : [ ],
+    "name" : "Stina Wäppling",
+    "popularity" : 12,
+    "type" : "artist",
+    "uri" : "spotify:artist:5V3DSDbV7sIE7WhsU14R0l"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 4238
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/1w2HnLBup1zCyrQ0AJ0HZZ",
+    "id" : "1w2HnLBup1zCyrQ0AJ0HZZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2732a2bfc29c937730a6471089b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e022a2bfc29c937730a6471089b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048512a2bfc29c937730a6471089b",
+      "width" : 64
+    } ],
+    "name" : "Robert Pettersson",
+    "popularity" : 26,
+    "type" : "artist",
+    "uri" : "spotify:artist:1w2HnLBup1zCyrQ0AJ0HZZ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2YeL2qMsXfZGiKo2iTVqAQ"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 276
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/2YeL2qMsXfZGiKo2iTVqAQ",
+    "id" : "2YeL2qMsXfZGiKo2iTVqAQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3223a902e9c760d2a2d96ed9342fc4a72d305c77",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/2285cc943e66868de417f346d6c8c54a9b86477d",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/f736afa65dc164b5d2b4f850d065c30856a9b432",
+      "width" : 160
+    } ],
+    "name" : "Aki",
+    "popularity" : 14,
+    "type" : "artist",
+    "uri" : "spotify:artist:2YeL2qMsXfZGiKo2iTVqAQ"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2TyxH9gbp3aimAb1R3gdPE"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 660
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/2TyxH9gbp3aimAb1R3gdPE",
+    "id" : "2TyxH9gbp3aimAb1R3gdPE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c7b6047d0299bbe79bcb861f80bef5c5306ccc02",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/09059342dd3f655c66b18be626300fe2c9037d09",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/e0b96ccf6c8e4c6d6e606ebdcbb4f6d4fc68b762",
+      "width" : 160
+    } ],
+    "name" : "Leia",
+    "popularity" : 4,
+    "type" : "artist",
+    "uri" : "spotify:artist:2TyxH9gbp3aimAb1R3gdPE"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7991
+    },
+    "genres" : [ "swedish hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/1SwDFc5jX708XR3XtzLrRs",
+    "id" : "1SwDFc5jX708XR3XtzLrRs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d32c7b56ec8a7bbdd22f5380967959d9698c207c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/189cec48186b82db4495a350b1eefe519d65ecf0",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/7aff0f1e039a9102f2d84ca5c7be7a7599c0f327",
+      "width" : 160
+    } ],
+    "name" : "Cleo",
+    "popularity" : 38,
+    "type" : "artist",
+    "uri" : "spotify:artist:1SwDFc5jX708XR3XtzLrRs"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36MWBzzYuqqeHK7OInjkuX"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 495
+    },
+    "genres" : [ "arabic hip hop", "swedish reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/36MWBzzYuqqeHK7OInjkuX",
+    "id" : "36MWBzzYuqqeHK7OInjkuX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27358ce9c0a89c5315361bcd659",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0258ce9c0a89c5315361bcd659",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485158ce9c0a89c5315361bcd659",
+      "width" : 64
+    } ],
+    "name" : "Hanouneh",
+    "popularity" : 9,
+    "type" : "artist",
+    "uri" : "spotify:artist:36MWBzzYuqqeHK7OInjkuX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3iAaUlYB3GCPNXcFQmhP1m"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 233
+    },
+    "genres" : [ "swedish reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/3iAaUlYB3GCPNXcFQmhP1m",
+    "id" : "3iAaUlYB3GCPNXcFQmhP1m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273daa7fd17d791d0ee0b1c8b1a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02daa7fd17d791d0ee0b1c8b1a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851daa7fd17d791d0ee0b1c8b1a",
+      "width" : 64
+    } ],
+    "name" : "Miss Relli",
+    "popularity" : 15,
+    "type" : "artist",
+    "uri" : "spotify:artist:3iAaUlYB3GCPNXcFQmhP1m"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1WBtXy2QUdomqCWs1YHBnO"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 413
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/1WBtXy2QUdomqCWs1YHBnO",
+    "id" : "1WBtXy2QUdomqCWs1YHBnO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5bb30b7dfb0e8dfb40a923c3b84d9c339cbb432c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/14ff8276022ea8558d3ab33f6dcb876f6b8c214e",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/eb5956d30bcef1bbcb1c318558560bb1a00ac4ed",
+      "width" : 160
+    } ],
+    "name" : "Frida Scar",
+    "popularity" : 7,
+    "type" : "artist",
+    "uri" : "spotify:artist:1WBtXy2QUdomqCWs1YHBnO"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4tS3CoArKANt7292nDWCHR"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2037
+    },
+    "genres" : [ "gothenburg hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/4tS3CoArKANt7292nDWCHR",
+    "id" : "4tS3CoArKANt7292nDWCHR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d74315d5bf7a31a3f357530b53dc888a5f833b2",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/340a59692b567c7247f2f264035949677a9246a4",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/452c48606afeebcb1ccfb8785d5ffcf948b4790f",
+      "width" : 160
+    } ],
+    "name" : "Serengeti",
+    "popularity" : 12,
+    "type" : "artist",
+    "uri" : "spotify:artist:4tS3CoArKANt7292nDWCHR"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/01u0qkMArUKgke2Jyi5Deh"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/01u0qkMArUKgke2Jyi5Deh",
+    "id" : "01u0qkMArUKgke2Jyi5Deh",
+    "images" : [ ],
+    "name" : "Sacke o Verron",
+    "popularity" : 2,
+    "type" : "artist",
+    "uri" : "spotify:artist:01u0qkMArUKgke2Jyi5Deh"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7121
+    },
+    "genres" : [ "swedish hip hop", "swedish reggae" ],
+    "href" : "https://api.spotify.com/v1/artists/2jyig4DFb68JxLmVSrgHjy",
+    "id" : "2jyig4DFb68JxLmVSrgHjy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3f0cdd390ceabf4e728f4ae6866f087294086a6a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/1711847d1b5821bce91191650d67ace7bcf2b118",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/bd54409b476d6e5b020ed80d8d565ff9f64c94eb",
+      "width" : 160
+    } ],
+    "name" : "Helt Off",
+    "popularity" : 32,
+    "type" : "artist",
+    "uri" : "spotify:artist:2jyig4DFb68JxLmVSrgHjy"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0bWdlXc09oaocOvF02njP4"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2409
+    },
+    "genres" : [ "swedish hip hop", "swedish underground rap" ],
+    "href" : "https://api.spotify.com/v1/artists/0bWdlXc09oaocOvF02njP4",
+    "id" : "0bWdlXc09oaocOvF02njP4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2737853b9674eaad3882c0f36ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e027853b9674eaad3882c0f36ab",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048517853b9674eaad3882c0f36ab",
+      "width" : 64
+    } ],
+    "name" : "Fjärde Världen",
+    "popularity" : 26,
+    "type" : "artist",
+    "uri" : "spotify:artist:0bWdlXc09oaocOvF02njP4"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/50OQcY2WdhxQ3O5w3FCMJD"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 0
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/50OQcY2WdhxQ3O5w3FCMJD",
+    "id" : "50OQcY2WdhxQ3O5w3FCMJD",
+    "images" : [ ],
+    "name" : "Alibi of Medina",
+    "popularity" : 1,
+    "type" : "artist",
+    "uri" : "spotify:artist:50OQcY2WdhxQ3O5w3FCMJD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6OueTZbuXuUh85dn1u5lLY"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 55
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/6OueTZbuXuUh85dn1u5lLY",
+    "id" : "6OueTZbuXuUh85dn1u5lLY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a253a931647e63b22ca311d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02a253a931647e63b22ca311d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851a253a931647e63b22ca311d0",
+      "width" : 64
+    } ],
+    "name" : "Hani",
+    "popularity" : 12,
+    "type" : "artist",
+    "uri" : "spotify:artist:6OueTZbuXuUh85dn1u5lLY"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1Utg7DGaiaN2w4oEM3TcbY"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 6074
+    },
+    "genres" : [ "swedish hip hop", "swedish underground rap" ],
+    "href" : "https://api.spotify.com/v1/artists/1Utg7DGaiaN2w4oEM3TcbY",
+    "id" : "1Utg7DGaiaN2w4oEM3TcbY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273b068a8356cb557c9651fd016",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02b068a8356cb557c9651fd016",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851b068a8356cb557c9651fd016",
+      "width" : 64
+    } ],
+    "name" : "Fattaru",
+    "popularity" : 28,
+    "type" : "artist",
+    "uri" : "spotify:artist:1Utg7DGaiaN2w4oEM3TcbY"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4qSaLWsra4abvHVVijKwlx"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 8756
+    },
+    "genres" : [ "swedish gangsta rap", "swedish hip hop", "swedish trap", "swedish trap pop" ],
+    "href" : "https://api.spotify.com/v1/artists/4qSaLWsra4abvHVVijKwlx",
+    "id" : "4qSaLWsra4abvHVVijKwlx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c890bf86081f6ca100434334bbdbe8b2ae3db625",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/c4e12ad82957664ad54ee382cb0ef82b5b6d430f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/5b7605936443ccf13da2d231c208ba19f9e20dde",
+      "width" : 160
+    } ],
+    "name" : "Matte Caliste",
+    "popularity" : 46,
+    "type" : "artist",
+    "uri" : "spotify:artist:4qSaLWsra4abvHVVijKwlx"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4EllF1VSZBu5KAjF0dUBIa"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 117
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/4EllF1VSZBu5KAjF0dUBIa",
+    "id" : "4EllF1VSZBu5KAjF0dUBIa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273c7ffbd0b7da8966f589b6033",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02c7ffbd0b7da8966f589b6033",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851c7ffbd0b7da8966f589b6033",
+      "width" : 64
+    } ],
+    "name" : "Cedd & Jeff",
+    "popularity" : 3,
+    "type" : "artist",
+    "uri" : "spotify:artist:4EllF1VSZBu5KAjF0dUBIa"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 19310
+    },
+    "genres" : [ "gothenburg hip hop", "swedish hip hop", "swedish trap pop" ],
+    "href" : "https://api.spotify.com/v1/artists/45hO5u8evtwIpSYefQHW8P",
+    "id" : "45hO5u8evtwIpSYefQHW8P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5bfdd2f5f98f6d2353376d1278027cb24aa248e",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/999d06d016b3134efa93f80c32637d47bfa05369",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/b5b856b72a380c8927cacb79da6cf7a07de89733",
+      "width" : 160
+    } ],
+    "name" : "Lani Mo",
+    "popularity" : 44,
+    "type" : "artist",
+    "uri" : "spotify:artist:45hO5u8evtwIpSYefQHW8P"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2y8cXeZC2kuK2VoHpmVerV"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/2y8cXeZC2kuK2VoHpmVerV",
+    "id" : "2y8cXeZC2kuK2VoHpmVerV",
+    "images" : [ ],
+    "name" : "Pikanen Beats",
+    "popularity" : 2,
+    "type" : "artist",
+    "uri" : "spotify:artist:2y8cXeZC2kuK2VoHpmVerV"
+  } ]
+}

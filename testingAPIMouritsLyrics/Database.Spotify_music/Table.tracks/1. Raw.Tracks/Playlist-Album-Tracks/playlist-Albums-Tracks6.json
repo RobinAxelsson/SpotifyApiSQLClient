@@ -1,0 +1,3448 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0uQipMQ0AroFRdp7u9yEPI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0uQipMQ0AroFRdp7u9yEPI",
+      "id" : "0uQipMQ0AroFRdp7u9yEPI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c1e38e07f2fd72bc49d737d4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c1e38e07f2fd72bc49d737d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c1e38e07f2fd72bc49d737d4",
+        "width" : 64
+      } ],
+      "name" : "Masquerade",
+      "release_date" : "2002",
+      "release_date_precision" : "year",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:0uQipMQ0AroFRdp7u9yEPI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1nkOxhGMjCGsfX8qCUR7wp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1nkOxhGMjCGsfX8qCUR7wp",
+      "id" : "1nkOxhGMjCGsfX8qCUR7wp",
+      "name" : "Melky",
+      "type" : "artist",
+      "uri" : "spotify:artist:1nkOxhGMjCGsfX8qCUR7wp"
+    } ],
+    "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10207913"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3HLuQybRhc7WlQ5L4KhJ74"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3HLuQybRhc7WlQ5L4KhJ74",
+    "id" : "3HLuQybRhc7WlQ5L4KhJ74",
+    "is_local" : false,
+    "name" : "MVP Kompa (feat. Melky)",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/be8ab24362eb2f7b22c4ea54d3a6cc3c4f8883e3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:3HLuQybRhc7WlQ5L4KhJ74"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+        "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+        "name" : "Wyclef Jean",
+        "type" : "artist",
+        "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+      } ],
+      "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0uQipMQ0AroFRdp7u9yEPI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0uQipMQ0AroFRdp7u9yEPI",
+      "id" : "0uQipMQ0AroFRdp7u9yEPI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c1e38e07f2fd72bc49d737d4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c1e38e07f2fd72bc49d737d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c1e38e07f2fd72bc49d737d4",
+        "width" : 64
+      } ],
+      "name" : "Masquerade",
+      "release_date" : "2002",
+      "release_date_precision" : "year",
+      "total_tracks" : 22,
+      "type" : "album",
+      "uri" : "spotify:album:0uQipMQ0AroFRdp7u9yEPI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe",
+      "id" : "7aBzpmFXB4WWpPl2F7RjBe",
+      "name" : "Wyclef Jean",
+      "type" : "artist",
+      "uri" : "spotify:artist:7aBzpmFXB4WWpPl2F7RjBe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/31dhI6hv7tb0hKoQXZMB1T"
+      },
+      "href" : "https://api.spotify.com/v1/artists/31dhI6hv7tb0hKoQXZMB1T",
+      "id" : "31dhI6hv7tb0hKoQXZMB1T",
+      "name" : "Ja Rah Rah",
+      "type" : "artist",
+      "uri" : "spotify:artist:31dhI6hv7tb0hKoQXZMB1T"
+    } ],
+    "available_markets" : [ "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 326226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10207914"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ElT23uMbRuTtDvZe5Ud7Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ElT23uMbRuTtDvZe5Ud7Y",
+    "id" : "7ElT23uMbRuTtDvZe5Ud7Y",
+    "is_local" : false,
+    "name" : "Ghetto Racine (feat. Ja Rah Rah) - PJ's Creole Mix",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b9ee5dc0a71c6880b527c9c3d4a2940a4c918786?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:7ElT23uMbRuTtDvZe5Ud7Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 197666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7390001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/25ugoarRZ6IaZegrjNxGOx",
+    "id" : "25ugoarRZ6IaZegrjNxGOx",
+    "is_local" : false,
+    "name" : "Get Up, Stand Up",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9796ddb487f7f3cc8757092d4b6123a22d566eb3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:25ugoarRZ6IaZegrjNxGOx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300128"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3IOfOgXbu7kTJEIEY8DqRt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3IOfOgXbu7kTJEIEY8DqRt",
+    "id" : "3IOfOgXbu7kTJEIEY8DqRt",
+    "is_local" : false,
+    "name" : "Hallelujah Time",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0fdd62e431dff8056372e4d6eaff995cede748d8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3IOfOgXbu7kTJEIEY8DqRt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279720,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7390003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5uBKhKWTJ4E47rcLQqu3YH",
+    "id" : "5uBKhKWTJ4E47rcLQqu3YH",
+    "is_local" : false,
+    "name" : "I Shot The Sheriff",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cbd5be940eacb90e85a6ddf7bc9c7c3e3d211c7a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5uBKhKWTJ4E47rcLQqu3YH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7390008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34Jqj42hsT3O3N8yihE3B6",
+    "id" : "34Jqj42hsT3O3N8yihE3B6",
+    "is_local" : false,
+    "name" : "Burnin' And Lootin'",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/29beec2dbdd5fee8c75d5b847f8c65485cef2a63?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:34Jqj42hsT3O3N8yihE3B6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nnxlucFOovCdayN8JcrVZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nnxlucFOovCdayN8JcrVZ",
+    "id" : "7nnxlucFOovCdayN8JcrVZ",
+    "is_local" : false,
+    "name" : "Put It On",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c3c2f23b81d1618b9f61179e74dbde9436071ed7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7nnxlucFOovCdayN8JcrVZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1WdjhpptMbaldV9A18LGz7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1WdjhpptMbaldV9A18LGz7",
+    "id" : "1WdjhpptMbaldV9A18LGz7",
+    "is_local" : false,
+    "name" : "Small Axe",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7dbcc1f455dd7b2fcf01007bb6e920335b328cb4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1WdjhpptMbaldV9A18LGz7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 213853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300061"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cBDitPtOB6usalQ5LbqgM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cBDitPtOB6usalQ5LbqgM",
+    "id" : "5cBDitPtOB6usalQ5LbqgM",
+    "is_local" : false,
+    "name" : "Pass It On",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8d7b72eafc1e522e04723beba07fb13c7d61a1c0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5cBDitPtOB6usalQ5LbqgM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 224640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3JF5q9r8jTik1ZCb5CvJ61"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3JF5q9r8jTik1ZCb5CvJ61",
+    "id" : "3JF5q9r8jTik1ZCb5CvJ61",
+    "is_local" : false,
+    "name" : "Duppy Conqueror",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/25a78d5242e20e962b75cd4dd1534ba3736ead68?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3JF5q9r8jTik1ZCb5CvJ61"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 222120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/74GXP8DDV73npTIVCoN7Gy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/74GXP8DDV73npTIVCoN7Gy",
+    "id" : "74GXP8DDV73npTIVCoN7Gy",
+    "is_local" : false,
+    "name" : "One Foundation",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc13ac95c9caf48569b90c5d92b22916d87ae789?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:74GXP8DDV73npTIVCoN7Gy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7390007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1WujDB3odQoKJYJNvhgEGL",
+    "id" : "1WujDB3odQoKJYJNvhgEGL",
+    "is_local" : false,
+    "name" : "Rastaman Chant",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/20697a377ae9f3387042b73e7d4ed1f37509f88c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1WujDB3odQoKJYJNvhgEGL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 223106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN7300132"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/698M3LzP8qEQmTboW41BL9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/698M3LzP8qEQmTboW41BL9",
+    "id" : "698M3LzP8qEQmTboW41BL9",
+    "is_local" : false,
+    "name" : "Reincarnated Soul",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3d01da00c2ed0352680887740d85347a23bd825e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:698M3LzP8qEQmTboW41BL9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 188480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0100146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1XbRHOvUHuwsGE2YFQrzwf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1XbRHOvUHuwsGE2YFQrzwf",
+    "id" : "1XbRHOvUHuwsGE2YFQrzwf",
+    "is_local" : false,
+    "name" : "No Sympathy - Remastered 2001",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/750fa1b4af5cc0a0aa66358f32f9db5709e66b64?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1XbRHOvUHuwsGE2YFQrzwf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 194426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0100147"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MwdEFa0A1r8B7TSRQ6d2a"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MwdEFa0A1r8B7TSRQ6d2a",
+    "id" : "2MwdEFa0A1r8B7TSRQ6d2a",
+    "is_local" : false,
+    "name" : "The Oppressed Song - Remastered 2001",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a1b13cceed2bb4188e18c5440bc6db8d413f0b32?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2MwdEFa0A1r8B7TSRQ6d2a"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 221933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400796"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5MVW8uIuNuL7CQ0RyyogHI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5MVW8uIuNuL7CQ0RyyogHI",
+    "id" : "5MVW8uIuNuL7CQ0RyyogHI",
+    "is_local" : false,
+    "name" : "Get Up, Stand Up",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8535115fc8dfc475bd8bab451ddb04095118a6a9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5MVW8uIuNuL7CQ0RyyogHI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 190693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400797"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NHiHb0NsBkBlLtB4r0dAA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NHiHb0NsBkBlLtB4r0dAA",
+    "id" : "2NHiHb0NsBkBlLtB4r0dAA",
+    "is_local" : false,
+    "name" : "Get Up, Stand Up - Single Version",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f61697215edde166050d3dc5ffc3ff5f479ec8e3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:2NHiHb0NsBkBlLtB4r0dAA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 362986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400798"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Twk3yCXYWWQYgV9tXSE9c"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Twk3yCXYWWQYgV9tXSE9c",
+    "id" : "4Twk3yCXYWWQYgV9tXSE9c",
+    "is_local" : false,
+    "name" : "Duppy Conqueror - Live At Leeds Polytechnic, 1973",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5fc59a21ef4f7f28ba2ebdcae2f6ecbfae1752c7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Twk3yCXYWWQYgV9tXSE9c"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 299546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400799"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7AkdpynfyHHR7EgskjGmMO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7AkdpynfyHHR7EgskjGmMO",
+    "id" : "7AkdpynfyHHR7EgskjGmMO",
+    "is_local" : false,
+    "name" : "Slave Driver - Live At Leeds Polytechnic, 1973",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/98d06f88f226ec968a9145b5d9cc634a61e4dfe9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7AkdpynfyHHR7EgskjGmMO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 509040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400800"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LzR9PGcT8DtbPekw3haDY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LzR9PGcT8DtbPekw3haDY",
+    "id" : "3LzR9PGcT8DtbPekw3haDY",
+    "is_local" : false,
+    "name" : "Burnin' And Lootin' - Live At Leeds Polytechnic, 1973",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c0c75601db0f0a42f3a0af5f453ea26c9347f307?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3LzR9PGcT8DtbPekw3haDY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 308680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400801"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Bj6KFF1ufrEUanTfn6tgQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Bj6KFF1ufrEUanTfn6tgQ",
+    "id" : "4Bj6KFF1ufrEUanTfn6tgQ",
+    "is_local" : false,
+    "name" : "Can't Blame The Youth - Live At Leeds Polytechnic, 1973",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8327d0fa33eafc999010ea4cb5f69bdf88ad066?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4Bj6KFF1ufrEUanTfn6tgQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 236853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400802"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2x1IPyKAcm2EI7VQeEtK1I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2x1IPyKAcm2EI7VQeEtK1I",
+    "id" : "2x1IPyKAcm2EI7VQeEtK1I",
+    "is_local" : false,
+    "name" : "Stop That Train - Live At Leeds Polytechnic, 1973",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/827af73697147ba783395bfbe5721e7f6fd0471e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2x1IPyKAcm2EI7VQeEtK1I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 388920,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400803"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7bejqrvBAuIzVgooYHTPur"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7bejqrvBAuIzVgooYHTPur",
+    "id" : "7bejqrvBAuIzVgooYHTPur",
+    "is_local" : false,
+    "name" : "Midnight Ravers - Live At Leeds Polytechnic, 1973",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e4afe1a09b7bf7c0947c194eec5b559af204e4c1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7bejqrvBAuIzVgooYHTPur"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 419000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400804"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/66jRstiVrzPjQ09OcDWjPt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/66jRstiVrzPjQ09OcDWjPt",
+    "id" : "66jRstiVrzPjQ09OcDWjPt",
+    "is_local" : false,
+    "name" : "No More Trouble - Live At Leeds Polytechnic, 1973",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd1d070cea2aab583d6e4241e45e3bb70a33b287?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:66jRstiVrzPjQ09OcDWjPt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 356080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400805"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/36JlQYGKCGC9pdiuvwff1u"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/36JlQYGKCGC9pdiuvwff1u",
+    "id" : "36JlQYGKCGC9pdiuvwff1u",
+    "is_local" : false,
+    "name" : "Kinky Reggae - Live At Leeds Polytechnic, 1973",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a527ae267748e6b82023fba2825bd64b70114e3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:36JlQYGKCGC9pdiuvwff1u"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 375000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400806"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7bB7fngxpJZ3yj8Rjj3Idt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7bB7fngxpJZ3yj8Rjj3Idt",
+    "id" : "7bB7fngxpJZ3yj8Rjj3Idt",
+    "is_local" : false,
+    "name" : "Get Up, Stand Up - Live At Leeds Polytechnic, 1973",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d029bc2697821ac94ef75c8df32c0374ed92c7a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7bB7fngxpJZ3yj8Rjj3Idt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 445146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400807"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2K4h4dhSelE1MDTlo0Mamd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2K4h4dhSelE1MDTlo0Mamd",
+    "id" : "2K4h4dhSelE1MDTlo0Mamd",
+    "is_local" : false,
+    "name" : "Stir It Up - Live At Leeds Polytechnic, 1973",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/97b91e2529fb85dcc637273123bdc1d656064b4a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2K4h4dhSelE1MDTlo0Mamd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 268693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400808"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5qdRiZbVFw8xYgTnzXNriX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5qdRiZbVFw8xYgTnzXNriX",
+    "id" : "5qdRiZbVFw8xYgTnzXNriX",
+    "is_local" : false,
+    "name" : "Put It On - Live At Leeds Polytechnic, 1973",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/97a70bb96238752f358b0813f5564f6e89044040?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5qdRiZbVFw8xYgTnzXNriX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+        "id" : "6uSKeCyQEhvPC2NODgiqFE",
+        "name" : "The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5EZMcYc3xK0rlru83kHpUe",
+      "id" : "5EZMcYc3xK0rlru83kHpUe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739e0e071bcaa827031dfad879",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029e0e071bcaa827031dfad879",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519e0e071bcaa827031dfad879",
+        "width" : 64
+      } ],
+      "name" : "Burnin' (Deluxe Edition)",
+      "release_date" : "1973-10-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:5EZMcYc3xK0rlru83kHpUe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uSKeCyQEhvPC2NODgiqFE",
+      "id" : "6uSKeCyQEhvPC2NODgiqFE",
+      "name" : "The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uSKeCyQEhvPC2NODgiqFE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 815066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAAN0400809"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dfQM9x6XL5SaqtE3uA6TO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dfQM9x6XL5SaqtE3uA6TO",
+    "id" : "1dfQM9x6XL5SaqtE3uA6TO",
+    "is_local" : false,
+    "name" : "Lively Up Yourself - Live At Leeds Polytechnic, 1973",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4dd7c4f4aa7d6d28d3f508423341e999209074f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1dfQM9x6XL5SaqtE3uA6TO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700207"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0521Ulh7grWx9zxjBzRbgk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0521Ulh7grWx9zxjBzRbgk",
+    "id" : "0521Ulh7grWx9zxjBzRbgk",
+    "is_local" : false,
+    "name" : "L'africain",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ade265433149e3d444bcb0ae4329b1eadc70ce38?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0521Ulh7grWx9zxjBzRbgk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2RJBv9wXbW6m539q9NOfW1",
+      "id" : "2RJBv9wXbW6m539q9NOfW1",
+      "name" : "Soprano",
+      "type" : "artist",
+      "uri" : "spotify:artist:2RJBv9wXbW6m539q9NOfW1"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6iresfpawBUUdl030MTIbq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6iresfpawBUUdl030MTIbq",
+    "id" : "6iresfpawBUUdl030MTIbq",
+    "is_local" : false,
+    "name" : "Ouvrez les frontières",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1e36e8fc64800375e88a797237d275881a46d233?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6iresfpawBUUdl030MTIbq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 236026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700209"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TSQswM3X6uO1fU0frxl8K"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TSQswM3X6uO1fU0frxl8K",
+    "id" : "0TSQswM3X6uO1fU0frxl8K",
+    "is_local" : false,
+    "name" : "Où aller où ?",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/077cc8e19efa90ed326d370275916023712b7c08?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0TSQswM3X6uO1fU0frxl8K"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 233026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1K3LOinFiIOTmFNmX3XJ3Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1K3LOinFiIOTmFNmX3XJ3Y",
+    "id" : "1K3LOinFiIOTmFNmX3XJ3Y",
+    "is_local" : false,
+    "name" : "Africain à Paris",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fb5e4d8aff1159875ff62427ca53d7ee875bf2f3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1K3LOinFiIOTmFNmX3XJ3Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 218893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700211"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MuH0I4mwj3fTcagufigs0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MuH0I4mwj3fTcagufigs0",
+    "id" : "2MuH0I4mwj3fTcagufigs0",
+    "is_local" : false,
+    "name" : "Ayebada",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8c7f607a95214787f93699a5a719d7a870346bd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2MuH0I4mwj3fTcagufigs0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+      "id" : "0z4gvV4rjIZ9wHck67ucSV",
+      "name" : "Akon",
+      "type" : "artist",
+      "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 263853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3w6A2JCAgTSG1jrY87KBqf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3w6A2JCAgTSG1jrY87KBqf",
+    "id" : "3w6A2JCAgTSG1jrY87KBqf",
+    "is_local" : false,
+    "name" : "Soldier",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f0273b70eabc8e17f5c952d299bcb0124447a7d0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3w6A2JCAgTSG1jrY87KBqf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 207800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700213"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2iL0rTXNd0rx7jogp2JKvB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2iL0rTXNd0rx7jogp2JKvB",
+    "id" : "2iL0rTXNd0rx7jogp2JKvB",
+    "is_local" : false,
+    "name" : "Non à l'excision",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/345af41965926a15f9f37752b0c0a147c4f2fbb6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2iL0rTXNd0rx7jogp2JKvB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 228493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2kgZWHiTSU0iOuUFpnVaw3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2kgZWHiTSU0iOuUFpnVaw3",
+    "id" : "2kgZWHiTSU0iOuUFpnVaw3",
+    "is_local" : false,
+    "name" : "Foly",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ff56765f86ab9c147342b0dac74bd1392257c589?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2kgZWHiTSU0iOuUFpnVaw3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 224520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/63Y0YYtshfMqKbm0LXqCAj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/63Y0YYtshfMqKbm0LXqCAj",
+    "id" : "63Y0YYtshfMqKbm0LXqCAj",
+    "is_local" : false,
+    "name" : "Viens voir",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d7643e3a15e32588f2f14ae4d00f4a82ae18a069?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:63Y0YYtshfMqKbm0LXqCAj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 280320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700216"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51KEaCcRSO3AHOtI0yrnP3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51KEaCcRSO3AHOtI0yrnP3",
+    "id" : "51KEaCcRSO3AHOtI0yrnP3",
+    "is_local" : false,
+    "name" : "Promesses bla bla",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c74170cbfa599790cbf5d3524cb9d499c354bf1b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:51KEaCcRSO3AHOtI0yrnP3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 183333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0qgnGTzb67SDxmz3stX7VD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0qgnGTzb67SDxmz3stX7VD",
+    "id" : "0qgnGTzb67SDxmz3stX7VD",
+    "is_local" : false,
+    "name" : "Gauche droite",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/387bb3089667897d5f565e1845c84d5d97e9ed50?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0qgnGTzb67SDxmz3stX7VD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+        "id" : "3RhKSqhIE9U22yFEobw68e",
+        "name" : "Tiken Jah Fakoly",
+        "type" : "artist",
+        "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uPdbl5It4snYAz6JHDTIX",
+      "id" : "3uPdbl5It4snYAz6JHDTIX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736cd8679c279520b0cb8b68b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026cd8679c279520b0cb8b68b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516cd8679c279520b0cb8b68b8",
+        "width" : 64
+      } ],
+      "name" : "L'Africain",
+      "release_date" : "2007-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3uPdbl5It4snYAz6JHDTIX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3RhKSqhIE9U22yFEobw68e",
+      "id" : "3RhKSqhIE9U22yFEobw68e",
+      "name" : "Tiken Jah Fakoly",
+      "type" : "artist",
+      "uri" : "spotify:artist:3RhKSqhIE9U22yFEobw68e"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VMulEgSg9nApSXTL4WSkv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VMulEgSg9nApSXTL4WSkv",
+      "id" : "4VMulEgSg9nApSXTL4WSkv",
+      "name" : "Simon Beta",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VMulEgSg9nApSXTL4WSkv"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 290200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM70700218"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0cPUyvjlRMl69MM3Cpeimb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0cPUyvjlRMl69MM3Cpeimb",
+    "id" : "0cPUyvjlRMl69MM3Cpeimb",
+    "is_local" : false,
+    "name" : "Ma Côte d'Ivoire",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e9e14bbf97e532927d626b06df2f953e86bf6efa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0cPUyvjlRMl69MM3Cpeimb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/209SbubR5uKaVzj5SeN42w",
+    "id" : "209SbubR5uKaVzj5SeN42w",
+    "is_local" : false,
+    "name" : "So Much Trouble In The World",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/159ba302d3c306a04b30fe5ed8e32b8d46bc9fb7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:209SbubR5uKaVzj5SeN42w"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ApfJDLibIoWL0mRZ5uOKu",
+    "id" : "5ApfJDLibIoWL0mRZ5uOKu",
+    "is_local" : false,
+    "name" : "Zimbabwe",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/092579cda8ed0078f3f3747b17121e8d70dd072e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5ApfJDLibIoWL0mRZ5uOKu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uMvm0efKsaADso8NO7pk1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uMvm0efKsaADso8NO7pk1",
+    "id" : "0uMvm0efKsaADso8NO7pk1",
+    "is_local" : false,
+    "name" : "Top Rankin'",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/efd4e7a19cc7e9c3791d53e7c7e743a2880ef831?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0uMvm0efKsaADso8NO7pk1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261839,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xbtDXk8utIS8rOWD0X9XA",
+    "id" : "6xbtDXk8utIS8rOWD0X9XA",
+    "is_local" : false,
+    "name" : "Babylon System",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/033e2a64d98575fd3245146a9977c1025cc5d26d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6xbtDXk8utIS8rOWD0X9XA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 234240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7rCOQjHqD2ArkKvoemDG54",
+    "id" : "7rCOQjHqD2ArkKvoemDG54",
+    "is_local" : false,
+    "name" : "Survival",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c85d4048e62561c40e43dc1dad43cece1238963d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7rCOQjHqD2ArkKvoemDG54"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 175626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2qmHhaOmlcKDeGfipGhF1j",
+    "id" : "2qmHhaOmlcKDeGfipGhF1j",
+    "is_local" : false,
+    "name" : "Africa Unite",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0106ed9be208f5b905ece81319bbe352ca63214c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2qmHhaOmlcKDeGfipGhF1j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231773,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Ui4BMHapr00Iul1kB7lHC",
+    "id" : "3Ui4BMHapr00Iul1kB7lHC",
+    "is_local" : false,
+    "name" : "One Drop",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c522347835a4b4ef35ccb8bd8daebe179b2b48cb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3Ui4BMHapr00Iul1kB7lHC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cTsXX5qwa6zmG80OCz4hR",
+    "id" : "5cTsXX5qwa6zmG80OCz4hR",
+    "is_local" : false,
+    "name" : "Ride Natty Ride",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6b2a1ed3db9b9d4b52520163d7370061a9b5e3b0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5cTsXX5qwa6zmG80OCz4hR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id" : "2QsynagSdAqZj3U9HgDzjD",
+        "name" : "Bob Marley & The Wailers",
+        "type" : "artist",
+        "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "href" : "https://api.spotify.com/v1/albums/09Df7mUZBQwbDYgvE0t30r",
+      "id" : "09Df7mUZBQwbDYgvE0t30r",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025c15cf8bfc892d27aecf2f6d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515c15cf8bfc892d27aecf2f6d",
+        "width" : 64
+      } ],
+      "name" : "Survival",
+      "release_date" : "1979",
+      "release_date_precision" : "year",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:09Df7mUZBQwbDYgvE0t30r"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+      "id" : "2QsynagSdAqZj3U9HgDzjD",
+      "name" : "Bob Marley & The Wailers",
+      "type" : "artist",
+      "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 192680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR27900009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6kAye2WmX9RVnheY3QmF54",
+    "id" : "6kAye2WmX9RVnheY3QmF54",
+    "is_local" : false,
+    "name" : "Ambush In The Night",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/53af59b83aec28d74e3a25923f89441e63e3b228?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6kAye2WmX9RVnheY3QmF54"
+  } ]
+}

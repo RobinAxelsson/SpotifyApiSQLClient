@@ -1,0 +1,2419 @@
+{
+  "albums" : [ {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2002 Aftermath Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2002 Aftermath Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00606949329020"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/2cWBwpqMsDJC1ZUwz813lo",
+    "id" : "2cWBwpqMsDJC1ZUwz813lo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+      "width" : 64
+    } ],
+    "label" : "Aftermath",
+    "name" : "The Eminem Show",
+    "popularity" : 85,
+    "release_date" : "2002-05-26",
+    "release_date_precision" : "day",
+    "total_tracks" : 20,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/2cWBwpqMsDJC1ZUwz813lo/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 29826,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0ttF21hZCPw2merE3GsHcP"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0ttF21hZCPw2merE3GsHcP",
+        "id" : "0ttF21hZCPw2merE3GsHcP",
+        "is_local" : false,
+        "name" : "Curtains Up - Skit",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:0ttF21hZCPw2merE3GsHcP"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 324546,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/15qrWkkYCfmtu1uRpGf48L"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/15qrWkkYCfmtu1uRpGf48L",
+        "id" : "15qrWkkYCfmtu1uRpGf48L",
+        "is_local" : false,
+        "name" : "White America",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a14b66884591ff2797e935a1113035c3025a3e91?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:15qrWkkYCfmtu1uRpGf48L"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 251720,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0x60P5taxdI5pcGbqbap6S",
+        "id" : "0x60P5taxdI5pcGbqbap6S",
+        "is_local" : false,
+        "name" : "Business",
+        "preview_url" : "https://p.scdn.co/mp3-preview/398d9d00c6a17896deb8ec11ae6b99736d735f1f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:0x60P5taxdI5pcGbqbap6S"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 297840,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7BMO7O7ImjV8HNTH74Tshv",
+        "id" : "7BMO7O7ImjV8HNTH74Tshv",
+        "is_local" : false,
+        "name" : "Cleanin' Out My Closet",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ffc0c2d409d95c616c443a99d9a5c8f3c6db29ea?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:7BMO7O7ImjV8HNTH74Tshv"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 323720,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/27mgDrExPa3obPAYXd3yQg"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/27mgDrExPa3obPAYXd3yQg",
+        "id" : "27mgDrExPa3obPAYXd3yQg",
+        "is_local" : false,
+        "name" : "Square Dance",
+        "preview_url" : "https://p.scdn.co/mp3-preview/e192805eaeb899a2683c09db8886aa3ed8053d96?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:27mgDrExPa3obPAYXd3yQg"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 75920,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2J3CYFUn6eAuHz5S9IKape"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2J3CYFUn6eAuHz5S9IKape",
+        "id" : "2J3CYFUn6eAuHz5S9IKape",
+        "is_local" : false,
+        "name" : "The Kiss - Skit",
+        "preview_url" : "https://p.scdn.co/mp3-preview/218b5c831dc3481f6dea586a9144cbbb6fd742bb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:2J3CYFUn6eAuHz5S9IKape"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 226213,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5QD28FqaM3jTfsqWwvRZwv",
+        "id" : "5QD28FqaM3jTfsqWwvRZwv",
+        "is_local" : false,
+        "name" : "Soldier",
+        "preview_url" : "https://p.scdn.co/mp3-preview/4c1ac3b227b8cc4a678f7217e2fa204a1fbaee32?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:5QD28FqaM3jTfsqWwvRZwv"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 272840,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/288e3FhmVuCqPmNEfAH0h6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/288e3FhmVuCqPmNEfAH0h6",
+        "id" : "288e3FhmVuCqPmNEfAH0h6",
+        "is_local" : false,
+        "name" : "Say Goodbye Hollywood",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f04b819d09923edb7cad726e2eb797eefa5a8c53?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:288e3FhmVuCqPmNEfAH0h6"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+          "id" : "2XnnxQzxFZG8qEPjakokPM",
+          "name" : "Obie Trice",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 285640,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7io19rjxOFu3pGuZgBI6Pk"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7io19rjxOFu3pGuZgBI6Pk",
+        "id" : "7io19rjxOFu3pGuZgBI6Pk",
+        "is_local" : false,
+        "name" : "Drips",
+        "preview_url" : "https://p.scdn.co/mp3-preview/8301ca4143e5f77ad3f9e7c265157ec2bcfbdaae?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7io19rjxOFu3pGuZgBI6Pk"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 290320,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7lQ8MOhq6IN2w8EYcFNSUk",
+        "id" : "7lQ8MOhq6IN2w8EYcFNSUk",
+        "is_local" : false,
+        "name" : "Without Me",
+        "preview_url" : "https://p.scdn.co/mp3-preview/9aed324f09bb71798f1f094305d2adebcbcd91b8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 22746,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0EgkVzDidmq4MP57jZFeik"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0EgkVzDidmq4MP57jZFeik",
+        "id" : "0EgkVzDidmq4MP57jZFeik",
+        "is_local" : false,
+        "name" : "Paul Rosenberg - Skit",
+        "preview_url" : null,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:0EgkVzDidmq4MP57jZFeik"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 339546,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3CpoeW0cZSDzIRv5z34F87",
+        "id" : "3CpoeW0cZSDzIRv5z34F87",
+        "is_local" : false,
+        "name" : "Sing For The Moment",
+        "preview_url" : "https://p.scdn.co/mp3-preview/d06f658e0e89f8f1516c733e8ffd102d39f3208a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:3CpoeW0cZSDzIRv5z34F87"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5jNmxPYz8QE5rYp4GDil8t",
+          "id" : "5jNmxPYz8QE5rYp4GDil8t",
+          "name" : "Dina Rae",
+          "type" : "artist",
+          "uri" : "spotify:artist:5jNmxPYz8QE5rYp4GDil8t"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 350320,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4woTEX1wYOTGDqNXuavlRC",
+        "id" : "4woTEX1wYOTGDqNXuavlRC",
+        "is_local" : false,
+        "name" : "Superman",
+        "preview_url" : "https://p.scdn.co/mp3-preview/4e755379a4f6cab66fff18520052fcd513dc9a9a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:4woTEX1wYOTGDqNXuavlRC"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 320640,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6Db8IlZ7YY1pfIjJllejyH"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6Db8IlZ7YY1pfIjJllejyH",
+        "id" : "6Db8IlZ7YY1pfIjJllejyH",
+        "is_local" : false,
+        "name" : "Hailie's Song",
+        "preview_url" : "https://p.scdn.co/mp3-preview/8066502b5705f0e631f323b18f02446b2123b644?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 14,
+        "type" : "track",
+        "uri" : "spotify:track:6Db8IlZ7YY1pfIjJllejyH"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 33106,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5ZxX55HFfi4aofGTxMp58x"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5ZxX55HFfi4aofGTxMp58x",
+        "id" : "5ZxX55HFfi4aofGTxMp58x",
+        "is_local" : false,
+        "name" : "Steve Berman - Skit",
+        "preview_url" : "https://p.scdn.co/mp3-preview/809b24384f11d30e2255549dbec1367828373761?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 15,
+        "type" : "track",
+        "uri" : "spotify:track:5ZxX55HFfi4aofGTxMp58x"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Qi4Bb7a8C0a00NZcA77L0",
+          "id" : "5Qi4Bb7a8C0a00NZcA77L0",
+          "name" : "D12",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Qi4Bb7a8C0a00NZcA77L0"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 269013,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/73qINA7ccO03wxD8nsJalr"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/73qINA7ccO03wxD8nsJalr",
+        "id" : "73qINA7ccO03wxD8nsJalr",
+        "is_local" : false,
+        "name" : "When The Music Stops",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a28bd5faf0c79f4eccb1f260bcc3f830fdcdb91e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 16,
+        "type" : "track",
+        "uri" : "spotify:track:73qINA7ccO03wxD8nsJalr"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 309893,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4EQkcrSLF3QdlwNca7sMXY"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4EQkcrSLF3QdlwNca7sMXY",
+        "id" : "4EQkcrSLF3QdlwNca7sMXY",
+        "is_local" : false,
+        "name" : "Say What You Say",
+        "preview_url" : "https://p.scdn.co/mp3-preview/45793f7b3960f471a579d9d53dcfd0143dfb7a6e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 17,
+        "type" : "track",
+        "uri" : "spotify:track:4EQkcrSLF3QdlwNca7sMXY"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+          "name" : "Nate Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 297786,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4xkOaSrkexMciUUogZKVTS",
+        "id" : "4xkOaSrkexMciUUogZKVTS",
+        "is_local" : false,
+        "name" : "'Till I Collapse",
+        "preview_url" : "https://p.scdn.co/mp3-preview/e187a68b2932880bfe9586d4f4a809d7b50f38ea?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 18,
+        "type" : "track",
+        "uri" : "spotify:track:4xkOaSrkexMciUUogZKVTS"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4BmYRs3xOI8V1WCPDfxhQo"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4BmYRs3xOI8V1WCPDfxhQo",
+          "id" : "4BmYRs3xOI8V1WCPDfxhQo",
+          "name" : "Hailie Jade",
+          "type" : "artist",
+          "uri" : "spotify:artist:4BmYRs3xOI8V1WCPDfxhQo"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 267013,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3F14hbIqy1JKKLTb1mzdYV"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3F14hbIqy1JKKLTb1mzdYV",
+        "id" : "3F14hbIqy1JKKLTb1mzdYV",
+        "is_local" : false,
+        "name" : "My Dad's Gone Crazy",
+        "preview_url" : "https://p.scdn.co/mp3-preview/d7eed7114fb28bb13a841e6cca085397bd7de7b8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 19,
+        "type" : "track",
+        "uri" : "spotify:track:3F14hbIqy1JKKLTb1mzdYV"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 61866,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/51LeDAMy6nWqKdjVo7jK4j"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/51LeDAMy6nWqKdjVo7jK4j",
+        "id" : "51LeDAMy6nWqKdjVo7jK4j",
+        "is_local" : false,
+        "name" : "Curtains Close",
+        "preview_url" : "https://p.scdn.co/mp3-preview/7f17481a6b7957c31de61a69056432d29df39e00?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 20,
+        "type" : "track",
+        "uri" : "spotify:track:51LeDAMy6nWqKdjVo7jK4j"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 20
+    },
+    "type" : "album",
+    "uri" : "spotify:album:2cWBwpqMsDJC1ZUwz813lo"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2000 Interscope Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2000 Aftermath Entertainment/Interscope Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00606949062927"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/6t7956yu5zYf5A829XRiHC",
+    "id" : "6t7956yu5zYf5A829XRiHC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+      "width" : 64
+    } ],
+    "label" : "Interscope",
+    "name" : "The Marshall Mathers LP",
+    "popularity" : 81,
+    "release_date" : "2000-05-23",
+    "release_date_precision" : "day",
+    "total_tracks" : 18,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/6t7956yu5zYf5A829XRiHC/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 27866,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1WopKLOG4Kud0H1r3xrCfT"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1WopKLOG4Kud0H1r3xrCfT",
+        "id" : "1WopKLOG4Kud0H1r3xrCfT",
+        "is_local" : false,
+        "name" : "Public Service Announcement 2000",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1WopKLOG4Kud0H1r3xrCfT"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 264400,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5eGEc27nnhtmcOh6RC890a",
+        "id" : "5eGEc27nnhtmcOh6RC890a",
+        "is_local" : false,
+        "name" : "Kill You",
+        "preview_url" : "https://p.scdn.co/mp3-preview/cb720ac03454eb1193046722497dacffa0fed0d8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:5eGEc27nnhtmcOh6RC890a"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2mpeljBig2IXLXRAFO9AAs",
+          "id" : "2mpeljBig2IXLXRAFO9AAs",
+          "name" : "Dido",
+          "type" : "artist",
+          "uri" : "spotify:artist:2mpeljBig2IXLXRAFO9AAs"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 404106,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3UmaczJpikHgJFyBTAJVoz",
+        "id" : "3UmaczJpikHgJFyBTAJVoz",
+        "is_local" : false,
+        "name" : "Stan",
+        "preview_url" : "https://p.scdn.co/mp3-preview/bf13d42615a883ac55907ff694c267b2494a2376?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:3UmaczJpikHgJFyBTAJVoz"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3k00aazgj6dYcmOCtFm3PG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3k00aazgj6dYcmOCtFm3PG",
+          "id" : "3k00aazgj6dYcmOCtFm3PG",
+          "name" : "Paul \"Bunyan\" Rosenberg",
+          "type" : "artist",
+          "uri" : "spotify:artist:3k00aazgj6dYcmOCtFm3PG"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 10600,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2vDNkLviUQSxSxulGBFSqJ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2vDNkLviUQSxSxulGBFSqJ",
+        "id" : "2vDNkLviUQSxSxulGBFSqJ",
+        "is_local" : false,
+        "name" : "Paul - Skit",
+        "preview_url" : null,
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:2vDNkLviUQSxSxulGBFSqJ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 227760,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/15joiMls8SpP1VtGivYh6i"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/15joiMls8SpP1VtGivYh6i",
+        "id" : "15joiMls8SpP1VtGivYh6i",
+        "is_local" : false,
+        "name" : "Who Knew",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f7e89821e75b1c9237b6072f836c07c1f49140d0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:15joiMls8SpP1VtGivYh6i"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4XJl0Ba9LUbTemYMEYw794"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4XJl0Ba9LUbTemYMEYw794",
+          "id" : "4XJl0Ba9LUbTemYMEYw794",
+          "name" : "Steve Berman",
+          "type" : "artist",
+          "uri" : "spotify:artist:4XJl0Ba9LUbTemYMEYw794"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 53573,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0DaZU7iKgXMelfXCkCOgBK"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0DaZU7iKgXMelfXCkCOgBK",
+        "id" : "0DaZU7iKgXMelfXCkCOgBK",
+        "is_local" : false,
+        "name" : "Steve Berman",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1e20a9d922e3fcec88bec03e6a726ce07b7f27e9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:0DaZU7iKgXMelfXCkCOgBK"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 290426,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/23wfXwnsPZYe5A1xXRHb3J",
+        "id" : "23wfXwnsPZYe5A1xXRHb3J",
+        "is_local" : false,
+        "name" : "The Way I Am",
+        "preview_url" : "https://p.scdn.co/mp3-preview/401a8b3a7b03551f9e446c9d23d78188d3d616fa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:23wfXwnsPZYe5A1xXRHb3J"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 284200,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3yfqSUWxFvZELEM4PmlwIR",
+        "id" : "3yfqSUWxFvZELEM4PmlwIR",
+        "is_local" : false,
+        "name" : "The Real Slim Shady",
+        "preview_url" : "https://p.scdn.co/mp3-preview/3a9d7d29ed87152524ac6023177985b5f9023c63?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:3yfqSUWxFvZELEM4PmlwIR"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7uNtuhVl0QBCpOBG6WB4UE"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7uNtuhVl0QBCpOBG6WB4UE",
+          "id" : "7uNtuhVl0QBCpOBG6WB4UE",
+          "name" : "RBX",
+          "type" : "artist",
+          "uri" : "spotify:artist:7uNtuhVl0QBCpOBG6WB4UE"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6NFWb2y6S7PH2yvs5xbO2y"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6NFWb2y6S7PH2yvs5xbO2y",
+          "id" : "6NFWb2y6S7PH2yvs5xbO2y",
+          "name" : "Sticky Fingaz",
+          "type" : "artist",
+          "uri" : "spotify:artist:6NFWb2y6S7PH2yvs5xbO2y"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 218840,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7996f9NZeypc4jqfc6hJUa"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7996f9NZeypc4jqfc6hJUa",
+        "id" : "7996f9NZeypc4jqfc6hJUa",
+        "is_local" : false,
+        "name" : "Remember Me?",
+        "preview_url" : "https://p.scdn.co/mp3-preview/87d9c45b335d0b97610566d8b688dce623f51c4f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7996f9NZeypc4jqfc6hJUa"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 309760,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3xVtc7PB4V3AqAfq4Iahli"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3xVtc7PB4V3AqAfq4Iahli",
+        "id" : "3xVtc7PB4V3AqAfq4Iahli",
+        "is_local" : false,
+        "name" : "I'm Back",
+        "preview_url" : "https://p.scdn.co/mp3-preview/8ce926fd005e249d4f8044d817e8930f5c6cfcac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:3xVtc7PB4V3AqAfq4Iahli"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 321266,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3X4Oz9LjhhtgyOhVNlfoYa"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3X4Oz9LjhhtgyOhVNlfoYa",
+        "id" : "3X4Oz9LjhhtgyOhVNlfoYa",
+        "is_local" : false,
+        "name" : "Marshall Mathers",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c9ffc411957ca0f06ea556943d7fe5432b5b290c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:3X4Oz9LjhhtgyOhVNlfoYa"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 61800,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4HsaoezrUA96qMzDK3ZWnq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4HsaoezrUA96qMzDK3ZWnq",
+        "id" : "4HsaoezrUA96qMzDK3ZWnq",
+        "is_local" : false,
+        "name" : "Ken Kaniff - Skit",
+        "preview_url" : "https://p.scdn.co/mp3-preview/61bb513c94b267919b5f6596a4d82287c22ed020?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:4HsaoezrUA96qMzDK3ZWnq"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 300266,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7tEoJKbYdIHBfn7tTIyjHW"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7tEoJKbYdIHBfn7tTIyjHW",
+        "id" : "7tEoJKbYdIHBfn7tTIyjHW",
+        "is_local" : false,
+        "name" : "Drug Ballad",
+        "preview_url" : "https://p.scdn.co/mp3-preview/6a39afd6fa4beed3059ca1967347854aaefd67df?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:7tEoJKbYdIHBfn7tTIyjHW"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2TSvMFHlguDI495vujOAys"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2TSvMFHlguDI495vujOAys",
+          "id" : "2TSvMFHlguDI495vujOAys",
+          "name" : "Bizarre",
+          "type" : "artist",
+          "uri" : "spotify:artist:2TSvMFHlguDI495vujOAys"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 254773,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0erTM8A9ro5kzcNc962jHd"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0erTM8A9ro5kzcNc962jHd",
+        "id" : "0erTM8A9ro5kzcNc962jHd",
+        "is_local" : false,
+        "name" : "Amityville",
+        "preview_url" : "https://p.scdn.co/mp3-preview/4af1938b11a0885fbadb8b119dfffcbb4edccd1d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 14,
+        "type" : "track",
+        "uri" : "spotify:track:0erTM8A9ro5kzcNc962jHd"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id" : "7hJcb9fa4alzcOq3EaNPoG",
+          "name" : "Snoop Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id" : "4tujQJicOnuZRLiBFdp3Ou",
+          "name" : "Xzibit",
+          "type" : "artist",
+          "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+          "name" : "Nate Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 288200,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7lgvU7WnwcNZ8dbGUz8yhP",
+        "id" : "7lgvU7WnwcNZ8dbGUz8yhP",
+        "is_local" : false,
+        "name" : "Bitch Please II",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f94bc330018db1bd04618355aafc042728b00997?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 15,
+        "type" : "track",
+        "uri" : "spotify:track:7lgvU7WnwcNZ8dbGUz8yhP"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 377893,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/20oenBXlmwIfK0F3fQIjhM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/20oenBXlmwIfK0F3fQIjhM",
+        "id" : "20oenBXlmwIfK0F3fQIjhM",
+        "is_local" : false,
+        "name" : "Kim",
+        "preview_url" : "https://p.scdn.co/mp3-preview/e71c7c489624ad084fac7d1346444ec5d2b2119c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 16,
+        "type" : "track",
+        "uri" : "spotify:track:20oenBXlmwIfK0F3fQIjhM"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Qi4Bb7a8C0a00NZcA77L0",
+          "id" : "5Qi4Bb7a8C0a00NZcA77L0",
+          "name" : "D12",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Qi4Bb7a8C0a00NZcA77L0"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 321666,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5H3B1WtZYGmyOYOXgQltKU"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5H3B1WtZYGmyOYOXgQltKU",
+        "id" : "5H3B1WtZYGmyOYOXgQltKU",
+        "is_local" : false,
+        "name" : "Under The Influence",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1143efc0b53f3e79d22dee531ad1ebe29a253c79?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 17,
+        "type" : "track",
+        "uri" : "spotify:track:5H3B1WtZYGmyOYOXgQltKU"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 319600,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/18ohWhzbMCynq5QJ68ifkW"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/18ohWhzbMCynq5QJ68ifkW",
+        "id" : "18ohWhzbMCynq5QJ68ifkW",
+        "is_local" : false,
+        "name" : "Criminal",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c8e9526c01a38bcda9a24f784dd21fc139934138?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 18,
+        "type" : "track",
+        "uri" : "spotify:track:18ohWhzbMCynq5QJ68ifkW"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 18
+    },
+    "type" : "album",
+    "uri" : "spotify:album:6t7956yu5zYf5A829XRiHC"
+  }, {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2005 Aftermath Entertainment/Interscope Records",
+      "type" : "C"
+    }, {
+      "text" : "This Compilation ℗ 2005 Aftermath Entertainment/Interscope Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602498890844"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/5qENHeCSlwWpEzb25peRmQ",
+    "id" : "5qENHeCSlwWpEzb25peRmQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578",
+      "width" : 64
+    } ],
+    "label" : "Aftermath",
+    "name" : "Curtain Call: The Hits (Deluxe Edition)",
+    "popularity" : 77,
+    "release_date" : "2005-12-06",
+    "release_date_precision" : "day",
+    "total_tracks" : 24,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/5qENHeCSlwWpEzb25peRmQ/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 33986,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3V2nJ58SmfZ28Uh0QfyL4Q"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3V2nJ58SmfZ28Uh0QfyL4Q",
+        "id" : "3V2nJ58SmfZ28Uh0QfyL4Q",
+        "is_local" : false,
+        "name" : "Intro",
+        "preview_url" : "https://p.scdn.co/mp3-preview/4da53343d5d122bb85c03ec954dcda58bc216fc0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3V2nJ58SmfZ28Uh0QfyL4Q"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 205760,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0fMWtRhzOoWoCo7dRHVEEa"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0fMWtRhzOoWoCo7dRHVEEa",
+        "id" : "0fMWtRhzOoWoCo7dRHVEEa",
+        "is_local" : false,
+        "name" : "FACK",
+        "preview_url" : "https://p.scdn.co/mp3-preview/eb1693e629c77e4249a49689a60aa58dc674cf9f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:0fMWtRhzOoWoCo7dRHVEEa"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 291120,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2sGSId790ABFzGXx9VEdwl"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2sGSId790ABFzGXx9VEdwl",
+        "id" : "2sGSId790ABFzGXx9VEdwl",
+        "is_local" : false,
+        "name" : "The Way I Am",
+        "preview_url" : "https://p.scdn.co/mp3-preview/0f1b233d5fcc77e8790deb03c745fa3f63c034f0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:2sGSId790ABFzGXx9VEdwl"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 268853,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1dWimOlV5KUHDerWZVDv5l"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1dWimOlV5KUHDerWZVDv5l",
+        "id" : "1dWimOlV5KUHDerWZVDv5l",
+        "is_local" : false,
+        "name" : "My Name Is",
+        "preview_url" : "https://p.scdn.co/mp3-preview/eb19170b3d213b5204ad65314b49695f567502e0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:1dWimOlV5KUHDerWZVDv5l"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2mpeljBig2IXLXRAFO9AAs",
+          "id" : "2mpeljBig2IXLXRAFO9AAs",
+          "name" : "Dido",
+          "type" : "artist",
+          "uri" : "spotify:artist:2mpeljBig2IXLXRAFO9AAs"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 404426,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1PlMbi0Qkrlp9yVFM8JEXp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1PlMbi0Qkrlp9yVFM8JEXp",
+        "id" : "1PlMbi0Qkrlp9yVFM8JEXp",
+        "is_local" : false,
+        "name" : "Stan",
+        "preview_url" : "https://p.scdn.co/mp3-preview/5220f01de74b1b0773b32c7a5f823d47b438bd81?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:1PlMbi0Qkrlp9yVFM8JEXp"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 326466,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5Z01UMMf7V1o0MzF86s6WJ",
+        "id" : "5Z01UMMf7V1o0MzF86s6WJ",
+        "is_local" : false,
+        "name" : "Lose Yourself - From \"8 Mile\" Soundtrack",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1f611118a3727bafeb6c526768c7976b4612ba17?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:5Z01UMMf7V1o0MzF86s6WJ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+          "name" : "Nate Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 274440,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0fGh0trRN1xz3s41r7V5ce",
+        "id" : "0fGh0trRN1xz3s41r7V5ce",
+        "is_local" : false,
+        "name" : "Shake That",
+        "preview_url" : "https://p.scdn.co/mp3-preview/277803e352fad3ff50eb46bb21f1ebb9e19f51e8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:0fGh0trRN1xz3s41r7V5ce"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 340266,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1AcGKHRv5Q4TJd9yb4vjHE"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1AcGKHRv5Q4TJd9yb4vjHE",
+        "id" : "1AcGKHRv5Q4TJd9yb4vjHE",
+        "is_local" : false,
+        "name" : "Sing For The Moment",
+        "preview_url" : "https://p.scdn.co/mp3-preview/7830df9f2f767645da9039af351d5961ad2fc286?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:1AcGKHRv5Q4TJd9yb4vjHE"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 291213,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2RsTjad1nVUGrQmSoL1m8Y"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2RsTjad1nVUGrQmSoL1m8Y",
+        "id" : "2RsTjad1nVUGrQmSoL1m8Y",
+        "is_local" : false,
+        "name" : "Without Me",
+        "preview_url" : "https://p.scdn.co/mp3-preview/14d66ae2ef6708b1e1f0fe55e706f962539dd5e5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:2RsTjad1nVUGrQmSoL1m8Y"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 295666,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3Q0mJByJRrUTZGrBFYnfCP"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3Q0mJByJRrUTZGrBFYnfCP",
+        "id" : "3Q0mJByJRrUTZGrBFYnfCP",
+        "is_local" : false,
+        "name" : "Like Toy Soldiers",
+        "preview_url" : "https://p.scdn.co/mp3-preview/67076f2252b983f6e8d9d2ccd84dc630b1e83324?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:3Q0mJByJRrUTZGrBFYnfCP"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 284800,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5v8F7GFQgmCESBpPFbC9DN"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5v8F7GFQgmCESBpPFbC9DN",
+        "id" : "5v8F7GFQgmCESBpPFbC9DN",
+        "is_local" : false,
+        "name" : "The Real Slim Shady",
+        "preview_url" : "https://p.scdn.co/mp3-preview/d1d898033984949f005295ae3e26d7a667f17007?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:5v8F7GFQgmCESBpPFbC9DN"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 251266,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0TGd9kXFDRQG9FF0netmah"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0TGd9kXFDRQG9FF0netmah",
+        "id" : "0TGd9kXFDRQG9FF0netmah",
+        "is_local" : false,
+        "name" : "Mockingbird",
+        "preview_url" : "https://p.scdn.co/mp3-preview/bee5179e56f4c5b666b08afcac0332628fa24cd6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:0TGd9kXFDRQG9FF0netmah"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 200213,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5dZqnPqFR45xCZGWmxScqM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5dZqnPqFR45xCZGWmxScqM",
+        "id" : "5dZqnPqFR45xCZGWmxScqM",
+        "is_local" : false,
+        "name" : "Guilty Conscience",
+        "preview_url" : "https://p.scdn.co/mp3-preview/d3413053e38b282dc143799cf07a3abfa1af3639?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:5dZqnPqFR45xCZGWmxScqM"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 298960,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4ni8GyT1Lwn1LVl88MJsQd"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4ni8GyT1Lwn1LVl88MJsQd",
+        "id" : "4ni8GyT1Lwn1LVl88MJsQd",
+        "is_local" : false,
+        "name" : "Cleanin' Out My Closet",
+        "preview_url" : "https://p.scdn.co/mp3-preview/9429ac1dad8606ccaf447f66f145f71969868533?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 14,
+        "type" : "track",
+        "uri" : "spotify:track:4ni8GyT1Lwn1LVl88MJsQd"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 248600,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4S06iZrLlGsSqKlK6paOv8"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4S06iZrLlGsSqKlK6paOv8",
+        "id" : "4S06iZrLlGsSqKlK6paOv8",
+        "is_local" : false,
+        "name" : "Just Lose It",
+        "preview_url" : "https://p.scdn.co/mp3-preview/490d50484dea51dde698f7100202625e1b425134?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 15,
+        "type" : "track",
+        "uri" : "spotify:track:4S06iZrLlGsSqKlK6paOv8"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 281133,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/42YNobZ4HN3tRVEA47wLT6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/42YNobZ4HN3tRVEA47wLT6",
+        "id" : "42YNobZ4HN3tRVEA47wLT6",
+        "is_local" : false,
+        "name" : "When I'm Gone",
+        "preview_url" : "https://p.scdn.co/mp3-preview/e6602ed818d41278d1dee299e9e092cb7fd0be59?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 16,
+        "type" : "track",
+        "uri" : "spotify:track:42YNobZ4HN3tRVEA47wLT6"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+          "id" : "3PhoLpVuITZKcymswpck5b",
+          "name" : "Elton John",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PhoLpVuITZKcymswpck5b"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 380280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2iveqBUOzQlQBSxgAlK0bs"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2iveqBUOzQlQBSxgAlK0bs",
+        "id" : "2iveqBUOzQlQBSxgAlK0bs",
+        "is_local" : false,
+        "name" : "Stan - Live At 43rd Grammy Awards",
+        "preview_url" : "https://p.scdn.co/mp3-preview/2fdbedb89be60c320926101928ca7a8cd9fc8c06?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 17,
+        "type" : "track",
+        "uri" : "spotify:track:2iveqBUOzQlQBSxgAlK0bs"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+          "id" : "5me0Irg2ANcsgc93uaYrpb",
+          "name" : "The Notorious B.I.G.",
+          "type" : "artist",
+          "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 297440,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7jmEukeWKG64zyTFDrBSdk"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7jmEukeWKG64zyTFDrBSdk",
+        "id" : "7jmEukeWKG64zyTFDrBSdk",
+        "is_local" : false,
+        "name" : "Dead Wrong",
+        "preview_url" : "https://p.scdn.co/mp3-preview/068f04c41202b29ffb92a9e6d213e711b52241db?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7jmEukeWKG64zyTFDrBSdk"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 205280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/33WAOTIgd5JLc3CFZBaLQA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/33WAOTIgd5JLc3CFZBaLQA",
+        "id" : "33WAOTIgd5JLc3CFZBaLQA",
+        "is_local" : false,
+        "name" : "Role Model",
+        "preview_url" : "https://p.scdn.co/mp3-preview/cb93a0e73b1181092750557ab432e8b327f4d7fe?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:33WAOTIgd5JLc3CFZBaLQA"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 264786,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0gM2LPvmYnW1Gr6A3hS8Fg"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0gM2LPvmYnW1Gr6A3hS8Fg",
+        "id" : "0gM2LPvmYnW1Gr6A3hS8Fg",
+        "is_local" : false,
+        "name" : "Kill You",
+        "preview_url" : "https://p.scdn.co/mp3-preview/7b7ca372f582dee75b775867905b13a5397e373a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:0gM2LPvmYnW1Gr6A3hS8Fg"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+          },
+          "href" : "https://api.spotify.com/v1/artists/5Qi4Bb7a8C0a00NZcA77L0",
+          "id" : "5Qi4Bb7a8C0a00NZcA77L0",
+          "name" : "D12",
+          "type" : "artist",
+          "uri" : "spotify:artist:5Qi4Bb7a8C0a00NZcA77L0"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 328213,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1nYGBdTeHQd0YXqRBEDMGz"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1nYGBdTeHQd0YXqRBEDMGz",
+        "id" : "1nYGBdTeHQd0YXqRBEDMGz",
+        "is_local" : false,
+        "name" : "Shit On You",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a2a3d9d3ccbc0ab9960e4e329de45f58e884725f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:1nYGBdTeHQd0YXqRBEDMGz"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 313680,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/03MsOLzpQSyH46DZxkt84o"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/03MsOLzpQSyH46DZxkt84o",
+        "id" : "03MsOLzpQSyH46DZxkt84o",
+        "is_local" : false,
+        "name" : "Criminal",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c397b1cddf5d8b4a9572f3219a1f824d45f61839?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:03MsOLzpQSyH46DZxkt84o"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+          "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+          "name" : "JAY-Z",
+          "type" : "artist",
+          "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 336133,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5ASZFbCod633wLragmPYTj"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5ASZFbCod633wLragmPYTj",
+        "id" : "5ASZFbCod633wLragmPYTj",
+        "is_local" : false,
+        "name" : "Renegade",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f3fc7546427705a7ceed4fa84bf213054fcc562a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:5ASZFbCod633wLragmPYTj"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 2,
+        "duration_ms" : 241960,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1zWcM9b68ZdftWCP7JyOTq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1zWcM9b68ZdftWCP7JyOTq",
+        "id" : "1zWcM9b68ZdftWCP7JyOTq",
+        "is_local" : false,
+        "name" : "Just Don't Give A Fuck",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c2e9b00c5cd2916eab99d741b97aa36e9d32f2c2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:1zWcM9b68ZdftWCP7JyOTq"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 24
+    },
+    "type" : "album",
+    "uri" : "spotify:album:5qENHeCSlwWpEzb25peRmQ"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "(P) 1996 Columbia Records, a division of Sony Music Entertainment",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "074646701522"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/78Fgb88MY0ECc4GVMejqTg",
+    "id" : "78Fgb88MY0ECc4GVMejqTg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273886d823ecbfcbe661a6b0ab9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851886d823ecbfcbe661a6b0ab9",
+      "width" : 64
+    } ],
+    "label" : "Columbia",
+    "name" : "It Was Written",
+    "popularity" : 69,
+    "release_date" : "1996-07-02",
+    "release_date_precision" : "day",
+    "total_tracks" : 14,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/78Fgb88MY0ECc4GVMejqTg/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 144573,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7bIFYGYmC8MRNzDdNHbPi1"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7bIFYGYmC8MRNzDdNHbPi1",
+        "id" : "7bIFYGYmC8MRNzDdNHbPi1",
+        "is_local" : false,
+        "name" : "Album Intro",
+        "preview_url" : "https://p.scdn.co/mp3-preview/0b291f305e49e30b17cf88c8b00fedc0fce7a2ee?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:7bIFYGYmC8MRNzDdNHbPi1"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 234093,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1AHfovSnGPVYKaahRtA0U6",
+        "id" : "1AHfovSnGPVYKaahRtA0U6",
+        "is_local" : false,
+        "name" : "The Message",
+        "preview_url" : "https://p.scdn.co/mp3-preview/fe98e5d7ed804d1121ca9ad018340fe82cd979e5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:1AHfovSnGPVYKaahRtA0U6"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 279933,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0QnGI4OgY8ReggLWvEXdgD"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0QnGI4OgY8ReggLWvEXdgD",
+        "id" : "0QnGI4OgY8ReggLWvEXdgD",
+        "is_local" : false,
+        "name" : "Street Dreams",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ab5be0b7daec73afa7677158a94bcb9d8eedd13f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:0QnGI4OgY8ReggLWvEXdgD"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 232866,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4dSLfdnCy43DPJiqpoZoKe"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4dSLfdnCy43DPJiqpoZoKe",
+        "id" : "4dSLfdnCy43DPJiqpoZoKe",
+        "is_local" : false,
+        "name" : "I Gave You Power",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ba8eea60597d107715e70bca9dedc049695b585f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:4dSLfdnCy43DPJiqpoZoKe"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 244733,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2dJwnskDT5AHUso6o1Acnp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2dJwnskDT5AHUso6o1Acnp",
+        "id" : "2dJwnskDT5AHUso6o1Acnp",
+        "is_local" : false,
+        "name" : "Watch Dem Niggas",
+        "preview_url" : "https://p.scdn.co/mp3-preview/562f4f45392d87c674e8a8f9ec60e32f0bc98f6c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:2dJwnskDT5AHUso6o1Acnp"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 288266,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1tJRS17TxD5bwdTk8ehP93"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1tJRS17TxD5bwdTk8ehP93",
+        "id" : "1tJRS17TxD5bwdTk8ehP93",
+        "is_local" : false,
+        "name" : "Take It In Blood",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f5781d6afca6ba5e9853e3e48ed3cba306b1ebab?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:1tJRS17TxD5bwdTk8ehP93"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 341000,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2gXI6TBLhmCNy09NioMHdI"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2gXI6TBLhmCNy09NioMHdI",
+        "id" : "2gXI6TBLhmCNy09NioMHdI",
+        "is_local" : false,
+        "name" : "Nas Is Coming",
+        "preview_url" : "https://p.scdn.co/mp3-preview/bd2489304244dda21edff6803fdeccd9db8461c4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:2gXI6TBLhmCNy09NioMHdI"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 259800,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2Ja3UauMDeQnq4sI8a64Ys"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2Ja3UauMDeQnq4sI8a64Ys",
+        "id" : "2Ja3UauMDeQnq4sI8a64Ys",
+        "is_local" : false,
+        "name" : "Affirmative Action",
+        "preview_url" : "https://p.scdn.co/mp3-preview/d8707478c915196a387b08a58e5c330651499c69?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:2Ja3UauMDeQnq4sI8a64Ys"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 241640,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7lPJ5PrQnQRurUZIzMCQib"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7lPJ5PrQnQRurUZIzMCQib",
+        "id" : "7lPJ5PrQnQRurUZIzMCQib",
+        "is_local" : false,
+        "name" : "The Set Up",
+        "preview_url" : "https://p.scdn.co/mp3-preview/05c24616a5cf318e187409aa02ed6c6657410d98?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7lPJ5PrQnQRurUZIzMCQib"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 262960,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4HphiT6pmqBZiNHkyJCgBQ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4HphiT6pmqBZiNHkyJCgBQ",
+        "id" : "4HphiT6pmqBZiNHkyJCgBQ",
+        "is_local" : false,
+        "name" : "Black Girl Lost",
+        "preview_url" : "https://p.scdn.co/mp3-preview/818dfff66cd520c75af33a9a4aa4cfb115fac50b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:4HphiT6pmqBZiNHkyJCgBQ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 252173,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/77VyB3Lg1YMnjSSvutM4Al"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/77VyB3Lg1YMnjSSvutM4Al",
+        "id" : "77VyB3Lg1YMnjSSvutM4Al",
+        "is_local" : false,
+        "name" : "Suspect",
+        "preview_url" : "https://p.scdn.co/mp3-preview/df89651fbd523082a4ae1fd16af99139eaf4480e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:77VyB3Lg1YMnjSSvutM4Al"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 226026,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6DWdTk7UaZ6LIYYCFvmgX7"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6DWdTk7UaZ6LIYYCFvmgX7",
+        "id" : "6DWdTk7UaZ6LIYYCFvmgX7",
+        "is_local" : false,
+        "name" : "Shootouts",
+        "preview_url" : "https://p.scdn.co/mp3-preview/3aa6924f61cfd20ef9595114c5b2638b9492d6b7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:6DWdTk7UaZ6LIYYCFvmgX7"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 225066,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0wBLOFRJTBo2elusmfZhu3"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0wBLOFRJTBo2elusmfZhu3",
+        "id" : "0wBLOFRJTBo2elusmfZhu3",
+        "is_local" : false,
+        "name" : "Live Nigga Rap",
+        "preview_url" : "https://p.scdn.co/mp3-preview/b420ccd33fc0c2364840eff08cfa5b01dd72116f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:0wBLOFRJTBo2elusmfZhu3"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id" : "20qISvAhX20dpIbOOzGK3q",
+          "name" : "Nas",
+          "type" : "artist",
+          "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2Mu5NfyYm8n5iTomuKAEHl",
+          "id" : "2Mu5NfyYm8n5iTomuKAEHl",
+          "name" : "Ms. Lauryn Hill",
+          "type" : "artist",
+          "uri" : "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 282373,
+        "explicit" : true,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5PQmSHzWnlgG4EBuIqjac2",
+        "id" : "5PQmSHzWnlgG4EBuIqjac2",
+        "is_local" : false,
+        "name" : "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+        "preview_url" : "https://p.scdn.co/mp3-preview/f91858bdae13124834a3519b9e5271747c55585e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number" : 14,
+        "type" : "track",
+        "uri" : "spotify:track:5PQmSHzWnlgG4EBuIqjac2"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 14
+    },
+    "type" : "album",
+    "uri" : "spotify:album:78Fgb88MY0ECc4GVMejqTg"
+  } ]
+}

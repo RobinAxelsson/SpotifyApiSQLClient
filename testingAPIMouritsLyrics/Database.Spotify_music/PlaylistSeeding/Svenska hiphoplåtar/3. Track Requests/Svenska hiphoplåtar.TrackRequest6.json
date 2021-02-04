@@ -1,0 +1,3529 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KL0TZJ71UaqS71vlBzC7p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KL0TZJ71UaqS71vlBzC7p",
+      "id" : "1KL0TZJ71UaqS71vlBzC7p",
+      "name" : "Supreme",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KL0TZJ71UaqS71vlBzC7p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+      "id" : "2s7biycbXw8gmviNBeoCx9",
+      "name" : "Chords",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 314986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6PIVJpip7X6tfINVgrl8eu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6PIVJpip7X6tfINVgrl8eu",
+    "id" : "6PIVJpip7X6tfINVgrl8eu",
+    "is_local" : false,
+    "name" : "Det löser sej",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6PIVJpip7X6tfINVgrl8eu"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0URH67WjKuojP4HKpxsJVL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0URH67WjKuojP4HKpxsJVL",
+    "id" : "0URH67WjKuojP4HKpxsJVL",
+    "is_local" : false,
+    "name" : "Allt grönt",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0URH67WjKuojP4HKpxsJVL"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 295586,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4MXj5FNxfrnR4utmQai6Oa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4MXj5FNxfrnR4utmQai6Oa",
+    "id" : "4MXj5FNxfrnR4utmQai6Oa",
+    "is_local" : false,
+    "name" : "Flunitrazepam",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:4MXj5FNxfrnR4utmQai6Oa"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 211440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5N7VU3ccHReUgkukekJo3E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5N7VU3ccHReUgkukekJo3E",
+    "id" : "5N7VU3ccHReUgkukekJo3E",
+    "is_local" : false,
+    "name" : "Fantasi",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:5N7VU3ccHReUgkukekJo3E"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4EpMbj6cSYr0ZAGksLjoSp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4EpMbj6cSYr0ZAGksLjoSp",
+    "id" : "4EpMbj6cSYr0ZAGksLjoSp",
+    "is_local" : false,
+    "name" : "Lika barn avvika bäst del 2",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:4EpMbj6cSYr0ZAGksLjoSp"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 329973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7esyObhw2M5ylPbLLl6yUs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7esyObhw2M5ylPbLLl6yUs",
+    "id" : "7esyObhw2M5ylPbLLl6yUs",
+    "is_local" : false,
+    "name" : "Stirra ner",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:7esyObhw2M5ylPbLLl6yUs"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5xmgC1jISe31QZSp8gqKUJ",
+      "id" : "5xmgC1jISe31QZSp8gqKUJ",
+      "name" : "Peps Persson",
+      "type" : "artist",
+      "uri" : "spotify:artist:5xmgC1jISe31QZSp8gqKUJ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 370053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300410"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NGadxagAAPknp2CnVGjur"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NGadxagAAPknp2CnVGjur",
+    "id" : "3NGadxagAAPknp2CnVGjur",
+    "is_local" : false,
+    "name" : "Dynamit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:3NGadxagAAPknp2CnVGjur"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+      },
+      "href" : "https://api.spotify.com/v1/artists/54KCNI7URCrG6yjQK3Ukow",
+      "id" : "54KCNI7URCrG6yjQK3Ukow",
+      "name" : "Susanne Sundfør",
+      "type" : "artist",
+      "uri" : "spotify:artist:54KCNI7URCrG6yjQK3Ukow"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 203813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2k4FJcZFRCt9aAiJgu0gzw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2k4FJcZFRCt9aAiJgu0gzw",
+    "id" : "2k4FJcZFRCt9aAiJgu0gzw",
+    "is_local" : false,
+    "name" : "Kapitulera (feat. Susanne Sundfør)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:2k4FJcZFRCt9aAiJgu0gzw"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 231693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300409"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01oSCgfQvhyu3x1zseQYKM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01oSCgfQvhyu3x1zseQYKM",
+    "id" : "01oSCgfQvhyu3x1zseQYKM",
+    "is_local" : false,
+    "name" : "Ett brev",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:01oSCgfQvhyu3x1zseQYKM"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 504040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0100114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1PYncOhfja5HuI0PuOuOf1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1PYncOhfja5HuI0PuOuOf1",
+    "id" : "1PYncOhfja5HuI0PuOuOf1",
+    "is_local" : false,
+    "name" : "Ljudet av...",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:1PYncOhfja5HuI0PuOuOf1"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0000108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0BXWf14nc9jZEeKuhoAcIQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0BXWf14nc9jZEeKuhoAcIQ",
+    "id" : "0BXWf14nc9jZEeKuhoAcIQ",
+    "is_local" : false,
+    "name" : "Pendelparanoia",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 25,
+    "type" : "track",
+    "uri" : "spotify:track:0BXWf14nc9jZEeKuhoAcIQ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BmzKivVb0HVnEHZSWgXYz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BmzKivVb0HVnEHZSWgXYz",
+      "id" : "6BmzKivVb0HVnEHZSWgXYz",
+      "name" : "Duo Pannacotta",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BmzKivVb0HVnEHZSWgXYz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yw84sobRr067mN2U8BNOI",
+      "id" : "4yw84sobRr067mN2U8BNOI",
+      "name" : "Jan Lundgren",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yw84sobRr067mN2U8BNOI"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 302133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Tp6UHZYY0yRBcU7P0Ki7l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Tp6UHZYY0yRBcU7P0Ki7l",
+    "id" : "6Tp6UHZYY0yRBcU7P0Ki7l",
+    "is_local" : false,
+    "name" : "Dansa (feat. Jan Lundgren och Duo Panacotta)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 26,
+    "type" : "track",
+    "uri" : "spotify:track:6Tp6UHZYY0yRBcU7P0Ki7l"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 181653,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800513"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55aFzGJX0lEl2My23rqldE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55aFzGJX0lEl2My23rqldE",
+    "id" : "55aFzGJX0lEl2My23rqldE",
+    "is_local" : false,
+    "name" : "Tack för kaffet",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 27,
+    "type" : "track",
+    "uri" : "spotify:track:55aFzGJX0lEl2My23rqldE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 185240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1loQiZ7oxA8QdOvmdEPwU6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1loQiZ7oxA8QdOvmdEPwU6",
+    "id" : "1loQiZ7oxA8QdOvmdEPwU6",
+    "is_local" : false,
+    "name" : "Pretjafs",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/72bf60cee6985eef3a75e841c7ccb5ada47264ee?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1loQiZ7oxA8QdOvmdEPwU6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 266413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ZOa4BcKtDXZRSaUKME6pu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ZOa4BcKtDXZRSaUKME6pu",
+    "id" : "0ZOa4BcKtDXZRSaUKME6pu",
+    "is_local" : false,
+    "name" : "Låt nr 92",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1c4c06323789fc2c7a4759c9444a8f938b0b8e61?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0ZOa4BcKtDXZRSaUKME6pu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 219320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700203"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7J6T4AsoygfYSBZFUdO8DV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7J6T4AsoygfYSBZFUdO8DV",
+    "id" : "7J6T4AsoygfYSBZFUdO8DV",
+    "is_local" : false,
+    "name" : "Lasterna",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9fb1841a3d3b35b741fc1ad66108bad970540234?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7J6T4AsoygfYSBZFUdO8DV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 288453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6CVY5SMxIAXD7KHr0Lqy6w"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6CVY5SMxIAXD7KHr0Lqy6w",
+    "id" : "6CVY5SMxIAXD7KHr0Lqy6w",
+    "is_local" : false,
+    "name" : "KarmaKontot",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6c3bc27b25bcdb1ec009e405c7c4138824da53d7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6CVY5SMxIAXD7KHr0Lqy6w"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 210240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0aY5j3146YeHvqhOVjHp09"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0aY5j3146YeHvqhOVjHp09",
+    "id" : "0aY5j3146YeHvqhOVjHp09",
+    "is_local" : false,
+    "name" : "Bra, bra",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3632b76bf6492c5c38f01d542efccec7d6804259?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0aY5j3146YeHvqhOVjHp09"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 57653,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700206"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/28Yy3i1Gk3sxCAXF23cY27"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/28Yy3i1Gk3sxCAXF23cY27",
+    "id" : "28Yy3i1Gk3sxCAXF23cY27",
+    "is_local" : false,
+    "name" : "En vecka med",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d88bc7ddfe6d4d01aedb7e667739604892c64528?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:28Yy3i1Gk3sxCAXF23cY27"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 270706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700207"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7GdfBsB9PCtJTTzE7Tkitt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7GdfBsB9PCtJTTzE7Tkitt",
+    "id" : "7GdfBsB9PCtJTTzE7Tkitt",
+    "is_local" : false,
+    "name" : "Ett halvår utan",
+    "popularity" : 9,
+    "preview_url" : "https://p.scdn.co/mp3-preview/694a8725af41d58040ae240d973cb295205e2791?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7GdfBsB9PCtJTTzE7Tkitt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 252293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5iT0ULKQhwK31f5oMKzKvF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5iT0ULKQhwK31f5oMKzKvF",
+    "id" : "5iT0ULKQhwK31f5oMKzKvF",
+    "is_local" : false,
+    "name" : "Lika barn avvika bäst del 2",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0886a3ea6028a57944e5ca8b1b3904f9840d8932?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5iT0ULKQhwK31f5oMKzKvF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 275026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700209"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7I0qGjWIwAJfEpAbrIKS5v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7I0qGjWIwAJfEpAbrIKS5v",
+    "id" : "7I0qGjWIwAJfEpAbrIKS5v",
+    "is_local" : false,
+    "name" : "Kejsaren e naken",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19ebaaba68ec279509f660365d0373d1dd71d0e2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7I0qGjWIwAJfEpAbrIKS5v"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 238826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7pTgptMCVClFw7tIipEfPI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7pTgptMCVClFw7tIipEfPI",
+    "id" : "7pTgptMCVClFw7tIipEfPI",
+    "is_local" : false,
+    "name" : "Vibb Aktuellt",
+    "popularity" : 4,
+    "preview_url" : "https://p.scdn.co/mp3-preview/56bff2093b3c6a660c97f7d9e76038fec18e1906?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:7pTgptMCVClFw7tIipEfPI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 179986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700211"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LZZ0NXTZF8EmnUoX5mDKI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LZZ0NXTZF8EmnUoX5mDKI",
+    "id" : "3LZZ0NXTZF8EmnUoX5mDKI",
+    "is_local" : false,
+    "name" : "Ufokuken",
+    "popularity" : 6,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c02171039fece70ecfbe60abbf601c28f60c1cc6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3LZZ0NXTZF8EmnUoX5mDKI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 211440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5cAJv8OF90ec6kZJqe8BWx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5cAJv8OF90ec6kZJqe8BWx",
+    "id" : "5cAJv8OF90ec6kZJqe8BWx",
+    "is_local" : false,
+    "name" : "Fantasi",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b486dee411bcbb6085a58dc3f2f40df687bf6b2a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5cAJv8OF90ec6kZJqe8BWx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 257320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700213"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5YFShZ3SwjyHJ21TWWFuvq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5YFShZ3SwjyHJ21TWWFuvq",
+    "id" : "5YFShZ3SwjyHJ21TWWFuvq",
+    "is_local" : false,
+    "name" : "Med eller mot",
+    "popularity" : 5,
+    "preview_url" : "https://p.scdn.co/mp3-preview/80c44fff7dcc86b56ad2e1a8fa80b4f3a6a03417?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5YFShZ3SwjyHJ21TWWFuvq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 266560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700216"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3wXhUuw7U1PQabj30CEjMA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3wXhUuw7U1PQabj30CEjMA",
+    "id" : "3wXhUuw7U1PQabj30CEjMA",
+    "is_local" : false,
+    "name" : "Amors picka del 1",
+    "popularity" : 3,
+    "preview_url" : "https://p.scdn.co/mp3-preview/72ce478c581fbf49f520ec24cb5d545e8f640445?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:3wXhUuw7U1PQabj30CEjMA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 309093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40xDtrVKqXmnAAvFp9iaQy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40xDtrVKqXmnAAvFp9iaQy",
+    "id" : "40xDtrVKqXmnAAvFp9iaQy",
+    "is_local" : false,
+    "name" : "Tack för sist",
+    "popularity" : 6,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0145231fd35906833d60166180b4f3f0e4472477?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:40xDtrVKqXmnAAvFp9iaQy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 4040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0070214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3tHywcXvcc6wvYTeyveiFQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3tHywcXvcc6wvYTeyveiFQ",
+    "id" : "3tHywcXvcc6wvYTeyveiFQ",
+    "is_local" : false,
+    "name" : "www.stoppamej.nu",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:3tHywcXvcc6wvYTeyveiFQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3hbsWOHmFOWMd2NLvGBl9n"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3hbsWOHmFOWMd2NLvGBl9n",
+      "id" : "3hbsWOHmFOWMd2NLvGBl9n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731a5cc0b71e327023f7804cd0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021a5cc0b71e327023f7804cd0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511a5cc0b71e327023f7804cd0",
+        "width" : 64
+      } ],
+      "name" : "Oberoendeframkallande",
+      "release_date" : "2007-06-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3hbsWOHmFOWMd2NLvGBl9n"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 328826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45uZ0WdUomecjRR8i65JJi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45uZ0WdUomecjRR8i65JJi",
+    "id" : "45uZ0WdUomecjRR8i65JJi",
+    "is_local" : false,
+    "name" : "Känn pepp (OBFK)",
+    "popularity" : 8,
+    "preview_url" : "https://p.scdn.co/mp3-preview/878b9b6b87fe9463e5a58bb38154aad55f6cefc1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:45uZ0WdUomecjRR8i65JJi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 365400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Zych2cYj6oY9avk6cAyiT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Zych2cYj6oY9avk6cAyiT",
+    "id" : "3Zych2cYj6oY9avk6cAyiT",
+    "is_local" : false,
+    "name" : "Featherweight",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3Zych2cYj6oY9avk6cAyiT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002020"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3zDA6AMIQ1TWk0JUWpUfuH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3zDA6AMIQ1TWk0JUWpUfuH",
+    "id" : "3zDA6AMIQ1TWk0JUWpUfuH",
+    "is_local" : false,
+    "name" : "Whole Lot of Things",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3zDA6AMIQ1TWk0JUWpUfuH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dR988NNn8lrFhXTOxyJfZ",
+      "id" : "0dR988NNn8lrFhXTOxyJfZ",
+      "name" : "AWA",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dR988NNn8lrFhXTOxyJfZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 232466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002030"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3IXVJec8X02J6Bq4Qbjkl8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3IXVJec8X02J6Bq4Qbjkl8",
+    "id" : "3IXVJec8X02J6Bq4Qbjkl8",
+    "is_local" : false,
+    "name" : "All Yours",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3IXVJec8X02J6Bq4Qbjkl8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/18Y1nMdmyZehTny427yHlQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/18Y1nMdmyZehTny427yHlQ",
+      "id" : "18Y1nMdmyZehTny427yHlQ",
+      "name" : "Masayah",
+      "type" : "artist",
+      "uri" : "spotify:artist:18Y1nMdmyZehTny427yHlQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 333480,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4BCOUyptNAqii85heGEYj8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4BCOUyptNAqii85heGEYj8",
+    "id" : "4BCOUyptNAqii85heGEYj8",
+    "is_local" : false,
+    "name" : "She",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4BCOUyptNAqii85heGEYj8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34w2CxXOMbQeaIkoKDiJhp",
+      "id" : "34w2CxXOMbQeaIkoKDiJhp",
+      "name" : "PeeWee",
+      "type" : "artist",
+      "uri" : "spotify:artist:34w2CxXOMbQeaIkoKDiJhp"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 224026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6eshl00VfaSg5JdF76WLxK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6eshl00VfaSg5JdF76WLxK",
+    "id" : "6eshl00VfaSg5JdF76WLxK",
+    "is_local" : false,
+    "name" : "Fire Walk with Me",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6eshl00VfaSg5JdF76WLxK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+      "id" : "3gqv1kgivAc92KnUm4elKv",
+      "name" : "Teddybears",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 288333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002060"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5J9AqZadtkq9pVzENnN3FJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5J9AqZadtkq9pVzENnN3FJ",
+    "id" : "5J9AqZadtkq9pVzENnN3FJ",
+    "is_local" : false,
+    "name" : "Hiphopper",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5J9AqZadtkq9pVzENnN3FJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s5enJCtVBAAdWD94jOIbM",
+      "id" : "2s5enJCtVBAAdWD94jOIbM",
+      "name" : "Titiyo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s5enJCtVBAAdWD94jOIbM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 335000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0n6285yjkr4oBbuMRGnYT0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0n6285yjkr4oBbuMRGnYT0",
+    "id" : "0n6285yjkr4oBbuMRGnYT0",
+    "is_local" : false,
+    "name" : "Existence",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0n6285yjkr4oBbuMRGnYT0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 260946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1nqUwcNhURUTFkrQEb7fWv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1nqUwcNhURUTFkrQEb7fWv",
+    "id" : "1nqUwcNhURUTFkrQEb7fWv",
+    "is_local" : false,
+    "name" : "Pearls",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1nqUwcNhURUTFkrQEb7fWv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+      "id" : "3gqv1kgivAc92KnUm4elKv",
+      "name" : "Teddybears",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 149493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7JrkX9u2J8p36luBDUPXWL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7JrkX9u2J8p36luBDUPXWL",
+    "id" : "7JrkX9u2J8p36luBDUPXWL",
+    "is_local" : false,
+    "name" : "STHLM's Finest",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:7JrkX9u2J8p36luBDUPXWL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 191506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Rt6jDO7C0zwwuVNyJsUNh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Rt6jDO7C0zwwuVNyJsUNh",
+    "id" : "0Rt6jDO7C0zwwuVNyJsUNh",
+    "is_local" : false,
+    "name" : "Ahead of My Time",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0Rt6jDO7C0zwwuVNyJsUNh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 503053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Dwi0UmgLPqIQwP9DnCMBr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Dwi0UmgLPqIQwP9DnCMBr",
+    "id" : "5Dwi0UmgLPqIQwP9DnCMBr",
+    "is_local" : false,
+    "name" : "Breakout",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5Dwi0UmgLPqIQwP9DnCMBr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 377000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEBFO0002120"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2GztjTvXqP3BLntNZPe1Bc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2GztjTvXqP3BLntNZPe1Bc",
+    "id" : "2GztjTvXqP3BLntNZPe1Bc",
+    "is_local" : false,
+    "name" : "Magic Villa",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:2GztjTvXqP3BLntNZPe1Bc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+      "id" : "3gqv1kgivAc92KnUm4elKv",
+      "name" : "Teddybears",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVSM0200813"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NftNShLDUX2nSTMC0SNah"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NftNShLDUX2nSTMC0SNah",
+    "id" : "5NftNShLDUX2nSTMC0SNah",
+    "is_local" : false,
+    "name" : "Crash You",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5NftNShLDUX2nSTMC0SNah"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+        "id" : "7amcWVAeY8e6YwgV9bXlKH",
+        "name" : "Thomas Rusiak",
+        "type" : "artist",
+        "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IWKsN9QT3BlJ0LjfoNckN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IWKsN9QT3BlJ0LjfoNckN",
+      "id" : "0IWKsN9QT3BlJ0LjfoNckN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739a5132529838ff0ba6dad84b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029a5132529838ff0ba6dad84b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519a5132529838ff0ba6dad84b",
+        "width" : 64
+      } ],
+      "name" : "Magic Villa",
+      "release_date" : "2006",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:0IWKsN9QT3BlJ0LjfoNckN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7amcWVAeY8e6YwgV9bXlKH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7amcWVAeY8e6YwgV9bXlKH",
+      "id" : "7amcWVAeY8e6YwgV9bXlKH",
+      "name" : "Thomas Rusiak",
+      "type" : "artist",
+      "uri" : "spotify:artist:7amcWVAeY8e6YwgV9bXlKH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3gqv1kgivAc92KnUm4elKv",
+      "id" : "3gqv1kgivAc92KnUm4elKv",
+      "name" : "Teddybears",
+      "type" : "artist",
+      "uri" : "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 188600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVSM0200814"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TehzMqKjyqu7r4CKqTz6H"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TehzMqKjyqu7r4CKqTz6H",
+    "id" : "0TehzMqKjyqu7r4CKqTz6H",
+    "is_local" : false,
+    "name" : "Whole Lot of Things - New Version",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0TehzMqKjyqu7r4CKqTz6H"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7x73o1kQrrd2Hkd1aHzP0f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7x73o1kQrrd2Hkd1aHzP0f",
+    "id" : "7x73o1kQrrd2Hkd1aHzP0f",
+    "is_local" : false,
+    "name" : "Ta på dig dansskorna",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7x73o1kQrrd2Hkd1aHzP0f"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 70866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2XYuHxcnhX8irz8xBrOuIi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2XYuHxcnhX8irz8xBrOuIi",
+    "id" : "2XYuHxcnhX8irz8xBrOuIi",
+    "is_local" : false,
+    "name" : "Lite som",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2XYuHxcnhX8irz8xBrOuIi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 244520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1YU8snBiXIrP3tBgyLgIWx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1YU8snBiXIrP3tBgyLgIWx",
+    "id" : "1YU8snBiXIrP3tBgyLgIWx",
+    "is_local" : false,
+    "name" : "Swing för hyresgästföreningen",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1YU8snBiXIrP3tBgyLgIWx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 108826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6roLOKrgLGKxkqlbu63lsk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6roLOKrgLGKxkqlbu63lsk",
+    "id" : "6roLOKrgLGKxkqlbu63lsk",
+    "is_local" : false,
+    "name" : "Fast tvärtom",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6roLOKrgLGKxkqlbu63lsk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 258293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0fGP9DSQ0mKdryqRFHBBxg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0fGP9DSQ0mKdryqRFHBBxg",
+    "id" : "0fGP9DSQ0mKdryqRFHBBxg",
+    "is_local" : false,
+    "name" : "A-kasseblues",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0fGP9DSQ0mKdryqRFHBBxg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/46OW9s6Sc450VBYJ9RZqA4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/46OW9s6Sc450VBYJ9RZqA4",
+      "id" : "46OW9s6Sc450VBYJ9RZqA4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273de9f29f886ab1c4ec5575a38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02de9f29f886ab1c4ec5575a38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851de9f29f886ab1c4ec5575a38",
+        "width" : 64
+      } ],
+      "name" : "Äppelknyckarjazz",
+      "release_date" : "2008",
+      "release_date_precision" : "year",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:46OW9s6Sc450VBYJ9RZqA4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEXAT0800116"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0XYyQel2cYzXP0E2HGk0eB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0XYyQel2cYzXP0E2HGk0eB",
+    "id" : "0XYyQel2cYzXP0E2HGk0eB",
+    "is_local" : false,
+    "name" : "Fel del av gården",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0XYyQel2cYzXP0E2HGk0eB"
+  } ]
+}

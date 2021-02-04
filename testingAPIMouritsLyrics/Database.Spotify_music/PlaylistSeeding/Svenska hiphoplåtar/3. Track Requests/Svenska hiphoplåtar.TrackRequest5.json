@@ -1,0 +1,3439 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3tXuKxDCfmokZIoqzTYAjN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3tXuKxDCfmokZIoqzTYAjN",
+      "id" : "3tXuKxDCfmokZIoqzTYAjN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734b22eb1e020e907c69e8543f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024b22eb1e020e907c69e8543f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514b22eb1e020e907c69e8543f",
+        "width" : 64
+      } ],
+      "name" : "Alla vill till himmelen men ingen vill dö",
+      "release_date" : "2005-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3tXuKxDCfmokZIoqzTYAjN"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 325600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22PMManKCi1iO1WsCpHR0E"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22PMManKCi1iO1WsCpHR0E",
+    "id" : "22PMManKCi1iO1WsCpHR0E",
+    "is_local" : false,
+    "name" : "Oavsett vad",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/817334466ac288bdd9032e5a1ac2f6919363ff0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:22PMManKCi1iO1WsCpHR0E"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gFzYvPADyx5EnwlAaMDmo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gFzYvPADyx5EnwlAaMDmo",
+      "id" : "1gFzYvPADyx5EnwlAaMDmo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49e0e6bf59d85aaa85188b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49e0e6bf59d85aaa85188b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49e0e6bf59d85aaa85188b3",
+        "width" : 64
+      } ],
+      "name" : "Nitroglycerin",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1gFzYvPADyx5EnwlAaMDmo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE2UI1300301"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TaEUTzgCVLyMWzBMIS5dz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TaEUTzgCVLyMWzBMIS5dz",
+    "id" : "4TaEUTzgCVLyMWzBMIS5dz",
+    "is_local" : false,
+    "name" : "Nitroglycerin",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4TaEUTzgCVLyMWzBMIS5dz"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+        "id" : "3Rjud126EhtcSDte9lORR7",
+        "name" : "Movits!",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1gFzYvPADyx5EnwlAaMDmo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1gFzYvPADyx5EnwlAaMDmo",
+      "id" : "1gFzYvPADyx5EnwlAaMDmo",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e49e0e6bf59d85aaa85188b3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e49e0e6bf59d85aaa85188b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e49e0e6bf59d85aaa85188b3",
+        "width" : 64
+      } ],
+      "name" : "Nitroglycerin",
+      "release_date" : "2013-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:1gFzYvPADyx5EnwlAaMDmo"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Rjud126EhtcSDte9lORR7",
+      "id" : "3Rjud126EhtcSDte9lORR7",
+      "name" : "Movits!",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Rjud126EhtcSDte9lORR7"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SE2UI1300302"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5mMKLfOlaqUHh6piDCh8fc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5mMKLfOlaqUHh6piDCh8fc",
+    "id" : "5mMKLfOlaqUHh6piDCh8fc",
+    "is_local" : false,
+    "name" : "Nitroglycerin - Instrumental",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5mMKLfOlaqUHh6piDCh8fc"
+  }, {
+    "album" : {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5TOpHObQN2Y76KuyLPwyCH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5TOpHObQN2Y76KuyLPwyCH",
+      "id" : "5TOpHObQN2Y76KuyLPwyCH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e291bd3dd99e95206db53ccc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e291bd3dd99e95206db53ccc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e291bd3dd99e95206db53ccc",
+        "width" : 64
+      } ],
+      "name" : "Resten av ditt liv",
+      "release_date" : "2011-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5TOpHObQN2Y76KuyLPwyCH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 234840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6K0F3sk2JulXJtBhvdHpaf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6K0F3sk2JulXJtBhvdHpaf",
+    "id" : "6K0F3sk2JulXJtBhvdHpaf",
+    "is_local" : false,
+    "name" : "Resten av ditt liv",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4cc05c23c48dcbc996e1873522d5c5c3156df65e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6K0F3sk2JulXJtBhvdHpaf"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 221946,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300406"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53akCkAkySJIyvz5j848qA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53akCkAkySJIyvz5j848qA",
+    "id" : "53akCkAkySJIyvz5j848qA",
+    "is_local" : false,
+    "name" : "Strö lite socker på mig",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b3ea17f4986e04df9250fa6feca0ee360fd29b0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:53akCkAkySJIyvz5j848qA"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 246386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0400401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6QkhiHVMzTAWC6BXFMms2i"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6QkhiHVMzTAWC6BXFMms2i",
+    "id" : "6QkhiHVMzTAWC6BXFMms2i",
+    "is_local" : false,
+    "name" : "Alla vill till himmelen men ingen vill dö",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/953b586d3f7a93756b2709ca9ddb790d8dd53d43?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6QkhiHVMzTAWC6BXFMms2i"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 232160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300409"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4sx36UGPY1d3QFiT62Ogyc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4sx36UGPY1d3QFiT62Ogyc",
+    "id" : "4sx36UGPY1d3QFiT62Ogyc",
+    "is_local" : false,
+    "name" : "Ett brev",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/887030c77834d950a636899e7700a605a265b6fe?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4sx36UGPY1d3QFiT62Ogyc"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 253413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0100104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7n95RvEsHaAHWkvzn61Vo5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7n95RvEsHaAHWkvzn61Vo5",
+    "id" : "7n95RvEsHaAHWkvzn61Vo5",
+    "is_local" : false,
+    "name" : "Gott folk",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fe25d2dd893578e267d2331abfc48647d727ad8e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7n95RvEsHaAHWkvzn61Vo5"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 203813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100202"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30V1X6RhFHlJr8L69xZjFt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30V1X6RhFHlJr8L69xZjFt",
+    "id" : "30V1X6RhFHlJr8L69xZjFt",
+    "is_local" : false,
+    "name" : "Kapitulera - feat. Susanne Sundfør",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d51359e7d9cbfb2b348aa3a41178cf078a75438?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:30V1X6RhFHlJr8L69xZjFt"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 298800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/48GES0APGGH8OhMZPO0iOs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/48GES0APGGH8OhMZPO0iOs",
+    "id" : "48GES0APGGH8OhMZPO0iOs",
+    "is_local" : false,
+    "name" : "I väntan på vadå",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2507d32d76d6e3bdce6bd6cbd6ad424116d5e54f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:48GES0APGGH8OhMZPO0iOs"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 295746,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300411"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1wVwmZVJUz4KSb8eJWGt8z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1wVwmZVJUz4KSb8eJWGt8z",
+    "id" : "1wVwmZVJUz4KSb8eJWGt8z",
+    "is_local" : false,
+    "name" : "Flunitrazepam",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9e4ceee30dde603c9c79563b611118b38521eb1a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1wVwmZVJUz4KSb8eJWGt8z"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 231626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300407"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0kIRUZDXAoORYfJ9EtrGlc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0kIRUZDXAoORYfJ9EtrGlc",
+    "id" : "0kIRUZDXAoORYfJ9EtrGlc",
+    "is_local" : false,
+    "name" : "The botten is nådd",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c1e82a64ea490219853805b0040d69a08ff9d21?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0kIRUZDXAoORYfJ9EtrGlc"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 233546,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0100113"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Ij7JC22Qy5SAH1s8E47GV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Ij7JC22Qy5SAH1s8E47GV",
+    "id" : "0Ij7JC22Qy5SAH1s8E47GV",
+    "is_local" : false,
+    "name" : "Jag drar",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1548387e9bbf5206592250bf0c53a96d29bbf9ae?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0Ij7JC22Qy5SAH1s8E47GV"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 269600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500103"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4thS9lPFH6rfyXqplOTha8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4thS9lPFH6rfyXqplOTha8",
+    "id" : "4thS9lPFH6rfyXqplOTha8",
+    "is_local" : false,
+    "name" : "Kärlekens bandvagn",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a87711d0873a07f6bc49999aaffcbae65a9caf5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4thS9lPFH6rfyXqplOTha8"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 244173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0000108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4DledcVuMsxXnNqcvzqCbf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4DledcVuMsxXnNqcvzqCbf",
+    "id" : "4DledcVuMsxXnNqcvzqCbf",
+    "is_local" : false,
+    "name" : "Pendelparanoia",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6eb5e648ba4ae7411849c5c0cd07e14f0d6a97e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4DledcVuMsxXnNqcvzqCbf"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 252080,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/12jHYDhSTWMcOOqwSxnx01"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/12jHYDhSTWMcOOqwSxnx01",
+    "id" : "12jHYDhSTWMcOOqwSxnx01",
+    "is_local" : false,
+    "name" : "Allt grönt",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/507e34c6c8c0cc1f1e96082e95b8c7795df0895f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:12jHYDhSTWMcOOqwSxnx01"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 330280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/33mxvx5Lljt7RcrIjlcxmv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/33mxvx5Lljt7RcrIjlcxmv",
+    "id" : "33mxvx5Lljt7RcrIjlcxmv",
+    "is_local" : false,
+    "name" : "Stirra ner",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8c189eff743a642eb986f444f42c30039027e76f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:33mxvx5Lljt7RcrIjlcxmv"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 247053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0000101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1GjJdpiewroYg0Vu0sjQ9A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1GjJdpiewroYg0Vu0sjQ9A",
+    "id" : "1GjJdpiewroYg0Vu0sjQ9A",
+    "is_local" : false,
+    "name" : "MVH",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/95bad97d81069b8dc67a270cc912d8a404d43331?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1GjJdpiewroYg0Vu0sjQ9A"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 217053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300402"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0lndMzCeNEnkdT7VWYT4HZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0lndMzCeNEnkdT7VWYT4HZ",
+    "id" : "0lndMzCeNEnkdT7VWYT4HZ",
+    "is_local" : false,
+    "name" : "Ta de lugnt",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/25c3afe0d543788918ffd77572c5b5247059f646?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:0lndMzCeNEnkdT7VWYT4HZ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 328826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Z92jj80cWe6KhUXJeTDqs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Z92jj80cWe6KhUXJeTDqs",
+    "id" : "0Z92jj80cWe6KhUXJeTDqs",
+    "is_local" : false,
+    "name" : "Känn pepp (OBFK)",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf2f1445352f2ad5a15ea54e0a90d7f13b62d08d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0Z92jj80cWe6KhUXJeTDqs"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6BmzKivVb0HVnEHZSWgXYz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6BmzKivVb0HVnEHZSWgXYz",
+      "id" : "6BmzKivVb0HVnEHZSWgXYz",
+      "name" : "Duo Pannacotta",
+      "type" : "artist",
+      "uri" : "spotify:artist:6BmzKivVb0HVnEHZSWgXYz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4yw84sobRr067mN2U8BNOI",
+      "id" : "4yw84sobRr067mN2U8BNOI",
+      "name" : "Jan Lundgren",
+      "type" : "artist",
+      "uri" : "spotify:artist:4yw84sobRr067mN2U8BNOI"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 304440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/25qZlJvZTrA5RIxikU6OMS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/25qZlJvZTrA5RIxikU6OMS",
+    "id" : "25qZlJvZTrA5RIxikU6OMS",
+    "is_local" : false,
+    "name" : "Dansa (feat. Jan Lundgren, Duo Pannacotta)",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/994730c3645b8eee843f085b88ef852351e616e0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:25qZlJvZTrA5RIxikU6OMS"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 246440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVQI1200101"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ymaYAG9CxiaGZxzsrelR4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ymaYAG9CxiaGZxzsrelR4",
+    "id" : "3ymaYAG9CxiaGZxzsrelR4",
+    "is_local" : false,
+    "name" : "Fallskärm",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fea24fc0d9bcd94f54dc5a6a8f9872dd56c05915?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:3ymaYAG9CxiaGZxzsrelR4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+      "id" : "2s7biycbXw8gmviNBeoCx9",
+      "name" : "Chords",
+      "type" : "artist",
+      "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1KL0TZJ71UaqS71vlBzC7p"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1KL0TZJ71UaqS71vlBzC7p",
+      "id" : "1KL0TZJ71UaqS71vlBzC7p",
+      "name" : "Supreme",
+      "type" : "artist",
+      "uri" : "spotify:artist:1KL0TZJ71UaqS71vlBzC7p"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 315453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EwjM3aFtqEtAxecSTIC0l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EwjM3aFtqEtAxecSTIC0l",
+    "id" : "5EwjM3aFtqEtAxecSTIC0l",
+    "is_local" : false,
+    "name" : "Det löser sej",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/73ffb1533e058085b13924b6dcf3ebc557e8455b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:5EwjM3aFtqEtAxecSTIC0l"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 238826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ekuYCQLZMdJtmPddZofru"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ekuYCQLZMdJtmPddZofru",
+    "id" : "2ekuYCQLZMdJtmPddZofru",
+    "is_local" : false,
+    "name" : "N.A.P.",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/892ca99f8b6498f185b20d88f366a2d7d40acfc8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:2ekuYCQLZMdJtmPddZofru"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 210240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6I0Pa5ccqwmMoaCjr99JKI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6I0Pa5ccqwmMoaCjr99JKI",
+    "id" : "6I0Pa5ccqwmMoaCjr99JKI",
+    "is_local" : false,
+    "name" : "Bra, bra",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3632b76bf6492c5c38f01d542efccec7d6804259?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:6I0Pa5ccqwmMoaCjr99JKI"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 288453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0l4l6pEmCk2XPlW4pnFCWG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0l4l6pEmCk2XPlW4pnFCWG",
+    "id" : "0l4l6pEmCk2XPlW4pnFCWG",
+    "is_local" : false,
+    "name" : "KarmaKontot",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6c3bc27b25bcdb1ec009e405c7c4138824da53d7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:0l4l6pEmCk2XPlW4pnFCWG"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 355320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Iu2XucNEG4pJPnCcYIEyR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Iu2XucNEG4pJPnCcYIEyR",
+    "id" : "5Iu2XucNEG4pJPnCcYIEyR",
+    "is_local" : false,
+    "name" : "Välj mej",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a1d6c5f3f9b78833acb1e7930742c392e63cfbea?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:5Iu2XucNEG4pJPnCcYIEyR"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 234840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5mJG7hJ4yKraRTNdoZPOr0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5mJG7hJ4yKraRTNdoZPOr0",
+    "id" : "5mJG7hJ4yKraRTNdoZPOr0",
+    "is_local" : false,
+    "name" : "Resten av ditt liv",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dad10c885ab97285e1f1c0f03968393ec95d9029?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:5mJG7hJ4yKraRTNdoZPOr0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 325826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800506"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3vGOaXl1rNJqmc51ualfDV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3vGOaXl1rNJqmc51ualfDV",
+    "id" : "3vGOaXl1rNJqmc51ualfDV",
+    "is_local" : false,
+    "name" : "Mörkar",
+    "popularity" : 7,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c9fe9eb0c9183b2618b053f94757375284fecd44?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 25,
+    "type" : "track",
+    "uri" : "spotify:track:3vGOaXl1rNJqmc51ualfDV"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 368680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300410"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4luAY0adHuXK1qEb5asKCc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4luAY0adHuXK1qEb5asKCc",
+    "id" : "4luAY0adHuXK1qEb5asKCc",
+    "is_local" : false,
+    "name" : "Dynamit",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a946ed1e22395fe34f2bf07ca886d69dd9de7a9f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 26,
+    "type" : "track",
+    "uri" : "spotify:track:4luAY0adHuXK1qEb5asKCc"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 252293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/429zU5fXOtBkAF9xVe93es"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/429zU5fXOtBkAF9xVe93es",
+    "id" : "429zU5fXOtBkAF9xVe93es",
+    "is_local" : false,
+    "name" : "Lika barn avvika bäst del 2",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/396d8d65f746e623e5adf9d050f93d05087d03fd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 27,
+    "type" : "track",
+    "uri" : "spotify:track:429zU5fXOtBkAF9xVe93es"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 325600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1B9Ura41Eg0KmKt0DXzGdL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1B9Ura41Eg0KmKt0DXzGdL",
+    "id" : "1B9Ura41Eg0KmKt0DXzGdL",
+    "is_local" : false,
+    "name" : "Oavsett vad",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/817334466ac288bdd9032e5a1ac2f6919363ff0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 28,
+    "type" : "track",
+    "uri" : "spotify:track:1B9Ura41Eg0KmKt0DXzGdL"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 275026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700209"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5d12gMjVF0oF6ITvPSQ3k1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5d12gMjVF0oF6ITvPSQ3k1",
+    "id" : "5d12gMjVF0oF6ITvPSQ3k1",
+    "is_local" : false,
+    "name" : "Kejsaren e naken",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19ebaaba68ec279509f660365d0373d1dd71d0e2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 29,
+    "type" : "track",
+    "uri" : "spotify:track:5d12gMjVF0oF6ITvPSQ3k1"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 235240,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KelzyA2ZuoeIsN1eqXl2A"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KelzyA2ZuoeIsN1eqXl2A",
+    "id" : "0KelzyA2ZuoeIsN1eqXl2A",
+    "is_local" : false,
+    "name" : "De luktar rök",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6094a228a15968e374681e41ee66513be4ee983b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 30,
+    "type" : "track",
+    "uri" : "spotify:track:0KelzyA2ZuoeIsN1eqXl2A"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 224160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800507"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5f8d5Wyza7szafxLu4mg5u"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5f8d5Wyza7szafxLu4mg5u",
+    "id" : "5f8d5Wyza7szafxLu4mg5u",
+    "is_local" : false,
+    "name" : "En high 5 & 1 falafel",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0bc093af607e6ec969229f5de9f5fce079a006e2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 31,
+    "type" : "track",
+    "uri" : "spotify:track:5f8d5Wyza7szafxLu4mg5u"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ "DK", "FI", "NO", "SE" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6jBFvsxOeusk8LASchIJtf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6jBFvsxOeusk8LASchIJtf",
+      "id" : "6jBFvsxOeusk8LASchIJtf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d22c1fd4968f8e2da04459",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d22c1fd4968f8e2da04459",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d22c1fd4968f8e2da04459",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2012-02-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 32,
+      "type" : "album",
+      "uri" : "spotify:album:6jBFvsxOeusk8LASchIJtf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ "DK", "FI", "NO", "SE" ],
+    "disc_number" : 1,
+    "duration_ms" : 211386,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22P2TOxw8iPWRKzwDrIdQy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22P2TOxw8iPWRKzwDrIdQy",
+    "id" : "22P2TOxw8iPWRKzwDrIdQy",
+    "is_local" : false,
+    "name" : "Flickan och kråkan",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49ba5630f13eafd836a0fa9add0eb06916c3f41a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 32,
+    "type" : "track",
+    "uri" : "spotify:track:22P2TOxw8iPWRKzwDrIdQy"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 253146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0100104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3k1C4TqoMw6Z5IL5pZcNgW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3k1C4TqoMw6Z5IL5pZcNgW",
+    "id" : "3k1C4TqoMw6Z5IL5pZcNgW",
+    "is_local" : false,
+    "name" : "Gott folk",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3k1C4TqoMw6Z5IL5pZcNgW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75hymC4HmqPYiCKhLmpjan"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75hymC4HmqPYiCKhLmpjan",
+    "id" : "75hymC4HmqPYiCKhLmpjan",
+    "is_local" : false,
+    "name" : "Resten av ditt liv",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:75hymC4HmqPYiCKhLmpjan"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 289293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0700204"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0VKR7OVNLSP9a0oGvHKM6k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0VKR7OVNLSP9a0oGvHKM6k",
+    "id" : "0VKR7OVNLSP9a0oGvHKM6k",
+    "is_local" : false,
+    "name" : "Karmakontot",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0VKR7OVNLSP9a0oGvHKM6k"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0400401"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1TcnwaftrNy48kPj36VblX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1TcnwaftrNy48kPj36VblX",
+    "id" : "1TcnwaftrNy48kPj36VblX",
+    "is_local" : false,
+    "name" : "Alla vill till himmelen men ingen vill dö",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1TcnwaftrNy48kPj36VblX"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 245426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100219"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/711CAfiQrOhtPACB2P6iS0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/711CAfiQrOhtPACB2P6iS0",
+    "id" : "711CAfiQrOhtPACB2P6iS0",
+    "is_local" : false,
+    "name" : "Dödsdansen",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:711CAfiQrOhtPACB2P6iS0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234320,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0100113"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6LRVAtWuKQ9m70NTdsNYqW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6LRVAtWuKQ9m70NTdsNYqW",
+    "id" : "6LRVAtWuKQ9m70NTdsNYqW",
+    "is_local" : false,
+    "name" : "Jag drar",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6LRVAtWuKQ9m70NTdsNYqW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 233306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100206"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Yh7uVSI9q7HdjG3WOm7Gp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Yh7uVSI9q7HdjG3WOm7Gp",
+    "id" : "0Yh7uVSI9q7HdjG3WOm7Gp",
+    "is_local" : false,
+    "name" : "Ord och flera visor (feat. Albin Gromer)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0Yh7uVSI9q7HdjG3WOm7Gp"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 231506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300407"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/653zGP5pHVzM4CB9CYVnT4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/653zGP5pHVzM4CB9CYVnT4",
+    "id" : "653zGP5pHVzM4CB9CYVnT4",
+    "is_local" : false,
+    "name" : "The botten is nådd",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:653zGP5pHVzM4CB9CYVnT4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 354853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RlRVwIwi6Nh00sgTbYBPH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RlRVwIwi6Nh00sgTbYBPH",
+    "id" : "4RlRVwIwi6Nh00sgTbYBPH",
+    "is_local" : false,
+    "name" : "Välj mej",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4RlRVwIwi6Nh00sgTbYBPH"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 298360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0500106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6GhUjzMSgSkyu4S15HLmCC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6GhUjzMSgSkyu4S15HLmCC",
+    "id" : "6GhUjzMSgSkyu4S15HLmCC",
+    "is_local" : false,
+    "name" : "I väntan på vadå",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6GhUjzMSgSkyu4S15HLmCC"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800502"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rab2FyvrJob4yjBcjSUmi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rab2FyvrJob4yjBcjSUmi",
+    "id" : "1rab2FyvrJob4yjBcjSUmi",
+    "is_local" : false,
+    "name" : "N.A.P.",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1rab2FyvrJob4yjBcjSUmi"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 217866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0300402"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3s9Eg4NQXnlIliZTUKgZIM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3s9Eg4NQXnlIliZTUKgZIM",
+    "id" : "3s9Eg4NQXnlIliZTUKgZIM",
+    "is_local" : false,
+    "name" : "Ta de lugnt",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3s9Eg4NQXnlIliZTUKgZIM"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 251026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEWAW1100212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1T090y2xtEq7FQjHfKvQJ8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1T090y2xtEq7FQjHfKvQJ8",
+    "id" : "1T090y2xtEq7FQjHfKvQJ8",
+    "is_local" : false,
+    "name" : "Sagoland",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1T090y2xtEq7FQjHfKvQJ8"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+        "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+        "name" : "Timbuktu",
+        "type" : "artist",
+        "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47oEpS67Oyt43thlsPS9ly"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47oEpS67Oyt43thlsPS9ly",
+      "id" : "47oEpS67Oyt43thlsPS9ly",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce055496bed09a8c31d64b77",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce055496bed09a8c31d64b77",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce055496bed09a8c31d64b77",
+        "width" : 64
+      } ],
+      "name" : "Pusselbitar",
+      "release_date" : "2011-11-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:47oEpS67Oyt43thlsPS9ly"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bOG1sx3QHFbOUVLNmMpPe",
+      "id" : "4bOG1sx3QHFbOUVLNmMpPe",
+      "name" : "Timbuktu",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bOG1sx3QHFbOUVLNmMpPe"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 290200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "SEVLE0800501"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/31N2e0aamkG2uS8NNpN3ZX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/31N2e0aamkG2uS8NNpN3ZX",
+    "id" : "31N2e0aamkG2uS8NNpN3ZX",
+    "is_local" : false,
+    "name" : "Tänk om",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:31N2e0aamkG2uS8NNpN3ZX"
+  } ]
+}

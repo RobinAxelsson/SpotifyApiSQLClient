@@ -1,0 +1,3993 @@
+{
+  "collaborative" : false,
+  "description" : "",
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/playlist/1SnPPRiDlhgObdhTIDyB0t"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 18
+  },
+  "href" : "https://api.spotify.com/v1/playlists/1SnPPRiDlhgObdhTIDyB0t",
+  "id" : "1SnPPRiDlhgObdhTIDyB0t",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://mosaic.scdn.co/640/ab67616d0000b2731bb27f3850952f6beafbac4aab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273692146eb316a62b940242110ab67616d0000b273a2203fa0656cede30f879b97",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://mosaic.scdn.co/300/ab67616d0000b2731bb27f3850952f6beafbac4aab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273692146eb316a62b940242110ab67616d0000b273a2203fa0656cede30f879b97",
+    "width" : 300
+  }, {
+    "height" : 60,
+    "url" : "https://mosaic.scdn.co/60/ab67616d0000b2731bb27f3850952f6beafbac4aab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273692146eb316a62b940242110ab67616d0000b273a2203fa0656cede30f879b97",
+    "width" : 60
+  } ],
+  "name" : "Whats the difference between me and you?",
+  "owner" : {
+    "display_name" : "Robin Axelsson",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+    },
+    "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+    "id" : "chateauxrobbiere",
+    "type" : "user",
+    "uri" : "spotify:user:chateauxrobbiere"
+  },
+  "primary_color" : null,
+  "public" : true,
+  "snapshot_id" : "ODAsYzcxZTM3NGY5YzU3N2VkOTQwM2NjNDQ4OGNhYjMzNjg2MGI1ZGVmOQ==",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/playlists/1SnPPRiDlhgObdhTIDyB0t/tracks?offset=0&limit=100",
+    "items" : [ {
+      "added_at" : "2017-08-05T13:36:41Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0NkHMWEMQjdlpJUl0SvaSZ"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0NkHMWEMQjdlpJUl0SvaSZ",
+            "id" : "0NkHMWEMQjdlpJUl0SvaSZ",
+            "name" : "Bracko",
+            "type" : "artist",
+            "uri" : "spotify:artist:0NkHMWEMQjdlpJUl0SvaSZ"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2agS63WJ4omE4aFEPjkNQ5"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2agS63WJ4omE4aFEPjkNQ5",
+            "id" : "2agS63WJ4omE4aFEPjkNQ5",
+            "name" : "Raven Hunter",
+            "type" : "artist",
+            "uri" : "spotify:artist:2agS63WJ4omE4aFEPjkNQ5"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0tF5FbFARcflHtI56sVriq"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0tF5FbFARcflHtI56sVriq",
+          "id" : "0tF5FbFARcflHtI56sVriq",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273692146eb316a62b940242110",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02692146eb316a62b940242110",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851692146eb316a62b940242110",
+            "width" : 64
+          } ],
+          "name" : "Bringing the Doom",
+          "release_date" : "2016-07-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 17,
+          "type" : "album",
+          "uri" : "spotify:album:0tF5FbFARcflHtI56sVriq"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2agS63WJ4omE4aFEPjkNQ5"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2agS63WJ4omE4aFEPjkNQ5",
+          "id" : "2agS63WJ4omE4aFEPjkNQ5",
+          "name" : "Raven Hunter",
+          "type" : "artist",
+          "uri" : "spotify:artist:2agS63WJ4omE4aFEPjkNQ5"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0NkHMWEMQjdlpJUl0SvaSZ"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0NkHMWEMQjdlpJUl0SvaSZ",
+          "id" : "0NkHMWEMQjdlpJUl0SvaSZ",
+          "name" : "Bracko",
+          "type" : "artist",
+          "uri" : "spotify:artist:0NkHMWEMQjdlpJUl0SvaSZ"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0aAZlUavSOy3gV7DbK8SzB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0aAZlUavSOy3gV7DbK8SzB",
+          "id" : "0aAZlUavSOy3gV7DbK8SzB",
+          "name" : "Cutthroat",
+          "type" : "artist",
+          "uri" : "spotify:artist:0aAZlUavSOy3gV7DbK8SzB"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 278230,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "QZ4JJ1687590"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2TZPb1S1Nh8agn69JmunyM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2TZPb1S1Nh8agn69JmunyM",
+        "id" : "2TZPb1S1Nh8agn69JmunyM",
+        "is_local" : false,
+        "name" : "100 Black Coffins",
+        "popularity" : 41,
+        "preview_url" : "https://p.scdn.co/mp3-preview/77f5c30f35e7fd6c98a24147503f6be24b53452f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:2TZPb1S1Nh8agn69JmunyM"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2020-05-17T09:59:31Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4otkd9As6YaxxEkIjXPiZ6",
+          "id" : "4otkd9As6YaxxEkIjXPiZ6",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+            "width" : 64
+          } ],
+          "name" : "Music To Be Murdered By",
+          "release_date" : "2020-01-17",
+          "release_date_precision" : "day",
+          "total_tracks" : 20,
+          "type" : "album",
+          "uri" : "spotify:album:4otkd9As6YaxxEkIjXPiZ6"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+          "id" : "4MCBfE4596Uoi2O4DtmEMz",
+          "name" : "Juice WRLD",
+          "type" : "artist",
+          "uri" : "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 210800,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM72000788"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7FIWs0pqAYbP91WWM0vlTQ",
+        "id" : "7FIWs0pqAYbP91WWM0vlTQ",
+        "is_local" : false,
+        "name" : "Godzilla (feat. Juice WRLD)",
+        "popularity" : 86,
+        "preview_url" : "https://p.scdn.co/mp3-preview/f2163fa560d312d29a7cc37c0b71fb439960514d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:7FIWs0pqAYbP91WWM0vlTQ"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:32:45Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+            "id" : "6O2zJ0tId7g07yzHtX0yap",
+            "name" : "Mobb Deep",
+            "type" : "artist",
+            "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1cCAb1vN8uUsdfEylVmTLs",
+          "id" : "1cCAb1vN8uUsdfEylVmTLs",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a2203fa0656cede30f879b97",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a2203fa0656cede30f879b97",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a2203fa0656cede30f879b97",
+            "width" : 64
+          } ],
+          "name" : "The Infamous",
+          "release_date" : "1995-04-25",
+          "release_date_precision" : "day",
+          "total_tracks" : 16,
+          "type" : "album",
+          "uri" : "spotify:album:1cCAb1vN8uUsdfEylVmTLs"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+          "id" : "6O2zJ0tId7g07yzHtX0yap",
+          "name" : "Mobb Deep",
+          "type" : "artist",
+          "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 325506,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USRC19401295"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/33ZXjLCpiINn8eQIDYEPTD",
+        "id" : "33ZXjLCpiINn8eQIDYEPTD",
+        "is_local" : false,
+        "name" : "Shook Ones, Pt. II",
+        "popularity" : 75,
+        "preview_url" : "https://p.scdn.co/mp3-preview/a7fb76a71c5117b78a3d0fcee9ca34722e7df973?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 15,
+        "type" : "track",
+        "uri" : "spotify:track:33ZXjLCpiINn8eQIDYEPTD"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-07-30T11:36:42Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id" : "0LyfQWJT6nXafLPZqxe9Of",
+            "name" : "Various Artists",
+            "type" : "artist",
+            "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0m7dZQ6nLNjDI78hBmpG1L",
+          "id" : "0m7dZQ6nLNjDI78hBmpG1L",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2731bb27f3850952f6beafbac4a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e021bb27f3850952f6beafbac4a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048511bb27f3850952f6beafbac4a",
+            "width" : 64
+          } ],
+          "name" : "Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack",
+          "release_date" : "2012-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:0m7dZQ6nLNjDI78hBmpG1L"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/62r8B0snN5IPw8SwCJTEXR",
+          "id" : "62r8B0snN5IPw8SwCJTEXR",
+          "name" : "Brother Dege",
+          "type" : "artist",
+          "uri" : "spotify:artist:62r8B0snN5IPw8SwCJTEXR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 223213,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "USQS21000103"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/43JngJ3vMsaTL8SiRwEYQp",
+        "id" : "43JngJ3vMsaTL8SiRwEYQp",
+        "is_local" : false,
+        "name" : "Too Old To Die Young",
+        "popularity" : 50,
+        "preview_url" : "https://p.scdn.co/mp3-preview/450ebe4de0d108d69218c8ab50751248fba26b5c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 19,
+        "type" : "track",
+        "uri" : "spotify:track:43JngJ3vMsaTL8SiRwEYQp"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:30:49Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA"
+          },
+          "href" : "https://api.spotify.com/v1/albums/71xFWYFtiHC8eP99QB30AA",
+          "id" : "71xFWYFtiHC8eP99QB30AA",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a8a32ae2a279b9bf03445738",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a8a32ae2a279b9bf03445738",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a8a32ae2a279b9bf03445738",
+            "width" : 64
+          } ],
+          "name" : "Curtain Call (Deluxe)",
+          "release_date" : "2005-12-06",
+          "release_date_precision" : "day",
+          "total_tracks" : 24,
+          "type" : "album",
+          "uri" : "spotify:album:71xFWYFtiHC8eP99QB30AA"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+          "name" : "Nate Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 274440,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70506389"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6KqKg8IPuvtDB3PNAvffFf"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6KqKg8IPuvtDB3PNAvffFf",
+        "id" : "6KqKg8IPuvtDB3PNAvffFf",
+        "is_local" : false,
+        "name" : "Shake That",
+        "popularity" : 1,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:6KqKg8IPuvtDB3PNAvffFf"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:31:11Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+            "name" : "Dr. Dre",
+            "type" : "artist",
+            "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+          "id" : "5csXMdS69VOvh8MjyfwkjB",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+            "width" : 64
+          } ],
+          "name" : "2001 (Explicit Version)",
+          "release_date" : "1999-11-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 22,
+          "type" : "album",
+          "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+          "id" : "4tujQJicOnuZRLiBFdp3Ou",
+          "name" : "Xzibit",
+          "type" : "artist",
+          "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 244266,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR19915074"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2Dts49OexROL2KvCK2sokf"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2Dts49OexROL2KvCK2sokf",
+        "id" : "2Dts49OexROL2KvCK2sokf",
+        "is_local" : false,
+        "name" : "What's The Difference",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:2Dts49OexROL2KvCK2sokf"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:31:31Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+          "id" : "2bBDybnvM234YGjNVcMQaK",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+            "width" : 64
+          } ],
+          "name" : "Eminem Presents The Re-Up",
+          "release_date" : "2006-12-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id" : "3q7HBObVc0L8jNeTe5Gofh",
+          "name" : "50 Cent",
+          "type" : "artist",
+          "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3PDMMt0Ip2WHysoAOEAdBq",
+          "id" : "3PDMMt0Ip2WHysoAOEAdBq",
+          "name" : "Ca$his",
+          "type" : "artist",
+          "uri" : "spotify:artist:3PDMMt0Ip2WHysoAOEAdBq"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3vDUJHQtqT3jFRZ2ECXDTi",
+          "id" : "3vDUJHQtqT3jFRZ2ECXDTi",
+          "name" : "Lloyd Banks",
+          "type" : "artist",
+          "uri" : "spotify:artist:3vDUJHQtqT3jFRZ2ECXDTi"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 257906,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70613171"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0nKZeSrqH9u31NLoTUsYBR"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0nKZeSrqH9u31NLoTUsYBR",
+        "id" : "0nKZeSrqH9u31NLoTUsYBR",
+        "is_local" : false,
+        "name" : "You Don't Know",
+        "popularity" : 60,
+        "preview_url" : "https://p.scdn.co/mp3-preview/edbe2d0838f885b61552df9bbe58e05d73bf42d3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:0nKZeSrqH9u31NLoTUsYBR"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:31:48Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id" : "0LyfQWJT6nXafLPZqxe9Of",
+            "name" : "Various Artists",
+            "type" : "artist",
+            "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru"
+          },
+          "href" : "https://api.spotify.com/v1/albums/21CZUn61aoVz08xU4wwfru",
+          "id" : "21CZUn61aoVz08xU4wwfru",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273b72ddbc2e5b8c9ce5f3c4ef7",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02b72ddbc2e5b8c9ce5f3c4ef7",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851b72ddbc2e5b8c9ce5f3c4ef7",
+            "width" : 64
+          } ],
+          "name" : "Southpaw (Music From And Inspired By The Motion Picture)",
+          "release_date" : "2015-07-24",
+          "release_date_precision" : "day",
+          "total_tracks" : 14,
+          "type" : "album",
+          "uri" : "spotify:album:21CZUn61aoVz08xU4wwfru"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4yiQZ8tQPux8cPriYMWUFP",
+          "id" : "4yiQZ8tQPux8cPriYMWUFP",
+          "name" : "Gwen Stefani",
+          "type" : "artist",
+          "uri" : "spotify:artist:4yiQZ8tQPux8cPriYMWUFP"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 296133,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM71509167"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4uX7M3U4I1nsZ7SFM4XNCn"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4uX7M3U4I1nsZ7SFM4XNCn",
+        "id" : "4uX7M3U4I1nsZ7SFM4XNCn",
+        "is_local" : false,
+        "name" : "Kings Never Die",
+        "popularity" : 65,
+        "preview_url" : "https://p.scdn.co/mp3-preview/b37f5bce42bc731149ab6eaf9561e51d2b1ace1b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:4uX7M3U4I1nsZ7SFM4XNCn"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:32:57Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+            "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+            "name" : "Future",
+            "type" : "artist",
+            "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+          } ],
+          "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4YtTX4GPvBvewbJvBfXCS2",
+          "id" : "4YtTX4GPvBvewbJvBfXCS2",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273356884f85665ebdd79223fdf",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02356884f85665ebdd79223fdf",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851356884f85665ebdd79223fdf",
+            "width" : 64
+          } ],
+          "name" : "FUTURE",
+          "release_date" : "2017-08-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 17,
+          "type" : "album",
+          "uri" : "spotify:album:4YtTX4GPvBvewbJvBfXCS2"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id" : "1RyvyyTE3xzB2ZywiAwp0i",
+          "name" : "Future",
+          "type" : "artist",
+          "uri" : "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        } ],
+        "available_markets" : [ "AE", "BH", "EG", "JO", "KW", "LB", "OM", "PS", "QA", "SA" ],
+        "disc_number" : 1,
+        "duration_ms" : 204600,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USSM11701444"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3rOSwuTsUlJp0Pu0MkN8r8",
+        "id" : "3rOSwuTsUlJp0Pu0MkN8r8",
+        "is_local" : false,
+        "name" : "Mask Off",
+        "popularity" : 44,
+        "preview_url" : "https://p.scdn.co/mp3-preview/0519fc7c44d418ca6c721d9aa83e9597065288e1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:3rOSwuTsUlJp0Pu0MkN8r8"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:39:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id" : "0LyfQWJT6nXafLPZqxe9Of",
+            "name" : "Various Artists",
+            "type" : "artist",
+            "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/672m1fAvV7Fb2hqlWF0VSn"
+          },
+          "href" : "https://api.spotify.com/v1/albums/672m1fAvV7Fb2hqlWF0VSn",
+          "id" : "672m1fAvV7Fb2hqlWF0VSn",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27394ef6ca25adfa771c2cf5604",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0294ef6ca25adfa771c2cf5604",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485194ef6ca25adfa771c2cf5604",
+            "width" : 64
+          } ],
+          "name" : "Hip Hop - The Classics CD (International Version)",
+          "release_date" : "2007",
+          "release_date_precision" : "year",
+          "total_tracks" : 60,
+          "type" : "album",
+          "uri" : "spotify:album:672m1fAvV7Fb2hqlWF0VSn"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4EnEZVjo3w1cwcQYePccay",
+          "id" : "4EnEZVjo3w1cwcQYePccay",
+          "name" : "N.W.A.",
+          "type" : "artist",
+          "uri" : "spotify:artist:4EnEZVjo3w1cwcQYePccay"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 265093,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "GBAPC8800001"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1c60P1VT8HuXGS66TTox4k"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1c60P1VT8HuXGS66TTox4k",
+        "id" : "1c60P1VT8HuXGS66TTox4k",
+        "is_local" : false,
+        "name" : "Straight Outta Compton",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:1c60P1VT8HuXGS66TTox4k"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:42:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1ftvBBcu7jYIvXyt3JWB8S"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1ftvBBcu7jYIvXyt3JWB8S",
+          "id" : "1ftvBBcu7jYIvXyt3JWB8S",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273ccdb1982626f299b3b1d3efd",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02ccdb1982626f299b3b1d3efd",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851ccdb1982626f299b3b1d3efd",
+            "width" : 64
+          } ],
+          "name" : "The Eminem Show",
+          "release_date" : "2002-05-26",
+          "release_date_precision" : "day",
+          "total_tracks" : 20,
+          "type" : "album",
+          "uri" : "spotify:album:1ftvBBcu7jYIvXyt3JWB8S"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 290226,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10211038"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/06wOQGz4bGB7HETrIjpIep"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/06wOQGz4bGB7HETrIjpIep",
+        "id" : "06wOQGz4bGB7HETrIjpIep",
+        "is_local" : false,
+        "name" : "Without Me",
+        "popularity" : 1,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:06wOQGz4bGB7HETrIjpIep"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:43:16Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+            "name" : "Dr. Dre",
+            "type" : "artist",
+            "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7q2B4M5EiBkqrlsNW8lB7N",
+          "id" : "7q2B4M5EiBkqrlsNW8lB7N",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+            "width" : 64
+          } ],
+          "name" : "2001",
+          "release_date" : "1999-11-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:7q2B4M5EiBkqrlsNW8lB7N"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id" : "7hJcb9fa4alzcOq3EaNPoG",
+          "name" : "Snoop Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 270586,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR19905031"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/503OTo2dSqe7qk76rgsbep",
+        "id" : "503OTo2dSqe7qk76rgsbep",
+        "is_local" : false,
+        "name" : "Still D.R.E.",
+        "popularity" : 80,
+        "preview_url" : "https://p.scdn.co/mp3-preview/bee29c05f4b3b34db6ffbe84d705e84435948242?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:503OTo2dSqe7qk76rgsbep"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-05T13:43:46Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7pFeBzX627ff0VnN6bxPR4",
+            "id" : "7pFeBzX627ff0VnN6bxPR4",
+            "name" : "Desiigner",
+            "type" : "artist",
+            "uri" : "spotify:artist:7pFeBzX627ff0VnN6bxPR4"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0cHT4ll3sEPyFFWoFuibMl",
+          "id" : "0cHT4ll3sEPyFFWoFuibMl",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273c598ea6ec584cafb062cafdf",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02c598ea6ec584cafb062cafdf",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851c598ea6ec584cafb062cafdf",
+            "width" : 64
+          } ],
+          "name" : "New English",
+          "release_date" : "2016-06-26",
+          "release_date_precision" : "day",
+          "total_tracks" : 14,
+          "type" : "album",
+          "uri" : "spotify:album:0cHT4ll3sEPyFFWoFuibMl"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7pFeBzX627ff0VnN6bxPR4",
+          "id" : "7pFeBzX627ff0VnN6bxPR4",
+          "name" : "Desiigner",
+          "type" : "artist",
+          "uri" : "spotify:artist:7pFeBzX627ff0VnN6bxPR4"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 246761,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM71601094"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5YEOzOojehCqxGQCcQiyR4",
+        "id" : "5YEOzOojehCqxGQCcQiyR4",
+        "is_local" : false,
+        "name" : "Panda",
+        "popularity" : 75,
+        "preview_url" : "https://p.scdn.co/mp3-preview/308f27487ab3edb4c3edc2f8eae1561c767ac425?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 14,
+        "type" : "track",
+        "uri" : "spotify:track:5YEOzOojehCqxGQCcQiyR4"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T05:55:21Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2bBDybnvM234YGjNVcMQaK"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2bBDybnvM234YGjNVcMQaK",
+          "id" : "2bBDybnvM234YGjNVcMQaK",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273a2458e298106612662510936",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02a2458e298106612662510936",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851a2458e298106612662510936",
+            "width" : 64
+          } ],
+          "name" : "Eminem Presents The Re-Up",
+          "release_date" : "2006-12-04",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:2bBDybnvM234YGjNVcMQaK"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+          "id" : "2XnnxQzxFZG8qEPjakokPM",
+          "name" : "Obie Trice",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 145826,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70618652"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6us0BYGXFGychCrUbdA4AS"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6us0BYGXFGychCrUbdA4AS",
+        "id" : "6us0BYGXFGychCrUbdA4AS",
+        "is_local" : false,
+        "name" : "Pistol Pistol (Remix)",
+        "popularity" : 37,
+        "preview_url" : "https://p.scdn.co/mp3-preview/9cacaf689ecc5236ee95fec8b8b4c6cbedfa7bed?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:6us0BYGXFGychCrUbdA4AS"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T06:00:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+            "name" : "Dr. Dre",
+            "type" : "artist",
+            "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5csXMdS69VOvh8MjyfwkjB",
+          "id" : "5csXMdS69VOvh8MjyfwkjB",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2733449d887852d1b156092491a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e023449d887852d1b156092491a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048513449d887852d1b156092491a",
+            "width" : 64
+          } ],
+          "name" : "2001 (Explicit Version)",
+          "release_date" : "1999-11-16",
+          "release_date_precision" : "day",
+          "total_tracks" : 22,
+          "type" : "album",
+          "uri" : "spotify:album:5csXMdS69VOvh8MjyfwkjB"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3np2OYRZAgI4e6lxeGmGr8",
+          "id" : "3np2OYRZAgI4e6lxeGmGr8",
+          "name" : "Hittman",
+          "type" : "artist",
+          "uri" : "spotify:artist:3np2OYRZAgI4e6lxeGmGr8"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+          },
+          "href" : "https://api.spotify.com/v1/artists/24PJqH46WhB0pUB7NlsFna",
+          "id" : "24PJqH46WhB0pUB7NlsFna",
+          "name" : "Knoc-Turn'al",
+          "type" : "artist",
+          "uri" : "spotify:artist:24PJqH46WhB0pUB7NlsFna"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 222466,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR19915088"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5GgmaSJiVylNjuRnzodXv5"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5GgmaSJiVylNjuRnzodXv5",
+        "id" : "5GgmaSJiVylNjuRnzodXv5",
+        "is_local" : false,
+        "name" : "Bang Bang",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 21,
+        "type" : "track",
+        "uri" : "spotify:track:5GgmaSJiVylNjuRnzodXv5"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T06:06:56Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+            "id" : "2gINJ8xw86xawPyGvx1bla",
+            "name" : "KRS-One",
+            "type" : "artist",
+            "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+          },
+          "href" : "https://api.spotify.com/v1/albums/64ub4SfdC8wvPjdUXw8QY9",
+          "id" : "64ub4SfdC8wvPjdUXw8QY9",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273db6b0860c8fc65d67c76775f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02db6b0860c8fc65d67c76775f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851db6b0860c8fc65d67c76775f",
+            "width" : 64
+          } ],
+          "name" : "Return of the Boom Bap",
+          "release_date" : "1993-09-03",
+          "release_date_precision" : "day",
+          "total_tracks" : 14,
+          "type" : "album",
+          "uri" : "spotify:album:64ub4SfdC8wvPjdUXw8QY9"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+          "id" : "2gINJ8xw86xawPyGvx1bla",
+          "name" : "KRS-One",
+          "type" : "artist",
+          "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 258506,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "GBAHK9300100"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3Y6XWs8xMlCngyIxNOFnsp",
+        "id" : "3Y6XWs8xMlCngyIxNOFnsp",
+        "is_local" : false,
+        "name" : "Sound of da Police",
+        "popularity" : 63,
+        "preview_url" : "https://p.scdn.co/mp3-preview/bed5b59fcffa96069f0ddaa219c914edda9ebbaf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:3Y6XWs8xMlCngyIxNOFnsp"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T06:07:32Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+            "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+            "name" : "Ice Cube",
+            "type" : "artist",
+            "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/2S3JOm31RM23obHG1cqByJ"
+          },
+          "href" : "https://api.spotify.com/v1/albums/2S3JOm31RM23obHG1cqByJ",
+          "id" : "2S3JOm31RM23obHG1cqByJ",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273e543020551896cafb9ffcfdf",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02e543020551896cafb9ffcfdf",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851e543020551896cafb9ffcfdf",
+            "width" : 64
+          } ],
+          "name" : "Death Certificate (25th Anniversary Edition)",
+          "release_date" : "2017-06-09",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:2S3JOm31RM23obHG1cqByJ"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+          "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+          "name" : "Ice Cube",
+          "type" : "artist",
+          "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 207093,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM71616303"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0DPNRRkWkye2ZHTqAiClRH"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0DPNRRkWkye2ZHTqAiClRH",
+        "id" : "0DPNRRkWkye2ZHTqAiClRH",
+        "is_local" : false,
+        "name" : "Good Cop Bad Cop",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:0DPNRRkWkye2ZHTqAiClRH"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T06:09:51Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd",
+            "id" : "6Mo9PoU6svvhgEum7wh2Nd",
+            "name" : "Public Enemy",
+            "type" : "artist",
+            "uri" : "spotify:artist:6Mo9PoU6svvhgEum7wh2Nd"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/265OEkRcX40ppxgHGuu4cI"
+          },
+          "href" : "https://api.spotify.com/v1/albums/265OEkRcX40ppxgHGuu4cI",
+          "id" : "265OEkRcX40ppxgHGuu4cI",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273331c8f13fb4bbf72670f77c7",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02331c8f13fb4bbf72670f77c7",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851331c8f13fb4bbf72670f77c7",
+            "width" : 64
+          } ],
+          "name" : "He Got Game (Soundtrack)",
+          "release_date" : "1998-04-21",
+          "release_date_precision" : "day",
+          "total_tracks" : 13,
+          "type" : "album",
+          "uri" : "spotify:album:265OEkRcX40ppxgHGuu4cI"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Mo9PoU6svvhgEum7wh2Nd",
+          "id" : "6Mo9PoU6svvhgEum7wh2Nd",
+          "name" : "Public Enemy",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Mo9PoU6svvhgEum7wh2Nd"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4WlSvDKaq1PA2Nr7cCIPxX",
+          "id" : "4WlSvDKaq1PA2Nr7cCIPxX",
+          "name" : "Stephen Stills",
+          "type" : "artist",
+          "uri" : "spotify:artist:4WlSvDKaq1PA2Nr7cCIPxX"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 286200,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USDJ29800740"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7aRGb3vZGMLNpK2PEdUjdA",
+        "id" : "7aRGb3vZGMLNpK2PEdUjdA",
+        "is_local" : false,
+        "name" : "He Got Game",
+        "popularity" : 59,
+        "preview_url" : "https://p.scdn.co/mp3-preview/5059ee38bfa91ac30da163fbe3804740f5ae1a23?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7aRGb3vZGMLNpK2PEdUjdA"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-09T06:11:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+            "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+            "name" : "The Game",
+            "type" : "artist",
+            "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6tnVp0DziWhnvpfAQAmalg"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6tnVp0DziWhnvpfAQAmalg",
+          "id" : "6tnVp0DziWhnvpfAQAmalg",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273db3edb9bc8f2e834261d032f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02db3edb9bc8f2e834261d032f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851db3edb9bc8f2e834261d032f",
+            "width" : 64
+          } ],
+          "name" : "Dreams (International Version)",
+          "release_date" : "2005-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 3,
+          "type" : "album",
+          "uri" : "spotify:album:6tnVp0DziWhnvpfAQAmalg"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+          "name" : "The Game",
+          "type" : "artist",
+          "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 287186,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10401119"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/26Syvr8Vd28yfXYraluunC"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/26Syvr8Vd28yfXYraluunC",
+        "id" : "26Syvr8Vd28yfXYraluunC",
+        "is_local" : false,
+        "name" : "Dreams",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:26Syvr8Vd28yfXYraluunC"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:05:22Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+            "id" : "6O2zJ0tId7g07yzHtX0yap",
+            "name" : "Mobb Deep",
+            "type" : "artist",
+            "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6UDhYUew9ULQVtt4HWNRSL"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6UDhYUew9ULQVtt4HWNRSL",
+          "id" : "6UDhYUew9ULQVtt4HWNRSL",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273445fe96a11e9dac923d46f5d",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02445fe96a11e9dac923d46f5d",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851445fe96a11e9dac923d46f5d",
+            "width" : 64
+          } ],
+          "name" : "Free Agents",
+          "release_date" : "2003",
+          "release_date_precision" : "year",
+          "total_tracks" : 20,
+          "type" : "album",
+          "uri" : "spotify:album:6UDhYUew9ULQVtt4HWNRSL"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+          "id" : "6O2zJ0tId7g07yzHtX0yap",
+          "name" : "Mobb Deep",
+          "type" : "artist",
+          "uri" : "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 130298,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USAE81282646"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5lxvAURhqgI1qrNmJHB69k"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5lxvAURhqgI1qrNmJHB69k",
+        "id" : "5lxvAURhqgI1qrNmJHB69k",
+        "is_local" : false,
+        "name" : "Shook Ones - Freestyle",
+        "popularity" : 44,
+        "preview_url" : "https://p.scdn.co/mp3-preview/c5425ee21a86db625a413994edf219d968246950?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 20,
+        "type" : "track",
+        "uri" : "spotify:track:5lxvAURhqgI1qrNmJHB69k"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:06:58Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+            "id" : "6evKD5JWJON3qPBJtUEmtY",
+            "name" : "G-Unit",
+            "type" : "artist",
+            "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6UKTBg325wt2gMHF1STZdv"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6UKTBg325wt2gMHF1STZdv",
+          "id" : "6UKTBg325wt2gMHF1STZdv",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2735eafb354b4b9818fae6ac68f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e025eafb354b4b9818fae6ac68f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048515eafb354b4b9818fae6ac68f",
+            "width" : 64
+          } ],
+          "name" : "T.O.S. (Terminate On Sight)",
+          "release_date" : "2008-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 16,
+          "type" : "album",
+          "uri" : "spotify:album:6UKTBg325wt2gMHF1STZdv"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+          "id" : "6evKD5JWJON3qPBJtUEmtY",
+          "name" : "G-Unit",
+          "type" : "artist",
+          "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4pr7J7wzgObkE3DD3Izi7q",
+          "id" : "4pr7J7wzgObkE3DD3Izi7q",
+          "name" : "Young Buck",
+          "type" : "artist",
+          "uri" : "spotify:artist:4pr7J7wzgObkE3DD3Izi7q"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 201120,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70816154"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7xVZA05uO2y6DQIuP2Kka6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7xVZA05uO2y6DQIuP2Kka6",
+        "id" : "7xVZA05uO2y6DQIuP2Kka6",
+        "is_local" : false,
+        "name" : "Piano Man",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7xVZA05uO2y6DQIuP2Kka6"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:14:11Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+            "id" : "6evKD5JWJON3qPBJtUEmtY",
+            "name" : "G-Unit",
+            "type" : "artist",
+            "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1YpEK4FrwMuJHhpCqvRuVg"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1YpEK4FrwMuJHhpCqvRuVg",
+          "id" : "1YpEK4FrwMuJHhpCqvRuVg",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2737abb09d54b28dfa7ee8e803f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e027abb09d54b28dfa7ee8e803f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048517abb09d54b28dfa7ee8e803f",
+            "width" : 64
+          } ],
+          "name" : "Beg For Mercy",
+          "release_date" : "2003-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 19,
+          "type" : "album",
+          "uri" : "spotify:album:1YpEK4FrwMuJHhpCqvRuVg"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6evKD5JWJON3qPBJtUEmtY",
+          "id" : "6evKD5JWJON3qPBJtUEmtY",
+          "name" : "G-Unit",
+          "type" : "artist",
+          "uri" : "spotify:artist:6evKD5JWJON3qPBJtUEmtY"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 240800,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10312422"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/64E7c7HdsIbbDWDSGxNJVF"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/64E7c7HdsIbbDWDSGxNJVF",
+        "id" : "64E7c7HdsIbbDWDSGxNJVF",
+        "is_local" : false,
+        "name" : "Poppin' Them Thangs",
+        "popularity" : 1,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:64E7c7HdsIbbDWDSGxNJVF"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:14:49Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+            "id" : "2XnnxQzxFZG8qEPjakokPM",
+            "name" : "Obie Trice",
+            "type" : "artist",
+            "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+          "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+            "width" : 64
+          } ],
+          "name" : "Second Rounds On Me",
+          "release_date" : "2006-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 18,
+          "type" : "album",
+          "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+          "id" : "2XnnxQzxFZG8qEPjakokPM",
+          "name" : "Obie Trice",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id" : "0z4gvV4rjIZ9wHck67ucSV",
+          "name" : "Akon",
+          "type" : "artist",
+          "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 241253,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70601285"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5NSDTpp3B5rX8GgGFIagFz"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5NSDTpp3B5rX8GgGFIagFz",
+        "id" : "5NSDTpp3B5rX8GgGFIagFz",
+        "is_local" : false,
+        "name" : "Snitch",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:5NSDTpp3B5rX8GgGFIagFz"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:20:41Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+            "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+            "name" : "LL Cool J",
+            "type" : "artist",
+            "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/45cv1LtilzQpJtV1YDQqAp"
+          },
+          "href" : "https://api.spotify.com/v1/albums/45cv1LtilzQpJtV1YDQqAp",
+          "id" : "45cv1LtilzQpJtV1YDQqAp",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273139818cbd0f2c3dedab19d28",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02139818cbd0f2c3dedab19d28",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851139818cbd0f2c3dedab19d28",
+            "width" : 64
+          } ],
+          "name" : "Mama Said Knock You Out (Deluxe Edition)",
+          "release_date" : "1990-08-27",
+          "release_date_precision" : "day",
+          "total_tracks" : 28,
+          "type" : "album",
+          "uri" : "spotify:album:45cv1LtilzQpJtV1YDQqAp"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+          "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+          "name" : "LL Cool J",
+          "type" : "artist",
+          "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 289693,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USDJ29000008"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4F69LVvV9fWsMRLUGz8C4f"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4F69LVvV9fWsMRLUGz8C4f",
+        "id" : "4F69LVvV9fWsMRLUGz8C4f",
+        "is_local" : false,
+        "name" : "Mama Said Knock You Out",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:4F69LVvV9fWsMRLUGz8C4f"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:21:05Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+            "id" : "1HwM5zlC5qNWhJtM00yXzG",
+            "name" : "DMX",
+            "type" : "artist",
+            "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4MtX90BJLKOVHG36jV9oaR"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4MtX90BJLKOVHG36jV9oaR",
+          "id" : "4MtX90BJLKOVHG36jV9oaR",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273f83cbf5c904d383623b23211",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02f83cbf5c904d383623b23211",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851f83cbf5c904d383623b23211",
+            "width" : 64
+          } ],
+          "name" : "Grand Champ",
+          "release_date" : "2003-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 24,
+          "type" : "album",
+          "uri" : "spotify:album:4MtX90BJLKOVHG36jV9oaR"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+          "id" : "1HwM5zlC5qNWhJtM00yXzG",
+          "name" : "DMX",
+          "type" : "artist",
+          "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 286266,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USDJ20300668"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7fXb8yG4gCsioqzJNZOv69"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7fXb8yG4gCsioqzJNZOv69",
+        "id" : "7fXb8yG4gCsioqzJNZOv69",
+        "is_local" : false,
+        "name" : "Where The Hood At",
+        "popularity" : 53,
+        "preview_url" : "https://p.scdn.co/mp3-preview/f8974c529782699d98067083bdcfd35a8ac205ea?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:7fXb8yG4gCsioqzJNZOv69"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:22:20Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+            "id" : "1HwM5zlC5qNWhJtM00yXzG",
+            "name" : "DMX",
+            "type" : "artist",
+            "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7sGZLiJP6WszkshzArMxW6"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7sGZLiJP6WszkshzArMxW6",
+          "id" : "7sGZLiJP6WszkshzArMxW6",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273826712100bf3a34f04fb7768",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02826712100bf3a34f04fb7768",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851826712100bf3a34f04fb7768",
+            "width" : 64
+          } ],
+          "name" : "...And Then There Was X",
+          "release_date" : "1999-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 18,
+          "type" : "album",
+          "uri" : "spotify:album:7sGZLiJP6WszkshzArMxW6"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+          "id" : "1HwM5zlC5qNWhJtM00yXzG",
+          "name" : "DMX",
+          "type" : "artist",
+          "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 268866,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USDJ29905352"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2AaknMNIfzMqZGvbcDsJHZ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2AaknMNIfzMqZGvbcDsJHZ",
+        "id" : "2AaknMNIfzMqZGvbcDsJHZ",
+        "is_local" : false,
+        "name" : "Party Up",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:2AaknMNIfzMqZGvbcDsJHZ"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:25:11Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+            "name" : "Dr. Dre",
+            "type" : "artist",
+            "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          } ],
+          "available_markets" : [ "AE", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+          },
+          "href" : "https://api.spotify.com/v1/albums/7r3ZRX5UIxKteuTMu7vL7B",
+          "id" : "7r3ZRX5UIxKteuTMu7vL7B",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273ad58fd0c7759cd9547aaaa03",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02ad58fd0c7759cd9547aaaa03",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851ad58fd0c7759cd9547aaaa03",
+            "width" : 64
+          } ],
+          "name" : "Kush",
+          "release_date" : "2010-11-18",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:7r3ZRX5UIxKteuTMu7vL7B"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id" : "7hJcb9fa4alzcOq3EaNPoG",
+          "name" : "Snoop Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+          "id" : "0z4gvV4rjIZ9wHck67ucSV",
+          "name" : "Akon",
+          "type" : "artist",
+          "uri" : "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+        } ],
+        "available_markets" : [ "AE", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 235120,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM71028121"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1U8Ho1nOzKXYDvfigOuHG4",
+        "id" : "1U8Ho1nOzKXYDvfigOuHG4",
+        "is_local" : false,
+        "name" : "Kush - Main",
+        "popularity" : 65,
+        "preview_url" : "https://p.scdn.co/mp3-preview/339258b777223de2c35796293640ac126a9d2abd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1U8Ho1nOzKXYDvfigOuHG4"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:29:54Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+            "id" : "3q7HBObVc0L8jNeTe5Gofh",
+            "name" : "50 Cent",
+            "type" : "artist",
+            "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1ExH71fC9bKxWPM9wFzoTK"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1ExH71fC9bKxWPM9wFzoTK",
+          "id" : "1ExH71fC9bKxWPM9wFzoTK",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273f46bc3639791e0ec8b4cb08f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02f46bc3639791e0ec8b4cb08f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851f46bc3639791e0ec8b4cb08f",
+            "width" : 64
+          } ],
+          "name" : "Best Of 50 Cent",
+          "release_date" : "2017-03-31",
+          "release_date_precision" : "day",
+          "total_tracks" : 18,
+          "type" : "album",
+          "uri" : "spotify:album:1ExH71fC9bKxWPM9wFzoTK"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id" : "3q7HBObVc0L8jNeTe5Gofh",
+          "name" : "50 Cent",
+          "type" : "artist",
+          "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 237346,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70504263"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2Ylw0KdG20gjVqvyutg8f0"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2Ylw0KdG20gjVqvyutg8f0",
+        "id" : "2Ylw0KdG20gjVqvyutg8f0",
+        "is_local" : false,
+        "name" : "Hustler's Ambition",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:2Ylw0KdG20gjVqvyutg8f0"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:34:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id" : "55Aa2cqylxrFIXC767Z865",
+            "name" : "Lil Wayne",
+            "type" : "artist",
+            "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+          },
+          "href" : "https://api.spotify.com/v1/albums/1Do3y8IAcbYOToYQJnGwSO",
+          "id" : "1Do3y8IAcbYOToYQJnGwSO",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273aa739a5e844220bb44a64adc",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02aa739a5e844220bb44a64adc",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851aa739a5e844220bb44a64adc",
+            "width" : 64
+          } ],
+          "name" : "Tha Carter III",
+          "release_date" : "2008-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 23,
+          "type" : "album",
+          "uri" : "spotify:album:1Do3y8IAcbYOToYQJnGwSO"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id" : "55Aa2cqylxrFIXC767Z865",
+          "name" : "Lil Wayne",
+          "type" : "artist",
+          "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3pbi8H08p95NUZ7m6ybxUV",
+          "id" : "3pbi8H08p95NUZ7m6ybxUV",
+          "name" : "Static Major",
+          "type" : "artist",
+          "uri" : "spotify:artist:3pbi8H08p95NUZ7m6ybxUV"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 299333,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USCM50800556"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5jnxxpX2834SB6LJ0S73Uz",
+        "id" : "5jnxxpX2834SB6LJ0S73Uz",
+        "is_local" : false,
+        "name" : "Lollipop",
+        "popularity" : 65,
+        "preview_url" : "https://p.scdn.co/mp3-preview/2466a5db727e949f580e0cbec6a01619b4aea822?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:5jnxxpX2834SB6LJ0S73Uz"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:36:26Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+            },
+            "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+            "id" : "3q7HBObVc0L8jNeTe5Gofh",
+            "name" : "50 Cent",
+            "type" : "artist",
+            "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5G5rgQHzdQnw32SI0WjIo5",
+          "id" : "5G5rgQHzdQnw32SI0WjIo5",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+            "width" : 64
+          } ],
+          "name" : "Get Rich Or Die Tryin'",
+          "release_date" : "2003-02-06",
+          "release_date_precision" : "day",
+          "total_tracks" : 20,
+          "type" : "album",
+          "uri" : "spotify:album:5G5rgQHzdQnw32SI0WjIo5"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id" : "3q7HBObVc0L8jNeTe5Gofh",
+          "name" : "50 Cent",
+          "type" : "artist",
+          "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 243000,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10211881"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5HDRg2qrvX9qb6COeuDwfs"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5HDRg2qrvX9qb6COeuDwfs",
+        "id" : "5HDRg2qrvX9qb6COeuDwfs",
+        "is_local" : false,
+        "name" : "Back Down",
+        "popularity" : 54,
+        "preview_url" : "https://p.scdn.co/mp3-preview/40b63503e1ab064fde159bd08b3a6a30d62db3a8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:5HDRg2qrvX9qb6COeuDwfs"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:37:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1Zz5UxfKSSqc6hpa3xJPCw",
+            "id" : "1Zz5UxfKSSqc6hpa3xJPCw",
+            "name" : "J-Kwon",
+            "type" : "artist",
+            "uri" : "spotify:artist:1Zz5UxfKSSqc6hpa3xJPCw"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HR", "HU", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SI", "SK", "SV", "TN", "UA", "US", "UY", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/75g3L3m32TIGTugnpNeJDt"
+          },
+          "href" : "https://api.spotify.com/v1/albums/75g3L3m32TIGTugnpNeJDt",
+          "id" : "75g3L3m32TIGTugnpNeJDt",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2730764474530da0ec62c80495a",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e020764474530da0ec62c80495a",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048510764474530da0ec62c80495a",
+            "width" : 64
+          } ],
+          "name" : "Tipsy",
+          "release_date" : "2001-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 4,
+          "type" : "album",
+          "uri" : "spotify:album:75g3L3m32TIGTugnpNeJDt"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1Zz5UxfKSSqc6hpa3xJPCw",
+          "id" : "1Zz5UxfKSSqc6hpa3xJPCw",
+          "name" : "J-Kwon",
+          "type" : "artist",
+          "uri" : "spotify:artist:1Zz5UxfKSSqc6hpa3xJPCw"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HR", "HU", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SI", "SK", "SV", "TN", "UA", "US", "UY", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 247106,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USAR10301217"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6fqqAsCYfDOtXAD8Ydo06K"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6fqqAsCYfDOtXAD8Ydo06K",
+        "id" : "6fqqAsCYfDOtXAD8Ydo06K",
+        "is_local" : false,
+        "name" : "Tipsy - Club Mix",
+        "popularity" : 59,
+        "preview_url" : "https://p.scdn.co/mp3-preview/4cd1bfdaa9c26eb5ff671aea97184c1f76b0ae36?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:6fqqAsCYfDOtXAD8Ydo06K"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:37:32Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+            "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+            "name" : "The Game",
+            "type" : "artist",
+            "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0d0QL1mV66wpb9cBvCSF0G",
+          "id" : "0d0QL1mV66wpb9cBvCSF0G",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2736ee6522fe61d76481c0bf366",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e026ee6522fe61d76481c0bf366",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048516ee6522fe61d76481c0bf366",
+            "width" : 64
+          } ],
+          "name" : "The Documentary",
+          "release_date" : "2005",
+          "release_date_precision" : "year",
+          "total_tracks" : 18,
+          "type" : "album",
+          "uri" : "spotify:album:0d0QL1mV66wpb9cBvCSF0G"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+          "name" : "The Game",
+          "type" : "artist",
+          "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 245013,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10400735"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7acbhDqMaZyH2Pv7acMFuW"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7acbhDqMaZyH2Pv7acMFuW",
+        "id" : "7acbhDqMaZyH2Pv7acMFuW",
+        "is_local" : false,
+        "name" : "Higher",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:7acbhDqMaZyH2Pv7acMFuW"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:45:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "compilation",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id" : "0LyfQWJT6nXafLPZqxe9Of",
+            "name" : "Various Artists",
+            "type" : "artist",
+            "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/5VDp4t8rTrYlnkm7vE5HsN"
+          },
+          "href" : "https://api.spotify.com/v1/albums/5VDp4t8rTrYlnkm7vE5HsN",
+          "id" : "5VDp4t8rTrYlnkm7vE5HsN",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273cfd89e47c28126b1ae42f2a5",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02cfd89e47c28126b1ae42f2a5",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851cfd89e47c28126b1ae42f2a5",
+            "width" : 64
+          } ],
+          "name" : "8 Mile [Deluxe (International Version w/o weblink)]",
+          "release_date" : "2002-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 22,
+          "type" : "album",
+          "uri" : "spotify:album:5VDp4t8rTrYlnkm7vE5HsN"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+          "id" : "3q7HBObVc0L8jNeTe5Gofh",
+          "name" : "50 Cent",
+          "type" : "artist",
+          "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 2,
+        "duration_ms" : 86000,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR10211643"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5YSBSyN6p6qJv7nsHtoZl2"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5YSBSyN6p6qJv7nsHtoZl2",
+        "id" : "5YSBSyN6p6qJv7nsHtoZl2",
+        "is_local" : false,
+        "name" : "'Till I Collapse Freestyle",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:5YSBSyN6p6qJv7nsHtoZl2"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-14T21:47:02Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+            "id" : "7iMvwE8qANp3aIfAGKEAwS",
+            "name" : "Cam’ron",
+            "type" : "artist",
+            "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY"
+          },
+          "href" : "https://api.spotify.com/v1/albums/39944ACXhgHs7gjXa5HehY",
+          "id" : "39944ACXhgHs7gjXa5HehY",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2736fc79e78a7fbcedc414d733f",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e026fc79e78a7fbcedc414d733f",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048516fc79e78a7fbcedc414d733f",
+            "width" : 64
+          } ],
+          "name" : "Come Home With Me",
+          "release_date" : "2002-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 15,
+          "type" : "album",
+          "uri" : "spotify:album:39944ACXhgHs7gjXa5HehY"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7iMvwE8qANp3aIfAGKEAwS",
+          "id" : "7iMvwE8qANp3aIfAGKEAwS",
+          "name" : "Cam’ron",
+          "type" : "artist",
+          "uri" : "spotify:artist:7iMvwE8qANp3aIfAGKEAwS"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6Uh8uJyN9g7oFjDK16nJgb",
+          "id" : "6Uh8uJyN9g7oFjDK16nJgb",
+          "name" : "Juelz Santana",
+          "type" : "artist",
+          "uri" : "spotify:artist:6Uh8uJyN9g7oFjDK16nJgb"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 204706,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USDJ20200334"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3sgTiqsN5eNNGTBl1VsO44"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3sgTiqsN5eNNGTBl1VsO44",
+        "id" : "3sgTiqsN5eNNGTBl1VsO44",
+        "is_local" : false,
+        "name" : "Oh Boy",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:3sgTiqsN5eNNGTBl1VsO44"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2019-12-02T05:00:17Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+            },
+            "href" : "https://api.spotify.com/v1/artists/1XTGADISSMRf8B4TcVGYUC",
+            "id" : "1XTGADISSMRf8B4TcVGYUC",
+            "name" : "Ky-Mani Marley",
+            "type" : "artist",
+            "uri" : "spotify:artist:1XTGADISSMRf8B4TcVGYUC"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/3yanQUlMV1ZGKNk6a7e8ms"
+          },
+          "href" : "https://api.spotify.com/v1/albums/3yanQUlMV1ZGKNk6a7e8ms",
+          "id" : "3yanQUlMV1ZGKNk6a7e8ms",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273b58d1f8c9b136617f6ade775",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02b58d1f8c9b136617f6ade775",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851b58d1f8c9b136617f6ade775",
+            "width" : 64
+          } ],
+          "name" : "Radio",
+          "release_date" : "2007-09-25",
+          "release_date_precision" : "day",
+          "total_tracks" : 14,
+          "type" : "album",
+          "uri" : "spotify:album:3yanQUlMV1ZGKNk6a7e8ms"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1XTGADISSMRf8B4TcVGYUC",
+          "id" : "1XTGADISSMRf8B4TcVGYUC",
+          "name" : "Ky-Mani Marley",
+          "type" : "artist",
+          "uri" : "spotify:artist:1XTGADISSMRf8B4TcVGYUC"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dJklyv0Zyd7AHqUe46LrC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dJklyv0Zyd7AHqUe46LrC",
+          "id" : "7dJklyv0Zyd7AHqUe46LrC",
+          "name" : "Maintain",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dJklyv0Zyd7AHqUe46LrC"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6VEHSfeegQpnZm41sZNuA9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6VEHSfeegQpnZm41sZNuA9",
+          "id" : "6VEHSfeegQpnZm41sZNuA9",
+          "name" : "Louie Rankin",
+          "type" : "artist",
+          "uri" : "spotify:artist:6VEHSfeegQpnZm41sZNuA9"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 242106,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USA2P0757405"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2xwazVCIaF254PAA6EVzHq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2xwazVCIaF254PAA6EVzHq",
+        "id" : "2xwazVCIaF254PAA6EVzHq",
+        "is_local" : false,
+        "name" : "Ghetto Soldier",
+        "popularity" : 47,
+        "preview_url" : "https://p.scdn.co/mp3-preview/5f7d2cc56184298d1aa6a094ce79c27ee0dffdef?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:2xwazVCIaF254PAA6EVzHq"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2019-12-12T10:37:44Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+            },
+            "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+            "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+            "name" : "The Game",
+            "type" : "artist",
+            "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/48rauXjHSxEebiGmpYkl85"
+          },
+          "href" : "https://api.spotify.com/v1/albums/48rauXjHSxEebiGmpYkl85",
+          "id" : "48rauXjHSxEebiGmpYkl85",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273894bbc901fcca94a2e27729b",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02894bbc901fcca94a2e27729b",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851894bbc901fcca94a2e27729b",
+            "width" : 64
+          } ],
+          "name" : "LAX",
+          "release_date" : "2008-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 19,
+          "type" : "album",
+          "uri" : "spotify:album:48rauXjHSxEebiGmpYkl85"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id" : "0NbfKEOTQCcwd6o7wSDOHI",
+          "name" : "The Game",
+          "type" : "artist",
+          "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id" : "55Aa2cqylxrFIXC767Z865",
+          "name" : "Lil Wayne",
+          "type" : "artist",
+          "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 320893,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70826440"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4GXH9A6fzuE0MNtqtzjhLg"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4GXH9A6fzuE0MNtqtzjhLg",
+        "id" : "4GXH9A6fzuE0MNtqtzjhLg",
+        "is_local" : false,
+        "name" : "My Life",
+        "popularity" : 62,
+        "preview_url" : "https://p.scdn.co/mp3-preview/092bea686ac523c2eea409122378b4300ef3ba3a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:4GXH9A6fzuE0MNtqtzjhLg"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2018-06-28T18:01:00Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+            "id" : "2XnnxQzxFZG8qEPjakokPM",
+            "name" : "Obie Trice",
+            "type" : "artist",
+            "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+          } ],
+          "available_markets" : [ ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/4UghsFFd7QEQXJy5t1F1Oc"
+          },
+          "href" : "https://api.spotify.com/v1/albums/4UghsFFd7QEQXJy5t1F1Oc",
+          "id" : "4UghsFFd7QEQXJy5t1F1Oc",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2737769b895d50f94061c71ce26",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e027769b895d50f94061c71ce26",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048517769b895d50f94061c71ce26",
+            "width" : 64
+          } ],
+          "name" : "Second Rounds On Me",
+          "release_date" : "2006-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 18,
+          "type" : "album",
+          "uri" : "spotify:album:4UghsFFd7QEQXJy5t1F1Oc"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2XnnxQzxFZG8qEPjakokPM",
+          "id" : "2XnnxQzxFZG8qEPjakokPM",
+          "name" : "Obie Trice",
+          "type" : "artist",
+          "uri" : "spotify:artist:2XnnxQzxFZG8qEPjakokPM"
+        } ],
+        "available_markets" : [ ],
+        "disc_number" : 1,
+        "duration_ms" : 235666,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USUM70605143"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1Eh1peNcUOwPGTW0wsH7y6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1Eh1peNcUOwPGTW0wsH7y6",
+        "id" : "1Eh1peNcUOwPGTW0wsH7y6",
+        "is_local" : false,
+        "name" : "Obie Story",
+        "popularity" : 0,
+        "preview_url" : null,
+        "track" : true,
+        "track_number" : 18,
+        "type" : "track",
+        "uri" : "spotify:track:1Eh1peNcUOwPGTW0wsH7y6"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2019-12-02T05:06:21Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+            },
+            "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+            "id" : "2s7biycbXw8gmviNBeoCx9",
+            "name" : "Chords",
+            "type" : "artist",
+            "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+          } ],
+          "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BR", "BY", "CA", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "DZ", "EE", "EG", "ES", "FI", "FR", "GR", "HK", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MX", "MY", "NL", "NO", "NZ", "OM", "PH", "PL", "PT", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "TH", "TN", "TR", "TW", "UA", "US", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/3H0enx6w3LDL94tX1vOK0x"
+          },
+          "href" : "https://api.spotify.com/v1/albums/3H0enx6w3LDL94tX1vOK0x",
+          "id" : "3H0enx6w3LDL94tX1vOK0x",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b27305195b9ef636fe797ec47fb9",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e0205195b9ef636fe797ec47fb9",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d0000485105195b9ef636fe797ec47fb9",
+            "width" : 64
+          } ],
+          "name" : "Looped State Of Mind",
+          "release_date" : "2012-01-01",
+          "release_date_precision" : "day",
+          "total_tracks" : 14,
+          "type" : "album",
+          "uri" : "spotify:album:3H0enx6w3LDL94tX1vOK0x"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2s7biycbXw8gmviNBeoCx9"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2s7biycbXw8gmviNBeoCx9",
+          "id" : "2s7biycbXw8gmviNBeoCx9",
+          "name" : "Chords",
+          "type" : "artist",
+          "uri" : "spotify:artist:2s7biycbXw8gmviNBeoCx9"
+        } ],
+        "available_markets" : [ "AE", "AR", "AT", "BA", "BE", "BH", "BR", "BY", "CA", "CH", "CL", "CO", "CY", "CZ", "DE", "DK", "DZ", "EE", "EG", "ES", "FI", "FR", "GR", "HK", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "ME", "MK", "MX", "MY", "NL", "NO", "NZ", "OM", "PH", "PL", "PT", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "TH", "TN", "TR", "TW", "UA", "US", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 288986,
+        "episode" : false,
+        "explicit" : false,
+        "external_ids" : {
+          "isrc" : "SEUM71200522"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4dbS6BPCsCpEQeCpRd51lt"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4dbS6BPCsCpEQeCpRd51lt",
+        "id" : "4dbS6BPCsCpEQeCpRd51lt",
+        "is_local" : false,
+        "name" : "The Dude",
+        "popularity" : 35,
+        "preview_url" : "https://p.scdn.co/mp3-preview/cb382584bbfcc48f457c01a78eb2924f1cfd3406?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:4dbS6BPCsCpEQeCpRd51lt"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2017-08-15T03:54:55Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "single",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id" : "55Aa2cqylxrFIXC767Z865",
+            "name" : "Lil Wayne",
+            "type" : "artist",
+            "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+            },
+            "href" : "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+            "id" : "137W8MRPWKqSmrBGDBFSop",
+            "name" : "Wiz Khalifa",
+            "type" : "artist",
+            "uri" : "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+          }, {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+            },
+            "href" : "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+            "id" : "53XhwfbYqKCa1cC15pYq2q",
+            "name" : "Imagine Dragons",
+            "type" : "artist",
+            "uri" : "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+          } ],
+          "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KW", "KZ", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
+          },
+          "href" : "https://api.spotify.com/v1/albums/704GHNtZhEe9TBgleCNNGv",
+          "id" : "704GHNtZhEe9TBgleCNNGv",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048517d8dfcfd507069d7f2062caf",
+            "width" : 64
+          } ],
+          "name" : "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+          "release_date" : "2016-06-24",
+          "release_date_precision" : "day",
+          "total_tracks" : 1,
+          "type" : "album",
+          "uri" : "spotify:album:704GHNtZhEe9TBgleCNNGv"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          },
+          "href" : "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+          "id" : "55Aa2cqylxrFIXC767Z865",
+          "name" : "Lil Wayne",
+          "type" : "artist",
+          "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          },
+          "href" : "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+          "id" : "137W8MRPWKqSmrBGDBFSop",
+          "name" : "Wiz Khalifa",
+          "type" : "artist",
+          "uri" : "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          },
+          "href" : "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+          "id" : "53XhwfbYqKCa1cC15pYq2q",
+          "name" : "Imagine Dragons",
+          "type" : "artist",
+          "uri" : "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB",
+          "id" : "3NPpFNZtSTHheNBaWC82rB",
+          "name" : "X Ambassadors",
+          "type" : "artist",
+          "uri" : "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          },
+          "href" : "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+          "id" : "4xRYI6VqpkE3UwrDrAZL8L",
+          "name" : "Logic",
+          "type" : "artist",
+          "uri" : "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+          "id" : "7c0XG5cIJTrrAgEC3ULPiq",
+          "name" : "Ty Dolla $ign",
+          "type" : "artist",
+          "uri" : "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+        } ],
+        "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KW", "KZ", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 243490,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USAT21601893"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4dASQiO1Eoo3RJvt74FtXB",
+        "id" : "4dASQiO1Eoo3RJvt74FtXB",
+        "is_local" : false,
+        "name" : "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "popularity" : 77,
+        "preview_url" : "https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:4dASQiO1Eoo3RJvt74FtXB"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2020-01-08T15:45:25Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+            },
+            "href" : "https://api.spotify.com/v1/artists/67ei8ib6PLT1w3OkhIb4fB",
+            "id" : "67ei8ib6PLT1w3OkhIb4fB",
+            "name" : "Black Star",
+            "type" : "artist",
+            "uri" : "spotify:artist:67ei8ib6PLT1w3OkhIb4fB"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6GRzmk9UGL7odxprOPop1Q",
+          "id" : "6GRzmk9UGL7odxprOPop1Q",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273e3f907e70bc502a263ee1bc0",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02e3f907e70bc502a263ee1bc0",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851e3f907e70bc502a263ee1bc0",
+            "width" : 64
+          } ],
+          "name" : "Mos Def & Talib Kweli Are Black Star",
+          "release_date" : "1998-09-29",
+          "release_date_precision" : "day",
+          "total_tracks" : 13,
+          "type" : "album",
+          "uri" : "spotify:album:6GRzmk9UGL7odxprOPop1Q"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+          },
+          "href" : "https://api.spotify.com/v1/artists/67ei8ib6PLT1w3OkhIb4fB",
+          "id" : "67ei8ib6PLT1w3OkhIb4fB",
+          "name" : "Black Star",
+          "type" : "artist",
+          "uri" : "spotify:artist:67ei8ib6PLT1w3OkhIb4fB"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 206493,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USRW50200103"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4C7Ss9bTPOWJMh3rarF1mN",
+        "id" : "4C7Ss9bTPOWJMh3rarF1mN",
+        "is_local" : false,
+        "name" : "Definition",
+        "popularity" : 58,
+        "preview_url" : "https://p.scdn.co/mp3-preview/73883a0bf94b915d6361f1a0aa8bc01534c4bb8d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:4C7Ss9bTPOWJMh3rarF1mN"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2020-05-17T10:14:35Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+            "name" : "Eminem",
+            "type" : "artist",
+            "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+          },
+          "href" : "https://api.spotify.com/v1/albums/0vE6mttRTBXRe9rKghyr1l",
+          "id" : "0vE6mttRTBXRe9rKghyr1l",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e029bef45ee387f274ea3198c55",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d000048519bef45ee387f274ea3198c55",
+            "width" : 64
+          } ],
+          "name" : "The Slim Shady LP",
+          "release_date" : "1999-02-23",
+          "release_date_precision" : "day",
+          "total_tracks" : 20,
+          "type" : "album",
+          "uri" : "spotify:album:0vE6mttRTBXRe9rKghyr1l"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+          "name" : "Eminem",
+          "type" : "artist",
+          "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 268400,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USIR19902059"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/75IN3CtuZwTHTnZvYM4qnJ",
+        "id" : "75IN3CtuZwTHTnZvYM4qnJ",
+        "is_local" : false,
+        "name" : "My Name Is",
+        "popularity" : 72,
+        "preview_url" : "https://p.scdn.co/mp3-preview/99f9676843551b3e2c3a645f4726c2639967c1c6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:75IN3CtuZwTHTnZvYM4qnJ"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    }, {
+      "added_at" : "2020-12-05T08:35:18Z",
+      "added_by" : {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/chateauxrobbiere"
+        },
+        "href" : "https://api.spotify.com/v1/users/chateauxrobbiere",
+        "id" : "chateauxrobbiere",
+        "type" : "user",
+        "uri" : "spotify:user:chateauxrobbiere"
+      },
+      "is_local" : false,
+      "primary_color" : null,
+      "track" : {
+        "album" : {
+          "album_type" : "album",
+          "artists" : [ {
+            "external_urls" : {
+              "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+            "name" : "Dr. Dre",
+            "type" : "artist",
+            "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          } ],
+          "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+          },
+          "href" : "https://api.spotify.com/v1/albums/6vdFSyhPjL4dZFkgRtToXH",
+          "id" : "6vdFSyhPjL4dZFkgRtToXH",
+          "images" : [ {
+            "height" : 640,
+            "url" : "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+            "width" : 640
+          }, {
+            "height" : 300,
+            "url" : "https://i.scdn.co/image/ab67616d00001e02dc20ba099bc933674f58ebae",
+            "width" : 300
+          }, {
+            "height" : 64,
+            "url" : "https://i.scdn.co/image/ab67616d00004851dc20ba099bc933674f58ebae",
+            "width" : 64
+          } ],
+          "name" : "The Chronic",
+          "release_date" : "1992-12-15",
+          "release_date_precision" : "day",
+          "total_tracks" : 16,
+          "type" : "album",
+          "uri" : "spotify:album:6vdFSyhPjL4dZFkgRtToXH"
+        },
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+          "id" : "6DPYiyq5kWVQS4RGwxzPC7",
+          "name" : "Dr. Dre",
+          "type" : "artist",
+          "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+          "id" : "7hJcb9fa4alzcOq3EaNPoG",
+          "name" : "Snoop Dogg",
+          "type" : "artist",
+          "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 238466,
+        "episode" : false,
+        "explicit" : true,
+        "external_ids" : {
+          "isrc" : "USKO10403560"
+        },
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4YtoipFgf4k0AfD17ZfD5X",
+        "id" : "4YtoipFgf4k0AfD17ZfD5X",
+        "is_local" : false,
+        "name" : "Nuthin' But A \"G\" Thang",
+        "popularity" : 74,
+        "preview_url" : "https://p.scdn.co/mp3-preview/f2a52b543998d039d8742c4739cb7c4c2e14a11a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track" : true,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:4YtoipFgf4k0AfD17ZfD5X"
+      },
+      "video_thumbnail" : {
+        "url" : null
+      }
+    } ],
+    "limit" : 100,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 42
+  },
+  "type" : "playlist",
+  "uri" : "spotify:playlist:1SnPPRiDlhgObdhTIDyB0t"
+}

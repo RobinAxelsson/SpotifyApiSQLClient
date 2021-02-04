@@ -1,0 +1,3403 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d",
+      "id" : "23vzCh5cDn0LzdGmGWrT1d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145250f89c252406b27163810",
+        "width" : 64
+      } ],
+      "name" : "The Rising",
+      "release_date" : "2002-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:23vzCh5cDn0LzdGmGWrT1d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 358933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10209167"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0g0MBBxtDRy8Igs0AzSZR4",
+    "id" : "0g0MBBxtDRy8Igs0AzSZR4",
+    "is_local" : false,
+    "name" : "Mary's Place",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f2e813c3f11b5da4a4f4ebd25d14b036314280ce?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0g0MBBxtDRy8Igs0AzSZR4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d",
+      "id" : "23vzCh5cDn0LzdGmGWrT1d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145250f89c252406b27163810",
+        "width" : 64
+      } ],
+      "name" : "The Rising",
+      "release_date" : "2002-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:23vzCh5cDn0LzdGmGWrT1d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 307800,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10209168"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/23zMvkiwXFOM7Y1bO954GA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/23zMvkiwXFOM7Y1bO954GA",
+    "id" : "23zMvkiwXFOM7Y1bO954GA",
+    "is_local" : false,
+    "name" : "You're Missing",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6c40afb3de9b56674905c73eeed327dde417e683?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:23zMvkiwXFOM7Y1bO954GA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d",
+      "id" : "23vzCh5cDn0LzdGmGWrT1d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145250f89c252406b27163810",
+        "width" : 64
+      } ],
+      "name" : "The Rising",
+      "release_date" : "2002-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:23vzCh5cDn0LzdGmGWrT1d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 287040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10209169"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2czBvzOv3TvnyoW7Ozo7fP",
+    "id" : "2czBvzOv3TvnyoW7Ozo7fP",
+    "is_local" : false,
+    "name" : "The Rising",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/53a5577ee429e7ea870559606f60b9a96181c753?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2czBvzOv3TvnyoW7Ozo7fP"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d",
+      "id" : "23vzCh5cDn0LzdGmGWrT1d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145250f89c252406b27163810",
+        "width" : 64
+      } ],
+      "name" : "The Rising",
+      "release_date" : "2002-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:23vzCh5cDn0LzdGmGWrT1d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 334493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10209170"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5aAfwNuKUeDuZd4wkUPlA2",
+    "id" : "5aAfwNuKUeDuZd4wkUPlA2",
+    "is_local" : false,
+    "name" : "Paradise",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/583fadef5aa3904399b0156a79a43544c4e44aef?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5aAfwNuKUeDuZd4wkUPlA2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23vzCh5cDn0LzdGmGWrT1d",
+      "id" : "23vzCh5cDn0LzdGmGWrT1d",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0245250f89c252406b27163810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485145250f89c252406b27163810",
+        "width" : 64
+      } ],
+      "name" : "The Rising",
+      "release_date" : "2002-07-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:23vzCh5cDn0LzdGmGWrT1d"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 300000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10209171"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5A2wRK7ch9tg6k5iibUsgT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5A2wRK7ch9tg6k5iibUsgT",
+    "id" : "5A2wRK7ch9tg6k5iibUsgT",
+    "is_local" : false,
+    "name" : "My City of Ruins",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d6842319905c738642eb48123678c56e3f2fc9f8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5A2wRK7ch9tg6k5iibUsgT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 338226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5gyGC6yxOrsgDeXT1RbyB8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5gyGC6yxOrsgDeXT1RbyB8",
+    "id" : "5gyGC6yxOrsgDeXT1RbyB8",
+    "is_local" : false,
+    "name" : "My Love Will Not Let You Down - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2076111f349e627dcf7a358ec38c2b0e69c7217e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5gyGC6yxOrsgDeXT1RbyB8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 376040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102037"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CH5XYVNucZGLFageGKY4j"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CH5XYVNucZGLFageGKY4j",
+    "id" : "2CH5XYVNucZGLFageGKY4j",
+    "is_local" : false,
+    "name" : "Prove It All Night - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae0efd5ab9f0c0ee89ec966eb8be8c968c70fa73?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2CH5XYVNucZGLFageGKY4j"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 269360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102038"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DjCCPaL1Pz2lQf2ZnER5X"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DjCCPaL1Pz2lQf2ZnER5X",
+    "id" : "3DjCCPaL1Pz2lQf2ZnER5X",
+    "is_local" : false,
+    "name" : "Two Hearts - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/669a148bc2f659745716b84da80f610cdf0e95f6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3DjCCPaL1Pz2lQf2ZnER5X"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 396306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1H7VGH2n4xNqi1bu6TSkGk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1H7VGH2n4xNqi1bu6TSkGk",
+    "id" : "1H7VGH2n4xNqi1bu6TSkGk",
+    "is_local" : false,
+    "name" : "Atlantic City - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/26583d69f249a303c3660571c2e7426ea8be026d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1H7VGH2n4xNqi1bu6TSkGk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102041"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2spI9rsadtH5OlgMWuWX8e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2spI9rsadtH5OlgMWuWX8e",
+    "id" : "2spI9rsadtH5OlgMWuWX8e",
+    "is_local" : false,
+    "name" : "Mansion On the Hill - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b72a88218d8e21192c8ac9995b9b65b0851f88aa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2spI9rsadtH5OlgMWuWX8e"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 675866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102043"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NlQ1ZbINkFVX2vtDyFd2d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NlQ1ZbINkFVX2vtDyFd2d",
+    "id" : "5NlQ1ZbINkFVX2vtDyFd2d",
+    "is_local" : false,
+    "name" : "The River - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0b5d07f60549e1328c0af0dccc6781ae69f1bce4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5NlQ1ZbINkFVX2vtDyFd2d"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 376266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5tLEgFI1Ud3bl5wPktw7mt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5tLEgFI1Ud3bl5wPktw7mt",
+    "id" : "5tLEgFI1Ud3bl5wPktw7mt",
+    "is_local" : false,
+    "name" : "Youngstown - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0b995c2f780a8acbb80689bf1ce4a6fe9d3638fb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5tLEgFI1Ud3bl5wPktw7mt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 367293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2MyeqmDOYcGkGjwCQEYqvn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2MyeqmDOYcGkGjwCQEYqvn",
+    "id" : "2MyeqmDOYcGkGjwCQEYqvn",
+    "is_local" : false,
+    "name" : "Murder Incorporated - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6801929e0a030fbdf580dfa969402dca19b8329?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:2MyeqmDOYcGkGjwCQEYqvn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 342906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6fBaMrWPbIWEad5586YHQJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6fBaMrWPbIWEad5586YHQJ",
+    "id" : "6fBaMrWPbIWEad5586YHQJ",
+    "is_local" : false,
+    "name" : "Badlands - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f5e532c7d04289dcceb62f5b84a2de0ee2be230?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6fBaMrWPbIWEad5586YHQJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 399333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102047"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4UkLtb37oAQ2upk6ZHaEPy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4UkLtb37oAQ2upk6ZHaEPy",
+    "id" : "4UkLtb37oAQ2upk6ZHaEPy",
+    "is_local" : false,
+    "name" : "Out In the Street - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fdc4f0699b7db5090e70d89bbd7a8be65fcaf721?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4UkLtb37oAQ2upk6ZHaEPy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 356626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10103029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34v2XQhXpDBsBBvPEKYgQQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34v2XQhXpDBsBBvPEKYgQQ",
+    "id" : "34v2XQhXpDBsBBvPEKYgQQ",
+    "is_local" : false,
+    "name" : "Born to Run - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/80ff032b9bbdf4e3023edcdaae8dbd8250dd5a46?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:34v2XQhXpDBsBBvPEKYgQQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 968693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102621"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/39ubLATraO7fddNQ0W9lDA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/39ubLATraO7fddNQ0W9lDA",
+    "id" : "39ubLATraO7fddNQ0W9lDA",
+    "is_local" : false,
+    "name" : "Tenth Avenue Freeze-Out - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2e55240d5a324d7803e00d13599b14467de6fb25?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:39ubLATraO7fddNQ0W9lDA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 586106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ozOQFAmwalQkeeolsyjRm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ozOQFAmwalQkeeolsyjRm",
+    "id" : "7ozOQFAmwalQkeeolsyjRm",
+    "is_local" : false,
+    "name" : "Land of Hope and Dreams - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b41b869e5146b239491415bbe59bcca5aa337015?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7ozOQFAmwalQkeeolsyjRm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 465000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102051"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4UlBtmUq5yYHQwudisYKcH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4UlBtmUq5yYHQwudisYKcH",
+    "id" : "4UlBtmUq5yYHQwudisYKcH",
+    "is_local" : false,
+    "name" : "American Skin (41 Shots) - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/70773cb1274cbedd856701cefa2fc1a83c9cf596?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4UlBtmUq5yYHQwudisYKcH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 443533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102613"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1AUtxUq1VeSpNTCLEmAk5V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1AUtxUq1VeSpNTCLEmAk5V",
+    "id" : "1AUtxUq1VeSpNTCLEmAk5V",
+    "is_local" : false,
+    "name" : "Lost In the Flood - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/567157e1a17e69393f1f5ed92fad6eff96abd9f4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1AUtxUq1VeSpNTCLEmAk5V"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 345706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4kJ6ZBswtsro4egEc8XRqT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4kJ6ZBswtsro4egEc8XRqT",
+    "id" : "4kJ6ZBswtsro4egEc8XRqT",
+    "is_local" : false,
+    "name" : "Born In the U.S.A. - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/023f1cc1833ce14fb8bd90ae94e4ec28a1698bca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4kJ6ZBswtsro4egEc8XRqT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 198933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102615"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lJw4d1UWVi6LHSbtZjD6g"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lJw4d1UWVi6LHSbtZjD6g",
+    "id" : "7lJw4d1UWVi6LHSbtZjD6g",
+    "is_local" : false,
+    "name" : "Don't Look Back - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1acd5814e83fe5f8c8c4b37af928b8e5523e74f4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7lJw4d1UWVi6LHSbtZjD6g"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 653826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102616"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3D7GBqWn62bZRiaCM0osf0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3D7GBqWn62bZRiaCM0osf0",
+    "id" : "3D7GBqWn62bZRiaCM0osf0",
+    "is_local" : false,
+    "name" : "Jungleland - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6df2ffb3f7acacfcbec9f9f3cdc9302374bad6d0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3D7GBqWn62bZRiaCM0osf0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 388000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102617"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/42ArmxaBZiLy6uPAJ8sXkE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/42ArmxaBZiLy6uPAJ8sXkE",
+    "id" : "42ArmxaBZiLy6uPAJ8sXkE",
+    "is_local" : false,
+    "name" : "Ramrod - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1368f4dc7717ca8828a54df547cc36fb54838184?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:42ArmxaBZiLy6uPAJ8sXkE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18up6NykzEl2aS94I6TVDg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18up6NykzEl2aS94I6TVDg",
+      "id" : "18up6NykzEl2aS94I6TVDg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273964696311f4ac623d78f7294",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02964696311f4ac623d78f7294",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851964696311f4ac623d78f7294",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:18up6NykzEl2aS94I6TVDg"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 368426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102619"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6MjhFQORsv3ba7Yi9qKZqk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6MjhFQORsv3ba7Yi9qKZqk",
+    "id" : "6MjhFQORsv3ba7Yi9qKZqk",
+    "is_local" : false,
+    "name" : "If I Should Fall Behind - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/40a01606485ca37d6039af0b7311ccc4d1d8fc7a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6MjhFQORsv3ba7Yi9qKZqk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 338226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Dn8PomeryqydNc83iZJES"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Dn8PomeryqydNc83iZJES",
+    "id" : "1Dn8PomeryqydNc83iZJES",
+    "is_local" : false,
+    "name" : "My Love Will Not Let You Down - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bbbf9b2752fa5a6b59b37f523b1ee9db940f1c02?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1Dn8PomeryqydNc83iZJES"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 376040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102037"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3pSmYqHvK72aa672EQy0sv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3pSmYqHvK72aa672EQy0sv",
+    "id" : "3pSmYqHvK72aa672EQy0sv",
+    "is_local" : false,
+    "name" : "Prove It All Night - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/781fb82dc39fccfc5d3c47a75105e10b2efd9ad7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3pSmYqHvK72aa672EQy0sv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 269360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102038"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UWdVvkyBjhB9loaDKz1me"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UWdVvkyBjhB9loaDKz1me",
+    "id" : "1UWdVvkyBjhB9loaDKz1me",
+    "is_local" : false,
+    "name" : "Two Hearts - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2090240bb210d2e271d351b8341a4cd836e59f16?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1UWdVvkyBjhB9loaDKz1me"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 396306,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102040"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1NMzgjZ5eCpWWIvYkpVGKo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1NMzgjZ5eCpWWIvYkpVGKo",
+    "id" : "1NMzgjZ5eCpWWIvYkpVGKo",
+    "is_local" : false,
+    "name" : "Atlantic City - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0ed2192b6ee8cc21222e7a879834762a25471ff6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1NMzgjZ5eCpWWIvYkpVGKo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 259266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102041"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2rvMhhCjxas383ArMOKc0I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2rvMhhCjxas383ArMOKc0I",
+    "id" : "2rvMhhCjxas383ArMOKc0I",
+    "is_local" : false,
+    "name" : "Mansion On the Hill - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b72a88218d8e21192c8ac9995b9b65b0851f88aa?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2rvMhhCjxas383ArMOKc0I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 675866,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102043"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/49apJFCXTCOhkIz3inP0O8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/49apJFCXTCOhkIz3inP0O8",
+    "id" : "49apJFCXTCOhkIz3inP0O8",
+    "is_local" : false,
+    "name" : "The River - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/65db7f3e287231ebcac5dcb498e87a06edb26c79?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:49apJFCXTCOhkIz3inP0O8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 376266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Kel1dUsQKDGsj39cvgAcw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Kel1dUsQKDGsj39cvgAcw",
+    "id" : "4Kel1dUsQKDGsj39cvgAcw",
+    "is_local" : false,
+    "name" : "Youngstown - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9411bc78b7164ac4c2909d32f558e0f97c6f3283?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4Kel1dUsQKDGsj39cvgAcw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 367293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102045"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RKEM5tENOIAVzIhU1puqs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RKEM5tENOIAVzIhU1puqs",
+    "id" : "1RKEM5tENOIAVzIhU1puqs",
+    "is_local" : false,
+    "name" : "Murder Incorporated - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/34804d932ab7a7b891b654a3dc6eb4d92f81bb1c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1RKEM5tENOIAVzIhU1puqs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 342906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102046"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1gy1tTEB4LgqoWUXa2tLBh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1gy1tTEB4LgqoWUXa2tLBh",
+    "id" : "1gy1tTEB4LgqoWUXa2tLBh",
+    "is_local" : false,
+    "name" : "Badlands - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 1,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19779e7d6f6e7203f51133a05220ecc3a3ef3571?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1gy1tTEB4LgqoWUXa2tLBh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 399333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102047"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qJUYVFcLOmyEjzPoML22x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qJUYVFcLOmyEjzPoML22x",
+    "id" : "1qJUYVFcLOmyEjzPoML22x",
+    "is_local" : false,
+    "name" : "Out In the Street - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2e79d8c93950697d1817a6d8d8775595e6449997?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1qJUYVFcLOmyEjzPoML22x"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 1,
+    "duration_ms" : 356626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10103029"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2KwfjEW4MgGeAVHKswXE0J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2KwfjEW4MgGeAVHKswXE0J",
+    "id" : "2KwfjEW4MgGeAVHKswXE0J",
+    "is_local" : false,
+    "name" : "Born to Run - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5d9b2ec020953fa45a3161e182698b7d87d84962?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2KwfjEW4MgGeAVHKswXE0J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 968693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102621"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0r6bUjsgns7R58MaoWclit"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0r6bUjsgns7R58MaoWclit",
+    "id" : "0r6bUjsgns7R58MaoWclit",
+    "is_local" : false,
+    "name" : "Tenth Avenue Freeze-Out - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f831862dbf8efc8da5b66af615081d003b18632?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0r6bUjsgns7R58MaoWclit"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 586106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102049"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/45KensjudN8EKeNVAfsUQZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/45KensjudN8EKeNVAfsUQZ",
+    "id" : "45KensjudN8EKeNVAfsUQZ",
+    "is_local" : false,
+    "name" : "Land of Hope and Dreams - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/12031dfebfe4a92537946ccc09808d9e0121c72c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:45KensjudN8EKeNVAfsUQZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 465000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102051"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5aUwDoZEWsBzR6uRyM6be0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5aUwDoZEWsBzR6uRyM6be0",
+    "id" : "5aUwDoZEWsBzR6uRyM6be0",
+    "is_local" : false,
+    "name" : "American Skin (41 Shots) - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d6ff11856d7c6a09cc0e08a4968eb3a07aa1db1b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5aUwDoZEWsBzR6uRyM6be0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 443533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102613"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5sYzXgik1wg7cUHfFelMb3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5sYzXgik1wg7cUHfFelMb3",
+    "id" : "5sYzXgik1wg7cUHfFelMb3",
+    "is_local" : false,
+    "name" : "Lost In the Flood - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/567157e1a17e69393f1f5ed92fad6eff96abd9f4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5sYzXgik1wg7cUHfFelMb3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 345706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2RBZGIbUUhLCR7UDlgYpFs"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2RBZGIbUUhLCR7UDlgYpFs",
+    "id" : "2RBZGIbUUhLCR7UDlgYpFs",
+    "is_local" : false,
+    "name" : "Born In the U.S.A. - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/023f1cc1833ce14fb8bd90ae94e4ec28a1698bca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2RBZGIbUUhLCR7UDlgYpFs"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 198933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102615"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vtUF6BGzCB9lMPcpbw4GA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vtUF6BGzCB9lMPcpbw4GA",
+    "id" : "2vtUF6BGzCB9lMPcpbw4GA",
+    "is_local" : false,
+    "name" : "Don't Look Back - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/18041e0d045b94c62c68311504b1845c3f551c8d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2vtUF6BGzCB9lMPcpbw4GA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 653826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102616"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2sSTLXoDoLbi8L7rDcjd6W"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2sSTLXoDoLbi8L7rDcjd6W",
+    "id" : "2sSTLXoDoLbi8L7rDcjd6W",
+    "is_local" : false,
+    "name" : "Jungleland - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/61cad3c4a557b5bf73c8fe25efee5e493c579adc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2sSTLXoDoLbi8L7rDcjd6W"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 388000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102617"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4J1Yv0tscTLkkz0T5Ie3d6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4J1Yv0tscTLkkz0T5Ie3d6",
+    "id" : "4J1Yv0tscTLkkz0T5Ie3d6",
+    "is_local" : false,
+    "name" : "Ramrod - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2dac2dd08a29fd11f610b4559612f9f44d140fb8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4J1Yv0tscTLkkz0T5Ie3d6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "CH" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66jkXWapz34Z8XPnLpknWv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66jkXWapz34Z8XPnLpknWv",
+      "id" : "66jkXWapz34Z8XPnLpknWv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ce92203041a7de463893d842",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ce92203041a7de463893d842",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ce92203041a7de463893d842",
+        "width" : 64
+      } ],
+      "name" : "Live in New York City (Alben für die Ewigkeit)",
+      "release_date" : "2001-03-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:66jkXWapz34Z8XPnLpknWv"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "CH" ],
+    "disc_number" : 2,
+    "duration_ms" : 368426,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM10102619"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/199lbnn0fmByL4mAH9bfY9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/199lbnn0fmByL4mAH9bfY9",
+    "id" : "199lbnn0fmByL4mAH9bfY9",
+    "is_local" : false,
+    "name" : "If I Should Fall Behind - Live at Madison Square Garden, New York, NY - June/July 2000",
+    "popularity" : 0,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a0eb8fba9f81b5aceafceaf57a844012713d55b9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:199lbnn0fmByL4mAH9bfY9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2",
+      "id" : "13pZUSPWE87x40BorpgLx2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3c26f3a7d35628340d948f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3c26f3a7d35628340d948f1",
+        "width" : 64
+      } ],
+      "name" : "Tracks",
+      "release_date" : "1998-11-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 69,
+      "type" : "album",
+      "uri" : "spotify:album:13pZUSPWE87x40BorpgLx2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 266893,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM17200385"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6XdcBXiqJIOiVCH8BWbMmH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6XdcBXiqJIOiVCH8BWbMmH",
+    "id" : "6XdcBXiqJIOiVCH8BWbMmH",
+    "is_local" : false,
+    "name" : "Mary Queen Of Arkansas - Demo Version - 1972",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94cba8fcb4cf20a0fd8d221b3e6f0204d32e6188?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6XdcBXiqJIOiVCH8BWbMmH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2",
+      "id" : "13pZUSPWE87x40BorpgLx2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3c26f3a7d35628340d948f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3c26f3a7d35628340d948f1",
+        "width" : 64
+      } ],
+      "name" : "Tracks",
+      "release_date" : "1998-11-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 69,
+      "type" : "album",
+      "uri" : "spotify:album:13pZUSPWE87x40BorpgLx2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 172133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM17200386"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4kImjIIiFrzD7E9H8QE2XC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4kImjIIiFrzD7E9H8QE2XC",
+    "id" : "4kImjIIiFrzD7E9H8QE2XC",
+    "is_local" : false,
+    "name" : "It's Hard To Be A Saint In The City - Demo Version - 1972",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fbe9382a652e1554d920519eb657e6bf9aea8b89?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4kImjIIiFrzD7E9H8QE2XC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2",
+      "id" : "13pZUSPWE87x40BorpgLx2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3c26f3a7d35628340d948f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3c26f3a7d35628340d948f1",
+        "width" : 64
+      } ],
+      "name" : "Tracks",
+      "release_date" : "1998-11-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 69,
+      "type" : "album",
+      "uri" : "spotify:album:13pZUSPWE87x40BorpgLx2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 157840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM17200387"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3BPc57lkrBmnKpgmfF5S6L"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3BPc57lkrBmnKpgmfF5S6L",
+    "id" : "3BPc57lkrBmnKpgmfF5S6L",
+    "is_local" : false,
+    "name" : "Growin' Up - Demo Version - 1972",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/582af0846d9ff8b943087310106282c44653f941?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3BPc57lkrBmnKpgmfF5S6L"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2",
+      "id" : "13pZUSPWE87x40BorpgLx2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3c26f3a7d35628340d948f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3c26f3a7d35628340d948f1",
+        "width" : 64
+      } ],
+      "name" : "Tracks",
+      "release_date" : "1998-11-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 69,
+      "type" : "album",
+      "uri" : "spotify:album:13pZUSPWE87x40BorpgLx2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 118226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM17200388"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1b7jM8mLxmJQDLXn4A6hos"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1b7jM8mLxmJQDLXn4A6hos",
+    "id" : "1b7jM8mLxmJQDLXn4A6hos",
+    "is_local" : false,
+    "name" : "Does This Bus Stop At 82nd Street? - Demo Version - 1972",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0717c87e45c2f773d92ee72a87b03d97e72764f3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1b7jM8mLxmJQDLXn4A6hos"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+        "id" : "3eqjTLE0HfPfh78zjh6TqT",
+        "name" : "Bruce Springsteen",
+        "type" : "artist",
+        "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2",
+      "id" : "13pZUSPWE87x40BorpgLx2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d3c26f3a7d35628340d948f1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d3c26f3a7d35628340d948f1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d3c26f3a7d35628340d948f1",
+        "width" : 64
+      } ],
+      "name" : "Tracks",
+      "release_date" : "1998-11-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 69,
+      "type" : "album",
+      "uri" : "spotify:album:13pZUSPWE87x40BorpgLx2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+      "id" : "3eqjTLE0HfPfh78zjh6TqT",
+      "name" : "Bruce Springsteen",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 258133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM17300624"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/713IwzDA0qSHZLNI2mkzzz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/713IwzDA0qSHZLNI2mkzzz",
+    "id" : "713IwzDA0qSHZLNI2mkzzz",
+    "is_local" : false,
+    "name" : "Bishop Danced - Live at Max's Kansas City - January 1973",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c62c01887f0aa44b7411db884fae05ad07feca64?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:713IwzDA0qSHZLNI2mkzzz"
+  } ]
+}
