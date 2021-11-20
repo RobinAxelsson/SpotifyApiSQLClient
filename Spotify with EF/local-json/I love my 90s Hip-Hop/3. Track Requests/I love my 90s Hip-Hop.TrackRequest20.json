@@ -1,0 +1,3556 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 257399,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402732"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4INDiWSKvqSKDEu7mh8HFz",
+    "id" : "4INDiWSKvqSKDEu7mh8HFz",
+    "is_local" : false,
+    "name" : "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0260fcbb89863c7da1358ce217fe20dc5b8416e7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4INDiWSKvqSKDEu7mh8HFz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 291040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402733"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/15LVUC45FiKlBp0wkmJkcv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/15LVUC45FiKlBp0wkmJkcv",
+    "id" : "15LVUC45FiKlBp0wkmJkcv",
+    "is_local" : false,
+    "name" : "Niggas Bleed - 2014 Remaster",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b2dd111afea942cabd69ea91efd639506b8fc487?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:15LVUC45FiKlBp0wkmJkcv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 283053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402734"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7zfmhBiUvGoHz76NO1d5bZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7zfmhBiUvGoHz76NO1d5bZ",
+    "id" : "7zfmhBiUvGoHz76NO1d5bZ",
+    "is_local" : false,
+    "name" : "I Got a Story to Tell - 2014 Remaster",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/183197fd6b5aff6a36e41575169a3824b109be62?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7zfmhBiUvGoHz76NO1d5bZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 366880,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402735"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/19FsxX4RthRMZGfXkImdCb",
+    "id" : "19FsxX4RthRMZGfXkImdCb",
+    "is_local" : false,
+    "name" : "Notorious Thugs - 2014 Remaster",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a0940b3428009795dbe63e9f699c508618f6432?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:19FsxX4RthRMZGfXkImdCb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 299333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402736"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/612lE4c57zWDOqeWca1Pmf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/612lE4c57zWDOqeWca1Pmf",
+    "id" : "612lE4c57zWDOqeWca1Pmf",
+    "is_local" : false,
+    "name" : "Miss U - 2014 Remaster",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/036604ee7fad1486a048d042a5e3af9cae4d5290?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:612lE4c57zWDOqeWca1Pmf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX",
+      "id" : "5tth2a3v0sWwV1C7bApBdX",
+      "name" : "Lil' Kim",
+      "type" : "artist",
+      "uri" : "spotify:artist:5tth2a3v0sWwV1C7bApBdX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 255306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402737"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1eQNHLMYtDFuC58a5Z3bIN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1eQNHLMYtDFuC58a5Z3bIN",
+    "id" : "1eQNHLMYtDFuC58a5Z3bIN",
+    "is_local" : false,
+    "name" : "Another (feat. Lil' Kim) - 2014 Remaster",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d884082c6e32e42d4979ae988bbe47669088e204?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1eQNHLMYtDFuC58a5Z3bIN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 307426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402738"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/53duuSwaLOZuIrELvZXqLH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/53duuSwaLOZuIrELvZXqLH",
+    "id" : "53duuSwaLOZuIrELvZXqLH",
+    "is_local" : false,
+    "name" : "Going Back to Cali - 2014 Remaster",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/438cecb021a5313711410bfbd250511f965a3701?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:53duuSwaLOZuIrELvZXqLH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 204026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402739"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Z7C8ClE8UEaH70jCCeJH2",
+    "id" : "1Z7C8ClE8UEaH70jCCeJH2",
+    "is_local" : false,
+    "name" : "Ten Crack Commandments - 2014 Remaster",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c9506512ba1256466488c7d4891ad506c603b8f7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:1Z7C8ClE8UEaH70jCCeJH2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402740"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Wl2S9Fmjg2GFCu8qtwyi0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Wl2S9Fmjg2GFCu8qtwyi0",
+    "id" : "2Wl2S9Fmjg2GFCu8qtwyi0",
+    "is_local" : false,
+    "name" : "Playa Hater - 2014 Remaster",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2f33d794249c76f2dfbf90b3220ad01d71823fb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:2Wl2S9Fmjg2GFCu8qtwyi0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 333840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402741"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Old7SPJD1Ykzb4w1IXY51"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Old7SPJD1Ykzb4w1IXY51",
+    "id" : "1Old7SPJD1Ykzb4w1IXY51",
+    "is_local" : false,
+    "name" : "Nasty Boy - 2014 Remaster",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/943998bc0943e1f3e921f2e8ad1ac584ab545065?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:1Old7SPJD1Ykzb4w1IXY51"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7urq0VfqxEYEEiZUkebXT4",
+      "id" : "7urq0VfqxEYEEiZUkebXT4",
+      "name" : "112",
+      "type" : "artist",
+      "uri" : "spotify:artist:7urq0VfqxEYEEiZUkebXT4"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 329426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402742"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xdYzkbBBfTevSyOJqWUSX",
+    "id" : "0xdYzkbBBfTevSyOJqWUSX",
+    "is_local" : false,
+    "name" : "Sky's the Limit (feat. 112) - 2014 Remaster",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0cd08c571543a35dc65358853879d54c863931da?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:0xdYzkbBBfTevSyOJqWUSX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+      "id" : "59wfkuBoNyhDMQGCljbUbA",
+      "name" : "Diddy",
+      "type" : "artist",
+      "uri" : "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4sb7rZNN93BSS6Gqgepo4v",
+      "id" : "4sb7rZNN93BSS6Gqgepo4v",
+      "name" : "Too $hort",
+      "type" : "artist",
+      "uri" : "spotify:artist:4sb7rZNN93BSS6Gqgepo4v"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 294800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402743"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cRvZp3CEbVKMSVaaCZL83"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cRvZp3CEbVKMSVaaCZL83",
+    "id" : "3cRvZp3CEbVKMSVaaCZL83",
+    "is_local" : false,
+    "name" : "The World Is Filled... (feat. Too Short & Puff Daddy) - 2014 Remaster",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/807dd848704a1f4e8a7607807709e141878da009?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:3cRvZp3CEbVKMSVaaCZL83"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TIHoznszlOjqLNkuK6l42"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TIHoznszlOjqLNkuK6l42",
+      "id" : "0TIHoznszlOjqLNkuK6l42",
+      "name" : "DMC",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TIHoznszlOjqLNkuK6l42"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 326733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402744"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/30pqIwsiYrnPt6a9lUK9M4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/30pqIwsiYrnPt6a9lUK9M4",
+    "id" : "30pqIwsiYrnPt6a9lUK9M4",
+    "is_local" : false,
+    "name" : "My Downfall (feat. DMC) - 2014 Remaster",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1eda3f477f4a00ea9a0c32f14a6a53a80e9c69bf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:30pqIwsiYrnPt6a9lUK9M4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 318466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402745"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2fw0DgUc8GTNxZ2BAv9Fih"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2fw0DgUc8GTNxZ2BAv9Fih",
+    "id" : "2fw0DgUc8GTNxZ2BAv9Fih",
+    "is_local" : false,
+    "name" : "Long Kiss Goodnight - 2014 Remaster",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/226b4293f4f58a31dbd7e4691883f7354c42372b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:2fw0DgUc8GTNxZ2BAv9Fih"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id" : "5me0Irg2ANcsgc93uaYrpb",
+        "name" : "The Notorious B.I.G.",
+        "type" : "artist",
+        "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7dRdaGSxgcBdJnrOviQRuB",
+      "id" : "7dRdaGSxgcBdJnrOviQRuB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02fde79b88e2a659c394c5ae30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851fde79b88e2a659c394c5ae30",
+        "width" : 64
+      } ],
+      "name" : "Life After Death (2014 Remastered Edition)",
+      "release_date" : "1997-03-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:7dRdaGSxgcBdJnrOviQRuB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+      "id" : "5me0Irg2ANcsgc93uaYrpb",
+      "name" : "The Notorious B.I.G.",
+      "type" : "artist",
+      "uri" : "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USAT21402746"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5elwGhYsxqm09XbHvFyWcw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5elwGhYsxqm09XbHvFyWcw",
+    "id" : "5elwGhYsxqm09XbHvFyWcw",
+    "is_local" : false,
+    "name" : "You're Nobody (Til Somebody Kills You) - 2014 Remaster",
+    "popularity" : 50,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8452bfd3bc599db52041cd40c77245b5a153675b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:5elwGhYsxqm09XbHvFyWcw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 454280,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300139"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Qoui6iAiX1VVV21yWayBD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Qoui6iAiX1VVV21yWayBD",
+    "id" : "2Qoui6iAiX1VVV21yWayBD",
+    "is_local" : false,
+    "name" : "Push It Along",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58d38b662e07e9694bf3e06cb85447d268ee5393?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2Qoui6iAiX1VVV21yWayBD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 282520,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19000006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7EhEPcPa60LlvGuG9R1DOx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7EhEPcPa60LlvGuG9R1DOx",
+    "id" : "7EhEPcPa60LlvGuG9R1DOx",
+    "is_local" : false,
+    "name" : "Luck of Lucien",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b704ea6cbb92aa709aa709543f9133a28d0378c3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7EhEPcPa60LlvGuG9R1DOx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300141"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5MNch1DaIp20fiHKmLHcp0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5MNch1DaIp20fiHKmLHcp0",
+    "id" : "5MNch1DaIp20fiHKmLHcp0",
+    "is_local" : false,
+    "name" : "After Hours",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e7b19f0aee6bfc9773e5eac86dede3e4e4213547?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5MNch1DaIp20fiHKmLHcp0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300142"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3trSZ6JhgNpDhTfRvge4go"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3trSZ6JhgNpDhTfRvge4go",
+    "id" : "3trSZ6JhgNpDhTfRvge4go",
+    "is_local" : false,
+    "name" : "Footprints",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c0bfdf02baddcbc473be8d1ec2f18a9f64cf6f38?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3trSZ6JhgNpDhTfRvge4go"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 246826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19000002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/15Xdlu0QaiEy3YFTf4xpUA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/15Xdlu0QaiEy3YFTf4xpUA",
+    "id" : "15Xdlu0QaiEy3YFTf4xpUA",
+    "is_local" : false,
+    "name" : "I Left My Wallet in El Segundo",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/057d7643f457dc112ddf7142c545e3364c4cd43e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:15Xdlu0QaiEy3YFTf4xpUA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225786,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300143"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/135R9H03UWsDIfZoKszfLi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/135R9H03UWsDIfZoKszfLi",
+    "id" : "135R9H03UWsDIfZoKszfLi",
+    "is_local" : false,
+    "name" : "Pubic Enemy",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7b00e5cf9c78fe48d343351644644ed64b4659f5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:135R9H03UWsDIfZoKszfLi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300399"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7t83uuT0cZpQ7M6q9ymtv8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7t83uuT0cZpQ7M6q9ymtv8",
+    "id" : "7t83uuT0cZpQ7M6q9ymtv8",
+    "is_local" : false,
+    "name" : "Bonita Applebum - includes 'Can I Kick It' Intro",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/174d0468419fa40b54165284ecd6746d2218c655?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7t83uuT0cZpQ7M6q9ymtv8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 251573,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300400"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Ti0GdlrotgwsAVBBugv0I",
+    "id" : "3Ti0GdlrotgwsAVBBugv0I",
+    "is_local" : false,
+    "name" : "Can I Kick It?",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c6469c3260465dd11d9efe5c2d35c3aca3bcc2b2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3Ti0GdlrotgwsAVBBugv0I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300144"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/79iHdGrb91P9wAi5JNEObB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/79iHdGrb91P9wAi5JNEObB",
+    "id" : "79iHdGrb91P9wAi5JNEObB",
+    "is_local" : false,
+    "name" : "Youthful Expression",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6e1cd433430d783b32649ed2c712b9b23a67ed7e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:79iHdGrb91P9wAi5JNEObB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242053,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300145"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1DV0FlJoxpooAscaj2I6Uu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1DV0FlJoxpooAscaj2I6Uu",
+    "id" : "1DV0FlJoxpooAscaj2I6Uu",
+    "is_local" : false,
+    "name" : "Rhythm (Devoted to the Art of Moving Butts)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6b498bca8e546a5f24fd411a3941a4f92c1ab59c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1DV0FlJoxpooAscaj2I6Uu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 213253,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300146"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0oPzkUH4G7RK80MvHg2EEX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0oPzkUH4G7RK80MvHg2EEX",
+    "id" : "0oPzkUH4G7RK80MvHg2EEX",
+    "is_local" : false,
+    "name" : "Mr. Muhammad",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c72535cf5b2fcf799a483443abb01de5bbf3ed6a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0oPzkUH4G7RK80MvHg2EEX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 327706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300147"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5axNXq143OQQRhr0V6fXrM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5axNXq143OQQRhr0V6fXrM",
+    "id" : "5axNXq143OQQRhr0V6fXrM",
+    "is_local" : false,
+    "name" : "Ham 'N' Eggs",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3b991c7784e84f7bd636768e212b30a54e4d1cbe?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5axNXq143OQQRhr0V6fXrM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 234040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300148"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5S6kL3VgQMiwFpgjUFeafe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5S6kL3VgQMiwFpgjUFeafe",
+    "id" : "5S6kL3VgQMiwFpgjUFeafe",
+    "is_local" : false,
+    "name" : "Go Ahead In the Rain",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1eb6c66b425905009f168a26fa973b432ed5abf6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5S6kL3VgQMiwFpgjUFeafe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 341693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI19000007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1nywM2c66qRbQclvXlyoYy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1nywM2c66qRbQclvXlyoYy",
+    "id" : "1nywM2c66qRbQclvXlyoYy",
+    "is_local" : false,
+    "name" : "Description of a Fool",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a2ca7d65d350375b10cc20ff6e9f4511b7cde807?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1nywM2c66qRbQclvXlyoYy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5nLYd9ST4Cnwy6NHaCxbj8",
+      "id" : "5nLYd9ST4Cnwy6NHaCxbj8",
+      "name" : "CeeLo Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:5nLYd9ST4Cnwy6NHaCxbj8"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI11500050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54YHy0t51KPuedj2k3ehmj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54YHy0t51KPuedj2k3ehmj",
+    "id" : "54YHy0t51KPuedj2k3ehmj",
+    "is_local" : false,
+    "name" : "Footprints (feat. CeeLo Green) - Remix",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f2c3633392cdeb5d64ec7067871576f527d5b1a9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:54YHy0t51KPuedj2k3ehmj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 233666,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI11500051"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44RqJWBTSJseMUsVohAlyT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44RqJWBTSJseMUsVohAlyT",
+    "id" : "44RqJWBTSJseMUsVohAlyT",
+    "is_local" : false,
+    "name" : "Bonita Applebum - Pharrell Williams Remix",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d4fcfcac6aa0d09e182d9595483792cca1febbfb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:44RqJWBTSJseMUsVohAlyT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+        "id" : "09hVIj6vWgoCDtT03h8ZCa",
+        "name" : "A Tribe Called Quest",
+        "type" : "artist",
+        "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3kV0i1qqudjf0PGawJ4jck",
+      "id" : "3kV0i1qqudjf0PGawJ4jck",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024ba1fe238a517021ebcc2ace",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514ba1fe238a517021ebcc2ace",
+        "width" : 64
+      } ],
+      "name" : "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "release_date" : "1990-04-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3kV0i1qqudjf0PGawJ4jck"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id" : "09hVIj6vWgoCDtT03h8ZCa",
+      "name" : "A Tribe Called Quest",
+      "type" : "artist",
+      "uri" : "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 169373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI11500052"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GmhAVyyHwaX6jfCbPmaoB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GmhAVyyHwaX6jfCbPmaoB",
+    "id" : "0GmhAVyyHwaX6jfCbPmaoB",
+    "is_local" : false,
+    "name" : "Can I Kick It? - J. Cole Remix",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/00bfb0e6fbe8baa66274acda494fefbdb38d5a14?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:0GmhAVyyHwaX6jfCbPmaoB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 63066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900540"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1B1dLq9IGGvj2ajvdz8LY7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1B1dLq9IGGvj2ajvdz8LY7",
+    "id" : "1B1dLq9IGGvj2ajvdz8LY7",
+    "is_local" : false,
+    "name" : "Intro (The Last Night)",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e91f550d25f82837452f777a840def12db59366e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1B1dLq9IGGvj2ajvdz8LY7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900541"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RyeXVgco8vxoocIeTLvRO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RyeXVgco8vxoocIeTLvRO",
+    "id" : "1RyeXVgco8vxoocIeTLvRO",
+    "is_local" : false,
+    "name" : "Chamber Music",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b92fbe16e45f8615f64ed6892de7f4a149683d6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1RyeXVgco8vxoocIeTLvRO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OiS4KHxViIFnJooFTXl7V"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0OiS4KHxViIFnJooFTXl7V",
+      "id" : "0OiS4KHxViIFnJooFTXl7V",
+      "name" : "Ras Kass",
+      "type" : "artist",
+      "uri" : "spotify:artist:0OiS4KHxViIFnJooFTXl7V"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KM0S1Bt0R8Le283T205pe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4KM0S1Bt0R8Le283T205pe",
+      "id" : "4KM0S1Bt0R8Le283T205pe",
+      "name" : "Saafir",
+      "type" : "artist",
+      "uri" : "spotify:artist:4KM0S1Bt0R8Le283T205pe"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 235133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900542"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3LRKsq5TZsjOfbylaY7Izf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3LRKsq5TZsjOfbylaY7Izf",
+    "id" : "3LRKsq5TZsjOfbylaY7Izf",
+    "is_local" : false,
+    "name" : "3 Card Molly (feat. Ras Kass & Saafir)",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad29c8154ba3d4cdbbdd8b9157a17a3bc655b90d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3LRKsq5TZsjOfbylaY7Izf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900543"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ezafcOuI5em8LoE2xxnpv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ezafcOuI5em8LoE2xxnpv",
+    "id" : "4ezafcOuI5em8LoE2xxnpv",
+    "is_local" : false,
+    "name" : "What U See Is What U Get",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e90062726e437dafcee39075572544a2dc69e197?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4ezafcOuI5em8LoE2xxnpv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3YaIJyiyT70HLR1s2RuonT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3YaIJyiyT70HLR1s2RuonT",
+      "id" : "3YaIJyiyT70HLR1s2RuonT",
+      "name" : "Defari Herut",
+      "type" : "artist",
+      "uri" : "spotify:artist:3YaIJyiyT70HLR1s2RuonT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 254666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900544"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0F39csm488RSTo3e2QxTf1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0F39csm488RSTo3e2QxTf1",
+    "id" : "0F39csm488RSTo3e2QxTf1",
+    "is_local" : false,
+    "name" : "Handle Your Business (feat. Defari Herut)",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed103dd766af8ad8d7b489b1232b6cd74c2b927f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0F39csm488RSTo3e2QxTf1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IReTJuey4Vil6zq273rUh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IReTJuey4Vil6zq273rUh",
+      "id" : "7IReTJuey4Vil6zq273rUh",
+      "name" : "Montage One",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IReTJuey4Vil6zq273rUh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 216360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900545"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34hR2IA23wUsyMxa0dclRf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34hR2IA23wUsyMxa0dclRf",
+    "id" : "34hR2IA23wUsyMxa0dclRf",
+    "is_local" : false,
+    "name" : "Nobody Sound Like Me (feat. Montageone)",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a273737c3d9940df2635c11e3e62188003f3f627?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:34hR2IA23wUsyMxa0dclRf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/188HWxEQMjCaa7kf3ZGjwc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/188HWxEQMjCaa7kf3ZGjwc",
+      "id" : "188HWxEQMjCaa7kf3ZGjwc",
+      "name" : "Jayo Felony",
+      "type" : "artist",
+      "uri" : "spotify:artist:188HWxEQMjCaa7kf3ZGjwc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 201066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900546"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2GjMPj2kfVlMkRL9m6wbY8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2GjMPj2kfVlMkRL9m6wbY8",
+    "id" : "2GjMPj2kfVlMkRL9m6wbY8",
+    "is_local" : false,
+    "name" : "Pu**y Pop (feat. Jayo Felony & Method Man)",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/02c00ee25fa13d7fca6264f0546951026c6f6bf7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2GjMPj2kfVlMkRL9m6wbY8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 118573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900548"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5mBYkuWD2VnrmwW3c9HUS0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5mBYkuWD2VnrmwW3c9HUS0",
+    "id" : "5mBYkuWD2VnrmwW3c9HUS0",
+    "is_local" : false,
+    "name" : "Chronic Keeping 101 (Interlude)",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/631cfa6c6caf41b8e93a09cf80c127117ae43bb5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5mBYkuWD2VnrmwW3c9HUS0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 180600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900549"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FM733A1LmopJ2UjC8BhbF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FM733A1LmopJ2UjC8BhbF",
+    "id" : "2FM733A1LmopJ2UjC8BhbF",
+    "is_local" : false,
+    "name" : "Shroomz",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2293ffe35aa01364bd4d7b3ee70e82f983d9a235?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:2FM733A1LmopJ2UjC8BhbF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900550"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4hNslCMuTS83UAmRQr5DFA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4hNslCMuTS83UAmRQr5DFA",
+    "id" : "4hNslCMuTS83UAmRQr5DFA",
+    "is_local" : false,
+    "name" : "Focus",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6b78457daf55d7808d3fe1a28a9c9044f08d4c34?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4hNslCMuTS83UAmRQr5DFA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 86893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5T6pwLKXA7Bvs3fhU1IaA6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5T6pwLKXA7Bvs3fhU1IaA6",
+    "id" : "5T6pwLKXA7Bvs3fhU1IaA6",
+    "is_local" : false,
+    "name" : "Jason (48 Months Interlude)",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4d3a109f5da9f21b2f4c98091bf8a688ac9c5ca8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5T6pwLKXA7Bvs3fhU1IaA6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 177000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900552"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0HCrNyfVXzkw5xscZu1kiW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0HCrNyfVXzkw5xscZu1kiW",
+    "id" : "0HCrNyfVXzkw5xscZu1kiW",
+    "is_local" : false,
+    "name" : "Deeper",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/109df6ed7a4dbcda38d75d2412f8d88c4c72fa50?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0HCrNyfVXzkw5xscZu1kiW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 263133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900553"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Acc8Z2mhTiU6ceB4DEyCt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Acc8Z2mhTiU6ceB4DEyCt",
+    "id" : "0Acc8Z2mhTiU6ceB4DEyCt",
+    "is_local" : false,
+    "name" : "Los Angeles Times",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/26dbb46bb6481160a1e9cb36208515889c7af8de?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0Acc8Z2mhTiU6ceB4DEyCt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 189040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900554"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1WxNq2QpOvcOK832goZZCY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1WxNq2QpOvcOK832goZZCY",
+    "id" : "1WxNq2QpOvcOK832goZZCY",
+    "is_local" : false,
+    "name" : "Inside Job",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a5aaea717bd1af5f3a2679b28167487516c9242c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1WxNq2QpOvcOK832goZZCY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2FiRV4AeJUGaW98BhDIAKI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2FiRV4AeJUGaW98BhDIAKI",
+      "id" : "2FiRV4AeJUGaW98BhDIAKI",
+      "name" : "Tha Alkaholiks",
+      "type" : "artist",
+      "uri" : "spotify:artist:2FiRV4AeJUGaW98BhDIAKI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ak7Zo3C9CPdRwVoUvv80R"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ak7Zo3C9CPdRwVoUvv80R",
+      "id" : "7ak7Zo3C9CPdRwVoUvv80R",
+      "name" : "King T",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ak7Zo3C9CPdRwVoUvv80R"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 333360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900555"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/03MPcYqhOxKwfcbZ27C7Rv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/03MPcYqhOxKwfcbZ27C7Rv",
+    "id" : "03MPcYqhOxKwfcbZ27C7Rv",
+    "is_local" : false,
+    "name" : "Let It Rain (feat. Tha Alkaholiks & King T)",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2030b80d45db613f6c4a4f8df27945aae31734ee?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:03MPcYqhOxKwfcbZ27C7Rv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7IReTJuey4Vil6zq273rUh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7IReTJuey4Vil6zq273rUh",
+      "id" : "7IReTJuey4Vil6zq273rUh",
+      "name" : "Montage One",
+      "type" : "artist",
+      "uri" : "spotify:artist:7IReTJuey4Vil6zq273rUh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900556"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/29oxXIhUDMTeTIF1gVniq3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/29oxXIhUDMTeTIF1gVniq3",
+    "id" : "29oxXIhUDMTeTIF1gVniq3",
+    "is_local" : false,
+    "name" : "Recycled Assassins (feat. Montageone)",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3f727c846318f5f04f2c53cc62e14d33678f01c7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:29oxXIhUDMTeTIF1gVniq3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+        "id" : "4tujQJicOnuZRLiBFdp3Ou",
+        "name" : "Xzibit",
+        "type" : "artist",
+        "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1jlbr51uTL95Vqmw2G8rpA",
+      "id" : "1jlbr51uTL95Vqmw2G8rpA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27338e25d18f034d0fc96d6dcbc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0238e25d18f034d0fc96d6dcbc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485138e25d18f034d0fc96d6dcbc",
+        "width" : 64
+      } ],
+      "name" : "40 Dayz & 40 Nightz (Explicit)",
+      "release_date" : "1999-11-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:1jlbr51uTL95Vqmw2G8rpA"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+      "id" : "4tujQJicOnuZRLiBFdp3Ou",
+      "name" : "Xzibit",
+      "type" : "artist",
+      "uri" : "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 71573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900557"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1T5bk6DD4VmsewZ7htFNnq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1T5bk6DD4VmsewZ7htFNnq",
+    "id" : "1T5bk6DD4VmsewZ7htFNnq",
+    "is_local" : false,
+    "name" : "Outro",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb7bd0fa5d8d04a14c4da2713751729ab8e866e8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:1T5bk6DD4VmsewZ7htFNnq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Xu7q46Hf02xOoEIm4E1Qs",
+        "id" : "2Xu7q46Hf02xOoEIm4E1Qs",
+        "name" : "Big Pun",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Xu7q46Hf02xOoEIm4E1Qs"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IIHk2ZLXKWuVAjCbQ9g4Y",
+      "id" : "3IIHk2ZLXKWuVAjCbQ9g4Y",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738c7a8e68dc5c20bb72f713f2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028c7a8e68dc5c20bb72f713f2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518c7a8e68dc5c20bb72f713f2",
+        "width" : 64
+      } ],
+      "name" : "Capital Punishment (Explicit Version)",
+      "release_date" : "1998-04-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 24,
+      "type" : "album",
+      "uri" : "spotify:album:3IIHk2ZLXKWuVAjCbQ9g4Y"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Xu7q46Hf02xOoEIm4E1Qs",
+      "id" : "2Xu7q46Hf02xOoEIm4E1Qs",
+      "name" : "Big Pun",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Xu7q46Hf02xOoEIm4E1Qs"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 34093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5L2TQtewq7gC3Xs9hURIBr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5L2TQtewq7gC3Xs9hURIBr",
+    "id" : "5L2TQtewq7gC3Xs9hURIBr",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f202954602b8e5553c1389eddba2110498ffcb06?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5L2TQtewq7gC3Xs9hURIBr"
+  } ]
+}

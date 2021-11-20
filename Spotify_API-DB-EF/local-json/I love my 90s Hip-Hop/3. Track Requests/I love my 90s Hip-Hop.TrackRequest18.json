@@ -1,0 +1,3754 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7DyAbrlPQTi2v6DAmgC8Qa",
+      "id" : "7DyAbrlPQTi2v6DAmgC8Qa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273eac07404afec33248030ae90",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02eac07404afec33248030ae90",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851eac07404afec33248030ae90",
+        "width" : 64
+      } ],
+      "name" : "Tical (Deluxe Edition)",
+      "release_date" : "2014-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 26,
+      "type" : "album",
+      "uri" : "spotify:album:7DyAbrlPQTi2v6DAmgC8Qa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/21J3YJTyq1biE3SvSNjzuf",
+      "id" : "21J3YJTyq1biE3SvSNjzuf",
+      "name" : "Capleton",
+      "type" : "artist",
+      "uri" : "spotify:artist:21J3YJTyq1biE3SvSNjzuf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 232973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19500127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0fwGQDntOJmSgOfklrBm1Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0fwGQDntOJmSgOfklrBm1Y",
+    "id" : "0fwGQDntOJmSgOfklrBm1Y",
+    "is_local" : false,
+    "name" : "Wings Of The Morning - Dynamik Duo Mix",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/65afc0c1a732be31fbd91ecf4421e583e93c72e5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0fwGQDntOJmSgOfklrBm1Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 80248,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCH30400013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lg1lksPDgFTk2NOJ8bRxv",
+    "id" : "2lg1lksPDgFTk2NOJ8bRxv",
+    "is_local" : false,
+    "name" : "Introduction",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e61ff030dc067bbaee3a12b20050eb6d32fe9fb2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2lg1lksPDgFTk2NOJ8bRxv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZUZYvTkSr7kJQyAXVpqaL",
+      "id" : "3ZUZYvTkSr7kJQyAXVpqaL",
+      "name" : "Donald Byrd",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZUZYvTkSr7kJQyAXVpqaL"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCH39300067"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1VzhfMEGIIkn5hFITMJzW1",
+    "id" : "1VzhfMEGIIkn5hFITMJzW1",
+    "is_local" : false,
+    "name" : "Loungin'",
+    "popularity" : 57,
+    "preview_url" : "https://p.scdn.co/mp3-preview/405a725941c89e8ba58b54347f342e48411d99b0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1VzhfMEGIIkn5hFITMJzW1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JrR5OwlQ3XXuDwozp9tYT",
+      "id" : "2JrR5OwlQ3XXuDwozp9tYT",
+      "name" : "N'Dea Davenport",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JrR5OwlQ3XXuDwozp9tYT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCH39300053"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0DrFL4UAerLseMvbDvRU7l"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0DrFL4UAerLseMvbDvRU7l",
+    "id" : "0DrFL4UAerLseMvbDvRU7l",
+    "is_local" : false,
+    "name" : "When You're Near",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/232e894ccfd7a7e514672330c017741a377805ca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0DrFL4UAerLseMvbDvRU7l"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1gPY6jETlC02stpXOUmSBH",
+      "id" : "1gPY6jETlC02stpXOUmSBH",
+      "name" : "Branford Marsalis",
+      "type" : "artist",
+      "uri" : "spotify:artist:1gPY6jETlC02stpXOUmSBH"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 238293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300123"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6B4O8Erp0ZQ1dgE9LBimsA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6B4O8Erp0ZQ1dgE9LBimsA",
+    "id" : "6B4O8Erp0ZQ1dgE9LBimsA",
+    "is_local" : false,
+    "name" : "Transit Ride",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/17fbfe55661b8fe0fca41a590a2fc42d4ee46fef?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6B4O8Erp0ZQ1dgE9LBimsA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/32WK2OuP2PG4r7sH7bUfN9",
+      "id" : "32WK2OuP2PG4r7sH7bUfN9",
+      "name" : "Ronny Jordan",
+      "type" : "artist",
+      "uri" : "spotify:artist:32WK2OuP2PG4r7sH7bUfN9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5KbqBh2kNs9JzwTtcQrgss"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5KbqBh2kNs9JzwTtcQrgss",
+      "id" : "5KbqBh2kNs9JzwTtcQrgss",
+      "name" : "DC Lee",
+      "type" : "artist",
+      "uri" : "spotify:artist:5KbqBh2kNs9JzwTtcQrgss"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 294400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCH39300065"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0pPf7GFLcuqp3Eis5Hm5yw",
+    "id" : "0pPf7GFLcuqp3Eis5Hm5yw",
+    "is_local" : false,
+    "name" : "No Time To Play",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/79f4c46106c97bf9cef512de2f6d3b6910c4e416?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:0pPf7GFLcuqp3Eis5Hm5yw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2hdpXvaQJHBCZIVUd6cLvK",
+      "id" : "2hdpXvaQJHBCZIVUd6cLvK",
+      "name" : "Lonnie Liston Smith",
+      "type" : "artist",
+      "uri" : "spotify:artist:2hdpXvaQJHBCZIVUd6cLvK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 288000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300124"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6suhq5IiCkJBCDZ5QebkyE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6suhq5IiCkJBCDZ5QebkyE",
+    "id" : "6suhq5IiCkJBCDZ5QebkyE",
+    "is_local" : false,
+    "name" : "Down The Backstreets",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7a116851023d99bf685ce32d4d9e780f3643e7da?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6suhq5IiCkJBCDZ5QebkyE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 54373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300125"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uZe4nJIqL0OfPFIZVfIqp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uZe4nJIqL0OfPFIZVfIqp",
+    "id" : "0uZe4nJIqL0OfPFIZVfIqp",
+    "is_local" : false,
+    "name" : "Respectful Dedications",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/05bce5802028e35f5e9ab29972355c7baa17a79e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0uZe4nJIqL0OfPFIZVfIqp"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6R9Mv0bgGE4Tqxna1q5Mrj",
+      "id" : "6R9Mv0bgGE4Tqxna1q5Mrj",
+      "name" : "Roy Ayers",
+      "type" : "artist",
+      "uri" : "spotify:artist:6R9Mv0bgGE4Tqxna1q5Mrj"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300126"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4bCU6tEbGHQcEwTC3ny2KY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4bCU6tEbGHQcEwTC3ny2KY",
+    "id" : "4bCU6tEbGHQcEwTC3ny2KY",
+    "is_local" : false,
+    "name" : "Take A Look (At Yourself)",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/dc4aaa397ea67971132451b5680728ff841ea98c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4bCU6tEbGHQcEwTC3ny2KY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JrR5OwlQ3XXuDwozp9tYT",
+      "id" : "2JrR5OwlQ3XXuDwozp9tYT",
+      "name" : "N'Dea Davenport",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JrR5OwlQ3XXuDwozp9tYT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 267865,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USCH39300068"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41YrEBYeFM6fYf1ygakTlm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41YrEBYeFM6fYf1ygakTlm",
+    "id" : "41YrEBYeFM6fYf1ygakTlm",
+    "is_local" : false,
+    "name" : "Trust Me",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0b36bdfcecb6e5592d62ad8bbccf2be9494c9efc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:41YrEBYeFM6fYf1ygakTlm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lGAynxOdfaysYosmymbgb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1lGAynxOdfaysYosmymbgb",
+      "id" : "1lGAynxOdfaysYosmymbgb",
+      "name" : "Gary Barnacle",
+      "type" : "artist",
+      "uri" : "spotify:artist:1lGAynxOdfaysYosmymbgb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 157466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1IVyATZL3iEWpHf7CHrmJu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1IVyATZL3iEWpHf7CHrmJu",
+    "id" : "1IVyATZL3iEWpHf7CHrmJu",
+    "is_local" : false,
+    "name" : "Slicker Than Most",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5613df988dd66792109f131ce0a455aca6a2b37d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1IVyATZL3iEWpHf7CHrmJu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nU8TSIICYDbUqRpJISTRE",
+      "id" : "3nU8TSIICYDbUqRpJISTRE",
+      "name" : "Mc Solaar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nU8TSIICYDbUqRpJISTRE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 202160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300128"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0nwnaHLObT2ZEkrNAfryEB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0nwnaHLObT2ZEkrNAfryEB",
+    "id" : "0nwnaHLObT2ZEkrNAfryEB",
+    "is_local" : false,
+    "name" : "Le Bien, Le Mal",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/44a23bcfbe3b3c60fb6e4d62a1124ac8857895f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0nwnaHLObT2ZEkrNAfryEB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+        "id" : "6xyaria4AcxjRuJZLkWvMW",
+        "name" : "Guru",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/64J8girYqmK86ebqBayrjQ",
+      "id" : "64J8girYqmK86ebqBayrjQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02423fc787b53e081679cfc4c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851423fc787b53e081679cfc4c0",
+        "width" : 64
+      } ],
+      "name" : "Jazzmatazz Volume 1",
+      "release_date" : "1993-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:64J8girYqmK86ebqBayrjQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xyaria4AcxjRuJZLkWvMW",
+      "id" : "6xyaria4AcxjRuJZLkWvMW",
+      "name" : "Guru",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xyaria4AcxjRuJZLkWvMW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6thyqrW8SkVY11NUqTyCI6",
+      "id" : "6thyqrW8SkVY11NUqTyCI6",
+      "name" : "Carleen Anderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6thyqrW8SkVY11NUqTyCI6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2OfIB3yNJjX3AElLJnz8am"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2OfIB3yNJjX3AElLJnz8am",
+      "id" : "2OfIB3yNJjX3AElLJnz8am",
+      "name" : "Courtney Pine",
+      "type" : "artist",
+      "uri" : "spotify:artist:2OfIB3yNJjX3AElLJnz8am"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 310600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USVI29300129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54T28ufKX6rAHNVQDdS4vA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54T28ufKX6rAHNVQDdS4vA",
+    "id" : "54T28ufKX6rAHNVQDdS4vA",
+    "is_local" : false,
+    "name" : "Sights In The City",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9e4b741f06b068d37e114a7ed89eeb7bb2f186cf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:54T28ufKX6rAHNVQDdS4vA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 82706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980376"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Kxt2eHMTiueEHqYGuLTbM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Kxt2eHMTiueEHqYGuLTbM",
+    "id" : "5Kxt2eHMTiueEHqYGuLTbM",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9185e618e54276814e67fd801ea8bd639b6b14ec?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5Kxt2eHMTiueEHqYGuLTbM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 251400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980303"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Q3Fb6Co1NgIQ9njENgYSK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Q3Fb6Co1NgIQ9njENgYSK",
+    "id" : "6Q3Fb6Co1NgIQ9njENgYSK",
+    "is_local" : false,
+    "name" : "Flow Forever",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1a236123d12543339949c58204a196f99c99e9e8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6Q3Fb6Co1NgIQ9njENgYSK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 222933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980387"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2p9sprAX27D6U5cuSE9NsM",
+    "id" : "2p9sprAX27D6U5cuSE9NsM",
+    "is_local" : false,
+    "name" : "When I B On Tha Mic",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8898b703ab5c6a1b81120c7c0b93088bb9db6b05?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2p9sprAX27D6U5cuSE9NsM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4bLlbkd9nNLf2foKe8e6G6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4bLlbkd9nNLf2foKe8e6G6",
+      "id" : "4bLlbkd9nNLf2foKe8e6G6",
+      "name" : "Clark Kent",
+      "type" : "artist",
+      "uri" : "spotify:artist:4bLlbkd9nNLf2foKe8e6G6"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980404"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/395A6LqZg4l93a9Iv32cMu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/395A6LqZg4l93a9Iv32cMu",
+    "id" : "395A6LqZg4l93a9Iv32cMu",
+    "is_local" : false,
+    "name" : "Finest Ones",
+    "popularity" : 33,
+    "preview_url" : "https://p.scdn.co/mp3-preview/299a310d7ba271e9e79a5f84f195366b75a948b8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:395A6LqZg4l93a9Iv32cMu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980371"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34oJGwpYsd3InHUDx0fbwx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34oJGwpYsd3InHUDx0fbwx",
+    "id" : "34oJGwpYsd3InHUDx0fbwx",
+    "is_local" : false,
+    "name" : "All Night Long",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cc591a14c053b2805778d3a56df2cd3f3b9b4300?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:34oJGwpYsd3InHUDx0fbwx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 39133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980378"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3sIDXR4Xc6f6qfnEcJyH0b"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3sIDXR4Xc6f6qfnEcJyH0b",
+    "id" : "3sIDXR4Xc6f6qfnEcJyH0b",
+    "is_local" : false,
+    "name" : "State Of Hip Hop Interlude",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/654f4480083727ce54687a49f6efa5052d8b182f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3sIDXR4Xc6f6qfnEcJyH0b"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 189133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980388"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3x3eRMYIXSbPtMLZxldfE5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3x3eRMYIXSbPtMLZxldfE5",
+    "id" : "3x3eRMYIXSbPtMLZxldfE5",
+    "is_local" : false,
+    "name" : "Uplift",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb8c48f862cc5275b933d5c39bdd0cbfad63f98f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3x3eRMYIXSbPtMLZxldfE5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980375"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4vNa9ogwT8EXzaZBeV6O6h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4vNa9ogwT8EXzaZBeV6O6h",
+    "id" : "4vNa9ogwT8EXzaZBeV6O6h",
+    "is_local" : false,
+    "name" : "I Know",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9d14a74a6da065f387cb41033bb9c5d1b2a24006?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4vNa9ogwT8EXzaZBeV6O6h"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 255693,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980386"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/50nexqPsMVhWeyJEGPgYvT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/50nexqPsMVhWeyJEGPgYvT",
+    "id" : "50nexqPsMVhWeyJEGPgYvT",
+    "is_local" : false,
+    "name" : "It's The R",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/399a05af88b7cbe869e014e4ecc42b9f6fe70bd1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:50nexqPsMVhWeyJEGPgYvT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0tS9X2LndxoV4V4mUL0ku9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0tS9X2LndxoV4V4mUL0ku9",
+      "id" : "0tS9X2LndxoV4V4mUL0ku9",
+      "name" : "Nneka Morton",
+      "type" : "artist",
+      "uri" : "spotify:artist:0tS9X2LndxoV4V4mUL0ku9"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980381"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5zIJxuYgHPt66VMqghMpAa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5zIJxuYgHPt66VMqghMpAa",
+    "id" : "5zIJxuYgHPt66VMqghMpAa",
+    "is_local" : false,
+    "name" : "I'll Be There",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6f637e68666f39a88551a3c244c5523e6e4cbf81?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5zIJxuYgHPt66VMqghMpAa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vunRaBya0Sx6CMJZAlHTZ",
+      "id" : "6vunRaBya0Sx6CMJZAlHTZ",
+      "name" : "Rahzel",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vunRaBya0Sx6CMJZAlHTZ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 263866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980382"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0753lMq8FjFcRCkLK5Ej34"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0753lMq8FjFcRCkLK5Ej34",
+    "id" : "0753lMq8FjFcRCkLK5Ej34",
+    "is_local" : false,
+    "name" : "It's A Must",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b2fd0cf8ea69ecc15f843d517a269df95f1d0530?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0753lMq8FjFcRCkLK5Ej34"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980389"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jqXdvFmKDJYwkw2sZ4bTX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jqXdvFmKDJYwkw2sZ4bTX",
+    "id" : "3jqXdvFmKDJYwkw2sZ4bTX",
+    "is_local" : false,
+    "name" : "Real Shit",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/abad9a1a4211024ace5f9e037aa34e18b5eb5e43?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3jqXdvFmKDJYwkw2sZ4bTX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980377"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4EWY1DTvrcx5Q8tEr3OQfb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4EWY1DTvrcx5Q8tEr3OQfb",
+    "id" : "4EWY1DTvrcx5Q8tEr3OQfb",
+    "is_local" : false,
+    "name" : "How I Get Down",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/50fe84954062aac098c61ccc2699916f120089b9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:4EWY1DTvrcx5Q8tEr3OQfb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 52333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980383"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TTJBME7rVgNXlfkJjymXJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TTJBME7rVgNXlfkJjymXJ",
+    "id" : "0TTJBME7rVgNXlfkJjymXJ",
+    "is_local" : false,
+    "name" : "L.I. Interlude",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/746cb45d4f2483e7076a34ef4ecbb5f6df293f85?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0TTJBME7rVgNXlfkJjymXJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980384"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6g5Ei8IegcBvM2ro0dU916"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6g5Ei8IegcBvM2ro0dU916",
+    "id" : "6g5Ei8IegcBvM2ro0dU916",
+    "is_local" : false,
+    "name" : "Strong Island",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9ec63adfdb64388ae0b3cddff45955a031df5415?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:6g5Ei8IegcBvM2ro0dU916"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980380"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YAIOD20Mk64gNRYqf56k3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YAIOD20Mk64gNRYqf56k3",
+    "id" : "3YAIOD20Mk64gNRYqf56k3",
+    "is_local" : false,
+    "name" : "Waiting For The World To End",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d4f6c6278e6bb1fdd24728cf54eaba85febc072a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:3YAIOD20Mk64gNRYqf56k3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+        "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+        "name" : "Rakim",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3mvWfqa4cceoGyA7qECPWH",
+      "id" : "3mvWfqa4cceoGyA7qECPWH",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273788e4b609c57229f355b96b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02788e4b609c57229f355b96b8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851788e4b609c57229f355b96b8",
+        "width" : 64
+      } ],
+      "name" : "The Master",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:3mvWfqa4cceoGyA7qECPWH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+      "id" : "3PyWEKLWI0vHPmoNrIX0QE",
+      "name" : "Rakim",
+      "type" : "artist",
+      "uri" : "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3caBU6CTvdW5cjaDdYLXKn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3caBU6CTvdW5cjaDdYLXKn",
+      "id" : "3caBU6CTvdW5cjaDdYLXKn",
+      "name" : "Connie McKendrick",
+      "type" : "artist",
+      "uri" : "spotify:artist:3caBU6CTvdW5cjaDdYLXKn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TN", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUR19980374"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ubd0WsSWkKNYon8JPqXrz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ubd0WsSWkKNYon8JPqXrz",
+    "id" : "1ubd0WsSWkKNYon8JPqXrz",
+    "is_local" : false,
+    "name" : "We'll Never Stop",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c73b551c0c927fd966b77f84577e3d35d084b390?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:1ubd0WsSWkKNYon8JPqXrz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EjMvXuZmPcdnb4b9VA8U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EjMvXuZmPcdnb4b9VA8U",
+      "id" : "34EjMvXuZmPcdnb4b9VA8U",
+      "name" : "Joe Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EjMvXuZmPcdnb4b9VA8U"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1456PDi7pDCoeKD8JD1mMd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1456PDi7pDCoeKD8JD1mMd",
+      "id" : "1456PDi7pDCoeKD8JD1mMd",
+      "name" : "Dr. Cornell West",
+      "type" : "artist",
+      "uri" : "spotify:artist:1456PDi7pDCoeKD8JD1mMd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HEPzI1k3SXs2lJ3EixmjR",
+      "id" : "7HEPzI1k3SXs2lJ3EixmjR",
+      "name" : "Harry Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HEPzI1k3SXs2lJ3EixmjR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46dfAJ1Rw3h1jdDRHYUq2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46dfAJ1Rw3h1jdDRHYUq2A",
+      "id" : "46dfAJ1Rw3h1jdDRHYUq2A",
+      "name" : "Wendy Goldstein",
+      "type" : "artist",
+      "uri" : "spotify:artist:46dfAJ1Rw3h1jdDRHYUq2A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XgH1LqGKFdSMqOyJQP6LU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XgH1LqGKFdSMqOyJQP6LU",
+      "id" : "0XgH1LqGKFdSMqOyJQP6LU",
+      "name" : "Jal Silk",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XgH1LqGKFdSMqOyJQP6LU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DT8sgZ1m5inUHJn5re46O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DT8sgZ1m5inUHJn5re46O",
+      "id" : "1DT8sgZ1m5inUHJn5re46O",
+      "name" : "MC Power",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DT8sgZ1m5inUHJn5re46O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1h2OVSKRdJHnVqyCKqCLkf",
+      "id" : "1h2OVSKRdJHnVqyCKqCLkf",
+      "name" : "?uestlove",
+      "type" : "artist",
+      "uri" : "spotify:artist:1h2OVSKRdJHnVqyCKqCLkf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L",
+      "id" : "1JfH8gevkDviqs50A5NO0L",
+      "name" : "Chuck D",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JfH8gevkDviqs50A5NO0L"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 34800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697208"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6UpoDfxZocR0DCDsGbakr6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6UpoDfxZocR0DCDsGbakr6",
+    "id" : "6UpoDfxZocR0DCDsGbakr6",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8154daa755e181b1a78764c41f4e5bbdb461e69a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6UpoDfxZocR0DCDsGbakr6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1h2OVSKRdJHnVqyCKqCLkf",
+      "id" : "1h2OVSKRdJHnVqyCKqCLkf",
+      "name" : "?uestlove",
+      "type" : "artist",
+      "uri" : "spotify:artist:1h2OVSKRdJHnVqyCKqCLkf"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 307120,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697209"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3geOxrDcoeBg522CPGCYvz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3geOxrDcoeBg522CPGCYvz",
+    "id" : "3geOxrDcoeBg522CPGCYvz",
+    "is_local" : false,
+    "name" : "Respond/ React",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5e71feb2e262de2daa11b197580712542fc33b70?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3geOxrDcoeBg522CPGCYvz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 249013,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697205"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3P1s6MEwVSt2uK86nHZ5an"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3P1s6MEwVSt2uK86nHZ5an",
+    "id" : "3P1s6MEwVSt2uK86nHZ5an",
+    "is_local" : false,
+    "name" : "Section",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9cbfa25225f40abfaedf921a3579e304f3c5ff02?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:3P1s6MEwVSt2uK86nHZ5an"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 84666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697210"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hxu7IKCA8m9RkktHsnJtA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hxu7IKCA8m9RkktHsnJtA",
+    "id" : "5hxu7IKCA8m9RkktHsnJtA",
+    "is_local" : false,
+    "name" : "Panic !!!!!!!",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/78ad5e3cfaf99535878f6491a1a7fbd53d126ec8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5hxu7IKCA8m9RkktHsnJtA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697211"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6vYrKvUnJPa1kwNRXen0nA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6vYrKvUnJPa1kwNRXen0nA",
+    "id" : "6vYrKvUnJPa1kwNRXen0nA",
+    "is_local" : false,
+    "name" : "It Just Don't Stop",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3260307a89e11c3c6862c3b22b5f5f31e2dddf0c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6vYrKvUnJPa1kwNRXen0nA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 356400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697212"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5lBJJ85ocqmTKu0nm0YS2e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5lBJJ85ocqmTKu0nm0YS2e",
+    "id" : "5lBJJ85ocqmTKu0nm0YS2e",
+    "is_local" : false,
+    "name" : "Episodes",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/383de79138cba7a4dbb6116780835e90c5bb8257?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5lBJJ85ocqmTKu0nm0YS2e"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 276133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697213"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4PIfVDOFSRh3jmcl2UhREg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4PIfVDOFSRh3jmcl2UhREg",
+    "id" : "4PIfVDOFSRh3jmcl2UhREg",
+    "is_local" : false,
+    "name" : "Push Up Ya Lighter",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/151b33914fc87e162893ff33619293eff1ba4c75?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4PIfVDOFSRh3jmcl2UhREg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 357200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697214"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1B53Y95tPd4ah4FExO0egE",
+    "id" : "1B53Y95tPd4ah4FExO0egE",
+    "is_local" : false,
+    "name" : "What They Do",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9353abb3b3db051fa7ecf054ebec0a759020abd2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:1B53Y95tPd4ah4FExO0egE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 104560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USGF19697215"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1RCExAeHFJehsBrTbd50W9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1RCExAeHFJehsBrTbd50W9",
+    "id" : "1RCExAeHFJehsBrTbd50W9",
+    "is_local" : false,
+    "name" : "? Vs. Scratch (The Token DJ Cut)",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e9c03ed7c1060ffe6d50bae2b715f1e4e1c739fe?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1RCExAeHFJehsBrTbd50W9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 218066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697216"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0KhrWadGHo3xqxlaa3pZko"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0KhrWadGHo3xqxlaa3pZko",
+    "id" : "0KhrWadGHo3xqxlaa3pZko",
+    "is_local" : false,
+    "name" : "Concerto Of The Desperado",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/744c410bf6e89cc8bcc000f5f379a621522630d8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0KhrWadGHo3xqxlaa3pZko"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7df4aW2MDoNsEhmJ2NRoro"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7df4aW2MDoNsEhmJ2NRoro",
+      "id" : "7df4aW2MDoNsEhmJ2NRoro",
+      "name" : "Dice Raw",
+      "type" : "artist",
+      "uri" : "spotify:artist:7df4aW2MDoNsEhmJ2NRoro"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 294426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697201"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2nL1IHbdVkombglWCWx8jR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2nL1IHbdVkombglWCWx8jR",
+    "id" : "2nL1IHbdVkombglWCWx8jR",
+    "is_local" : false,
+    "name" : "Clones",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/94017cece43bf742d465ace44412a77214ce6d59?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2nL1IHbdVkombglWCWx8jR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+      "id" : "2GHclqNVjqGuiE5mA7BEoc",
+      "name" : "Common",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 295506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697217"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kHiJ0ogo8F6FGioJ9JWzz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kHiJ0ogo8F6FGioJ9JWzz",
+    "id" : "3kHiJ0ogo8F6FGioJ9JWzz",
+    "is_local" : false,
+    "name" : "Universe At War",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/638564e3e3f4207dd272b1c190e025216731536f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3kHiJ0ogo8F6FGioJ9JWzz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 311000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697218"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Av7d9F2AshwBYpQhZacKT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Av7d9F2AshwBYpQhZacKT",
+    "id" : "7Av7d9F2AshwBYpQhZacKT",
+    "is_local" : false,
+    "name" : "No Alibi",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef295017b3891285e3931a46df847cb8d2b34383?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:7Av7d9F2AshwBYpQhZacKT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 50493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697220"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5HwNnfvYZWfBNw0sCIDnDS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5HwNnfvYZWfBNw0sCIDnDS",
+    "id" : "5HwNnfvYZWfBNw0sCIDnDS",
+    "is_local" : false,
+    "name" : "Dave Vs. US",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fab11a1d86fc1fc91b69e808a37998f00ff3f426?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5HwNnfvYZWfBNw0sCIDnDS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697219"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AqKnwUs75qCFovboupvHu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AqKnwUs75qCFovboupvHu",
+    "id" : "3AqKnwUs75qCFovboupvHu",
+    "is_local" : false,
+    "name" : "No Great Pretender",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/368664ea2d9fc0c9db1ad0b0795fc6fe5d0b6171?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3AqKnwUs75qCFovboupvHu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/336vr2M3Va0FjyvB55lJEd",
+      "id" : "336vr2M3Va0FjyvB55lJEd",
+      "name" : "D'Angelo",
+      "type" : "artist",
+      "uri" : "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 319533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697221"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5dCi1Y8lJT6o97MtEINbjU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5dCi1Y8lJT6o97MtEINbjU",
+    "id" : "5dCi1Y8lJT6o97MtEINbjU",
+    "is_local" : false,
+    "name" : "The Hypnotic",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c8f88b926df54d65ff8c1e20dcf6733c37a1dde8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:5dCi1Y8lJT6o97MtEINbjU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZotbHeyVQKxQCPDJuQ4SU",
+      "id" : "3ZotbHeyVQKxQCPDJuQ4SU",
+      "name" : "Q-Tip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZotbHeyVQKxQCPDJuQ4SU"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 293866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697222"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4R8azKUDPVYGcpz7RSoVtH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4R8azKUDPVYGcpz7RSoVtH",
+    "id" : "4R8azKUDPVYGcpz7RSoVtH",
+    "is_local" : false,
+    "name" : "Ital (The Universal Side)",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/22425f67455b9590a6b66b9a7c694d8c2be28f16?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:4R8azKUDPVYGcpz7RSoVtH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6TZ5t4kclsmGWHqb3mGyha",
+      "id" : "6TZ5t4kclsmGWHqb3mGyha",
+      "name" : "Cassandra Wilson",
+      "type" : "artist",
+      "uri" : "spotify:artist:6TZ5t4kclsmGWHqb3mGyha"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 340400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USGF19697223"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7oSs6vXftNpbcnkDRiTJzf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7oSs6vXftNpbcnkDRiTJzf",
+    "id" : "7oSs6vXftNpbcnkDRiTJzf",
+    "is_local" : false,
+    "name" : "One Shine",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1cb88f5da48c2c92980ef2e3bc4410b6bb45bf2d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:7oSs6vXftNpbcnkDRiTJzf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USGF19697224"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/11bEl2JyxOqg7pfb8ZW9gx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/11bEl2JyxOqg7pfb8ZW9gx",
+    "id" : "11bEl2JyxOqg7pfb8ZW9gx",
+    "is_local" : false,
+    "name" : "The Adventures In Wonderland",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3be2717018ee27446c59465559d9e6034544dc73?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:11bEl2JyxOqg7pfb8ZW9gx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+        "id" : "78xUyw6FkVZrRAtziFdtdu",
+        "name" : "The Roots",
+        "type" : "artist",
+        "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4hkERQVrmM9JQ9g2eie2tL",
+      "id" : "4hkERQVrmM9JQ9g2eie2tL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d8b1d7869e62f341e528e38",
+        "width" : 64
+      } ],
+      "name" : "Illadelph Halflife",
+      "release_date" : "1996-09-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4hkERQVrmM9JQ9g2eie2tL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+      "id" : "78xUyw6FkVZrRAtziFdtdu",
+      "name" : "The Roots",
+      "type" : "artist",
+      "uri" : "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EjMvXuZmPcdnb4b9VA8U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EjMvXuZmPcdnb4b9VA8U",
+      "id" : "34EjMvXuZmPcdnb4b9VA8U",
+      "name" : "Joe Young",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EjMvXuZmPcdnb4b9VA8U"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1456PDi7pDCoeKD8JD1mMd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1456PDi7pDCoeKD8JD1mMd",
+      "id" : "1456PDi7pDCoeKD8JD1mMd",
+      "name" : "Dr. Cornell West",
+      "type" : "artist",
+      "uri" : "spotify:artist:1456PDi7pDCoeKD8JD1mMd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HEPzI1k3SXs2lJ3EixmjR",
+      "id" : "7HEPzI1k3SXs2lJ3EixmjR",
+      "name" : "Harry Allen",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HEPzI1k3SXs2lJ3EixmjR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46dfAJ1Rw3h1jdDRHYUq2A"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46dfAJ1Rw3h1jdDRHYUq2A",
+      "id" : "46dfAJ1Rw3h1jdDRHYUq2A",
+      "name" : "Wendy Goldstein",
+      "type" : "artist",
+      "uri" : "spotify:artist:46dfAJ1Rw3h1jdDRHYUq2A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XgH1LqGKFdSMqOyJQP6LU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XgH1LqGKFdSMqOyJQP6LU",
+      "id" : "0XgH1LqGKFdSMqOyJQP6LU",
+      "name" : "Jal Silk",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XgH1LqGKFdSMqOyJQP6LU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DT8sgZ1m5inUHJn5re46O"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1DT8sgZ1m5inUHJn5re46O",
+      "id" : "1DT8sgZ1m5inUHJn5re46O",
+      "name" : "MC Power",
+      "type" : "artist",
+      "uri" : "spotify:artist:1DT8sgZ1m5inUHJn5re46O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1h2OVSKRdJHnVqyCKqCLkf",
+      "id" : "1h2OVSKRdJHnVqyCKqCLkf",
+      "name" : "?uestlove",
+      "type" : "artist",
+      "uri" : "spotify:artist:1h2OVSKRdJHnVqyCKqCLkf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JfH8gevkDviqs50A5NO0L",
+      "id" : "1JfH8gevkDviqs50A5NO0L",
+      "name" : "Chuck D",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JfH8gevkDviqs50A5NO0L"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 15733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USGF19697225"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1U4mTKxqHGkPQGnFHwGcfn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1U4mTKxqHGkPQGnFHwGcfn",
+    "id" : "1U4mTKxqHGkPQGnFHwGcfn",
+    "is_local" : false,
+    "name" : "Outro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:1U4mTKxqHGkPQGnFHwGcfn"
+  } ]
+}

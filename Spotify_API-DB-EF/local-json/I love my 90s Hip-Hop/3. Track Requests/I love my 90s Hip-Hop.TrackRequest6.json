@@ -1,0 +1,3592 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403597"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5XhkV07Vou38wnrzwURUOC",
+    "id" : "5XhkV07Vou38wnrzwURUOC",
+    "is_local" : false,
+    "name" : "Who Am I (What's My Name)?",
+    "popularity" : 5,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5XhkV07Vou38wnrzwURUOC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5CxwOBCoGSvWxfDgNoa1Nv",
+      "id" : "5CxwOBCoGSvWxfDgNoa1Nv",
+      "name" : "The Lady Of Rage",
+      "type" : "artist",
+      "uri" : "spotify:artist:5CxwOBCoGSvWxfDgNoa1Nv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UtQf6Eqewo02lVCo3lImQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UtQf6Eqewo02lVCo3lImQ",
+      "id" : "5UtQf6Eqewo02lVCo3lImQ",
+      "name" : "Tha Dogg Pound",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UtQf6Eqewo02lVCo3lImQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 283546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403598"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3mOBNWyJtPmhwBoZnWf4zr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3mOBNWyJtPmhwBoZnWf4zr",
+    "id" : "3mOBNWyJtPmhwBoZnWf4zr",
+    "is_local" : false,
+    "name" : "For All My Niggaz And Bitches (feat. Tha Dogg Pound & Lady of Rage)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3mOBNWyJtPmhwBoZnWf4zr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6NyJIFHAePjHR1pFxwisqz",
+      "id" : "6NyJIFHAePjHR1pFxwisqz",
+      "name" : "Kurupt",
+      "type" : "artist",
+      "uri" : "spotify:artist:6NyJIFHAePjHR1pFxwisqz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+      "id" : "1Oa0bMld0A3u5OTYfMzp5h",
+      "name" : "Nate Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+      "id" : "2B4ZHz4QDWJTXPFPgO5peE",
+      "name" : "Warren G",
+      "type" : "artist",
+      "uri" : "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403599"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4rLpAOk5KVNcqEMK3m6Lje"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4rLpAOk5KVNcqEMK3m6Lje",
+    "id" : "4rLpAOk5KVNcqEMK3m6Lje",
+    "is_local" : false,
+    "name" : "Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",
+    "popularity" : 2,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4rLpAOk5KVNcqEMK3m6Lje"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2W8UTum7bU7ue6m0r14H97",
+      "id" : "2W8UTum7bU7ue6m0r14H97",
+      "name" : "The Dramatics",
+      "type" : "artist",
+      "uri" : "spotify:artist:2W8UTum7bU7ue6m0r14H97"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5UtQf6Eqewo02lVCo3lImQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5UtQf6Eqewo02lVCo3lImQ",
+      "id" : "5UtQf6Eqewo02lVCo3lImQ",
+      "name" : "Tha Dogg Pound",
+      "type" : "artist",
+      "uri" : "spotify:artist:5UtQf6Eqewo02lVCo3lImQ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 338813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403601"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7pf6YT5CmmQxs6Uz7dABNB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7pf6YT5CmmQxs6Uz7dABNB",
+    "id" : "7pf6YT5CmmQxs6Uz7dABNB",
+    "is_local" : false,
+    "name" : "Doggy Dogg World (feat. The Dramatics & Tha Dogg Pound)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:7pf6YT5CmmQxs6Uz7dABNB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3E2vuvr0IQbReTbXw2MhX8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3E2vuvr0IQbReTbXw2MhX8",
+      "id" : "3E2vuvr0IQbReTbXw2MhX8",
+      "name" : "Nancy Fletcher",
+      "type" : "artist",
+      "uri" : "spotify:artist:3E2vuvr0IQbReTbXw2MhX8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 275893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403603"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dizvxctg9dHEyaYTFufVi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dizvxctg9dHEyaYTFufVi",
+    "id" : "1dizvxctg9dHEyaYTFufVi",
+    "is_local" : false,
+    "name" : "Gz And Hustlas (feat. Nancy Fletcher)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1dizvxctg9dHEyaYTFufVi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+        "id" : "7hJcb9fa4alzcOq3EaNPoG",
+        "name" : "Snoop Dogg",
+        "type" : "artist",
+        "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7f9KDGqY7X2VLBM5aA66KM",
+      "id" : "7f9KDGqY7X2VLBM5aA66KM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e50059a623feb4eec8dcd668",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e50059a623feb4eec8dcd668",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e50059a623feb4eec8dcd668",
+        "width" : 64
+      } ],
+      "name" : "Doggystyle",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7f9KDGqY7X2VLBM5aA66KM"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+      "id" : "7hJcb9fa4alzcOq3EaNPoG",
+      "name" : "Snoop Dogg",
+      "type" : "artist",
+      "uri" : "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46MOnXcAkKehGRnAPqV0Pq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46MOnXcAkKehGRnAPqV0Pq",
+      "id" : "46MOnXcAkKehGRnAPqV0Pq",
+      "name" : "Lil-malik",
+      "type" : "artist",
+      "uri" : "spotify:artist:46MOnXcAkKehGRnAPqV0Pq"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 279320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403605"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/41YxpkgNYgWszp7z0OfwV9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/41YxpkgNYgWszp7z0OfwV9",
+    "id" : "41YxpkgNYgWszp7z0OfwV9",
+    "is_local" : false,
+    "name" : "Pump Pump (feat. Lil' Malik)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:41YxpkgNYgWszp7z0OfwV9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 100333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Hv5csiUhbfzO6VLFv4wtY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Hv5csiUhbfzO6VLFv4wtY",
+    "id" : "0Hv5csiUhbfzO6VLFv4wtY",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ccb571903e36344b41d56c4c9f12583e5808ea84?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0Hv5csiUhbfzO6VLFv4wtY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 241800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Y2Fc21SqMaqTcJSt69oSQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Y2Fc21SqMaqTcJSt69oSQ",
+    "id" : "4Y2Fc21SqMaqTcJSt69oSQ",
+    "is_local" : false,
+    "name" : "If I Die 2Nite",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab9d9bb46ab65219a2cf5e34883e662a748e6409?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4Y2Fc21SqMaqTcJSt69oSQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jVkIBarZULIhNDEnxDKjp",
+      "id" : "4jVkIBarZULIhNDEnxDKjp",
+      "name" : "Dramacydal",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jVkIBarZULIhNDEnxDKjp"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76wJIkA63AgwA92hUhpE2V",
+    "id" : "76wJIkA63AgwA92hUhpE2V",
+    "is_local" : false,
+    "name" : "Me Against The World",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/151ec2cf46164593ce35508d86c8282ee3cd0894?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:76wJIkA63AgwA92hUhpE2V"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0NzNKU2MJ9LCetT2uZMJH2",
+    "id" : "0NzNKU2MJ9LCetT2uZMJH2",
+    "is_local" : false,
+    "name" : "So Many Tears",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9edc923deddf4453cf36cf8319e8226e261daa2e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0NzNKU2MJ9LCetT2uZMJH2"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 300573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1PU3Hy2uNXmWGDe9gh4Ukb",
+    "id" : "1PU3Hy2uNXmWGDe9gh4Ukb",
+    "is_local" : false,
+    "name" : "Temptations",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f732ab341194ae10b57fe2d55ce00a76de782cbe?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1PU3Hy2uNXmWGDe9gh4Ukb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 293333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4tNWSM8gQDsx28Nw1qafkg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4tNWSM8gQDsx28Nw1qafkg",
+    "id" : "4tNWSM8gQDsx28Nw1qafkg",
+    "is_local" : false,
+    "name" : "Young Niggaz",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d9bf1430b776efdcffce552b0567969b85135c24?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:4tNWSM8gQDsx28Nw1qafkg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4hSGrfIm5xRloHXESKxrFd",
+      "id" : "4hSGrfIm5xRloHXESKxrFd",
+      "name" : "Richie Rich",
+      "type" : "artist",
+      "uri" : "spotify:artist:4hSGrfIm5xRloHXESKxrFd"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 261826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1YPwFckhjQgoorq7cNsPw4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1YPwFckhjQgoorq7cNsPw4",
+    "id" : "1YPwFckhjQgoorq7cNsPw4",
+    "is_local" : false,
+    "name" : "Heavy In The Game",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f289183924932bb84a797aeb8011df699088ab0c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1YPwFckhjQgoorq7cNsPw4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4CQUVgzAKW76g3BsQ8KSBS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4CQUVgzAKW76g3BsQ8KSBS",
+    "id" : "4CQUVgzAKW76g3BsQ8KSBS",
+    "is_local" : false,
+    "name" : "Lord Knows",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a818c1c7e8735b91b53d48ec696db1c5b7472a9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4CQUVgzAKW76g3BsQ8KSBS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 280000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tDxrq4FxEL2q15y37tXT9",
+    "id" : "6tDxrq4FxEL2q15y37tXT9",
+    "is_local" : false,
+    "name" : "Dear Mama",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/63f39d6b6ead607c1b65aa8899033da71ada39a2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:6tDxrq4FxEL2q15y37tXT9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 293933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6pFfeJceBPGdzTOGgUcLWZ",
+    "id" : "6pFfeJceBPGdzTOGgUcLWZ",
+    "is_local" : false,
+    "name" : "It Ain't Easy",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/866a7e963f4b2fcaf03373503b480eee72840674?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6pFfeJceBPGdzTOGgUcLWZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 345800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4bFi6vwibnjz38OYapehT7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4bFi6vwibnjz38OYapehT7",
+    "id" : "4bFi6vwibnjz38OYapehT7",
+    "is_local" : false,
+    "name" : "Can U Get Away",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1c56566b4a5b7568eb514b35060eed004ba87198?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4bFi6vwibnjz38OYapehT7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4GGbJ60q5HIN8wKOp9Xabz",
+    "id" : "4GGbJ60q5HIN8wKOp9Xabz",
+    "is_local" : false,
+    "name" : "Old School",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/de93be3b2a973fd037f1cf0ef23f5d7725917c3d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:4GGbJ60q5HIN8wKOp9Xabz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 252560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3oRcZ0wdQQJXYKQjIUawyg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3oRcZ0wdQQJXYKQjIUawyg",
+    "id" : "3oRcZ0wdQQJXYKQjIUawyg",
+    "is_local" : false,
+    "name" : "Fuck The World",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f69c0ee8b9b5063bb7f27d802c6f242a432c59a2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:3oRcZ0wdQQJXYKQjIUawyg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WbPQ8qumpjMzPS0oubUGU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WbPQ8qumpjMzPS0oubUGU",
+    "id" : "4WbPQ8qumpjMzPS0oubUGU",
+    "is_local" : false,
+    "name" : "Death Around The Corner",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5656c6dcfda580116c0f0c16840ca030a7df7fd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4WbPQ8qumpjMzPS0oubUGU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+        "id" : "1ZwdS5xdxEREPySFridCfh",
+        "name" : "2Pac",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OrucS4sHv6Bl9GS4rafEk",
+      "id" : "3OrucS4sHv6Bl9GS4rafEk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27304b9ab6bd4bf6a350ba902ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0204b9ab6bd4bf6a350ba902ea",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485104b9ab6bd4bf6a350ba902ea",
+        "width" : 64
+      } ],
+      "name" : "Me Against The World",
+      "release_date" : "1995-03-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:3OrucS4sHv6Bl9GS4rafEk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZwdS5xdxEREPySFridCfh",
+      "id" : "1ZwdS5xdxEREPySFridCfh",
+      "name" : "2Pac",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4jVkIBarZULIhNDEnxDKjp",
+      "id" : "4jVkIBarZULIhNDEnxDKjp",
+      "name" : "Dramacydal",
+      "type" : "artist",
+      "uri" : "spotify:artist:4jVkIBarZULIhNDEnxDKjp"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 272866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19500015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/140RrIlCVv0FfGuSTrV54f"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/140RrIlCVv0FfGuSTrV54f",
+    "id" : "140RrIlCVv0FfGuSTrV54f",
+    "is_local" : false,
+    "name" : "Outlaw",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5e7ef78ef5b09b8be9065dab93a10b285db87c6d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:140RrIlCVv0FfGuSTrV54f"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 13360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ20080001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Q8GQ2Jg91zyH2oJxab2z0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Q8GQ2Jg91zyH2oJxab2z0",
+    "id" : "5Q8GQ2Jg91zyH2oJxab2z0",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5Q8GQ2Jg91zyH2oJxab2z0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 194733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700572"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4nK3DYHOplHsrioYx6RFeZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4nK3DYHOplHsrioYx6RFeZ",
+    "id" : "4nK3DYHOplHsrioYx6RFeZ",
+    "is_local" : false,
+    "name" : "Richter Scale",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4nK3DYHOplHsrioYx6RFeZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 208360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19700573"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nk7oS0G6qG3ofHUAKbg9F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nk7oS0G6qG3ofHUAKbg9F",
+    "id" : "7nk7oS0G6qG3ofHUAKbg9F",
+    "is_local" : false,
+    "name" : "Da Joint",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7nk7oS0G6qG3ofHUAKbg9F"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 171373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19700514"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/72kSBRQKU6HVDEGv26fd0G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/72kSBRQKU6HVDEGv26fd0G",
+    "id" : "72kSBRQKU6HVDEGv26fd0G",
+    "is_local" : false,
+    "name" : "Never Seen Before",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:72kSBRQKU6HVDEGv26fd0G"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 24533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ20080002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3gOWydbyccmihjm7MpBQ5Q"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3gOWydbyccmihjm7MpBQ5Q",
+    "id" : "3gOWydbyccmihjm7MpBQ5Q",
+    "is_local" : false,
+    "name" : "Skit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3gOWydbyccmihjm7MpBQ5Q"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0auu2itHTxEdAMRHvx7CyG",
+      "id" : "0auu2itHTxEdAMRHvx7CyG",
+      "name" : "Das EFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0auu2itHTxEdAMRHvx7CyG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 217493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700574"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1cP38fnrUiDkStzuOhQKMa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1cP38fnrUiDkStzuOhQKMa",
+    "id" : "1cP38fnrUiDkStzuOhQKMa",
+    "is_local" : false,
+    "name" : "Intrigued",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1cP38fnrUiDkStzuOhQKMa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 215506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700575"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5S2opa4oF9dh8aoWk4rvQk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5S2opa4oF9dh8aoWk4rvQk",
+    "id" : "5S2opa4oF9dh8aoWk4rvQk",
+    "is_local" : false,
+    "name" : "Last Man Standing",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5S2opa4oF9dh8aoWk4rvQk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700576"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3rrACrs1anEhv8rPqDIpUe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3rrACrs1anEhv8rPqDIpUe",
+    "id" : "3rrACrs1anEhv8rPqDIpUe",
+    "is_local" : false,
+    "name" : "Get Wit This",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3rrACrs1anEhv8rPqDIpUe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 170826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700577"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5x6vAAfkaxuGabsn1S1gW6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5x6vAAfkaxuGabsn1S1gW6",
+    "id" : "5x6vAAfkaxuGabsn1S1gW6",
+    "is_local" : false,
+    "name" : "Do It Again",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5x6vAAfkaxuGabsn1S1gW6"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 78440,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700578"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2z5FeYplNouiYZGuE0VZPT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2z5FeYplNouiYZGuE0VZPT",
+    "id" : "2z5FeYplNouiYZGuE0VZPT",
+    "is_local" : false,
+    "name" : "Apollo Interlude",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2z5FeYplNouiYZGuE0VZPT"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 206266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19700579"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3aH6DrhvTzZ7WHTTZ7p1Kb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3aH6DrhvTzZ7WHTTZ7p1Kb",
+    "id" : "3aH6DrhvTzZ7WHTTZ7p1Kb",
+    "is_local" : false,
+    "name" : "You Gots 2 Chill '97",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3aH6DrhvTzZ7WHTTZ7p1Kb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234360,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700580"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6rQpABkAmf31eyMrT0xUrO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6rQpABkAmf31eyMrT0xUrO",
+    "id" : "6rQpABkAmf31eyMrT0xUrO",
+    "is_local" : false,
+    "name" : "Put On",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6rQpABkAmf31eyMrT0xUrO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2bwR166mSJEJrYJqfyust3",
+      "id" : "2bwR166mSJEJrYJqfyust3",
+      "name" : "Keith Murray",
+      "type" : "artist",
+      "uri" : "spotify:artist:2bwR166mSJEJrYJqfyust3"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 276640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700581"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2GtrNoaUSK6b1Sr7hVV6ON"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2GtrNoaUSK6b1Sr7hVV6ON",
+    "id" : "2GtrNoaUSK6b1Sr7hVV6ON",
+    "is_local" : false,
+    "name" : "K.I.M.",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2GtrNoaUSK6b1Sr7hVV6ON"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4N2vLdALVmxGAQJpx82u2q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4N2vLdALVmxGAQJpx82u2q",
+      "id" : "4N2vLdALVmxGAQJpx82u2q",
+      "name" : "Nocturnal",
+      "type" : "artist",
+      "uri" : "spotify:artist:4N2vLdALVmxGAQJpx82u2q"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 204453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700582"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3UKaMuI723dT1jaZ3q3VTb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3UKaMuI723dT1jaZ3q3VTb",
+    "id" : "3UKaMuI723dT1jaZ3q3VTb",
+    "is_local" : false,
+    "name" : "Dungeon Master",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:3UKaMuI723dT1jaZ3q3VTb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 161293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700583"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3urN1CPZykpIuRZGHpW1Jt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3urN1CPZykpIuRZGHpW1Jt",
+    "id" : "3urN1CPZykpIuRZGHpW1Jt",
+    "is_local" : false,
+    "name" : "Jane 5",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3urN1CPZykpIuRZGHpW1Jt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+        "id" : "3zpKjsMg2gw1St5WcWoUJN",
+        "name" : "EPMD",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1lXzdRHclmiVl8whBqzXZh",
+      "id" : "1lXzdRHclmiVl8whBqzXZh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737179be4cdc06ad906e78a9ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027179be4cdc06ad906e78a9ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517179be4cdc06ad906e78a9ab",
+        "width" : 64
+      } ],
+      "name" : "Back In Business",
+      "release_date" : "1997-09-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:1lXzdRHclmiVl8whBqzXZh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zpKjsMg2gw1St5WcWoUJN",
+      "id" : "3zpKjsMg2gw1St5WcWoUJN",
+      "name" : "EPMD",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zpKjsMg2gw1St5WcWoUJN"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 172906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRL19700584"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6DFhiT1hnRr9PSFJj9wK5S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6DFhiT1hnRr9PSFJj9wK5S",
+    "id" : "6DFhiT1hnRr9PSFJj9wK5S",
+    "is_local" : false,
+    "name" : "Never Seen Before",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:6DFhiT1hnRr9PSFJj9wK5S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2AsaIH56oeZNxbi9Sm7WFf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2AsaIH56oeZNxbi9Sm7WFf",
+      "id" : "2AsaIH56oeZNxbi9Sm7WFf",
+      "name" : "Poppa Wu",
+      "type" : "artist",
+      "uri" : "spotify:artist:2AsaIH56oeZNxbi9Sm7WFf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36fcdnH1m97LOw6jre5xmm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/36fcdnH1m97LOw6jre5xmm",
+      "id" : "36fcdnH1m97LOw6jre5xmm",
+      "name" : "Uncle Pete",
+      "type" : "artist",
+      "uri" : "spotify:artist:36fcdnH1m97LOw6jre5xmm"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 406426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900475"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/465EW9vZOfX5FShKm93VXe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/465EW9vZOfX5FShKm93VXe",
+    "id" : "465EW9vZOfX5FShKm93VXe",
+    "is_local" : false,
+    "name" : "Wu-Revolution",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/57a0ca03848c72a00ed80d8adcfa8c33207b710c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:465EW9vZOfX5FShKm93VXe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 321733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900476"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CxOJwC4jqWfPQdahEX9oH",
+    "id" : "2CxOJwC4jqWfPQdahEX9oH",
+    "is_local" : false,
+    "name" : "Reunited",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3a72c93304227bf860ceed730500100a8827dba2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:2CxOJwC4jqWfPQdahEX9oH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dS5xeDefwoUNasLUHnCjR",
+      "id" : "0dS5xeDefwoUNasLUHnCjR",
+      "name" : "Cappadonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dS5xeDefwoUNasLUHnCjR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900477"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5JF2C8MdEonfb2ryeZ9Bxe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5JF2C8MdEonfb2ryeZ9Bxe",
+    "id" : "5JF2C8MdEonfb2ryeZ9Bxe",
+    "is_local" : false,
+    "name" : "For Heavens Sake",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/68b4d631cb5610d31da9f9757c695bd6e145b77b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5JF2C8MdEonfb2ryeZ9Bxe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 181600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900478"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0f4QXQYzy5ocaeIO6DoxrD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0f4QXQYzy5ocaeIO6DoxrD",
+    "id" : "0f4QXQYzy5ocaeIO6DoxrD",
+    "is_local" : false,
+    "name" : "Cash Still Rules / Scary Hours (Still Don't Nothing Move but the Money)",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1a2bd6405e6da991a3f6851a13a51c2e923888c5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0f4QXQYzy5ocaeIO6DoxrD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 189266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900479"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cuy0jpSxGAoTuJE0KORoR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cuy0jpSxGAoTuJE0KORoR",
+    "id" : "3cuy0jpSxGAoTuJE0KORoR",
+    "is_local" : false,
+    "name" : "Visionz",
+    "popularity" : 48,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fd1c38275cd0a5f991ccc7891a2f45ba7a0cd63d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3cuy0jpSxGAoTuJE0KORoR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 158133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900480"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1XbqOF6nx3tJsyQjXRh9ux"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1XbqOF6nx3tJsyQjXRh9ux",
+    "id" : "1XbqOF6nx3tJsyQjXRh9ux",
+    "is_local" : false,
+    "name" : "As High as Wu-Tang Get",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1797b79758dd346d8bc5f76b2ee26e9fd96965f3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1XbqOF6nx3tJsyQjXRh9ux"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 289733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900481"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4RRvVSpreSh8psHZodRUU7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4RRvVSpreSh8psHZodRUU7",
+    "id" : "4RRvVSpreSh8psHZodRUU7",
+    "is_local" : false,
+    "name" : "Severe Punishment",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d04105d33549df9d7c5fb8cb0c36651b0f66b5eb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4RRvVSpreSh8psHZodRUU7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 185960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900482"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3ZwmNUJgd83cZLNbQw6BSB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3ZwmNUJgd83cZLNbQw6BSB",
+    "id" : "3ZwmNUJgd83cZLNbQw6BSB",
+    "is_local" : false,
+    "name" : "Older Gods",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/23a30f903b94376d3f95ed8e11475b71a1a43ba7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3ZwmNUJgd83cZLNbQw6BSB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dS5xeDefwoUNasLUHnCjR",
+      "id" : "0dS5xeDefwoUNasLUHnCjR",
+      "name" : "Cappadonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dS5xeDefwoUNasLUHnCjR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 175373,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900483"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0NaJxQF9ZvQwitHluOa2Ho"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0NaJxQF9ZvQwitHluOa2Ho",
+    "id" : "0NaJxQF9ZvQwitHluOa2Ho",
+    "is_local" : false,
+    "name" : "Maria",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b0fcd63dc7cdbcbe8f804eeee0f29fe91808d727?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0NaJxQF9ZvQwitHluOa2Ho"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 295200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900484"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1OB7p2ulZT8Z8qkY5akeZB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1OB7p2ulZT8Z8qkY5akeZB",
+    "id" : "1OB7p2ulZT8Z8qkY5akeZB",
+    "is_local" : false,
+    "name" : "A Better Tomorrow",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/49b6e6e2e7d1eae30c14bf109ca6d8479bdac1f1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1OB7p2ulZT8Z8qkY5akeZB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 256893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900485"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/31GUM30kjMPY93SrVh1InN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/31GUM30kjMPY93SrVh1InN",
+    "id" : "31GUM30kjMPY93SrVh1InN",
+    "is_local" : false,
+    "name" : "It's Yourz",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5a3c2cde443aeb6cc8659b9412955feca2adf4dd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:31GUM30kjMPY93SrVh1InN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 122800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900486"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/57C8xbz3dy5G68nrVlqBG8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/57C8xbz3dy5G68nrVlqBG8",
+    "id" : "57C8xbz3dy5G68nrVlqBG8",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3ac0f67ed3fa010169ce559f2c9804b32e6acf63?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:57C8xbz3dy5G68nrVlqBG8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+        "id" : "34EP7KEpOjXcM2TCat1ISk",
+        "name" : "Wu-Tang Clan",
+        "type" : "artist",
+        "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4r3TaXjF2b1qwCpxjIpW43"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4r3TaXjF2b1qwCpxjIpW43",
+      "id" : "4r3TaXjF2b1qwCpxjIpW43",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0277e8e20e0ac6182f94654a23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485177e8e20e0ac6182f94654a23",
+        "width" : 64
+      } ],
+      "name" : "Wu-Tang Forever",
+      "release_date" : "1997-06-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4r3TaXjF2b1qwCpxjIpW43"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id" : "34EP7KEpOjXcM2TCat1ISk",
+      "name" : "Wu-Tang Clan",
+      "type" : "artist",
+      "uri" : "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0dS5xeDefwoUNasLUHnCjR",
+      "id" : "0dS5xeDefwoUNasLUHnCjR",
+      "name" : "Cappadonna",
+      "type" : "artist",
+      "uri" : "spotify:artist:0dS5xeDefwoUNasLUHnCjR"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 2,
+    "duration_ms" : 338186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USLR59900487"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3glqlA5qY3bbo8UaUDGPnw",
+    "id" : "3glqlA5qY3bbo8UaUDGPnw",
+    "is_local" : false,
+    "name" : "Triumph",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e15cbaf09a5e8304e7e3f72d12fbeb14bf95f73c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3glqlA5qY3bbo8UaUDGPnw"
+  } ]
+}

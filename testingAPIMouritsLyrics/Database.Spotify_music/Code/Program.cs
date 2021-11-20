@@ -4,15 +4,11 @@ using Newtonsoft.Json.Linq;
 using RestSharp;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading;
 
 namespace musicAPI
 {
@@ -468,6 +464,7 @@ namespace musicAPI
                 }
                 request.AddHeader("Authorization", OAuth);
                 IRestResponse response = client.Execute(request);
+
                 errorCode = SpotifyRequestLog(response, "Ping me", out string log, AppendToTextFile: false);
                 jSonResponse = response.Content;
 

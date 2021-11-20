@@ -1,0 +1,3538 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3llZpeXGCVbJN51XZMhFYh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3llZpeXGCVbJN51XZMhFYh",
+      "id" : "3llZpeXGCVbJN51XZMhFYh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273515017030a043dfed6d78f3d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02515017030a043dfed6d78f3d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851515017030a043dfed6d78f3d",
+        "width" : 64
+      } ],
+      "name" : "Bow Down",
+      "release_date" : "1996-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3llZpeXGCVbJN51XZMhFYh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10000906"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3aSlS6MmE69K324kDamhLJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3aSlS6MmE69K324kDamhLJ",
+    "id" : "3aSlS6MmE69K324kDamhLJ",
+    "is_local" : false,
+    "name" : "3 Time Felons",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d2215851f0bf7221c670eb9ee3adc0b3d71478b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:3aSlS6MmE69K324kDamhLJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3llZpeXGCVbJN51XZMhFYh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3llZpeXGCVbJN51XZMhFYh",
+      "id" : "3llZpeXGCVbJN51XZMhFYh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273515017030a043dfed6d78f3d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02515017030a043dfed6d78f3d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851515017030a043dfed6d78f3d",
+        "width" : 64
+      } ],
+      "name" : "Bow Down",
+      "release_date" : "1996-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3llZpeXGCVbJN51XZMhFYh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 312040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10000907"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QGH41tnAeznWfkzFUO7B1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QGH41tnAeznWfkzFUO7B1",
+    "id" : "0QGH41tnAeznWfkzFUO7B1",
+    "is_local" : false,
+    "name" : "Westward Ho",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4872ee3cc2052e6972c1c131d49e374c5c5ba3f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0QGH41tnAeznWfkzFUO7B1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3llZpeXGCVbJN51XZMhFYh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3llZpeXGCVbJN51XZMhFYh",
+      "id" : "3llZpeXGCVbJN51XZMhFYh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273515017030a043dfed6d78f3d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02515017030a043dfed6d78f3d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851515017030a043dfed6d78f3d",
+        "width" : 64
+      } ],
+      "name" : "Bow Down",
+      "release_date" : "1996-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3llZpeXGCVbJN51XZMhFYh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 14493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USPO10000908"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3CqfeEIC4q0ZMfSEaUsNEx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3CqfeEIC4q0ZMfSEaUsNEx",
+    "id" : "3CqfeEIC4q0ZMfSEaUsNEx",
+    "is_local" : false,
+    "name" : "The Pledge",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3CqfeEIC4q0ZMfSEaUsNEx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3llZpeXGCVbJN51XZMhFYh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3llZpeXGCVbJN51XZMhFYh",
+      "id" : "3llZpeXGCVbJN51XZMhFYh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273515017030a043dfed6d78f3d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02515017030a043dfed6d78f3d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851515017030a043dfed6d78f3d",
+        "width" : 64
+      } ],
+      "name" : "Bow Down",
+      "release_date" : "1996-10-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3llZpeXGCVbJN51XZMhFYh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BH", "BR", "BY", "CL", "CO", "DO", "DZ", "EC", "FR", "HK", "HR", "ID", "IL", "IN", "IS", "KW", "KZ", "LB", "LI", "MA", "MC", "ME", "MK", "MX", "MY", "NZ", "OM", "PA", "PE", "PH", "PS", "QA", "RS", "RU", "SA", "SG", "TH", "TN", "TR", "TW", "UY", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10000909"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1JIok1fu3Du7Sv8QLwklyd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1JIok1fu3Du7Sv8QLwklyd",
+    "id" : "1JIok1fu3Du7Sv8QLwklyd",
+    "is_local" : false,
+    "name" : "Hoo-Bangin' (WSCG Style)",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ad86beb72786376d14b831959b3c266444b71577?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1JIok1fu3Du7Sv8QLwklyd"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 117933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200241"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kro2ciEwlHqZyN0adsml7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kro2ciEwlHqZyN0adsml7",
+    "id" : "3kro2ciEwlHqZyN0adsml7",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e1eb24b411669ffca72ca22c18c267e95bc4bd81?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3kro2ciEwlHqZyN0adsml7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 63973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200242"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1zn8i7XiC8vyqe3HKh2NUV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1zn8i7XiC8vyqe3HKh2NUV",
+    "id" : "1zn8i7XiC8vyqe3HKh2NUV",
+    "is_local" : false,
+    "name" : "(Any Man Intro) The Beat Junkies",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/179d9582526e48555d2c4b148cdb5871c594ac2f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1zn8i7XiC8vyqe3HKh2NUV"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+      "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+      "name" : "Eminem",
+      "type" : "artist",
+      "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 173293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200243"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6DEqHaJ3du3mR33mFFSTEA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6DEqHaJ3du3mR33mFFSTEA",
+    "id" : "6DEqHaJ3du3mR33mFFSTEA",
+    "is_local" : false,
+    "name" : "Any Man",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8ef0a914c9d352b267ed11b6675e6868bac0f124?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6DEqHaJ3du3mR33mFFSTEA"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4hJpETVqz3jIrAH1WUzGEj",
+      "id" : "4hJpETVqz3jIrAH1WUzGEj",
+      "name" : "The High & Mighty",
+      "type" : "artist",
+      "uri" : "spotify:artist:4hJpETVqz3jIrAH1WUzGEj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4FUYJaV3EXmjoyBK7tC6ZF",
+      "id" : "4FUYJaV3EXmjoyBK7tC6ZF",
+      "name" : "Mad Skillz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4FUYJaV3EXmjoyBK7tC6ZF"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 247666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200244"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4yh4gYxEyAgNedFA3O1wu4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4yh4gYxEyAgNedFA3O1wu4",
+    "id" : "4yh4gYxEyAgNedFA3O1wu4",
+    "is_local" : false,
+    "name" : "B-Boy Document 99",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8fee4e9b819192da1bcccf57ffedcb8585bb6a64?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4yh4gYxEyAgNedFA3O1wu4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 61506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200245"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Rf2uCt6iwIHHdilDsWpGp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Rf2uCt6iwIHHdilDsWpGp",
+    "id" : "4Rf2uCt6iwIHHdilDsWpGp",
+    "is_local" : false,
+    "name" : "(WWIII Intro)",
+    "popularity" : 16,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6601483c0b21c4148dd5312ab08eada10b43d854?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4Rf2uCt6iwIHHdilDsWpGp"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5DKuVtlpDH0agZQUFDy8O7",
+      "id" : "5DKuVtlpDH0agZQUFDy8O7",
+      "name" : "Pharoahe Monch",
+      "type" : "artist",
+      "uri" : "spotify:artist:5DKuVtlpDH0agZQUFDy8O7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QkvJ0yMim6MCmN3i0RnCH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QkvJ0yMim6MCmN3i0RnCH",
+      "id" : "4QkvJ0yMim6MCmN3i0RnCH",
+      "name" : "Shabaam Sahdeeq",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QkvJ0yMim6MCmN3i0RnCH"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 209493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200246"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/64EOaqc1XiSLF20qiDAO3Z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/64EOaqc1XiSLF20qiDAO3Z",
+    "id" : "64EOaqc1XiSLF20qiDAO3Z",
+    "is_local" : false,
+    "name" : "WW III",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5cb1e9c4af018e49ebceb7b06cb02effa78a704?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:64EOaqc1XiSLF20qiDAO3Z"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3mUHAiDazZq75gh6If5zoD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3mUHAiDazZq75gh6If5zoD",
+      "id" : "3mUHAiDazZq75gh6If5zoD",
+      "name" : "R.A. The Rugged Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:3mUHAiDazZq75gh6If5zoD"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 212200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200247"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YlJLcXovMDmhZD1vQpiTb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YlJLcXovMDmhZD1vQpiTb",
+    "id" : "3YlJLcXovMDmhZD1vQpiTb",
+    "is_local" : false,
+    "name" : "Stanley Kubrick",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58154dfb3d229258e1091f46a452c14baccfc11e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3YlJLcXovMDmhZD1vQpiTb"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bb5uytW59wDF0gpv8iQbE",
+      "id" : "5bb5uytW59wDF0gpv8iQbE",
+      "name" : "J-Live",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bb5uytW59wDF0gpv8iQbE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ajUo7DyiAOYvCndGLoJ1u"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7ajUo7DyiAOYvCndGLoJ1u",
+      "id" : "7ajUo7DyiAOYvCndGLoJ1u",
+      "name" : "Prince Paul",
+      "type" : "artist",
+      "uri" : "spotify:artist:7ajUo7DyiAOYvCndGLoJ1u"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 49200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200248"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5adQWMmhRaDdSB4HMyaAsB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5adQWMmhRaDdSB4HMyaAsB",
+    "id" : "5adQWMmhRaDdSB4HMyaAsB",
+    "is_local" : false,
+    "name" : "A Message From J-Live & Prince Paul",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/494ce0a5f84b4b17d6c1cee346b14b1e2854a6e4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5adQWMmhRaDdSB4HMyaAsB"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0uyaY0tejAqe1ghCsnmBPx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0uyaY0tejAqe1ghCsnmBPx",
+      "id" : "0uyaY0tejAqe1ghCsnmBPx",
+      "name" : "Kid Capri",
+      "type" : "artist",
+      "uri" : "spotify:artist:0uyaY0tejAqe1ghCsnmBPx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 48533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200249"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/795539sHMb7CYKcTaCY95o"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/795539sHMb7CYKcTaCY95o",
+    "id" : "795539sHMb7CYKcTaCY95o",
+    "is_local" : false,
+    "name" : "(Crosstown Beef Intro)",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5a27fa98e4bbb98c5105a0e9c812e005f568c41?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:795539sHMb7CYKcTaCY95o"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2JbZskmGqJREGYMVb9OlSG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2JbZskmGqJREGYMVb9OlSG",
+      "id" : "2JbZskmGqJREGYMVb9OlSG",
+      "name" : "Medina Green",
+      "type" : "artist",
+      "uri" : "spotify:artist:2JbZskmGqJREGYMVb9OlSG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 270866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200250"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2n1p3nSIcDczxloqb4hxk0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2n1p3nSIcDczxloqb4hxk0",
+    "id" : "2n1p3nSIcDczxloqb4hxk0",
+    "is_local" : false,
+    "name" : "Crosstown Beef",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b46a6af2bc8fa7f42dfabfb43e5f151730a81f19?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2n1p3nSIcDczxloqb4hxk0"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0AqfGv5Nifg1klh0iH4Nqs",
+      "id" : "0AqfGv5Nifg1klh0iH4Nqs",
+      "name" : "Marley Marl",
+      "type" : "artist",
+      "uri" : "spotify:artist:0AqfGv5Nifg1klh0iH4Nqs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+      "id" : "3BeQqzKdlARoOd6y30kCO2",
+      "name" : "Pete Rock",
+      "type" : "artist",
+      "uri" : "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 57440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200251"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6purofjBqy57LUfM4D4yEY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6purofjBqy57LUfM4D4yEY",
+    "id" : "6purofjBqy57LUfM4D4yEY",
+    "is_local" : false,
+    "name" : "(7XL Intro)",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/43b50f6894ed477cfe0b20fb23f76354b24ba493?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:6purofjBqy57LUfM4D4yEY"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lJnfB6AdyWuHfrkspuspn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lJnfB6AdyWuHfrkspuspn",
+      "id" : "5lJnfB6AdyWuHfrkspuspn",
+      "name" : "Sir Menelik",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lJnfB6AdyWuHfrkspuspn"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6IjhOxJSTPh15KgFTSZ68K",
+      "id" : "6IjhOxJSTPh15KgFTSZ68K",
+      "name" : "Grand Puba",
+      "type" : "artist",
+      "uri" : "spotify:artist:6IjhOxJSTPh15KgFTSZ68K"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7fDLDq2weBagiAFD2j17Al",
+      "id" : "7fDLDq2weBagiAFD2j17Al",
+      "name" : "Sadat X",
+      "type" : "artist",
+      "uri" : "spotify:artist:7fDLDq2weBagiAFD2j17Al"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200252"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/32yoWOxo6bJVtdQSvb3ue7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/32yoWOxo6bJVtdQSvb3ue7",
+    "id" : "32yoWOxo6bJVtdQSvb3ue7",
+    "is_local" : false,
+    "name" : "7XL",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a183b59810e465bb97515f9c2d6f043e5cfdb159?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:32yoWOxo6bJVtdQSvb3ue7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vwJ3e6KaQAhLEpBPxCMBC",
+      "id" : "6vwJ3e6KaQAhLEpBPxCMBC",
+      "name" : "Reflection Eternal",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vwJ3e6KaQAhLEpBPxCMBC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ZcRUVs3I5U8EOnm9ZdCsO",
+      "id" : "6ZcRUVs3I5U8EOnm9ZdCsO",
+      "name" : "Bahamadia",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ZcRUVs3I5U8EOnm9ZdCsO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 252360,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200253"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3RDkM4ZvZIypnE2ppQk4NJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3RDkM4ZvZIypnE2ppQk4NJ",
+    "id" : "3RDkM4ZvZIypnE2ppQk4NJ",
+    "is_local" : false,
+    "name" : "Chaos",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/15f7c264c449f883c8a00ee165080f402075fa2f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:3RDkM4ZvZIypnE2ppQk4NJ"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22qf8cJRzBjIWb2Jc4JeOr",
+      "id" : "22qf8cJRzBjIWb2Jc4JeOr",
+      "name" : "Tash",
+      "type" : "artist",
+      "uri" : "spotify:artist:22qf8cJRzBjIWb2Jc4JeOr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56OMwqr8qaLIRH4ZrvvdXq",
+      "id" : "56OMwqr8qaLIRH4ZrvvdXq",
+      "name" : "Dilated Peoples",
+      "type" : "artist",
+      "uri" : "spotify:artist:56OMwqr8qaLIRH4ZrvvdXq"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 184546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200254"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0uPJf84k3WQsz8hREeNHot"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0uPJf84k3WQsz8hREeNHot",
+    "id" : "0uPJf84k3WQsz8hREeNHot",
+    "is_local" : false,
+    "name" : "Soundbombing",
+    "popularity" : 19,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ac405677d96d9b86814404fcf71f95a93c95ab2e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0uPJf84k3WQsz8hREeNHot"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fSShZ7BGBFwLt39PkLHxm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fSShZ7BGBFwLt39PkLHxm",
+      "id" : "4fSShZ7BGBFwLt39PkLHxm",
+      "name" : "Thirstin Howl The 3rd",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fSShZ7BGBFwLt39PkLHxm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 85333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200255"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58odGEXpiSiomdGH5BPLsz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58odGEXpiSiomdGH5BPLsz",
+    "id" : "58odGEXpiSiomdGH5BPLsz",
+    "is_local" : false,
+    "name" : "Brooklyn Hard Rock",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/532d797401768f316a66d9b275d46f8dd0f349bb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:58odGEXpiSiomdGH5BPLsz"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5DKuVtlpDH0agZQUFDy8O7",
+      "id" : "5DKuVtlpDH0agZQUFDy8O7",
+      "name" : "Pharoahe Monch",
+      "type" : "artist",
+      "uri" : "spotify:artist:5DKuVtlpDH0agZQUFDy8O7"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200256"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zbZJxeJhydyY7Kz05tvjP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zbZJxeJhydyY7Kz05tvjP",
+    "id" : "0zbZJxeJhydyY7Kz05tvjP",
+    "is_local" : false,
+    "name" : "Mayor",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c7b34b461ae8c6292ce3f261c3a69f296469ab43?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0zbZJxeJhydyY7Kz05tvjP"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 38866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200257"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4C8tREDNU6Jasost5tCTTP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4C8tREDNU6Jasost5tCTTP",
+    "id" : "4C8tREDNU6Jasost5tCTTP",
+    "is_local" : false,
+    "name" : "(Patriotism Intro)",
+    "popularity" : 11,
+    "preview_url" : "https://p.scdn.co/mp3-preview/534efadb1aa9dcda3baeaaa53fb2fe24988caacc?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:4C8tREDNU6Jasost5tCTTP"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0y0VESpVYa8xyNAxu77kcS",
+      "id" : "0y0VESpVYa8xyNAxu77kcS",
+      "name" : "Company Flow",
+      "type" : "artist",
+      "uri" : "spotify:artist:0y0VESpVYa8xyNAxu77kcS"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200258"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lL2XXzhALTjRd7SUoPTey"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lL2XXzhALTjRd7SUoPTey",
+    "id" : "2lL2XXzhALTjRd7SUoPTey",
+    "is_local" : false,
+    "name" : "Patriotism",
+    "popularity" : 18,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd31201912f2ff93585c3574eb53ba2c1e47bb41?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:2lL2XXzhALTjRd7SUoPTey"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZotbHeyVQKxQCPDJuQ4SU",
+      "id" : "3ZotbHeyVQKxQCPDJuQ4SU",
+      "name" : "Q-Tip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZotbHeyVQKxQCPDJuQ4SU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 82733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200259"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2CDDjOU3wKHgc0qB5mnUBM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2CDDjOU3wKHgc0qB5mnUBM",
+    "id" : "2CDDjOU3wKHgc0qB5mnUBM",
+    "is_local" : false,
+    "name" : "(1999 Intro)",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ae8cce9108c43a1f9fab692a47878a6e1b80106f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:2CDDjOU3wKHgc0qB5mnUBM"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2GHclqNVjqGuiE5mA7BEoc",
+      "id" : "2GHclqNVjqGuiE5mA7BEoc",
+      "name" : "Common",
+      "type" : "artist",
+      "uri" : "spotify:artist:2GHclqNVjqGuiE5mA7BEoc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7fDLDq2weBagiAFD2j17Al",
+      "id" : "7fDLDq2weBagiAFD2j17Al",
+      "name" : "Sadat X",
+      "type" : "artist",
+      "uri" : "spotify:artist:7fDLDq2weBagiAFD2j17Al"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 250333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200260"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/70Y2ZoJssFfGhqIxWfdDeP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/70Y2ZoJssFfGhqIxWfdDeP",
+    "id" : "70Y2ZoJssFfGhqIxWfdDeP",
+    "is_local" : false,
+    "name" : "1999",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5458886b0d44f66b5dd0765f700fa1c868cadbca?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:70Y2ZoJssFfGhqIxWfdDeP"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0qKjtnTTiyLRoH9yj9kKTi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0qKjtnTTiyLRoH9yj9kKTi",
+      "id" : "0qKjtnTTiyLRoH9yj9kKTi",
+      "name" : "Diamond",
+      "type" : "artist",
+      "uri" : "spotify:artist:0qKjtnTTiyLRoH9yj9kKTi"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 123666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200261"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6s9Vp9pgZY5h4Ne4sGtnm8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6s9Vp9pgZY5h4Ne4sGtnm8",
+    "id" : "6s9Vp9pgZY5h4Ne4sGtnm8",
+    "is_local" : false,
+    "name" : "When It Pours It Rains",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6de7bfa2ef37462f1dc826c0f9cabad9442e91f8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 21,
+    "type" : "track",
+    "uri" : "spotify:track:6s9Vp9pgZY5h4Ne4sGtnm8"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 67200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200262"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2pjllNwA6jEiYxxlQqzqYg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2pjllNwA6jEiYxxlQqzqYg",
+    "id" : "2pjllNwA6jEiYxxlQqzqYg",
+    "is_local" : false,
+    "name" : "A Message From Mos Def & The Beat Junkies",
+    "popularity" : 13,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6d615dc3b642582939e1fb5d8f6229b09e61957e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 22,
+    "type" : "track",
+    "uri" : "spotify:track:2pjllNwA6jEiYxxlQqzqYg"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 186080,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200263"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ftNpH0Vc09ixtwSFbBOIx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ftNpH0Vc09ixtwSFbBOIx",
+    "id" : "0ftNpH0Vc09ixtwSFbBOIx",
+    "is_local" : false,
+    "name" : "Next Universe",
+    "popularity" : 20,
+    "preview_url" : "https://p.scdn.co/mp3-preview/742d9356de7b34c7e9cf3d8a0431e6e3aa980ace?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 23,
+    "type" : "track",
+    "uri" : "spotify:track:0ftNpH0Vc09ixtwSFbBOIx"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g2fLiDFPah8xG9QdmG8Zl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7g2fLiDFPah8xG9QdmG8Zl",
+      "id" : "7g2fLiDFPah8xG9QdmG8Zl",
+      "name" : "The Beat Junkies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7g2fLiDFPah8xG9QdmG8Zl"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 43546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200264"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0g3BQ0awIPPXMIZSZPsXvS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0g3BQ0awIPPXMIZSZPsXvS",
+    "id" : "0g3BQ0awIPPXMIZSZPsXvS",
+    "is_local" : false,
+    "name" : "(Every Rhyme I Write Intro)",
+    "popularity" : 12,
+    "preview_url" : "https://p.scdn.co/mp3-preview/271ddf4d2d76e875870bba0fe202a221ce48add9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 24,
+    "type" : "track",
+    "uri" : "spotify:track:0g3BQ0awIPPXMIZSZPsXvS"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4QkvJ0yMim6MCmN3i0RnCH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4QkvJ0yMim6MCmN3i0RnCH",
+      "id" : "4QkvJ0yMim6MCmN3i0RnCH",
+      "name" : "Shabaam Sahdeeq",
+      "type" : "artist",
+      "uri" : "spotify:artist:4QkvJ0yMim6MCmN3i0RnCH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4si2hG4wVEeOD3BIZtUfYm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4si2hG4wVEeOD3BIZtUfYm",
+      "id" : "4si2hG4wVEeOD3BIZtUfYm",
+      "name" : "Cocoa Brovaz",
+      "type" : "artist",
+      "uri" : "spotify:artist:4si2hG4wVEeOD3BIZtUfYm"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 236506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200265"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1HOu8XA1ZEwtZHnlAtcBpA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1HOu8XA1ZEwtZHnlAtcBpA",
+    "id" : "1HOu8XA1ZEwtZHnlAtcBpA",
+    "is_local" : false,
+    "name" : "Every Rhyme I Write",
+    "popularity" : 15,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fd81643468f18e8744d1d53bff90206b0bbbd46d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 25,
+    "type" : "track",
+    "uri" : "spotify:track:1HOu8XA1ZEwtZHnlAtcBpA"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6vwJ3e6KaQAhLEpBPxCMBC",
+      "id" : "6vwJ3e6KaQAhLEpBPxCMBC",
+      "name" : "Reflection Eternal",
+      "type" : "artist",
+      "uri" : "spotify:artist:6vwJ3e6KaQAhLEpBPxCMBC"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 256893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200266"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1sU1V2ZYsTMDYOCipEAeYK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1sU1V2ZYsTMDYOCipEAeYK",
+    "id" : "1sU1V2ZYsTMDYOCipEAeYK",
+    "is_local" : false,
+    "name" : "On Mission",
+    "popularity" : 14,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f727c5bc3c9ffc59137e52d01e24d23a361e2c46?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 26,
+    "type" : "track",
+    "uri" : "spotify:track:1sU1V2ZYsTMDYOCipEAeYK"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cgM0H8iGi1tlMm7bpv1WT",
+      "id" : "4cgM0H8iGi1tlMm7bpv1WT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27346c05a5f63cc9e4405f48961",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0246c05a5f63cc9e4405f48961",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485146c05a5f63cc9e4405f48961",
+        "width" : 64
+      } ],
+      "name" : "Rawkus Presents Soundbombing II",
+      "release_date" : "1999-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 27,
+      "type" : "album",
+      "uri" : "spotify:album:4cgM0H8iGi1tlMm7bpv1WT"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200267"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1vFRWXyh1cD64u7qEx2rQx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1vFRWXyh1cD64u7qEx2rQx",
+    "id" : "1vFRWXyh1cD64u7qEx2rQx",
+    "is_local" : false,
+    "name" : "Outro (Various Artists/Soundbombing II)",
+    "popularity" : 10,
+    "preview_url" : "https://p.scdn.co/mp3-preview/19806f90689d995d8730f5d42abda59a0a28aa33?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 27,
+    "type" : "track",
+    "uri" : "spotify:track:1vFRWXyh1cD64u7qEx2rQx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 48106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FF5vvU2TRGPGCtIjXWBjW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FF5vvU2TRGPGCtIjXWBjW",
+    "id" : "2FF5vvU2TRGPGCtIjXWBjW",
+    "is_local" : false,
+    "name" : "Bacdafucup",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2FF5vvU2TRGPGCtIjXWBjW"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/36SphwdyptWK9qnluWZOb7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/36SphwdyptWK9qnluWZOb7",
+    "id" : "36SphwdyptWK9qnluWZOb7",
+    "is_local" : false,
+    "name" : "Bichasniguz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:36SphwdyptWK9qnluWZOb7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 196533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6JVe7oPsDjdeeIvcViQ407"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6JVe7oPsDjdeeIvcViQ407",
+    "id" : "6JVe7oPsDjdeeIvcViQ407",
+    "is_local" : false,
+    "name" : "Throw Ya Gunz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6JVe7oPsDjdeeIvcViQ407"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 220333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5kdFGYHXMYherb6rDNeVdt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5kdFGYHXMYherb6rDNeVdt",
+    "id" : "5kdFGYHXMYherb6rDNeVdt",
+    "is_local" : false,
+    "name" : "Here N' Now",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5kdFGYHXMYherb6rDNeVdt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 37960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jPLP3mxDSUflIVgzjmSeA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jPLP3mxDSUflIVgzjmSeA",
+    "id" : "1jPLP3mxDSUflIVgzjmSeA",
+    "is_local" : false,
+    "name" : "Bust Dat Ass",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1jPLP3mxDSUflIVgzjmSeA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 192866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0NS3yCkj0D5JdzSID5w5BE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0NS3yCkj0D5JdzSID5w5BE",
+    "id" : "0NS3yCkj0D5JdzSID5w5BE",
+    "is_local" : false,
+    "name" : "Atak Of Da Bal-Hedz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0NS3yCkj0D5JdzSID5w5BE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 46506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3cmbM0x0eA7DdnjZSKmI8W"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3cmbM0x0eA7DdnjZSKmI8W",
+    "id" : "3cmbM0x0eA7DdnjZSKmI8W",
+    "is_local" : false,
+    "name" : "Da Mad Face Invasion",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3cmbM0x0eA7DdnjZSKmI8W"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 192426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7zcybLgZRsHVAZz3heew9a"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7zcybLgZRsHVAZz3heew9a",
+    "id" : "7zcybLgZRsHVAZz3heew9a",
+    "is_local" : false,
+    "name" : "Blac Vagina Finda",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7zcybLgZRsHVAZz3heew9a"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 29466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Tk2IkT9rGrtkhvk5adkVu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Tk2IkT9rGrtkhvk5adkVu",
+    "id" : "4Tk2IkT9rGrtkhvk5adkVu",
+    "is_local" : false,
+    "name" : "Da Bounca Nigga",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4Tk2IkT9rGrtkhvk5adkVu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/241pukzGR3UbaRpzzocKah"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/241pukzGR3UbaRpzzocKah",
+    "id" : "241pukzGR3UbaRpzzocKah",
+    "is_local" : false,
+    "name" : "Nigga Bridges",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:241pukzGR3UbaRpzzocKah"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 183893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/16UcllAsnvEQqSCOd5x6CS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/16UcllAsnvEQqSCOd5x6CS",
+    "id" : "16UcllAsnvEQqSCOd5x6CS",
+    "is_local" : false,
+    "name" : "Onyx Is Here",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:16UcllAsnvEQqSCOd5x6CS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 218506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/38fJv1GvxHkHlgbERUuBCJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/38fJv1GvxHkHlgbERUuBCJ",
+    "id" : "38fJv1GvxHkHlgbERUuBCJ",
+    "is_local" : false,
+    "name" : "Slam",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:38fJv1GvxHkHlgbERUuBCJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 200960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xP8IQvUFWlSXjxxMIWhCN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xP8IQvUFWlSXjxxMIWhCN",
+    "id" : "0xP8IQvUFWlSXjxxMIWhCN",
+    "is_local" : false,
+    "name" : "Stik 'n' Muve",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0xP8IQvUFWlSXjxxMIWhCN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 27440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4CvKGM5Djd1TQu30gKsoOG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4CvKGM5Djd1TQu30gKsoOG",
+    "id" : "4CvKGM5Djd1TQu30gKsoOG",
+    "is_local" : false,
+    "name" : "Bichasbootleguz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4CvKGM5Djd1TQu30gKsoOG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 259760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7a37QUdAnYaCuk2F9UnNOY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7a37QUdAnYaCuk2F9UnNOY",
+    "id" : "7a37QUdAnYaCuk2F9UnNOY",
+    "is_local" : false,
+    "name" : "Shiftee",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:7a37QUdAnYaCuk2F9UnNOY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 197333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6tCTmzQZW5NTiLuQXPs7jB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6tCTmzQZW5NTiLuQXPs7jB",
+    "id" : "6tCTmzQZW5NTiLuQXPs7jB",
+    "is_local" : false,
+    "name" : "Phat - N' All Dat",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:6tCTmzQZW5NTiLuQXPs7jB"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3kqTbFPBbI73QGeQqg7V9J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3kqTbFPBbI73QGeQqg7V9J",
+    "id" : "3kqTbFPBbI73QGeQqg7V9J",
+    "is_local" : false,
+    "name" : "Da Nex Niguz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:3kqTbFPBbI73QGeQqg7V9J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+        "id" : "10Khz9BDdDT2mzm3330Cvu",
+        "name" : "Onyx",
+        "type" : "artist",
+        "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n2OM0rYeHbTg6pe3zCNdl",
+      "id" : "5n2OM0rYeHbTg6pe3zCNdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a9986d8e09fdbcc4e3a65900",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a9986d8e09fdbcc4e3a65900",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a9986d8e09fdbcc4e3a65900",
+        "width" : 64
+      } ],
+      "name" : "Bacdafucup",
+      "release_date" : "1993-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 18,
+      "type" : "album",
+      "uri" : "spotify:album:5n2OM0rYeHbTg6pe3zCNdl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/10Khz9BDdDT2mzm3330Cvu",
+      "id" : "10Khz9BDdDT2mzm3330Cvu",
+      "name" : "Onyx",
+      "type" : "artist",
+      "uri" : "spotify:artist:10Khz9BDdDT2mzm3330Cvu"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 68706,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19300018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qpcCo3EMOQGpTx1aeN2sJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qpcCo3EMOQGpTx1aeN2sJ",
+    "id" : "1qpcCo3EMOQGpTx1aeN2sJ",
+    "is_local" : false,
+    "name" : "Getdafucout",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:1qpcCo3EMOQGpTx1aeN2sJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/67kl5m0df6Bn0aSe3g5Ea7",
+      "id" : "67kl5m0df6Bn0aSe3g5Ea7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273be9fa0b820bcd93392d4047b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02be9fa0b820bcd93392d4047b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851be9fa0b820bcd93392d4047b",
+        "width" : 64
+      } ],
+      "name" : "Hard To Earn",
+      "release_date" : "1994-03-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:67kl5m0df6Bn0aSe3g5Ea7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 54826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USCH34900183"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0DeSF7yV5cZ47sM5vS8X9T"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0DeSF7yV5cZ47sM5vS8X9T",
+    "id" : "0DeSF7yV5cZ47sM5vS8X9T",
+    "is_local" : false,
+    "name" : "Intro (The First Step)",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d6ea709a6a9b53aab0b931a3549bcc9f21c14ae?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0DeSF7yV5cZ47sM5vS8X9T"
+  } ]
+}

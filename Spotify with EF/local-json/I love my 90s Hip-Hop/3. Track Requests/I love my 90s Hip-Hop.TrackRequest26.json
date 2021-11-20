@@ -1,0 +1,2545 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 37293,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19902306"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75yIPJ2cETXO7dJsP0GfSz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75yIPJ2cETXO7dJsP0GfSz",
+    "id" : "75yIPJ2cETXO7dJsP0GfSz",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:75yIPJ2cETXO7dJsP0GfSz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 215040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902307"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qej4n6M8gjjLmxChRPEF7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qej4n6M8gjjLmxChRPEF7",
+    "id" : "1qej4n6M8gjjLmxChRPEF7",
+    "is_local" : false,
+    "name" : "Just Like This",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1qej4n6M8gjjLmxChRPEF7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 289560,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902308"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/47Wf9dKEHGptcL1lyQIsZk",
+    "id" : "47Wf9dKEHGptcL1lyQIsZk",
+    "is_local" : false,
+    "name" : "Nookie",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:47Wf9dKEHGptcL1lyQIsZk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 166706,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902309"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4WJNMSihHL8e4hs9SkBq9C"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4WJNMSihHL8e4hs9SkBq9C",
+    "id" : "4WJNMSihHL8e4hs9SkBq9C",
+    "is_local" : false,
+    "name" : "Break Stuff",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4WJNMSihHL8e4hs9SkBq9C"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 354733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19902310"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7rINFSTxarSW1ZIgh1nraH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7rINFSTxarSW1ZIgh1nraH",
+    "id" : "7rINFSTxarSW1ZIgh1nraH",
+    "is_local" : false,
+    "name" : "Re-Arranged",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7rINFSTxarSW1ZIgh1nraH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 239160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902311"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7cmI7rbzEqFAQobNOo2PEw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7cmI7rbzEqFAQobNOo2PEw",
+    "id" : "7cmI7rbzEqFAQobNOo2PEw",
+    "is_local" : false,
+    "name" : "I'm Broke",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7cmI7rbzEqFAQobNOo2PEw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 260106,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902312"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5xfZTdRMffhNdXh5t8zaCl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5xfZTdRMffhNdXh5t8zaCl",
+    "id" : "5xfZTdRMffhNdXh5t8zaCl",
+    "is_local" : false,
+    "name" : "Nobody Like You",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5xfZTdRMffhNdXh5t8zaCl"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 239933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902313"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4QATtu0mJyUfxtkLMTBLaL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4QATtu0mJyUfxtkLMTBLaL",
+    "id" : "4QATtu0mJyUfxtkLMTBLaL",
+    "is_local" : false,
+    "name" : "Don't Go Off Wandering",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:4QATtu0mJyUfxtkLMTBLaL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 276093,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902314"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4phs3CXz5KSIIIsGVw90zr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4phs3CXz5KSIIIsGVw90zr",
+    "id" : "4phs3CXz5KSIIIsGVw90zr",
+    "is_local" : false,
+    "name" : "9 Teen 90 Nine",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4phs3CXz5KSIIIsGVw90zr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 289866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70822334"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4lqU4WByDFKDGrHknQV6ZC",
+    "id" : "4lqU4WByDFKDGrHknQV6ZC",
+    "is_local" : false,
+    "name" : "N 2 Gether Now",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4lqU4WByDFKDGrHknQV6ZC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 299400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USUM70822335"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5s1IgF0jlLaGJ5jDgqECrE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5s1IgF0jlLaGJ5jDgqECrE",
+    "id" : "5s1IgF0jlLaGJ5jDgqECrE",
+    "is_local" : false,
+    "name" : "Trust?",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5s1IgF0jlLaGJ5jDgqECrE"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902317"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ZGiCqrVOUyyQgYKIi0583"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ZGiCqrVOUyyQgYKIi0583",
+    "id" : "5ZGiCqrVOUyyQgYKIi0583",
+    "is_local" : false,
+    "name" : "No Sex",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:5ZGiCqrVOUyyQgYKIi0583"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 266906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902318"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5rkfBMMaPhIVS7w0VQoO63"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5rkfBMMaPhIVS7w0VQoO63",
+    "id" : "5rkfBMMaPhIVS7w0VQoO63",
+    "is_local" : false,
+    "name" : "Show Me What You Got",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5rkfBMMaPhIVS7w0VQoO63"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 160066,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902319"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0zwQlTD91enX4KRVs01QoV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0zwQlTD91enX4KRVs01QoV",
+    "id" : "0zwQlTD91enX4KRVs01QoV",
+    "is_local" : false,
+    "name" : "A Lesson Learned",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:0zwQlTD91enX4KRVs01QoV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 114893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USIR19902320"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3eHeSgfmV2mFL1QSBGlVVD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3eHeSgfmV2mFL1QSBGlVVD",
+    "id" : "3eHeSgfmV2mFL1QSBGlVVD",
+    "is_local" : false,
+    "name" : "Outro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3eHeSgfmV2mFL1QSBGlVVD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+        "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+        "name" : "Limp Bizkit",
+        "type" : "artist",
+        "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IDsKB7FTBX5QvxNekrVgI",
+      "id" : "0IDsKB7FTBX5QvxNekrVgI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732a3ada146796045b348f3179",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022a3ada146796045b348f3179",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512a3ada146796045b348f3179",
+        "width" : 64
+      } ],
+      "name" : "Significant Other",
+      "release_date" : "1999-06-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:0IDsKB7FTBX5QvxNekrVgI"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 102133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM70822333"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0aG60Suhjs8c9dNFQJxULh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0aG60Suhjs8c9dNFQJxULh",
+    "id" : "0aG60Suhjs8c9dNFQJxULh",
+    "is_local" : false,
+    "name" : "Rant (Matt Pinfield)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0aG60Suhjs8c9dNFQJxULh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 356373,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBAHK9500148"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3KvR9ibYRm7RWs6luokzJm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3KvR9ibYRm7RWs6luokzJm",
+    "id" : "3KvR9ibYRm7RWs6luokzJm",
+    "is_local" : false,
+    "name" : "Rappaz R. N. Dainja",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1b6727c3e50256839c388956b42faca4c9ede948?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3KvR9ibYRm7RWs6luokzJm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ScY9CQxNLQei8Umvpx5g6",
+      "id" : "3ScY9CQxNLQei8Umvpx5g6",
+      "name" : "Fat Joe",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ScY9CQxNLQei8Umvpx5g6"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 265600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300684"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52m7VoHpRfipUJCQJMb2vb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52m7VoHpRfipUJCQJMb2vb",
+    "id" : "52m7VoHpRfipUJCQJMb2vb",
+    "is_local" : false,
+    "name" : "De Automatic (feat. Fat Joe)",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c28cc4c430a54a839e391894b896104239746d5a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:52m7VoHpRfipUJCQJMb2vb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 295933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USJI18800016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0snDRsjNRMJhm7SVja8l6J",
+    "id" : "0snDRsjNRMJhm7SVja8l6J",
+    "is_local" : false,
+    "name" : "MC's Act Like They Don't Know",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/227a0edb084ec7cb402322def31209e189a79c40?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0snDRsjNRMJhm7SVja8l6J"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300685"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Zz1xHgoU0Z41HBOsm1cFd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Zz1xHgoU0Z41HBOsm1cFd",
+    "id" : "4Zz1xHgoU0Z41HBOsm1cFd",
+    "is_local" : false,
+    "name" : "Ah-Yeah",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5949ca26ec1bc5c7fda0e63ad93a33d12e7cc361?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4Zz1xHgoU0Z41HBOsm1cFd"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 254733,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300686"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3YeKDzbMifnsGFUp96Mk8h"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3YeKDzbMifnsGFUp96Mk8h",
+    "id" : "3YeKDzbMifnsGFUp96Mk8h",
+    "is_local" : false,
+    "name" : "R.E.A.L.I.T.Y.",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fcbc8de02a62e7387295642623400d15a697c082?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3YeKDzbMifnsGFUp96Mk8h"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5qik0lR9qY7eQPYAK4OUTo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5qik0lR9qY7eQPYAK4OUTo",
+      "id" : "5qik0lR9qY7eQPYAK4OUTo",
+      "name" : "Channel Live",
+      "type" : "artist",
+      "uri" : "spotify:artist:5qik0lR9qY7eQPYAK4OUTo"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259399,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300687"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3vvVOO6f5lNfaOPBkVbOAo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3vvVOO6f5lNfaOPBkVbOAo",
+    "id" : "3vvVOO6f5lNfaOPBkVbOAo",
+    "is_local" : false,
+    "name" : "Free Mumia (feat. Channel Live)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/46aaff852c72a760c764c9729b9abb3dcb4b755a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3vvVOO6f5lNfaOPBkVbOAo"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 355400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300688"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7uTXQJCRJkYtjC0Rvdy62y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7uTXQJCRJkYtjC0Rvdy62y",
+    "id" : "7uTXQJCRJkYtjC0Rvdy62y",
+    "is_local" : false,
+    "name" : "Hold",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9cc4a3b00ea58ad66d7bfc39ee5d9d717868d081?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7uTXQJCRJkYtjC0Rvdy62y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3xpJzqE3evjd4GzQ9pcHNr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3xpJzqE3evjd4GzQ9pcHNr",
+      "id" : "3xpJzqE3evjd4GzQ9pcHNr",
+      "name" : "Mad Lion",
+      "type" : "artist",
+      "uri" : "spotify:artist:3xpJzqE3evjd4GzQ9pcHNr"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 262133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300689"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5mSIDZa8ul2PyzjDsOkGMw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5mSIDZa8ul2PyzjDsOkGMw",
+    "id" : "5mSIDZa8ul2PyzjDsOkGMw",
+    "is_local" : false,
+    "name" : "Wannabemceez (feat. Mad Lion)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2103838eab5fa75f61b3121997b948d221dec426?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5mSIDZa8ul2PyzjDsOkGMw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0auu2itHTxEdAMRHvx7CyG",
+      "id" : "0auu2itHTxEdAMRHvx7CyG",
+      "name" : "Das EFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0auu2itHTxEdAMRHvx7CyG"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 278906,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300690"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0TOpCWSjn6VZLutjSfEVDg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0TOpCWSjn6VZLutjSfEVDg",
+    "id" : "0TOpCWSjn6VZLutjSfEVDg",
+    "is_local" : false,
+    "name" : "Represent The Real Hip Hop (feat. Das EFX)",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4868db733ef7e15738ea9ea54f2e48c7d2884bc5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0TOpCWSjn6VZLutjSfEVDg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 227160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6W0BPEnpvuP62EdUMMGWuh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6W0BPEnpvuP62EdUMMGWuh",
+    "id" : "6W0BPEnpvuP62EdUMMGWuh",
+    "is_local" : false,
+    "name" : "The Truth",
+    "popularity" : 22,
+    "preview_url" : "https://p.scdn.co/mp3-preview/993177d5d1ce33364d7d7708c013c09d8c608ed3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:6W0BPEnpvuP62EdUMMGWuh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 282173,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300692"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ItSq9s9nLqkzTNtpy2FfN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ItSq9s9nLqkzTNtpy2FfN",
+    "id" : "4ItSq9s9nLqkzTNtpy2FfN",
+    "is_local" : false,
+    "name" : "Build Ya Skillz (feat. Busta Rhymes)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/620b9d491a4688fab42a05c3ca13b646ff83dac5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:4ItSq9s9nLqkzTNtpy2FfN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 292760,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300693"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0jmcEc0GDlmzvnYxlEbFC9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0jmcEc0GDlmzvnYxlEbFC9",
+    "id" : "0jmcEc0GDlmzvnYxlEbFC9",
+    "is_local" : false,
+    "name" : "Out For Fame",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/104abd1b69b3f91e71b7768e9dfe0492a5b1018b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0jmcEc0GDlmzvnYxlEbFC9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 304266,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300694"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5PJkm7Jyx3u5xiLdoGmJbV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5PJkm7Jyx3u5xiLdoGmJbV",
+    "id" : "5PJkm7Jyx3u5xiLdoGmJbV",
+    "is_local" : false,
+    "name" : "Squash All Beef",
+    "popularity" : 23,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3011f8c4edd16c0eafe6e01c1e42192ce746359d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5PJkm7Jyx3u5xiLdoGmJbV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+        "id" : "2gINJ8xw86xawPyGvx1bla",
+        "name" : "KRS-One",
+        "type" : "artist",
+        "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17C90B1H8gxYa664SSVM9x",
+      "id" : "17C90B1H8gxYa664SSVM9x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d0c36501e3574923c5a4c126",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d0c36501e3574923c5a4c126",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d0c36501e3574923c5a4c126",
+        "width" : 64
+      } ],
+      "name" : "KRS-One",
+      "release_date" : "1995-10-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:17C90B1H8gxYa664SSVM9x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2gINJ8xw86xawPyGvx1bla",
+      "id" : "2gINJ8xw86xawPyGvx1bla",
+      "name" : "KRS-One",
+      "type" : "artist",
+      "uri" : "spotify:artist:2gINJ8xw86xawPyGvx1bla"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 298640,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USJI10300695"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/34nLtDzuqX3GfUeraqhnJK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/34nLtDzuqX3GfUeraqhnJK",
+    "id" : "34nLtDzuqX3GfUeraqhnJK",
+    "is_local" : false,
+    "name" : "Health, Wealth, Self",
+    "popularity" : 21,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6662c825438382f92b37087914a87346c8628d84?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:34nLtDzuqX3GfUeraqhnJK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 67306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584248"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LMU3W97FxsgPNEzlJWnvb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LMU3W97FxsgPNEzlJWnvb",
+    "id" : "5LMU3W97FxsgPNEzlJWnvb",
+    "is_local" : false,
+    "name" : "Exxtra Special Thankz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5LMU3W97FxsgPNEzlJWnvb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 332626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584249"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4G19iP1Ltd4GLknCiS2k7y",
+    "id" : "4G19iP1Ltd4GLknCiS2k7y",
+    "is_local" : false,
+    "name" : "Real Muthaphuckkin G's",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4G19iP1Ltd4GLknCiS2k7y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 309666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584250"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2jaoNboJeoE62ZmH9sRsae"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2jaoNboJeoE62ZmH9sRsae",
+    "id" : "2jaoNboJeoE62ZmH9sRsae",
+    "is_local" : false,
+    "name" : "Any Last Werdz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:2jaoNboJeoE62ZmH9sRsae"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 250533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584251"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Updasr0FRE9PKoBIDZMwF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Updasr0FRE9PKoBIDZMwF",
+    "id" : "1Updasr0FRE9PKoBIDZMwF",
+    "is_local" : false,
+    "name" : "Still a Nigga",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1Updasr0FRE9PKoBIDZMwF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 175240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584252"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Q8Xg6K1xdznJcTM0N1Uy3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Q8Xg6K1xdznJcTM0N1Uy3",
+    "id" : "1Q8Xg6K1xdznJcTM0N1Uy3",
+    "is_local" : false,
+    "name" : "Gimmie That Nutt",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1Q8Xg6K1xdznJcTM0N1Uy3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 302200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584253"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2vOZhEwjfVifDcGMozP2iS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2vOZhEwjfVifDcGMozP2iS",
+    "id" : "2vOZhEwjfVifDcGMozP2iS",
+    "is_local" : false,
+    "name" : "It's On",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2vOZhEwjfVifDcGMozP2iS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 338960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584254"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3CbdPrSQomYSq4z6U9CY2O"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3CbdPrSQomYSq4z6U9CY2O",
+    "id" : "3CbdPrSQomYSq4z6U9CY2O",
+    "is_local" : false,
+    "name" : "Boyz n Tha Hood (G-Mix)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:3CbdPrSQomYSq4z6U9CY2O"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+        "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+        "name" : "Eazy-E",
+        "type" : "artist",
+        "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+      },
+      "href" : "https://api.spotify.com/v1/albums/71eBk8GA96rDQYOhIparqH",
+      "id" : "71eBk8GA96rDQYOhIparqH",
+      "images" : [ ],
+      "name" : "It's On (Dr. Dre) 187um Killa",
+      "release_date" : "1993",
+      "release_date_precision" : "year",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:71eBk8GA96rDQYOhIparqH"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7B4hKK0S9QYnaoqa9OuwgX",
+      "id" : "7B4hKK0S9QYnaoqa9OuwgX",
+      "name" : "Eazy-E",
+      "type" : "artist",
+      "uri" : "spotify:artist:7B4hKK0S9QYnaoqa9OuwgX"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 470733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMFMG1584255"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YRVG0hSYcuVWFxNSfanMa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YRVG0hSYcuVWFxNSfanMa",
+    "id" : "0YRVG0hSYcuVWFxNSfanMa",
+    "is_local" : false,
+    "name" : "Down 2 Tha Last Roach",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0YRVG0hSYcuVWFxNSfanMa"
+  } ]
+}

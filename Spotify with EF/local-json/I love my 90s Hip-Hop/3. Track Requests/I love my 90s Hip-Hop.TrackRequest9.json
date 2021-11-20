@@ -1,0 +1,3493 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+        "id" : "20qISvAhX20dpIbOOzGK3q",
+        "name" : "Nas",
+        "type" : "artist",
+        "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id" : "4UhEjfIRx4tE1XRY21vwNa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+        "width" : 64
+      } ],
+      "name" : "I Am...",
+      "release_date" : "1999-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM19804989"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Iwcr0b2B60o5PT5iEHrAi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Iwcr0b2B60o5PT5iEHrAi",
+    "id" : "7Iwcr0b2B60o5PT5iEHrAi",
+    "is_local" : false,
+    "name" : "Big Things",
+    "popularity" : 32,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3b1e882fe02627837a39a04e01afd69e3f71f948?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7Iwcr0b2B60o5PT5iEHrAi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+        "id" : "20qISvAhX20dpIbOOzGK3q",
+        "name" : "Nas",
+        "type" : "artist",
+        "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id" : "4UhEjfIRx4tE1XRY21vwNa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+        "width" : 64
+      } ],
+      "name" : "I Am...",
+      "release_date" : "1999-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 237026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM19804988"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3gY6tiCNsuVi6s8kPV6aQg",
+    "id" : "3gY6tiCNsuVi6s8kPV6aQg",
+    "is_local" : false,
+    "name" : "Nas Is Like",
+    "popularity" : 65,
+    "preview_url" : "https://p.scdn.co/mp3-preview/e22e0f35a2ee8b75d3c4dd5147ad39d7dd203251?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:3gY6tiCNsuVi6s8kPV6aQg"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+        "id" : "20qISvAhX20dpIbOOzGK3q",
+        "name" : "Nas",
+        "type" : "artist",
+        "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id" : "4UhEjfIRx4tE1XRY21vwNa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+        "width" : 64
+      } ],
+      "name" : "I Am...",
+      "release_date" : "1999-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 255640,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM19900384"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1dpUnukOjGOP4CdHJZiPzI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1dpUnukOjGOP4CdHJZiPzI",
+    "id" : "1dpUnukOjGOP4CdHJZiPzI",
+    "is_local" : false,
+    "name" : "K-I-SS-I-N-G",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5fcbbee882de2ac853981e629ec2669951e192b1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1dpUnukOjGOP4CdHJZiPzI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+        "id" : "20qISvAhX20dpIbOOzGK3q",
+        "name" : "Nas",
+        "type" : "artist",
+        "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id" : "4UhEjfIRx4tE1XRY21vwNa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+        "width" : 64
+      } ],
+      "name" : "I Am...",
+      "release_date" : "1999-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM19804982"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5TusCkEgWsa6Hg7T42nr9S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5TusCkEgWsa6Hg7T42nr9S",
+    "id" : "5TusCkEgWsa6Hg7T42nr9S",
+    "is_local" : false,
+    "name" : "Money Is My Bitch",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/498afe84459f589a3d397576f4d6164723459509?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5TusCkEgWsa6Hg7T42nr9S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+        "id" : "20qISvAhX20dpIbOOzGK3q",
+        "name" : "Nas",
+        "type" : "artist",
+        "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id" : "4UhEjfIRx4tE1XRY21vwNa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+        "width" : 64
+      } ],
+      "name" : "I Am...",
+      "release_date" : "1999-04-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 16,
+      "type" : "album",
+      "uri" : "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id" : "20qISvAhX20dpIbOOzGK3q",
+      "name" : "Nas",
+      "type" : "artist",
+      "uri" : "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 263040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USSM19804984"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0OtAcALQWU3ASePTpFTFXm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0OtAcALQWU3ASePTpFTFXm",
+    "id" : "0OtAcALQWU3ASePTpFTFXm",
+    "is_local" : false,
+    "name" : "Undying Love",
+    "popularity" : 37,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6495829585c73bbc3680aa11cc3cdd8fc37e3561?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0OtAcALQWU3ASePTpFTFXm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 296813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403724"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5X2NLMWzdZR1A5D6CV1Paj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5X2NLMWzdZR1A5D6CV1Paj",
+    "id" : "5X2NLMWzdZR1A5D6CV1Paj",
+    "is_local" : false,
+    "name" : "Bomb First (My Second Reply)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5X2NLMWzdZR1A5D6CV1Paj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 309800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403725"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4akCwzFRS8Syu5uFy7L1sG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4akCwzFRS8Syu5uFy7L1sG",
+    "id" : "4akCwzFRS8Syu5uFy7L1sG",
+    "is_local" : false,
+    "name" : "Hail Mary",
+    "popularity" : 3,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4akCwzFRS8Syu5uFy7L1sG"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 306266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403726"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ODyMvsNk3iCgmXJ4Sze4D"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ODyMvsNk3iCgmXJ4Sze4D",
+    "id" : "5ODyMvsNk3iCgmXJ4Sze4D",
+    "is_local" : false,
+    "name" : "Toss It Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5ODyMvsNk3iCgmXJ4Sze4D"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 273426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403727"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZvhmUmU6zeoo1oNKwBYgf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZvhmUmU6zeoo1oNKwBYgf",
+    "id" : "1ZvhmUmU6zeoo1oNKwBYgf",
+    "is_local" : false,
+    "name" : "To Live And Die In L.A.",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:1ZvhmUmU6zeoo1oNKwBYgf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 278440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403728"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1jNWEV7WP1pFZCQVqgjp3x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1jNWEV7WP1pFZCQVqgjp3x",
+    "id" : "1jNWEV7WP1pFZCQVqgjp3x",
+    "is_local" : false,
+    "name" : "Blasphemy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:1jNWEV7WP1pFZCQVqgjp3x"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 295560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403729"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hDUDWC4tSaBtTvCx1W5Xb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hDUDWC4tSaBtTvCx1W5Xb",
+    "id" : "0hDUDWC4tSaBtTvCx1W5Xb",
+    "is_local" : false,
+    "name" : "Life Of An Outlaw",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0hDUDWC4tSaBtTvCx1W5Xb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 307066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403730"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5CjSzYSuKm0Uq8hrWraQAb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5CjSzYSuKm0Uq8hrWraQAb",
+    "id" : "5CjSzYSuKm0Uq8hrWraQAb",
+    "is_local" : false,
+    "name" : "Just Like Daddy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5CjSzYSuKm0Uq8hrWraQAb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 315866,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403731"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ny3lCoKe9mev03IvHfbJY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ny3lCoKe9mev03IvHfbJY",
+    "id" : "5ny3lCoKe9mev03IvHfbJY",
+    "is_local" : false,
+    "name" : "Krazy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5ny3lCoKe9mev03IvHfbJY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 338466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403732"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52A8AaMeRwYKPIPSnVDLP9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52A8AaMeRwYKPIPSnVDLP9",
+    "id" : "52A8AaMeRwYKPIPSnVDLP9",
+    "is_local" : false,
+    "name" : "White Man'z World",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:52A8AaMeRwYKPIPSnVDLP9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 308266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403733"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5kGsDi86P9pZux4x4wopHV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5kGsDi86P9pZux4x4wopHV",
+    "id" : "5kGsDi86P9pZux4x4wopHV",
+    "is_local" : false,
+    "name" : "Me And My Girlfriend",
+    "popularity" : 1,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:5kGsDi86P9pZux4x4wopHV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 238546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403734"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/76Ne52p9Lqihl9cWOXdq3U"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/76Ne52p9Lqihl9cWOXdq3U",
+    "id" : "76Ne52p9Lqihl9cWOXdq3U",
+    "is_local" : false,
+    "name" : "Hold Ya Head",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:76Ne52p9Lqihl9cWOXdq3U"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+        "id" : "4pmNqFu71wEmFXSsYAiWK8",
+        "name" : "Makaveli",
+        "type" : "artist",
+        "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3OR89PVUDdYVpuwQw9kALG",
+      "id" : "3OR89PVUDdYVpuwQw9kALG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735fef8582cdf1c93da83f7038",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025fef8582cdf1c93da83f7038",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515fef8582cdf1c93da83f7038",
+        "width" : 64
+      } ],
+      "name" : "The Don Killuminati: The 7 Day Theory",
+      "release_date" : "1996-11-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:3OR89PVUDdYVpuwQw9kALG"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4pmNqFu71wEmFXSsYAiWK8",
+      "id" : "4pmNqFu71wEmFXSsYAiWK8",
+      "name" : "Makaveli",
+      "type" : "artist",
+      "uri" : "spotify:artist:4pmNqFu71wEmFXSsYAiWK8"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 277226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USKO10403735"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0P1gmN35r2OnPy59kgspnZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0P1gmN35r2OnPy59kgspnZ",
+    "id" : "0P1gmN35r2OnPy59kgspnZ",
+    "is_local" : false,
+    "name" : "Against All Odds",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0P1gmN35r2OnPy59kgspnZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 249933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800733"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1fCfq7brgINIAJ3I4RnJh1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1fCfq7brgINIAJ3I4RnJh1",
+    "id" : "1fCfq7brgINIAJ3I4RnJh1",
+    "is_local" : false,
+    "name" : "Intro",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1fCfq7brgINIAJ3I4RnJh1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 214440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800734"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5H0dVldtI6HJZnEXzigKfY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5H0dVldtI6HJZnEXzigKfY",
+    "id" : "5H0dVldtI6HJZnEXzigKfY",
+    "is_local" : false,
+    "name" : "Ruff Ryders' Anthem",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5H0dVldtI6HJZnEXzigKfY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 138026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800735"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0wX9REsYpJO3szfUUsppwD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0wX9REsYpJO3szfUUsppwD",
+    "id" : "0wX9REsYpJO3szfUUsppwD",
+    "is_local" : false,
+    "name" : "Fuckin' Wit' D",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0wX9REsYpJO3szfUUsppwD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 60840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWWW0141702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6viuCn1Cur7kNQJSh5UIsK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6viuCn1Cur7kNQJSh5UIsK",
+    "id" : "6viuCn1Cur7kNQJSh5UIsK",
+    "is_local" : false,
+    "name" : "The Storm",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6viuCn1Cur7kNQJSh5UIsK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 230426,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800736"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7fslone2SkAcikxKwwMdEZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7fslone2SkAcikxKwwMdEZ",
+    "id" : "7fslone2SkAcikxKwwMdEZ",
+    "is_local" : false,
+    "name" : "Look Thru My Eyes",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7fslone2SkAcikxKwwMdEZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0bbN8BIF8Ys24597Zajine"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0bbN8BIF8Ys24597Zajine",
+      "id" : "0bbN8BIF8Ys24597Zajine",
+      "name" : "Sheek",
+      "type" : "artist",
+      "uri" : "spotify:artist:0bbN8BIF8Ys24597Zajine"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800737"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6y1tdcSoVcYZubXtCE0zRO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6y1tdcSoVcYZubXtCE0zRO",
+    "id" : "6y1tdcSoVcYZubXtCE0zRO",
+    "is_local" : false,
+    "name" : "Get At Me Dog",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:6y1tdcSoVcYZubXtCE0zRO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800738"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/60uBTkmWtfCMhDfS8NbuvI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/60uBTkmWtfCMhDfS8NbuvI",
+    "id" : "60uBTkmWtfCMhDfS8NbuvI",
+    "is_local" : false,
+    "name" : "Let Me Fly",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:60uBTkmWtfCMhDfS8NbuvI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 258533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJM0200023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7CaCfsBfmakAxVhDyY8EWr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7CaCfsBfmakAxVhDyY8EWr",
+    "id" : "7CaCfsBfmakAxVhDyY8EWr",
+    "is_local" : false,
+    "name" : "X-Is Coming",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7CaCfsBfmakAxVhDyY8EWr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800740"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0q4mz91quSTWuV33UzJslD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0q4mz91quSTWuV33UzJslD",
+    "id" : "0q4mz91quSTWuV33UzJslD",
+    "is_local" : false,
+    "name" : "Damien",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0q4mz91quSTWuV33UzJslD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 282906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800741"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/343xt5q01Q73Yw6uL0jGVD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/343xt5q01Q73Yw6uL0jGVD",
+    "id" : "343xt5q01Q73Yw6uL0jGVD",
+    "is_local" : false,
+    "name" : "How's It Goin' Down",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:343xt5q01Q73Yw6uL0jGVD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 25000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWWW0141691"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Mdt9GzG8Lgim3U4SuN0bN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Mdt9GzG8Lgim3U4SuN0bN",
+    "id" : "2Mdt9GzG8Lgim3U4SuN0bN",
+    "is_local" : false,
+    "name" : "Mickey",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2Mdt9GzG8Lgim3U4SuN0bN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 227693,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800742"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1BnKFxq0Iswu8hfIg36Hs0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1BnKFxq0Iswu8hfIg36Hs0",
+    "id" : "1BnKFxq0Iswu8hfIg36Hs0",
+    "is_local" : false,
+    "name" : "Crime Story",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1BnKFxq0Iswu8hfIg36Hs0"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 216906,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800743"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5B2Xx0SXsiYZ0OK8q7I27d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5B2Xx0SXsiYZ0OK8q7I27d",
+    "id" : "5B2Xx0SXsiYZ0OK8q7I27d",
+    "is_local" : false,
+    "name" : "Stop Being Greedy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5B2Xx0SXsiYZ0OK8q7I27d"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 116133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800744"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ylJPeABbyblwbZ1rsHzyt"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ylJPeABbyblwbZ1rsHzyt",
+    "id" : "4ylJPeABbyblwbZ1rsHzyt",
+    "is_local" : false,
+    "name" : "ATF",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:4ylJPeABbyblwbZ1rsHzyt"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2NsAJcAM18AExiMWKLKzuH",
+      "id" : "2NsAJcAM18AExiMWKLKzuH",
+      "name" : "Drag-On",
+      "type" : "artist",
+      "uri" : "spotify:artist:2NsAJcAM18AExiMWKLKzuH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qUOX2z1S7tpp9UrgJZ6rc"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3qUOX2z1S7tpp9UrgJZ6rc",
+      "id" : "3qUOX2z1S7tpp9UrgJZ6rc",
+      "name" : "Loose",
+      "type" : "artist",
+      "uri" : "spotify:artist:3qUOX2z1S7tpp9UrgJZ6rc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0wWxSCpA5vzDAbhrGnVeOd",
+      "id" : "0wWxSCpA5vzDAbhrGnVeOd",
+      "name" : "Big Stan",
+      "type" : "artist",
+      "uri" : "spotify:artist:0wWxSCpA5vzDAbhrGnVeOd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6rU8Xn3O12iUhFCKWNkHDf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6rU8Xn3O12iUhFCKWNkHDf",
+      "id" : "6rU8Xn3O12iUhFCKWNkHDf",
+      "name" : "Kasino",
+      "type" : "artist",
+      "uri" : "spotify:artist:6rU8Xn3O12iUhFCKWNkHDf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 251240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800745"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3h0ypxCulm475QXS66MtSR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3h0ypxCulm475QXS66MtSR",
+    "id" : "3h0ypxCulm475QXS66MtSR",
+    "is_local" : false,
+    "name" : "For My Dogs",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:3h0ypxCulm475QXS66MtSR"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 252106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800746"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0FDFVHjCwgwfAiQl5Y1Xvi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0FDFVHjCwgwfAiQl5Y1Xvi",
+    "id" : "0FDFVHjCwgwfAiQl5Y1Xvi",
+    "is_local" : false,
+    "name" : "I Can Feel It",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:0FDFVHjCwgwfAiQl5Y1Xvi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 152133,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USWWW0141697"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/707KUYXJhGuHjcgtpOStzN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/707KUYXJhGuHjcgtpOStzN",
+    "id" : "707KUYXJhGuHjcgtpOStzN",
+    "is_local" : false,
+    "name" : "Prayer",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:707KUYXJhGuHjcgtpOStzN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 213840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800747"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/14Ip6qkBuoxQT0Ug18ESSN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/14Ip6qkBuoxQT0Ug18ESSN",
+    "id" : "14Ip6qkBuoxQT0Ug18ESSN",
+    "is_local" : false,
+    "name" : "The Convo",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:14Ip6qkBuoxQT0Ug18ESSN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+        "id" : "1HwM5zlC5qNWhJtM00yXzG",
+        "name" : "DMX",
+        "type" : "artist",
+        "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2KwZgeD7BnTrOtiNvFr7CL",
+      "id" : "2KwZgeD7BnTrOtiNvFr7CL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325dbf27ba91eb27124be9a39",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225dbf27ba91eb27124be9a39",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125dbf27ba91eb27124be9a39",
+        "width" : 64
+      } ],
+      "name" : "It's Dark And Hell Is Hot",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:2KwZgeD7BnTrOtiNvFr7CL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0A7g2YbCA9FlyZvAG6VmKP",
+      "id" : "0A7g2YbCA9FlyZvAG6VmKP",
+      "name" : "The LOX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0A7g2YbCA9FlyZvAG6VmKP"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wiBLzTI7z9RUwEpNPdFT6",
+      "id" : "1wiBLzTI7z9RUwEpNPdFT6",
+      "name" : "Mase",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wiBLzTI7z9RUwEpNPdFT6"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 309226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19800748"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2nYu5umq1DxkmWGilWRGt9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2nYu5umq1DxkmWGilWRGt9",
+    "id" : "2nYu5umq1DxkmWGilWRGt9",
+    "is_local" : false,
+    "name" : "Niggaz Done Started Something",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:2nYu5umq1DxkmWGilWRGt9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 268666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200224"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0hR9z6ZW4syDhPvtZJXmcv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0hR9z6ZW4syDhPvtZJXmcv",
+    "id" : "0hR9z6ZW4syDhPvtZJXmcv",
+    "is_local" : false,
+    "name" : "Fear Not Of Man",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4458991591169ab0c1b7925d8902d4a97dac32fd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:0hR9z6ZW4syDhPvtZJXmcv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 196440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200225"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4gQdwwPXSXnDkUh4jYqLoC",
+    "id" : "4gQdwwPXSXnDkUh4jYqLoC",
+    "is_local" : false,
+    "name" : "Hip Hop",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f5b5c3469e95efc18eb80abb67896970a72d3cf1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4gQdwwPXSXnDkUh4jYqLoC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 263200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200226"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1L6YNFDSQa8UjX7vzPXXD4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1L6YNFDSQa8UjX7vzPXXD4",
+    "id" : "1L6YNFDSQa8UjX7vzPXXD4",
+    "is_local" : false,
+    "name" : "Love",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b3b28a616894c548a75c628eb5ac82c45463f514?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1L6YNFDSQa8UjX7vzPXXD4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 223546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200227"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0IVAlb0cFCH1cQ974iR1TU",
+    "id" : "0IVAlb0cFCH1cQ974iR1TU",
+    "is_local" : false,
+    "name" : "Ms. Fat Booty",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b86f3fe5889b796dfe409aa8cf517b2086638213?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0IVAlb0cFCH1cQ974iR1TU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 256453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200228"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5WwGFUPLWz6t7jROXn6j4M"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5WwGFUPLWz6t7jROXn6j4M",
+    "id" : "5WwGFUPLWz6t7jROXn6j4M",
+    "is_local" : false,
+    "name" : "Speed Law",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/895a063cd7bd81e38f4bf16bc13571697ef9d9a3?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:5WwGFUPLWz6t7jROXn6j4M"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229546,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200229"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0G08twG9Snacd3TgJ2IC6r"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0G08twG9Snacd3TgJ2IC6r",
+    "id" : "0G08twG9Snacd3TgJ2IC6r",
+    "is_local" : false,
+    "name" : "Do It Now",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9edcc7ca981199ca98d091078239f5d3b0b22923?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0G08twG9Snacd3TgJ2IC6r"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 207600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200230"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/40JSjO17ltHsFWUlo2Y7Sc"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/40JSjO17ltHsFWUlo2Y7Sc",
+    "id" : "40JSjO17ltHsFWUlo2Y7Sc",
+    "is_local" : false,
+    "name" : "Got",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/168dba31c89b86c8f7dc4e3835c87358afa62b30?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:40JSjO17ltHsFWUlo2Y7Sc"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 305280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200231"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Ru9OjtEw5htfnVKpYsIcv",
+    "id" : "5Ru9OjtEw5htfnVKpYsIcv",
+    "is_local" : false,
+    "name" : "UMI Says",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f602af522de15012d5503c8dd01279330798335b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5Ru9OjtEw5htfnVKpYsIcv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200232"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4pVzrFPT1a4AI6H6Lt4MqO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4pVzrFPT1a4AI6H6Lt4MqO",
+    "id" : "4pVzrFPT1a4AI6H6Lt4MqO",
+    "is_local" : false,
+    "name" : "New World Water",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/847249c39f3cc525a71f56bbca91eb868bc5dd34?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4pVzrFPT1a4AI6H6Lt4MqO"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 302960,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200233"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0QghvdpYqY06nSqvzihd78"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0QghvdpYqY06nSqvzihd78",
+    "id" : "0QghvdpYqY06nSqvzihd78",
+    "is_local" : false,
+    "name" : "Rock N Roll",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/eb432968ca9ba52da24076df83c773e10e8160b7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0QghvdpYqY06nSqvzihd78"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+      "id" : "0lEssBAxQl2In4RpaB1C2Y",
+      "name" : "Talib Kweli",
+      "type" : "artist",
+      "uri" : "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200234"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0dFnHw0HyFYi28ME8XD1lY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0dFnHw0HyFYi28ME8XD1lY",
+    "id" : "0dFnHw0HyFYi28ME8XD1lY",
+    "is_local" : false,
+    "name" : "Know That",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0907073c6048c542608eeb58a99f19d280ab7c5a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0dFnHw0HyFYi28ME8XD1lY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1vsWTWAvfdqNeFmXq72SlC",
+      "id" : "1vsWTWAvfdqNeFmXq72SlC",
+      "name" : "Vinia Mojica",
+      "type" : "artist",
+      "uri" : "spotify:artist:1vsWTWAvfdqNeFmXq72SlC"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 242000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200235"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3JYWgJmBOlDym3iCp1hWpy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3JYWgJmBOlDym3iCp1hWpy",
+    "id" : "3JYWgJmBOlDym3iCp1hWpy",
+    "is_local" : false,
+    "name" : "Climb",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f98f831afeac97e662bfc949e2e77100b47c52f6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:3JYWgJmBOlDym3iCp1hWpy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309986,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200236"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4TIaZQlv6wM07hTc3uHSVV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4TIaZQlv6wM07hTc3uHSVV",
+    "id" : "4TIaZQlv6wM07hTc3uHSVV",
+    "is_local" : false,
+    "name" : "Brooklyn",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4864cbc167403057c07b0f1f9aac10cc0c88c235?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:4TIaZQlv6wM07hTc3uHSVV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+        "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+        "name" : "Mos Def",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+      } ],
+      "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5gK2l2LgWY0BA4p9uy27z6",
+      "id" : "5gK2l2LgWY0BA4p9uy27z6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485189b56f56323925d57b38944d",
+        "width" : 64
+      } ],
+      "name" : "Black On Both Sides",
+      "release_date" : "1999-10-12",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:5gK2l2LgWY0BA4p9uy27z6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+      "id" : "0Mz5XE0kb1GBnbLQm2VbcO",
+      "name" : "Mos Def",
+      "type" : "artist",
+      "uri" : "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    } ],
+    "available_markets" : [ "AD", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JP", "KZ", "LI", "LT", "LU", "LV", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "RO", "RS", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 279306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRW50200237"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/18uybjGpRLZPrfX9SxceAW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/18uybjGpRLZPrfX9SxceAW",
+    "id" : "18uybjGpRLZPrfX9SxceAW",
+    "is_local" : false,
+    "name" : "Habitat",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8dfd675703b6e56537ecf70d9a5750348747a0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:18uybjGpRLZPrfX9SxceAW"
+  } ]
+}

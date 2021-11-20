@@ -1,0 +1,3916 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800137"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Zfe76envuxzzWnGSKqGkr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Zfe76envuxzzWnGSKqGkr",
+    "id" : "4Zfe76envuxzzWnGSKqGkr",
+    "is_local" : false,
+    "name" : "You Know My Steez",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Zfe76envuxzzWnGSKqGkr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 224040,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800591"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6gvTt9fyRkQA6dW7jexcVy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6gvTt9fyRkQA6dW7jexcVy",
+    "id" : "6gvTt9fyRkQA6dW7jexcVy",
+    "is_local" : false,
+    "name" : "Robbin Hood Theory",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:6gvTt9fyRkQA6dW7jexcVy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 177666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800538"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/52QkhYa8lRm7DD6Mb8996S"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/52QkhYa8lRm7DD6Mb8996S",
+    "id" : "52QkhYa8lRm7DD6Mb8996S",
+    "is_local" : false,
+    "name" : "Work",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:52QkhYa8lRm7DD6Mb8996S"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53M8YqZnU51ZjTFiXAFpIo",
+      "id" : "53M8YqZnU51ZjTFiXAFpIo",
+      "name" : "K-Ci Hailey",
+      "type" : "artist",
+      "uri" : "spotify:artist:53M8YqZnU51ZjTFiXAFpIo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1w6LD3xNFntDS6kUP47DqU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1w6LD3xNFntDS6kUP47DqU",
+      "id" : "1w6LD3xNFntDS6kUP47DqU",
+      "name" : "Jo Jo Hailey",
+      "type" : "artist",
+      "uri" : "spotify:artist:1w6LD3xNFntDS6kUP47DqU"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 311400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USUM71407182"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6LomGVG9O61BJaohCVIWXz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6LomGVG9O61BJaohCVIWXz",
+    "id" : "6LomGVG9O61BJaohCVIWXz",
+    "is_local" : false,
+    "name" : "Royalty",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6LomGVG9O61BJaohCVIWXz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4OBbOrkD4geIjOLrICN3wO",
+      "id" : "4OBbOrkD4geIjOLrICN3wO",
+      "name" : "Inspectah Deck",
+      "type" : "artist",
+      "uri" : "spotify:artist:4OBbOrkD4geIjOLrICN3wO"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 221626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800537"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4YeYGaEzhwp8W81rYD0bwk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4YeYGaEzhwp8W81rYD0bwk",
+    "id" : "4YeYGaEzhwp8W81rYD0bwk",
+    "is_local" : false,
+    "name" : "Above The Clouds",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:4YeYGaEzhwp8W81rYD0bwk"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 214666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800592"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44DZJ5uPW13pDNH3g088dv"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44DZJ5uPW13pDNH3g088dv",
+    "id" : "44DZJ5uPW13pDNH3g088dv",
+    "is_local" : false,
+    "name" : "JFK 2 LAX",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:44DZJ5uPW13pDNH3g088dv"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1m3lmut321yXYsCRuY57Be"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1m3lmut321yXYsCRuY57Be",
+      "id" : "1m3lmut321yXYsCRuY57Be",
+      "name" : "Hannibal",
+      "type" : "artist",
+      "uri" : "spotify:artist:1m3lmut321yXYsCRuY57Be"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 229200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800593"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7iAYwZ79QLbuUxFYgaJJP1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7iAYwZ79QLbuUxFYgaJJP1",
+    "id" : "7iAYwZ79QLbuUxFYgaJJP1",
+    "is_local" : false,
+    "name" : "Itz A Set Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:7iAYwZ79QLbuUxFYgaJJP1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 247333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800594"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0GGRvDgOFpg1aOiyKDZIZC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0GGRvDgOFpg1aOiyKDZIZC",
+    "id" : "0GGRvDgOFpg1aOiyKDZIZC",
+    "is_local" : false,
+    "name" : "Moment Of Truth",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0GGRvDgOFpg1aOiyKDZIZC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BH45DVSTeGBvcYXNCd67g",
+      "id" : "1BH45DVSTeGBvcYXNCd67g",
+      "name" : "M.O.P.",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BH45DVSTeGBvcYXNCd67g"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 277466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800595"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0OohDafPGEP8EkN96UtYdN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0OohDafPGEP8EkN96UtYdN",
+    "id" : "0OohDafPGEP8EkN96UtYdN",
+    "is_local" : false,
+    "name" : "B.I. Vs. Friendship",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0OohDafPGEP8EkN96UtYdN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/30G8Jlp6mw5RTEEzMndIZL",
+      "id" : "30G8Jlp6mw5RTEEzMndIZL",
+      "name" : "Big Shug",
+      "type" : "artist",
+      "uri" : "spotify:artist:30G8Jlp6mw5RTEEzMndIZL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1fToJNxLjAEMHbvMiOpJcJ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1fToJNxLjAEMHbvMiOpJcJ",
+      "id" : "1fToJNxLjAEMHbvMiOpJcJ",
+      "name" : "Freddie Foxxx",
+      "type" : "artist",
+      "uri" : "spotify:artist:1fToJNxLjAEMHbvMiOpJcJ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 288600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800047"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2QOIXr2yb5tGwP3MFiBULU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2QOIXr2yb5tGwP3MFiBULU",
+    "id" : "2QOIXr2yb5tGwP3MFiBULU",
+    "is_local" : false,
+    "name" : "The Militia",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2QOIXr2yb5tGwP3MFiBULU"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 295533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800596"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BOITfjcDgSvyCfnV9c84F"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BOITfjcDgSvyCfnV9c84F",
+    "id" : "7BOITfjcDgSvyCfnV9c84F",
+    "is_local" : false,
+    "name" : "The Rep Growz Bigga",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:7BOITfjcDgSvyCfnV9c84F"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 165240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800597"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SSYEf3iftfwHVlYSAFBhe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SSYEf3iftfwHVlYSAFBhe",
+    "id" : "4SSYEf3iftfwHVlYSAFBhe",
+    "is_local" : false,
+    "name" : "What I'm Here 4",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:4SSYEf3iftfwHVlYSAFBhe"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 180626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800598"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2VlBLXRzk7hbV7N8nmaE8y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2VlBLXRzk7hbV7N8nmaE8y",
+    "id" : "2VlBLXRzk7hbV7N8nmaE8y",
+    "is_local" : false,
+    "name" : "She Knowz What She Wantz",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2VlBLXRzk7hbV7N8nmaE8y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 254466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800599"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6LFXDdmwi3dJ1VqqKvLkMy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6LFXDdmwi3dJ1VqqKvLkMy",
+    "id" : "6LFXDdmwi3dJ1VqqKvLkMy",
+    "is_local" : false,
+    "name" : "New York Strait Talk",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:6LFXDdmwi3dJ1VqqKvLkMy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 151840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800600"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51b6R4SkQCLLdf56ms32ax"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51b6R4SkQCLLdf56ms32ax",
+    "id" : "51b6R4SkQCLLdf56ms32ax",
+    "is_local" : false,
+    "name" : "My Advice 2 You",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:51b6R4SkQCLLdf56ms32ax"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4StWnbDC5LLdf3socfu0gx",
+      "id" : "4StWnbDC5LLdf3socfu0gx",
+      "name" : "Krumbsnatcha",
+      "type" : "artist",
+      "uri" : "spotify:artist:4StWnbDC5LLdf3socfu0gx"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261466,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800601"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/39a2La3CjqTGGgAzYTK5kI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/39a2La3CjqTGGgAzYTK5kI",
+    "id" : "39a2La3CjqTGGgAzYTK5kI",
+    "is_local" : false,
+    "name" : "Make 'Em Pay",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:39a2La3CjqTGGgAzYTK5kI"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7x7pxJtOTFkTSStKmrRyRp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7x7pxJtOTFkTSStKmrRyRp",
+      "id" : "7x7pxJtOTFkTSStKmrRyRp",
+      "name" : "G. Dep",
+      "type" : "artist",
+      "uri" : "spotify:artist:7x7pxJtOTFkTSStKmrRyRp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2YzyyqYvbrInBomhE0bOvo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2YzyyqYvbrInBomhE0bOvo",
+      "id" : "2YzyyqYvbrInBomhE0bOvo",
+      "name" : "Shiggy Sha",
+      "type" : "artist",
+      "uri" : "spotify:artist:2YzyyqYvbrInBomhE0bOvo"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 220933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800602"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Tobld6q7275fV5d8zzSS4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Tobld6q7275fV5d8zzSS4",
+    "id" : "6Tobld6q7275fV5d8zzSS4",
+    "is_local" : false,
+    "name" : "The Mall",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:6Tobld6q7275fV5d8zzSS4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/19KwjzvIL92r29IINtlPNP",
+      "id" : "19KwjzvIL92r29IINtlPNP",
+      "name" : "Scarface",
+      "type" : "artist",
+      "uri" : "spotify:artist:19KwjzvIL92r29IINtlPNP"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 329933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800542"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7ITkmyvkUP3Py9aVNHR0QQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7ITkmyvkUP3Py9aVNHR0QQ",
+    "id" : "7ITkmyvkUP3Py9aVNHR0QQ",
+    "is_local" : false,
+    "name" : "Betrayal",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:7ITkmyvkUP3Py9aVNHR0QQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 186200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800603"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2YVGGZEIXdeYfFMkYpaa3I"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2YVGGZEIXdeYfFMkYpaa3I",
+    "id" : "2YVGGZEIXdeYfFMkYpaa3I",
+    "is_local" : false,
+    "name" : "Next Time",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:2YVGGZEIXdeYfFMkYpaa3I"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+        "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+        "name" : "Gang Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DSFC9FF6BSj0ciObLMylF",
+      "id" : "4DSFC9FF6BSj0ciObLMylF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732f1c6014979bdd7c13f06d53",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022f1c6014979bdd7c13f06d53",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512f1c6014979bdd7c13f06d53",
+        "width" : 64
+      } ],
+      "name" : "Moment Of Truth",
+      "release_date" : "1998-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:4DSFC9FF6BSj0ciObLMylF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5cMgGlA1xGyeAB2ctYlRdZ",
+      "id" : "5cMgGlA1xGyeAB2ctYlRdZ",
+      "name" : "Gang Starr",
+      "type" : "artist",
+      "uri" : "spotify:artist:5cMgGlA1xGyeAB2ctYlRdZ"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 230066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USVI29800604"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1hy8tmbWjU8xRPIC6nphTZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1hy8tmbWjU8xRPIC6nphTZ",
+    "id" : "1hy8tmbWjU8xRPIC6nphTZ",
+    "is_local" : false,
+    "name" : "In Memory Of...",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:1hy8tmbWjU8xRPIC6nphTZ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 74520,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300069"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2FP7d1SG5bdZHQXpFuEi58"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2FP7d1SG5bdZHQXpFuEi58",
+    "id" : "2FP7d1SG5bdZHQXpFuEi58",
+    "is_local" : false,
+    "name" : "A Threat To The World - Intro",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2a1abf10f57701c3c65c84014b623ce9b6d7bd3a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2FP7d1SG5bdZHQXpFuEi58"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 223760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300070"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5J5Bbx7lKQOQXeW1EAL9Mz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5J5Bbx7lKQOQXeW1EAL9Mz",
+    "id" : "5J5Bbx7lKQOQXeW1EAL9Mz",
+    "is_local" : false,
+    "name" : "Call 9-1-1",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/370a527746b5de14361441cfe701a975a859182e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5J5Bbx7lKQOQXeW1EAL9Mz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 181733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300071"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7aopCwdw4qfpROhF34RGlF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7aopCwdw4qfpROhF34RGlF",
+    "id" : "7aopCwdw4qfpROhF34RGlF",
+    "is_local" : false,
+    "name" : "Potential Victims",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7b60c19b60ba06bf7018f73420b1be32d815ba2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:7aopCwdw4qfpROhF34RGlF"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 293053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300058"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/65iyI1iybyv5ecsfBHSdUf",
+    "id" : "65iyI1iybyv5ecsfBHSdUf",
+    "is_local" : false,
+    "name" : "Gangsta Nation",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8d9c08dcc8fb70e8c9c67fcd540bd6f8d5d1f6a0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:65iyI1iybyv5ecsfBHSdUf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 251186,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300061"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6DNyvIS3ys3vKd8iiUymcf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6DNyvIS3ys3vKd8iiUymcf",
+    "id" : "6DNyvIS3ys3vKd8iiUymcf",
+    "is_local" : false,
+    "name" : "Get Ignit",
+    "popularity" : 38,
+    "preview_url" : "https://p.scdn.co/mp3-preview/218f462310b93a703c3c4df03c70006c36b3a3e8?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6DNyvIS3ys3vKd8iiUymcf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3USpNaxpX1iNqNnQWqg9ob",
+      "id" : "3USpNaxpX1iNqNnQWqg9ob",
+      "name" : "Mack 10",
+      "type" : "artist",
+      "uri" : "spotify:artist:3USpNaxpX1iNqNnQWqg9ob"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uISNNuONokIh21KiNharS",
+      "id" : "3uISNNuONokIh21KiNharS",
+      "name" : "Butch Cassidy",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uISNNuONokIh21KiNharS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 285240,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300072"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3l2WuQlm2aiWR9LnQ8qK6a"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3l2WuQlm2aiWR9LnQ8qK6a",
+    "id" : "3l2WuQlm2aiWR9LnQ8qK6a",
+    "is_local" : false,
+    "name" : "Pimp The System",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cfd88cd5df3086e793e333e6afa669bfb2eca7f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3l2WuQlm2aiWR9LnQ8qK6a"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5l880g4oP7GiP1U0vzFAot"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5l880g4oP7GiP1U0vzFAot",
+      "id" : "5l880g4oP7GiP1U0vzFAot",
+      "name" : "K-Mac",
+      "type" : "artist",
+      "uri" : "spotify:artist:5l880g4oP7GiP1U0vzFAot"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231346,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300073"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5hxzdPN9EzRbvlkVzptVaa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5hxzdPN9EzRbvlkVzptVaa",
+    "id" : "5hxzdPN9EzRbvlkVzptVaa",
+    "is_local" : false,
+    "name" : "Don't Get Outta Pocket",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7454940a9351f68f44db903055a0d53b294ad236?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5hxzdPN9EzRbvlkVzptVaa"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 244973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300074"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6JArzREnwB1502RXjP3z5V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6JArzREnwB1502RXjP3z5V",
+    "id" : "6JArzREnwB1502RXjP3z5V",
+    "is_local" : false,
+    "name" : "IZM",
+    "popularity" : 31,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3545989d9c31e4a072ca51b3d8e52b43858eaa0d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6JArzREnwB1502RXjP3z5V"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253469,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300075"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4FeMl0W46BQcHhytb804l4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4FeMl0W46BQcHhytb804l4",
+    "id" : "4FeMl0W46BQcHhytb804l4",
+    "is_local" : false,
+    "name" : "So Many Rappers In Love",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c4951d3e0cd6752eadfd3ea3cfdb3838a8d5f0f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:4FeMl0W46BQcHhytb804l4"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna"
+      },
+      "href" : "https://api.spotify.com/v1/artists/24PJqH46WhB0pUB7NlsFna",
+      "id" : "24PJqH46WhB0pUB7NlsFna",
+      "name" : "Knoc-Turn'al",
+      "type" : "artist",
+      "uri" : "spotify:artist:24PJqH46WhB0pUB7NlsFna"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 222880,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300076"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1Qi256uJuMihknGuuFcQoC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1Qi256uJuMihknGuuFcQoC",
+    "id" : "1Qi256uJuMihknGuuFcQoC",
+    "is_local" : false,
+    "name" : "Lights Out",
+    "popularity" : 42,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a9e437f69b5bd13292f365575acdd46e6c7f3701?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1Qi256uJuMihknGuuFcQoC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/47NX4UFfJGycPsuxP4b5vh"
+      },
+      "href" : "https://api.spotify.com/v1/artists/47NX4UFfJGycPsuxP4b5vh",
+      "id" : "47NX4UFfJGycPsuxP4b5vh",
+      "name" : "Da Hood",
+      "type" : "artist",
+      "uri" : "spotify:artist:47NX4UFfJGycPsuxP4b5vh"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300077"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1UoQBfWyHeUh4L3hOMEUzr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1UoQBfWyHeUh4L3hOMEUzr",
+    "id" : "1UoQBfWyHeUh4L3hOMEUzr",
+    "is_local" : false,
+    "name" : "Bangin' At The Party",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9094f38ed175d4fb92a0140c3203ad8bc985f34a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1UoQBfWyHeUh4L3hOMEUzr"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 231653,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300078"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7nAyRHZZNISFKbP8oHdeFC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7nAyRHZZNISFKbP8oHdeFC",
+    "id" : "7nAyRHZZNISFKbP8oHdeFC",
+    "is_local" : false,
+    "name" : "You Gotta Have Heart",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4f3ebe7dcec3cccc48c7a5455af974d51264a35f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:7nAyRHZZNISFKbP8oHdeFC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 148066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300079"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2BaSlRAT2nI6M7lU5XJDZY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2BaSlRAT2nI6M7lU5XJDZY",
+    "id" : "2BaSlRAT2nI6M7lU5XJDZY",
+    "is_local" : false,
+    "name" : "Terrorist Threats",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f956e1d445fb9173264e22dcabed5fe54b6f42e6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:2BaSlRAT2nI6M7lU5XJDZY"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+        "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+        "name" : "Westside Connection",
+        "type" : "artist",
+        "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2fsMp83A31t6nqp1TvV7OB",
+      "id" : "2fsMp83A31t6nqp1TvV7OB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27355b96f6473372230c80847a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0255b96f6473372230c80847a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485155b96f6473372230c80847a1",
+        "width" : 64
+      } ],
+      "name" : "Terrorist Threats",
+      "release_date" : "2003-12-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 14,
+      "type" : "album",
+      "uri" : "spotify:album:2fsMp83A31t6nqp1TvV7OB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3zNM2tRfTX6LI1lN2PlrTt",
+      "id" : "3zNM2tRfTX6LI1lN2PlrTt",
+      "name" : "Westside Connection",
+      "type" : "artist",
+      "uri" : "spotify:artist:3zNM2tRfTX6LI1lN2PlrTt"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 254400,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300080"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7f4vS0tlORJxeFDrsBL0jw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7f4vS0tlORJxeFDrsBL0jw",
+    "id" : "7f4vS0tlORJxeFDrsBL0jw",
+    "is_local" : false,
+    "name" : "Superstar (Double Murder = Double Platinum)",
+    "popularity" : 28,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d59888c3010b6ddef9b5bb8aaa999a026da66c32?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:7f4vS0tlORJxeFDrsBL0jw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 88200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3b6bLgU44MaFPxrRk6o7Y9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3b6bLgU44MaFPxrRk6o7Y9",
+    "id" : "3b6bLgU44MaFPxrRk6o7Y9",
+    "is_local" : false,
+    "name" : "A Special Joint (Intro)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3b6bLgU44MaFPxrRk6o7Y9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 223306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905115"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5yT4S52Z1BcB5dL4E3cI1G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5yT4S52Z1BcB5dL4E3cI1G",
+    "id" : "5yT4S52Z1BcB5dL4E3cI1G",
+    "is_local" : false,
+    "name" : "Blackout",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5yT4S52Z1BcB5dL4E3cI1G"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 163800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905106"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5UB8EMASpACQxT9kL7CpJH"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5UB8EMASpACQxT9kL7CpJH",
+    "id" : "5UB8EMASpACQxT9kL7CpJH",
+    "is_local" : false,
+    "name" : "Mi Casa",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5UB8EMASpACQxT9kL7CpJH"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905116"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7CHbCP3T3yE932gSObn4Y3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7CHbCP3T3yE932gSObn4Y3",
+    "id" : "7CHbCP3T3yE932gSObn4Y3",
+    "is_local" : false,
+    "name" : "Y.O.U.",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:7CHbCP3T3yE932gSObn4Y3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1P8IfcNKwrkQP5xJWuhaOC",
+      "id" : "1P8IfcNKwrkQP5xJWuhaOC",
+      "name" : "LL Cool J",
+      "type" : "artist",
+      "uri" : "spotify:artist:1P8IfcNKwrkQP5xJWuhaOC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1J2VVASYAamtQ3Bt8wGgA6",
+      "id" : "1J2VVASYAamtQ3Bt8wGgA6",
+      "name" : "Ja Rule",
+      "type" : "artist",
+      "uri" : "spotify:artist:1J2VVASYAamtQ3Bt8wGgA6"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905113"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/01viKMyMsuUnrHjL5kms4u"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/01viKMyMsuUnrHjL5kms4u",
+    "id" : "01viKMyMsuUnrHjL5kms4u",
+    "is_local" : false,
+    "name" : "4 Seasons",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:01viKMyMsuUnrHjL5kms4u"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 240733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905117"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1CzlH8J7A6ORIiksNfC2kx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1CzlH8J7A6ORIiksNfC2kx",
+    "id" : "1CzlH8J7A6ORIiksNfC2kx",
+    "is_local" : false,
+    "name" : "Cereal Killer",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1CzlH8J7A6ORIiksNfC2kx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 136093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905111"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5ltdcgEflWut0osW0ZzLhM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5ltdcgEflWut0osW0ZzLhM",
+    "id" : "5ltdcgEflWut0osW0ZzLhM",
+    "is_local" : false,
+    "name" : "Da Rockwilder",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:5ltdcgEflWut0osW0ZzLhM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 251333,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905105"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/54uWTGbY3DepqlHFgs35Zi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/54uWTGbY3DepqlHFgs35Zi",
+    "id" : "54uWTGbY3DepqlHFgs35Zi",
+    "is_local" : false,
+    "name" : "Tear It Off",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:54uWTGbY3DepqlHFgs35Zi"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 111160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905119"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1QGk7kaS89xHDoUe2hAj9Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1QGk7kaS89xHDoUe2hAj9Y",
+    "id" : "1QGk7kaS89xHDoUe2hAj9Y",
+    "is_local" : false,
+    "name" : "Where We At (Skit)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:1QGk7kaS89xHDoUe2hAj9Y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 273600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905110"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0sSRw5j067q8cAvyt9P7QQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0sSRw5j067q8cAvyt9P7QQ",
+    "id" : "0sSRw5j067q8cAvyt9P7QQ",
+    "is_local" : false,
+    "name" : "1, 2, 1, 2",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:0sSRw5j067q8cAvyt9P7QQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 267840,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905107"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3VlFQURRgDl3SLvsyahb59"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3VlFQURRgDl3SLvsyahb59",
+    "id" : "3VlFQURRgDl3SLvsyahb59",
+    "is_local" : false,
+    "name" : "Maaad Crew",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:3VlFQURRgDl3SLvsyahb59"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3t5QLYg3fqvohxXt7q1niX",
+      "id" : "3t5QLYg3fqvohxXt7q1niX",
+      "name" : "Ghostface",
+      "type" : "artist",
+      "uri" : "spotify:artist:3t5QLYg3fqvohxXt7q1niX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3EPJIlRqEnU9I19ahzBgGw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3EPJIlRqEnU9I19ahzBgGw",
+      "id" : "3EPJIlRqEnU9I19ahzBgGw",
+      "name" : "Street",
+      "type" : "artist",
+      "uri" : "spotify:artist:3EPJIlRqEnU9I19ahzBgGw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0vCjBtVHAvq5Gpfb4s5N6K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0vCjBtVHAvq5Gpfb4s5N6K",
+      "id" : "0vCjBtVHAvq5Gpfb4s5N6K",
+      "name" : "Dennis Coles",
+      "type" : "artist",
+      "uri" : "spotify:artist:0vCjBtVHAvq5Gpfb4s5N6K"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 265066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905112"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0qTJ9RrRshER8kS7BSkSwA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0qTJ9RrRshER8kS7BSkSwA",
+    "id" : "0qTJ9RrRshER8kS7BSkSwA",
+    "is_local" : false,
+    "name" : "Run 4 Cover",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:0qTJ9RrRshER8kS7BSkSwA"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
+      "id" : "2wIVse2owClT7go1WT98tk",
+      "name" : "Missy Elliott",
+      "type" : "artist",
+      "uri" : "spotify:artist:2wIVse2owClT7go1WT98tk"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 290026,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905108"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6C5NlcxPMyPvaFBdTrOkA5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6C5NlcxPMyPvaFBdTrOkA5",
+    "id" : "6C5NlcxPMyPvaFBdTrOkA5",
+    "is_local" : false,
+    "name" : "The ?",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:6C5NlcxPMyPvaFBdTrOkA5"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/42t1eTo3ytiK1be2rL0IHI"
+      },
+      "href" : "https://api.spotify.com/v1/artists/42t1eTo3ytiK1be2rL0IHI",
+      "id" : "42t1eTo3ytiK1be2rL0IHI",
+      "name" : "Mally G",
+      "type" : "artist",
+      "uri" : "spotify:artist:42t1eTo3ytiK1be2rL0IHI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0RM7Wj055edxvDonfNCs5j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0RM7Wj055edxvDonfNCs5j",
+      "id" : "0RM7Wj055edxvDonfNCs5j",
+      "name" : "Jamal",
+      "type" : "artist",
+      "uri" : "spotify:artist:0RM7Wj055edxvDonfNCs5j"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 259666,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905114"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5PDcVCDzJ9UrbKPBJG4WoN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5PDcVCDzJ9UrbKPBJG4WoN",
+    "id" : "5PDcVCDzJ9UrbKPBJG4WoN",
+    "is_local" : false,
+    "name" : "Dat's Dat Shit",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:5PDcVCDzJ9UrbKPBJG4WoN"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 182773,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905109"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5QiJwYLnDz4RiIL5ccS9Wb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5QiJwYLnDz4RiIL5ccS9Wb",
+    "id" : "5QiJwYLnDz4RiIL5ccS9Wb",
+    "is_local" : false,
+    "name" : "Cheka",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:5QiJwYLnDz4RiIL5ccS9Wb"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+        "id" : "4VmEWwd8y9MCLwexFMdpwt",
+        "name" : "Method Man",
+        "type" : "artist",
+        "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+        "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+        "name" : "Redman",
+        "type" : "artist",
+        "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/55EVUWT6xhtsrqm14VZTSw"
+      },
+      "href" : "https://api.spotify.com/v1/albums/55EVUWT6xhtsrqm14VZTSw",
+      "id" : "55EVUWT6xhtsrqm14VZTSw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273bac96ae740dab8ab69eb27d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02bac96ae740dab8ab69eb27d6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851bac96ae740dab8ab69eb27d6",
+        "width" : 64
+      } ],
+      "name" : "Blackout!",
+      "release_date" : "1999-09-28",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:55EVUWT6xhtsrqm14VZTSw"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 261493,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905118"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rGIxQFgEZrHXWgjwM6fRD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rGIxQFgEZrHXWgjwM6fRD",
+    "id" : "1rGIxQFgEZrHXWgjwM6fRD",
+    "is_local" : false,
+    "name" : "Fire Ina Hole",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:1rGIxQFgEZrHXWgjwM6fRD"
+  } ]
+}

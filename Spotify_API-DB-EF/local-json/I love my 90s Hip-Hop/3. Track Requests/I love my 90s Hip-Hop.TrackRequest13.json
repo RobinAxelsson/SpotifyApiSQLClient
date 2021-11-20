@@ -1,0 +1,3664 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4P0dddbxPil35MNN9G2MEX",
+      "id" : "4P0dddbxPil35MNN9G2MEX",
+      "name" : "Cypress Hill",
+      "type" : "artist",
+      "uri" : "spotify:artist:4P0dddbxPil35MNN9G2MEX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ICyfoySNDZqtBVmaBT84I",
+      "id" : "3ICyfoySNDZqtBVmaBT84I",
+      "name" : "War",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ICyfoySNDZqtBVmaBT84I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 240226,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110999"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0CJ3Y3V6UQn5X7IjXDO3IO"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0CJ3Y3V6UQn5X7IjXDO3IO",
+    "id" : "0CJ3Y3V6UQn5X7IjXDO3IO",
+    "is_local" : false,
+    "name" : "Cisco Kid",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ebad9abedc6ca20f111d29109e4370d1ca7c5fd9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0CJ3Y3V6UQn5X7IjXDO3IO"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 215533,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110987"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3znH8Nl0xGyck7Cawbl14Y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3znH8Nl0xGyck7Cawbl14Y",
+    "id" : "3znH8Nl0xGyck7Cawbl14Y",
+    "is_local" : false,
+    "name" : "America's Most",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/005b3fbd514d1be8d05349996c46cde70330c745?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:3znH8Nl0xGyck7Cawbl14Y"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 23800,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1rdkxLM4EICXRZJBkmC3KI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1rdkxLM4EICXRZJBkmC3KI",
+    "id" : "1rdkxLM4EICXRZJBkmC3KI",
+    "is_local" : false,
+    "name" : "Yes Sir, Dean Cain, Sir (Skit)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1rdkxLM4EICXRZJBkmC3KI"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 275266,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111044"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4jtB5cvSqM4UWojz8QTwXF"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4jtB5cvSqM4UWojz8QTwXF",
+    "id" : "4jtB5cvSqM4UWojz8QTwXF",
+    "is_local" : false,
+    "name" : "Let's Do It",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab1e0ac0f24cdf23410692d7dd6d915c8075b78d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4jtB5cvSqM4UWojz8QTwXF"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110998"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0YWNTkjSwoDaDKmlp1VkX4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0YWNTkjSwoDaDKmlp1VkX4",
+    "id" : "0YWNTkjSwoDaDKmlp1VkX4",
+    "is_local" : false,
+    "name" : "We Don't No How 2 Act",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d331bf0cfad4d47d79318eaea80e7b2bf813456b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:0YWNTkjSwoDaDKmlp1VkX4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7CrVv4zLga71gdlMOMfjXL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7CrVv4zLga71gdlMOMfjXL",
+      "id" : "7CrVv4zLga71gdlMOMfjXL",
+      "name" : "Streetlife",
+      "type" : "artist",
+      "uri" : "spotify:artist:7CrVv4zLga71gdlMOMfjXL"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 174600,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5vkEhu2RGwsM7c01EGMop6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5vkEhu2RGwsM7c01EGMop6",
+    "id" : "5vkEhu2RGwsM7c01EGMop6",
+    "is_local" : false,
+    "name" : "Who Wanna Rap",
+    "popularity" : 27,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cdc41d054d58e33a71649af0ac7309c709c101ab?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5vkEhu2RGwsM7c01EGMop6"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xvUHg4mIFbXo2caP0PO73",
+      "id" : "4xvUHg4mIFbXo2caP0PO73",
+      "name" : "Saukrates",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xvUHg4mIFbXo2caP0PO73"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 152973,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111034"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4e2UMPMOKh9BJEsHkf9ek4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4e2UMPMOKh9BJEsHkf9ek4",
+    "id" : "4e2UMPMOKh9BJEsHkf9ek4",
+    "is_local" : false,
+    "name" : "Fine Line-Saukrates",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/51e9015f9694e83a65ce707a0a5ad99955075a96?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:4e2UMPMOKh9BJEsHkf9ek4"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/165ZgPlLkK7bf5bDoFc6Sb",
+      "id" : "165ZgPlLkK7bf5bDoFc6Sb",
+      "name" : "Limp Bizkit",
+      "type" : "artist",
+      "uri" : "spotify:artist:165ZgPlLkK7bf5bDoFc6Sb"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 236493,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USIR19902315"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qH0QgsNRrN8aaNzz8tlxP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qH0QgsNRrN8aaNzz8tlxP",
+    "id" : "1qH0QgsNRrN8aaNzz8tlxP",
+    "is_local" : false,
+    "name" : "N 2 Gether Now",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a17680609e0909598d9480ac05ed74f5575952f9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:1qH0QgsNRrN8aaNzz8tlxP"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HwM5zlC5qNWhJtM00yXzG",
+      "id" : "1HwM5zlC5qNWhJtM00yXzG",
+      "name" : "DMX",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HwM5zlC5qNWhJtM00yXzG"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 277533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USDJ20010706"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2rJ8k4TDaaKVc9yFmR8HA7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2rJ8k4TDaaKVc9yFmR8HA7",
+    "id" : "2rJ8k4TDaaKVc9yFmR8HA7",
+    "is_local" : false,
+    "name" : "Party Up (Up In Here) - Album Version (Explicit) (Source)",
+    "popularity" : 30,
+    "preview_url" : "https://p.scdn.co/mp3-preview/470421c06fe42a6716b31c7762eeb05f2203b6d2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:2rJ8k4TDaaKVc9yFmR8HA7"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+      "id" : "3ipn9JLAPI5GUEo4y4jcoi",
+      "name" : "Ludacris",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4gpDA7R5796e6zbvZxGNga",
+      "id" : "4gpDA7R5796e6zbvZxGNga",
+      "name" : "Shawnna",
+      "type" : "artist",
+      "uri" : "spotify:artist:4gpDA7R5796e6zbvZxGNga"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 276933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20010349"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1zBG2zRFBL5VgGa3BarEsb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1zBG2zRFBL5VgGa3BarEsb",
+    "id" : "1zBG2zRFBL5VgGa3BarEsb",
+    "is_local" : false,
+    "name" : "What's Your Fantasy",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/73544c8d60ecd2d34776742c86356cd290c1ab4a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:1zBG2zRFBL5VgGa3BarEsb"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 137506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111037"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Gn0S3CpNlLBOZmpNwBwoW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Gn0S3CpNlLBOZmpNwBwoW",
+    "id" : "7Gn0S3CpNlLBOZmpNwBwoW",
+    "is_local" : false,
+    "name" : "Da Rockwilder",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f7152e072a4f08ac98a5f390c51389434b8c3d1f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:7Gn0S3CpNlLBOZmpNwBwoW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 13933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20111035"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1sK5hab9X49dRhAhkXmzlN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1sK5hab9X49dRhAhkXmzlN",
+    "id" : "1sK5hab9X49dRhAhkXmzlN",
+    "is_local" : false,
+    "name" : "I Love NWA (Skit)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:1sK5hab9X49dRhAhkXmzlN"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 186200,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110994"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/39b7xHbDjlFPts0Y1zRwSe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/39b7xHbDjlFPts0Y1zRwSe",
+    "id" : "39b7xHbDjlFPts0Y1zRwSe",
+    "is_local" : false,
+    "name" : "Bring Da Pain",
+    "popularity" : 26,
+    "preview_url" : "https://p.scdn.co/mp3-preview/002e9563985049389bcf925662625da1d13f14bf?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:39b7xHbDjlFPts0Y1zRwSe"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 201733,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USRL19200042"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/55D44wqJq81gsYVAePPwgC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/55D44wqJq81gsYVAePPwgC",
+    "id" : "55D44wqJq81gsYVAePPwgC",
+    "is_local" : false,
+    "name" : "How To Roll A Blunt",
+    "popularity" : 25,
+    "preview_url" : "https://p.scdn.co/mp3-preview/db546e28db21604754450147eca371f34c51d964?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:55D44wqJq81gsYVAePPwgC"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 222066,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110993"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4MD0wL7r080fzH3cb9Vjz6"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4MD0wL7r080fzH3cb9Vjz6",
+    "id" : "4MD0wL7r080fzH3cb9Vjz6",
+    "is_local" : false,
+    "name" : "All I Need (Razor Sharp Remix)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d3e2ee32337ab958f143e1d258f3a6f864db2e46?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:4MD0wL7r080fzH3cb9Vjz6"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208160,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ29905121"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5rmf8HcVwXxO2efhbpuxHW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5rmf8HcVwXxO2efhbpuxHW",
+    "id" : "5rmf8HcVwXxO2efhbpuxHW",
+    "is_local" : false,
+    "name" : "Big Dogs",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0a214e715c58a002a64cc326de97da6d00b636dd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:5rmf8HcVwXxO2efhbpuxHW"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5mI0bDHNCoeebMRhjovNOY",
+      "id" : "5mI0bDHNCoeebMRhjovNOY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27301a8a777b23f311cadada2d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0201a8a777b23f311cadada2d1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485101a8a777b23f311cadada2d1",
+        "width" : 64
+      } ],
+      "name" : "How High",
+      "release_date" : "2001-01-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:5mI0bDHNCoeebMRhjovNOY"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4VmEWwd8y9MCLwexFMdpwt",
+      "id" : "4VmEWwd8y9MCLwexFMdpwt",
+      "name" : "Method Man",
+      "type" : "artist",
+      "uri" : "spotify:artist:4VmEWwd8y9MCLwexFMdpwt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BA", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IT", "JP", "LI", "LT", "LV", "MC", "MK", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "RU", "SE", "SG", "SI", "SK", "SV", "TH", "TR", "TW", "UA", "US", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 239933,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USDJ20110995"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4FDbLUb5SDKy3rnRtS02q1",
+    "id" : "4FDbLUb5SDKy3rnRtS02q1",
+    "is_local" : false,
+    "name" : "How High - Remix",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f986419e4683104ec6a492d9e6f9b5de5a9805a2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:4FDbLUb5SDKy3rnRtS02q1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 79920,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3RBOunv66tap8pQsdsvOzy"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3RBOunv66tap8pQsdsvOzy",
+    "id" : "3RBOunv66tap8pQsdsvOzy",
+    "is_local" : false,
+    "name" : "The First Day Of School - Intro;",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3RBOunv66tap8pQsdsvOzy"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 276146,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1mU61jLIDk6J4ODq7xH9jf"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1mU61jLIDk6J4ODq7xH9jf",
+    "id" : "1mU61jLIDk6J4ODq7xH9jf",
+    "is_local" : false,
+    "name" : "When Will They Shoot?",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1mU61jLIDk6J4ODq7xH9jf"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 92120,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250003"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1D556AW1NF5L45OvSV0FO3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1D556AW1NF5L45OvSV0FO3",
+    "id" : "1D556AW1NF5L45OvSV0FO3",
+    "is_local" : false,
+    "name" : "I'm Scared (Insert)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1D556AW1NF5L45OvSV0FO3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 235653,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250004"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6vVewvmaraUDpD8xrKedZn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6vVewvmaraUDpD8xrKedZn",
+    "id" : "6vVewvmaraUDpD8xrKedZn",
+    "is_local" : false,
+    "name" : "Wicked",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:6vVewvmaraUDpD8xrKedZn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 242986,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250005"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7m9TyI3jMlezsdAl6Hhdhw"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7m9TyI3jMlezsdAl6Hhdhw",
+    "id" : "7m9TyI3jMlezsdAl6Hhdhw",
+    "is_local" : false,
+    "name" : "Now I Gotta Wet 'Cha",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7m9TyI3jMlezsdAl6Hhdhw"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 243560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19200011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7doLVtDqsqi7Z6BLFA6SJV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7doLVtDqsqi7Z6BLFA6SJV",
+    "id" : "7doLVtDqsqi7Z6BLFA6SJV",
+    "is_local" : false,
+    "name" : "The Predator",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:7doLVtDqsqi7Z6BLFA6SJV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 259946,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2lUirvUhqfBqJzUvk4tLoK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2lUirvUhqfBqJzUvk4tLoK",
+    "id" : "2lUirvUhqfBqJzUvk4tLoK",
+    "is_local" : false,
+    "name" : "It Was A Good Day",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2lUirvUhqfBqJzUvk4tLoK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 264093,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250007"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7lPzpmqhKwMaETmOBVTamL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7lPzpmqhKwMaETmOBVTamL",
+    "id" : "7lPzpmqhKwMaETmOBVTamL",
+    "is_local" : false,
+    "name" : "We Had To Tear This Mothafucka Up",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7lPzpmqhKwMaETmOBVTamL"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 122280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3seGjF5yukgrrAKGWpRmxz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3seGjF5yukgrrAKGWpRmxz",
+    "id" : "3seGjF5yukgrrAKGWpRmxz",
+    "is_local" : false,
+    "name" : "Fuck 'Em (Insert)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:3seGjF5yukgrrAKGWpRmxz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 273986,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1FXwaRoLeBjZLaIxQ6bnT8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1FXwaRoLeBjZLaIxQ6bnT8",
+    "id" : "1FXwaRoLeBjZLaIxQ6bnT8",
+    "is_local" : false,
+    "name" : "Dirty Mack",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:1FXwaRoLeBjZLaIxQ6bnT8"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 246453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0ijcS7ICUyx6SXjvBP2GAu"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0ijcS7ICUyx6SXjvBP2GAu",
+    "id" : "0ijcS7ICUyx6SXjvBP2GAu",
+    "is_local" : false,
+    "name" : "Don't Trust 'Em",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:0ijcS7ICUyx6SXjvBP2GAu"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 199053,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250011"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6VjOllx0jYfD05wfWe8lqD"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6VjOllx0jYfD05wfWe8lqD",
+    "id" : "6VjOllx0jYfD05wfWe8lqD",
+    "is_local" : false,
+    "name" : "Gangsta's Fairytale 2",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:6VjOllx0jYfD05wfWe8lqD"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0auu2itHTxEdAMRHvx7CyG",
+      "id" : "0auu2itHTxEdAMRHvx7CyG",
+      "name" : "Das EFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0auu2itHTxEdAMRHvx7CyG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 222626,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19300002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/50qNkwFNFV4jQrVdyz6p3y"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/50qNkwFNFV4jQrVdyz6p3y",
+    "id" : "50qNkwFNFV4jQrVdyz6p3y",
+    "is_local" : false,
+    "name" : "Check Yo Self",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:50qNkwFNFV4jQrVdyz6p3y"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 277146,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250012"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1it8FerTRUQS4OztD9DAQj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1it8FerTRUQS4OztD9DAQj",
+    "id" : "1it8FerTRUQS4OztD9DAQj",
+    "is_local" : false,
+    "name" : "Who Got The Camera?",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 14,
+    "type" : "track",
+    "uri" : "spotify:track:1it8FerTRUQS4OztD9DAQj"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 151893,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250013"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7BkoZZJ7d6rnEBKwUUYnxM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7BkoZZJ7d6rnEBKwUUYnxM",
+    "id" : "7BkoZZJ7d6rnEBKwUUYnxM",
+    "is_local" : false,
+    "name" : "Integration (Insert)",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 15,
+    "type" : "track",
+    "uri" : "spotify:track:7BkoZZJ7d6rnEBKwUUYnxM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 202653,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19250014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4pSwlQBIinWixD3yJFPCp7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4pSwlQBIinWixD3yJFPCp7",
+    "id" : "4pSwlQBIinWixD3yJFPCp7",
+    "is_local" : false,
+    "name" : "Say Hi To The Bad Guy",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 16,
+    "type" : "track",
+    "uri" : "spotify:track:4pSwlQBIinWixD3yJFPCp7"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0auu2itHTxEdAMRHvx7CyG",
+      "id" : "0auu2itHTxEdAMRHvx7CyG",
+      "name" : "Das EFX",
+      "type" : "artist",
+      "uri" : "spotify:artist:0auu2itHTxEdAMRHvx7CyG"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 234280,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO10300001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Xcv9wPmEADkUf8y8eYcNx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Xcv9wPmEADkUf8y8eYcNx",
+    "id" : "4Xcv9wPmEADkUf8y8eYcNx",
+    "is_local" : false,
+    "name" : "Check Yo Self - Radio Remix;",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 17,
+    "type" : "track",
+    "uri" : "spotify:track:4Xcv9wPmEADkUf8y8eYcNx"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 268786,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450015"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5Lr4aRt8LevO4azLcSddKz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5Lr4aRt8LevO4azLcSddKz",
+    "id" : "5Lr4aRt8LevO4azLcSddKz",
+    "is_local" : false,
+    "name" : "It Was A Good Day - Remix;",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 18,
+    "type" : "track",
+    "uri" : "spotify:track:5Lr4aRt8LevO4azLcSddKz"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 205453,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5HVG8hZRNG48Vg4RGVq0RJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5HVG8hZRNG48Vg4RGVq0RJ",
+    "id" : "5HVG8hZRNG48Vg4RGVq0RJ",
+    "is_local" : false,
+    "name" : "24 Wit An L",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 19,
+    "type" : "track",
+    "uri" : "spotify:track:5HVG8hZRNG48Vg4RGVq0RJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+        "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+        "name" : "Ice Cube",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/47PmvCtma4WBbGQ7SZ78XZ",
+      "id" : "47PmvCtma4WBbGQ7SZ78XZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a934e914b113a071249b2fcc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a934e914b113a071249b2fcc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a934e914b113a071249b2fcc",
+        "width" : 64
+      } ],
+      "name" : "The Predator (World) [Explicit]",
+      "release_date" : "1992-11-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 20,
+      "type" : "album",
+      "uri" : "spotify:album:47PmvCtma4WBbGQ7SZ78XZ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3Mcii5XWf6E0lrY3Uky4cA",
+      "id" : "3Mcii5XWf6E0lrY3Uky4cA",
+      "name" : "Ice Cube",
+      "type" : "artist",
+      "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 249320,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USPO19450019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6evUIYRq0PNgXr8ubuPGbC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6evUIYRq0PNgXr8ubuPGbC",
+    "id" : "6evUIYRq0PNgXr8ubuPGbC",
+    "is_local" : false,
+    "name" : "U Ain't Gonna Take My Life",
+    "popularity" : 0,
+    "preview_url" : null,
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:6evUIYRq0PNgXr8ubuPGbC"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 271840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE19900121"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ERsOxY185oVJOVtTNE3w9"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ERsOxY185oVJOVtTNE3w9",
+    "id" : "4ERsOxY185oVJOVtTNE3w9",
+    "is_local" : false,
+    "name" : "The Coming",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71a441809e87eb3b4935e58dbcbe043e91f38a65?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4ERsOxY185oVJOVtTNE3w9"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 220106,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900122"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/08oaCzsVx4qSpG7EE8miG1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/08oaCzsVx4qSpG7EE8miG1",
+    "id" : "08oaCzsVx4qSpG7EE8miG1",
+    "is_local" : false,
+    "name" : "Do My Thing",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/44dd1ea0b2a0f6233457beb32a7688424e506576?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:08oaCzsVx4qSpG7EE8miG1"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 220826,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900123"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4M8SdMmrvx001Au6aZFchJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4M8SdMmrvx001Au6aZFchJ",
+    "id" : "4M8SdMmrvx001Au6aZFchJ",
+    "is_local" : false,
+    "name" : "Everything Remains Raw",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/30cd1c75737e79e8a4651ed0b0350d07c517f6a4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4M8SdMmrvx001Au6aZFchJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kGoUsSUIbeqUVDe61tGNC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kGoUsSUIbeqUVDe61tGNC",
+      "id" : "6kGoUsSUIbeqUVDe61tGNC",
+      "name" : "Rampage The Last Boy Scout",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kGoUsSUIbeqUVDe61tGNC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 362306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900124"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/44uL4K2OU1ejC1dE4yUFbq"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/44uL4K2OU1ejC1dE4yUFbq",
+    "id" : "44uL4K2OU1ejC1dE4yUFbq",
+    "is_local" : false,
+    "name" : "Abandon Ship (feat. Rampage the Last Boy Scout)",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/03b9f51f0b3826923939594f46f00e3b4cfe6d15?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:44uL4K2OU1ejC1dE4yUFbq"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 272813,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19894715"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/09WxJCWFMWAxTHBLLelpDS",
+    "id" : "09WxJCWFMWAxTHBLLelpDS",
+    "is_local" : false,
+    "name" : "Woo Hah!! Got You All in Check",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9968369a327fcd07e6b1908adce01d8565b5b360?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:09WxJCWFMWAxTHBLLelpDS"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6cjSmkVvMvyE6tCAo1M9Is",
+      "id" : "6cjSmkVvMvyE6tCAo1M9Is",
+      "name" : "Zhané",
+      "type" : "artist",
+      "uri" : "spotify:artist:6cjSmkVvMvyE6tCAo1M9Is"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 277440,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19694702"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0Ml8PkxnlGUrrMPpJWPBc3",
+    "id" : "0Ml8PkxnlGUrrMPpJWPBc3",
+    "is_local" : false,
+    "name" : "It's a Party (feat. Zhane)",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/08571ddb86b0d0090ccf3b6f6f993eb330cd4ec6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:0Ml8PkxnlGUrrMPpJWPBc3"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 309306,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900125"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1COHNfDBIiYmkHviuLfW1e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1COHNfDBIiYmkHviuLfW1e",
+    "id" : "1COHNfDBIiYmkHviuLfW1e",
+    "is_local" : false,
+    "name" : "Hot Fudge",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/666f08024bde67053c5d2785d2d9a6964766ede4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:1COHNfDBIiYmkHviuLfW1e"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZotbHeyVQKxQCPDJuQ4SU",
+      "id" : "3ZotbHeyVQKxQCPDJuQ4SU",
+      "name" : "Q-Tip",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZotbHeyVQKxQCPDJuQ4SU"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 209760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900126"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/22XFWYPabTnoWvfultCjuK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/22XFWYPabTnoWvfultCjuK",
+    "id" : "22XFWYPabTnoWvfultCjuK",
+    "is_local" : false,
+    "name" : "Ill Vibe (feat. Q-Tip)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/08ea6c8f9ac96f1b5d27eab2a538b435e420358d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:22XFWYPabTnoWvfultCjuK"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2pSlQg1dzoYlZtCI7Mb8KX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2pSlQg1dzoYlZtCI7Mb8KX",
+      "id" : "2pSlQg1dzoYlZtCI7Mb8KX",
+      "name" : "Jamal",
+      "type" : "artist",
+      "uri" : "spotify:artist:2pSlQg1dzoYlZtCI7Mb8KX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2bwR166mSJEJrYJqfyust3",
+      "id" : "2bwR166mSJEJrYJqfyust3",
+      "name" : "Keith Murray",
+      "type" : "artist",
+      "uri" : "spotify:artist:2bwR166mSJEJrYJqfyust3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4uGcRoFj6OvJVWv5A4xOc1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4uGcRoFj6OvJVWv5A4xOc1",
+      "id" : "4uGcRoFj6OvJVWv5A4xOc1",
+      "name" : "Lord Have Mercy",
+      "type" : "artist",
+      "uri" : "spotify:artist:4uGcRoFj6OvJVWv5A4xOc1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kGoUsSUIbeqUVDe61tGNC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kGoUsSUIbeqUVDe61tGNC",
+      "id" : "6kGoUsSUIbeqUVDe61tGNC",
+      "name" : "Rampage The Last Boy Scout",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kGoUsSUIbeqUVDe61tGNC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xTKLpo7UCzXSnlH7fOIoM",
+      "id" : "7xTKLpo7UCzXSnlH7fOIoM",
+      "name" : "Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xTKLpo7UCzXSnlH7fOIoM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 490506,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/69zdwVJe3HidP5RYwr6QLJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/69zdwVJe3HidP5RYwr6QLJ",
+    "id" : "69zdwVJe3HidP5RYwr6QLJ",
+    "is_local" : false,
+    "name" : "Flipmode Squad Meets Def Squad (feat. Jamal, Redman, Keith Murray, Rampage the Last Boy Scout, Lord Have Mercy)",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/350ec265499f0438c6df6b47369506b95e691b28?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:69zdwVJe3HidP5RYwr6QLJ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 177760,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900128"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3hfejOz57gFMYxdItd9sNM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3hfejOz57gFMYxdItd9sNM",
+    "id" : "3hfejOz57gFMYxdItd9sNM",
+    "is_local" : false,
+    "name" : "Still Shining",
+    "popularity" : 34,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6fe5725179c6537817598835bdd438c9c6b9952d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:3hfejOz57gFMYxdItd9sNM"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7xnuemqCrqhs50N6U6eliq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7xnuemqCrqhs50N6U6eliq",
+      "id" : "7xnuemqCrqhs50N6U6eliq",
+      "name" : "The Last Boy Scout",
+      "type" : "artist",
+      "uri" : "spotify:artist:7xnuemqCrqhs50N6U6eliq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3JwGwAJFKy5kBqUDaGg5no"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3JwGwAJFKy5kBqUDaGg5no",
+      "id" : "3JwGwAJFKy5kBqUDaGg5no",
+      "name" : "DINCO",
+      "type" : "artist",
+      "uri" : "spotify:artist:3JwGwAJFKy5kBqUDaGg5no"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3lbOxtgRMEJmaAo72EFuEV"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3lbOxtgRMEJmaAo72EFuEV",
+      "id" : "3lbOxtgRMEJmaAo72EFuEV",
+      "name" : "Milo of Leaders Of The New School",
+      "type" : "artist",
+      "uri" : "spotify:artist:3lbOxtgRMEJmaAo72EFuEV"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/536pTabXNhaK7O7VfjOk7P"
+      },
+      "href" : "https://api.spotify.com/v1/artists/536pTabXNhaK7O7VfjOk7P",
+      "id" : "536pTabXNhaK7O7VfjOk7P",
+      "name" : "Charlie Brown",
+      "type" : "artist",
+      "uri" : "spotify:artist:536pTabXNhaK7O7VfjOk7P"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5V2urhkwH9CIcojcYnvKRg"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5V2urhkwH9CIcojcYnvKRg",
+      "id" : "5V2urhkwH9CIcojcYnvKRg",
+      "name" : "Leaders of the New School",
+      "type" : "artist",
+      "uri" : "spotify:artist:5V2urhkwH9CIcojcYnvKRg"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7mBH8GhZeOa2D0DdEVcDqj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7mBH8GhZeOa2D0DdEVcDqj",
+      "id" : "7mBH8GhZeOa2D0DdEVcDqj",
+      "name" : "Milo",
+      "type" : "artist",
+      "uri" : "spotify:artist:7mBH8GhZeOa2D0DdEVcDqj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6kGoUsSUIbeqUVDe61tGNC"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6kGoUsSUIbeqUVDe61tGNC",
+      "id" : "6kGoUsSUIbeqUVDe61tGNC",
+      "name" : "Rampage The Last Boy Scout",
+      "type" : "artist",
+      "uri" : "spotify:artist:6kGoUsSUIbeqUVDe61tGNC"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 452573,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2Nk9LLCrp1alHtX716pCRh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2Nk9LLCrp1alHtX716pCRh",
+    "id" : "2Nk9LLCrp1alHtX716pCRh",
+    "is_local" : false,
+    "name" : "Keep It Movin' (feat. Rampage the Last Boy Scout, Dinco, Milo and Charlie Brown)",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab26df5d08379eeb96f879799a60ddbbd2be949f?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:2Nk9LLCrp1alHtX716pCRh"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 306560,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "USEE19900130"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1WPjQx6i7lJBIvLMBhgxyn"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1WPjQx6i7lJBIvLMBhgxyn",
+    "id" : "1WPjQx6i7lJBIvLMBhgxyn",
+    "is_local" : false,
+    "name" : "The Finish Line",
+    "popularity" : 29,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a8315765cbda068b000ec4aee02596901c5e2bc4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:1WPjQx6i7lJBIvLMBhgxyn"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+        "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+        "name" : "Busta Rhymes",
+        "type" : "artist",
+        "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+      } ],
+      "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2wW0v9XWjEpUjOLpz5kJY8",
+      "id" : "2wW0v9XWjEpUjOLpz5kJY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273029e6f17cd4363d56b33e127",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02029e6f17cd4363d56b33e127",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851029e6f17cd4363d56b33e127",
+        "width" : 64
+      } ],
+      "name" : "The Coming",
+      "release_date" : "1996",
+      "release_date_precision" : "year",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:2wW0v9XWjEpUjOLpz5kJY8"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+      "id" : "1YfEcTuGvBQ8xSD1f53UnK",
+      "name" : "Busta Rhymes",
+      "type" : "artist",
+      "uri" : "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 169040,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USEE19900131"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5NRAKiKPUxqHpW7Q8tREFB"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5NRAKiKPUxqHpW7Q8tREFB",
+    "id" : "5NRAKiKPUxqHpW7Q8tREFB",
+    "is_local" : false,
+    "name" : "End of the World",
+    "popularity" : 24,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66b8a240340a82f5e787c03445431cd2a1d45d25?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:5NRAKiKPUxqHpW7Q8tREFB"
+  } ]
+}
