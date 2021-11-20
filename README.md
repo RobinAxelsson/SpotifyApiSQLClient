@@ -18,6 +18,8 @@ This project is a free time project that I did during my Database Course (during
 
 - The other part of the program maps the JSon objects to Relational objects to insert the artist, albums and songs to a SQL server.
 
+- Logging implemented (without libraries) to file. Rest Client request/response logging and SQL server response logging.
+
 ## Note
 
 It started out with another API from RapidAPI called [MouritsLyrics](https://rapidapi.com/PlanetTeamSpeak/api/mourits-lyrics) and there is a beginning of a newer version with Entity Framework which I never used before at the time.
